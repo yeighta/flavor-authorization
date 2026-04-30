@@ -168,11 +168,11 @@
       "confidence": "high",
       "reason": "マレーシア製で、エナジードリンクやカクテル名など、東南アジア系シーシャフレーバーの特徴と一致するため。"
     },
-    "D&R": {
-      "manufacturer": "D&R",
+    "D\u0026R": {
+      "manufacturer": "D\u0026R",
       "type": "kiseru",
       "confidence": "high",
-      "reason": "米国Daughters & Ryan社の略称であり、Three Sails等の伝統的なパイプ・手巻き用たばこを製造しているため。"
+      "reason": "米国Daughters \u0026 Ryan社の略称であり、Three Sails等の伝統的なパイプ・手巻き用たばこを製造しているため。"
     },
     "DAIM": {
       "manufacturer": "DAIM",
@@ -426,14 +426,14 @@
       "confidence": "high",
       "reason": "スペイン産のシーシャブランドで、ポップな製品名がシーシャ市場向けであるため。"
     },
-    "P&S": {
-      "manufacturer": "P&S",
+    "P\u0026S": {
+      "manufacturer": "P\u0026S",
       "type": "kiseru",
       "confidence": "high",
       "reason": "ドイツ産で「ミクスチャー」という伝統的なパイプたばこの用語を使用しているため。"
     },
-    "P&S 34": {
-      "manufacturer": "P&S 34",
+    "P\u0026S 34": {
+      "manufacturer": "P\u0026S 34",
       "type": "kiseru",
       "confidence": "high",
       "reason": "ドイツ産で「ミクスチャー」という伝統的なパイプたばこの用語を使用しているため。"
@@ -682,7 +682,7 @@
       "manufacturer": "White Elephant",
       "type": "kiseru",
       "confidence": "high",
-      "reason": "ドイツのKohlhase & Kopp社が手掛ける伝統的なパイプたばこブランドであるため。"
+      "reason": "ドイツのKohlhase \u0026 Kopp社が手掛ける伝統的なパイプたばこブランドであるため。"
     },
     "Zodiac": {
       "manufacturer": "Zodiac",
@@ -1332,7 +1332,7 @@
       "manufacturer": "ｲｴｽ･ｺｳﾉｳｨｯﾁ",
       "type": "kiseru",
       "confidence": "high",
-      "reason": "ドイツのKohlhase & Kopp社による高級パイプたばこシリーズです。"
+      "reason": "ドイツのKohlhase \u0026 Kopp社による高級パイプたばこシリーズです。"
     },
     "ｲﾑｺ": {
       "manufacturer": "ｲﾑｺ",
@@ -1542,19 +1542,19 @@
       "manufacturer": "ｺールﾊｽ",
       "type": "kiseru",
       "confidence": "high",
-      "reason": "ドイツの老舗Kohlhase & Kopp社による高級パイプたばこです。"
+      "reason": "ドイツの老舗Kohlhase \u0026 Kopp社による高級パイプたばこです。"
     },
     "ｺｰﾈﾙﾃﾞｨｰﾙ": {
       "manufacturer": "ｺｰﾈﾙﾃﾞｨｰﾙ",
       "type": "kiseru",
       "confidence": "high",
-      "reason": "米国Cornell & Diehl社は伝統的なパイプたばこ製造の代表格です。"
+      "reason": "米国Cornell \u0026 Diehl社は伝統的なパイプたばこ製造の代表格です。"
     },
     "ｺｰﾙﾊｽ": {
       "manufacturer": "ｺｰﾙﾊｽ",
       "type": "kiseru",
       "confidence": "high",
-      "reason": "Kohlhase & Kopp社の表記揺れであり、伝統的なパイプたばこです。"
+      "reason": "Kohlhase \u0026 Kopp社の表記揺れであり、伝統的なパイプたばこです。"
     },
     "ｺﾍﾟﾝﾊｰｹﾞﾝ": {
       "manufacturer": "ｺﾍﾟﾝﾊｰｹﾞﾝ",
@@ -2016,7 +2016,7 @@
       "manufacturer": "ﾊﾞｰｽﾃﾞｰﾌﾞﾚﾝﾄﾞ",
       "type": "kiseru",
       "confidence": "high",
-      "reason": "ドイツのKohlhase & Kopp社等が手掛ける伝統的なパイプ用アロマティックたばこであるため。"
+      "reason": "ドイツのKohlhase \u0026 Kopp社等が手掛ける伝統的なパイプ用アロマティックたばこであるため。"
     },
     "ﾊﾞｲｵﾘﾝ": {
       "manufacturer": "ﾊﾞｲｵﾘﾝ",
@@ -2467,7 +2467,7 @@
       "manufacturer": "ﾗｲﾅｰ",
       "type": "kiseru",
       "confidence": "high",
-      "reason": "Reiner is a high-end pipe tobacco brand produced by Kohlhase & Kopp in Germany."
+      "reason": "Reiner is a high-end pipe tobacco brand produced by Kohlhase \u0026 Kopp in Germany."
     },
     "ﾗｼﾞｬ": {
       "manufacturer": "ﾗｼﾞｬ",
