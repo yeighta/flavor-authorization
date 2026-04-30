@@ -1,0 +1,35 @@
+{
+  "date": "2026-04-15",
+  "kind": "shinki",
+  "filename": "20260415_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260415_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ALISHAN",
+      "name": "FANCY AROMA ORANGE BLAST SLIM",
+      "variant": "FSK97mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 600,
+      "country": "台湾"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ALISHAN",
+      "name": "MUSE 5 MENTHOL HONEY PEACH SLIM",
+      "variant": "FSK97mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 580,
+      "country": "台湾"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ALISHAN",
+      "name": "FANCY AROMA HAMI MELON BLAST SLIM",
+      "variant": "FSK97mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 600,
+      "country": "台湾"
+    }
+  ]
+}

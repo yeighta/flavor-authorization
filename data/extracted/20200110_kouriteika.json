@@ -1,0 +1,26 @@
+{
+  "date": "2020-01-10",
+  "kind": "shinki",
+  "filename": "20200110_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20200110_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾋｰﾄｽﾃｨｯｸ･ﾌﾞﾗｲﾄ･ﾒﾝｿｰﾙ",
+      "variant": "F45mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 520,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｳｨﾝｽﾄﾝﾁｬｰﾁﾙ ﾚｲﾄｱﾜｰ ﾘﾐﾃｯﾄﾞｴﾃﾞｨｼｮﾝ 2020",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "date": "2023-09-29",
+  "kind": "shinki",
+  "filename": "20230929_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230929_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾄﾘﾆﾀﾞｯﾄﾞ",
+      "name": "50 ｱﾆﾍﾞﾙｻﾘｵ",
+      "variant": "155mm 1本",
+      "grams": "",
+      "priceYen": 1000000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｱﾆﾍﾞﾙｻﾘｵ No.1 LE 2023",
+      "variant": "220mm 1本",
+      "grams": "",
+      "priceYen": 18500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｳｨﾝｽﾄﾝﾁｬｰﾁﾙ ﾚｲﾄｱﾜｰ ﾍﾟﾃｨﾊﾟﾅﾃﾗ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 3500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾝﾃﾞﾙｽｺﾞｰﾙﾄﾞ",
+      "name": "ﾍﾞﾘｰ",
+      "variant": "97mm 1本",
+      "grams": "",
+      "priceYen": 120,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾞｰﾙﾃﾞﾝｸﾛｰﾊﾞｰ",
+      "name": "",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾞｰﾙﾃﾞﾝｸﾛｰﾊﾞｰ",
+      "name": "ｴﾃﾞｨｼｮﾝ",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾗｵｽ"
+    }
+  ]
+}

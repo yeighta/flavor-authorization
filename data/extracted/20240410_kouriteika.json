@@ -1,0 +1,134 @@
+{
+  "date": "2024-04-10",
+  "kind": "shinki",
+  "filename": "20240410_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240410_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "REISHI",
+      "name": "7",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 580,
+      "country": "中国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "REISHI",
+      "name": "5",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 580,
+      "country": "中国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Media Rueda de la Vida",
+      "name": "Lancero No.1",
+      "variant": "191mm 1本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Media Rueda de la Vida",
+      "name": "Lancero No.2",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Media Rueda de la Vida",
+      "name": "No.5",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Media Rueda de la Vida",
+      "name": "No.4",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Media Rueda de la Vida",
+      "name": "No.3",
+      "variant": "143mm 1本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Media Rueda de la Vida",
+      "name": "Corona Gorda",
+      "variant": "143mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Media Rueda de la Vida",
+      "name": "Churchill",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 3200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Media Rueda de la Vida",
+      "name": "Double Corona",
+      "variant": "194mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Media Rueda de la Vida",
+      "name": "Robusto",
+      "variant": "111mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Media Rueda de la Vida",
+      "name": "No.2",
+      "variant": "156mm 1本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CLANDESTINOS",
+      "name": "Japan Limited Mananeros",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CLANDESTINOS",
+      "name": "Japan Limited Lanzas",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 3500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

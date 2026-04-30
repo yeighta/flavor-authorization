@@ -1,0 +1,53 @@
+{
+  "date": "2019-04-16",
+  "kind": "shinki",
+  "filename": "20190416_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20190416_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AMAN",
+      "name": "TOKYO ROBUSTO",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CUBA X JAPAN",
+      "name": "90TH ANNIVERSARY",
+      "variant": "127mm 5本",
+      "grams": "",
+      "priceYen": 18000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "JSE Turkish Coffee",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1200,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｵｰﾘｯｸ",
+      "name": "ｺﾞｰﾙﾃﾞﾝ ｽﾗｲｽﾄﾞ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｸﾗﾝ",
+      "name": "ｱﾛﾏﾃｨｯｸ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "40.0g",
+      "priceYen": 1200,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    }
+  ]
+}

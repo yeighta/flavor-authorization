@@ -1,0 +1,161 @@
+{
+  "date": "2021-10-01",
+  "kind": "shinki",
+  "filename": "20211001_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20211001_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾍﾞﾛ",
+      "name": "ﾎﾟｰﾗｰ･ﾐﾝﾄ･ﾗｲﾄ･ﾎﾟｹｯﾄ",
+      "variant": "5個ﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 100,
+      "country": "ﾊﾝｶﾞﾘｰ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾍﾞﾛ",
+      "name": "ﾙﾋﾞｰ･ﾍﾞﾘｰ･ﾗｲﾄ･ﾎﾟｹｯﾄ",
+      "variant": "5個ﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 100,
+      "country": "ﾊﾝｶﾞﾘｰ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾗｯｷｰ･ｽﾄﾗｲｸ",
+      "name": "ﾀﾞｰｸ･ﾀﾊﾞｺ･12本･glo hyper用",
+      "variant": "ﾌｨﾙﾀｰ付 12本ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 290,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾗｯｷｰ･ｽﾄﾗｲｸ",
+      "name": "ﾘｯﾁ･ﾀﾊﾞｺ･12本･glo hyper用",
+      "variant": "ﾌｨﾙﾀｰ付 12本ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 290,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾃﾘｱ",
+      "name": "ﾌｭｰｼﾞｮﾝ･ﾒﾝｿｰﾙ",
+      "variant": "F45 20ｽﾃｨｯｸﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 580,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌｨﾘｯﾌﾟ ﾓﾘｽ",
+      "name": "ﾊﾟｰﾌﾟﾙ･5･KSﾎﾞｯｸｽ",
+      "variant": "FK 20本ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 430,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌｨﾘｯﾌﾟ ﾓﾘｽ",
+      "name": "ﾒﾝｿｰﾙ･1･100sﾎﾞｯｸｽ",
+      "variant": "FSK 20本ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 430,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Mixto",
+      "name": "Peach Mint",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "70.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Mixto",
+      "name": "Exotic Love",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "70.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Mixto",
+      "name": "Candy Watermelon",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "70.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Mixto",
+      "name": "Blue Berry",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "70.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Mixto",
+      "name": "Black Passion",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "70.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "20周年ﾛｽﾁｬｲﾙﾄﾞ",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 1450,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ﾊﾊﾞﾉｴｽﾍﾟｼｱﾙ ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 950,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾗ･ﾊﾟﾘｨｰﾅ",
+      "name": "ｺﾚｸｼｮﾝ 2021 ｺﾞｰﾙﾃﾞｨ ﾌﾟﾛﾐﾈﾝﾃ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 4200,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Gloria Cubana",
+      "name": "Británicas Extra",
+      "variant": "137mm 1本",
+      "grams": "",
+      "priceYen": 6370,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱﾙﾄｳｰﾛ ﾌｴﾝﾃ",
+      "name": "ﾏｸﾞﾅﾑR ﾛｻﾄﾞ52",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    }
+  ]
+}

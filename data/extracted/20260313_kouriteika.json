@@ -1,0 +1,89 @@
+{
+  "date": "2026-03-13",
+  "kind": "shinki",
+  "filename": "20260313_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260313_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "アルトゥーロ フエンテ",
+      "name": "グランレゼルバ 8-5-8 クラロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "アルトゥーロ フエンテ",
+      "name": "クバニトス マデューロ",
+      "variant": "115mm 1本",
+      "grams": "",
+      "priceYen": 700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "アルトゥーロ フエンテ",
+      "name": "レアピンク ヴィンテージ 1960's シリーズ ハッピーエンディング",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 4700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "アルトゥーロ フエンテ",
+      "name": "レアピンク ヴィンテージ 1960's シリーズ ショートストーリー",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "アルトゥーロ フエンテ",
+      "name": "レアピンク ヴィンテージ 1960's シリーズ シグネチャー",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "アルトゥーロ フエンテ",
+      "name": "レアピンク ヴィンテージ 1960's シリーズ ワーク オブ アート",
+      "variant": "124mm 1本",
+      "grams": "",
+      "priceYen": 4400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DARKSIDE",
+      "name": "BLOODY ORANGE",
+      "variant": "箱",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DARKSIDE",
+      "name": "BLOODY ORANGE",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "シガローネ",
+      "name": "レジェンド",
+      "variant": "F117mm 20本 ボックス",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ｱﾙﾒﾆｱ"
+    }
+  ]
+}

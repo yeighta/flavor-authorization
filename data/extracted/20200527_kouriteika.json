@@ -1,0 +1,35 @@
+{
+  "date": "2020-05-27",
+  "kind": "shinki",
+  "filename": "20200527_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20200527_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾋﾟｰｽ",
+      "name": "ﾊﾞｰｼﾞﾆｱ･ﾘｰﾌ･ｵﾌﾞ･ｼﾞｬﾊﾟﾝ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾋﾟｰｽ",
+      "name": "ﾊﾞｰｼﾞﾆｱ･ﾘｰﾌ･ｵﾌﾞ･ｱﾒﾘｶ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾋﾟｰｽ",
+      "name": "ﾊﾞｰｼﾞﾆｱ･ﾘｰﾌ･ｵﾌﾞ･ﾌﾞﾗｼﾞﾙ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 550,
+      "country": "日本"
+    }
+  ]
+}

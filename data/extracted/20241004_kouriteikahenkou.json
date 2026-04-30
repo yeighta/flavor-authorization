@@ -1,0 +1,503 @@
+{
+  "date": "2024-10-04",
+  "kind": "henkou",
+  "filename": "20241004_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20241004_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ベガフィナ",
+      "name": "1998/50",
+      "variant": "1本 115mm",
+      "grams": "",
+      "priceYen": 1430,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ベガフィナ",
+      "name": "1998/52",
+      "variant": "1本 135mm",
+      "grams": "",
+      "priceYen": 1870,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ベガフィナ",
+      "name": "1998/54",
+      "variant": "1本 155mm",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ベガフィナ",
+      "name": "コロナ ﾃｭﾎﾞｽ",
+      "variant": "1本 146mm",
+      "grams": "",
+      "priceYen": 1430,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ベガフィナ",
+      "name": "ﾐﾆｭｰﾄ",
+      "variant": "1本 100mm",
+      "grams": "",
+      "priceYen": 550,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ベガフィナ",
+      "name": "ﾍﾟﾙﾗ",
+      "variant": "1本 102mm",
+      "grams": "",
+      "priceYen": 770,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ベガフィナ",
+      "name": "ﾛﾌﾞｽﾄ",
+      "variant": "1本 127mm",
+      "grams": "",
+      "priceYen": 1430,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ベガフィナ",
+      "name": "ショート ﾛﾌﾞｽﾄ",
+      "variant": "1本 105mm",
+      "grams": "",
+      "priceYen": 1210,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ベガフィナ",
+      "name": "F2 ﾛﾌﾞｽﾄ",
+      "variant": "1本 127mm",
+      "grams": "",
+      "priceYen": 1540,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ベガフィナ",
+      "name": "F2 ショート ﾍﾟﾘｺｿ",
+      "variant": "1本 103mm",
+      "grams": "",
+      "priceYen": 1430,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ベガフィナ",
+      "name": "ﾆｶﾗｸﾞｱ ｺﾛﾅ",
+      "variant": "1本 146mm",
+      "grams": "",
+      "priceYen": 1430,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ベガフィナ",
+      "name": "ﾆｶﾗｸﾞｱ ﾛﾌﾞｽﾄ",
+      "variant": "1本 127mm",
+      "grams": "",
+      "priceYen": 1540,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ベガフィナ",
+      "name": "ﾆｶﾗｸﾞｱ ｸﾞﾗﾝ ﾄﾛ",
+      "variant": "1本 152mm",
+      "grams": "",
+      "priceYen": 1870,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ベガフィナ",
+      "name": "ﾆｶﾗｸﾞｱ ｸﾞﾗﾝ ﾌﾞﾙｶﾉ",
+      "variant": "1本 137mm",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ベガフィナ",
+      "name": "ﾆｶﾗｸﾞｱ ショート",
+      "variant": "1本 110mm",
+      "grams": "",
+      "priceYen": 1100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Drew Estate",
+      "name": "Liga Privada No. 9 Robusto",
+      "variant": "1本 127mm",
+      "grams": "",
+      "priceYen": 3630,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Drew Estate",
+      "name": "Liga Privada Dirty Rats",
+      "variant": "1本 127mm",
+      "grams": "",
+      "priceYen": 3190,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Liga Privada",
+      "name": "Unico Serie LP40",
+      "variant": "1本 178mm",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Drew Estate",
+      "name": "Undercrown Shade Corona",
+      "variant": "1本 143mm",
+      "grams": "",
+      "priceYen": 1760,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Drew Estate",
+      "name": "Undercrown Shade Robusto",
+      "variant": "1本 127mm",
+      "grams": "",
+      "priceYen": 1980,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Drew Estate",
+      "name": "Undercrown Corona Viva",
+      "variant": "1本 143mm",
+      "grams": "",
+      "priceYen": 1870,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Drew Estate",
+      "name": "Undercrown Flying Pig",
+      "variant": "1本 100mm",
+      "grams": "",
+      "priceYen": 2310,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Drew Estate",
+      "name": "Tabak Especial Cafecita Medio",
+      "variant": "1本 101mm",
+      "grams": "",
+      "priceYen": 440,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Drew Estate",
+      "name": "Tabak Especial Cafecita Oscuro",
+      "variant": "1本 101mm",
+      "grams": "",
+      "priceYen": 440,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Liga Privada",
+      "name": "No. 9 Tin 4x32",
+      "variant": "1本 101mm",
+      "grams": "",
+      "priceYen": 440,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Liga Privada",
+      "name": "T52 Tin 4x32",
+      "variant": "1本 101mm",
+      "grams": "",
+      "priceYen": 440,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Undercrown",
+      "name": "Maduro Tin 4x32",
+      "variant": "1本 101mm",
+      "grams": "",
+      "priceYen": 440,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Undercrown",
+      "name": "Shade Tin 4x32",
+      "variant": "1本 101mm",
+      "grams": "",
+      "priceYen": 440,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Deadwood",
+      "name": "Baby Jane Tin 4x32",
+      "variant": "1本 101mm",
+      "grams": "",
+      "priceYen": 440,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Kentucky Fire Cured",
+      "name": "Sweet Tin 4x32",
+      "variant": "1本 101mm",
+      "grams": "",
+      "priceYen": 440,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Kentucky Fire Cured",
+      "name": "Tin 4x32",
+      "variant": "1本 101mm",
+      "grams": "",
+      "priceYen": 330,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Isla Del Sol",
+      "name": "Sun Bressed Tin 4x32",
+      "variant": "1本 101mm",
+      "grams": "",
+      "priceYen": 330,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Isla Del Sol",
+      "name": "Maduro Tin 4x32",
+      "variant": "1本 101mm",
+      "grams": "",
+      "priceYen": 330,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Undercrown",
+      "name": "Maduro Corona Doble",
+      "variant": "1本 178mm",
+      "grams": "",
+      "priceYen": 2640,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Undercrown",
+      "name": "Shade Corona Doble",
+      "variant": "1本 178mm",
+      "grams": "",
+      "priceYen": 2640,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Herrera Esteli",
+      "name": "Brazilian Maduro Toro Especial",
+      "variant": "1本 152mm",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Herrera Esteli",
+      "name": "Norteno Robusto Grande",
+      "variant": "1本 139mm",
+      "grams": "",
+      "priceYen": 2420,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Tabak Especial",
+      "name": "Negra Corona",
+      "variant": "1本 120mm",
+      "grams": "",
+      "priceYen": 1650,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V 554 Double Robusto",
+      "variant": "1本 127mm",
+      "grams": "",
+      "priceYen": 2310,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V 554 Belicoso",
+      "variant": "1本 127mm",
+      "grams": "",
+      "priceYen": 2310,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V 543 #4",
+      "variant": "1本 127mm",
+      "grams": "",
+      "priceYen": 1870,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V 552 Melanio",
+      "variant": "1本 127mm",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V 652 Melanio Figurado",
+      "variant": "1本 165mm",
+      "grams": "",
+      "priceYen": 3960,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V 552 Melanio Maduro Robusto",
+      "variant": "1本 127mm",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V 652 Melanio Maduro Torpedo",
+      "variant": "1本 165mm",
+      "grams": "",
+      "priceYen": 3850,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie G Special G",
+      "variant": "1本 95mm",
+      "grams": "",
+      "priceYen": 1210,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie O 550 Robusto Tubo",
+      "variant": "1本 127mm",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾅﾌﾞ",
+      "name": "460 ｶﾒﾙｰﾝ",
+      "variant": "1本 102mm",
+      "grams": "",
+      "priceYen": 1980,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Nub",
+      "name": "460 Cameroon Tubo",
+      "variant": "1本 102mm",
+      "grams": "",
+      "priceYen": 2090,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾅﾌﾞ",
+      "name": "460 ｺﾈﾁｶｯﾄ",
+      "variant": "1本 102mm",
+      "grams": "",
+      "priceYen": 2090,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Nub",
+      "name": "460 Conneticut Tubo",
+      "variant": "1本 102mm",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾅﾌﾞ",
+      "name": "460 ﾊﾊﾞﾉ",
+      "variant": "1本 102mm",
+      "grams": "",
+      "priceYen": 2090,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Nub",
+      "name": "460 Sungrown Tubo",
+      "variant": "1本 102mm",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Nub",
+      "name": "Maduro 460",
+      "variant": "1本 102mm",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Nub",
+      "name": "460 Maduro Tubo",
+      "variant": "1本 102mm",
+      "grams": "",
+      "priceYen": 2420,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

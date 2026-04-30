@@ -1,0 +1,44 @@
+{
+  "date": "2018-06-05",
+  "kind": "shinki",
+  "filename": "20180605_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20180605_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾈｵ",
+      "name": "ﾛｰｽﾄ･ﾌﾟﾗｽ･ｽﾃｨｯｸ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "大韓民国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾈｵ",
+      "name": "ﾀﾞｰｸ･ﾌﾟﾗｽ･ｽﾃｨｯｸ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "大韓民国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾈｵ",
+      "name": "ﾌﾚｯｼｭ･ﾌﾟﾗｽ･ｽﾃｨｯｸ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "大韓民国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾈｵ",
+      "name": "ﾀﾞｰｸﾌﾚｯｼｭ･ﾌﾟﾗｽ･ｽﾃｨｯｸ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "大韓民国"
+    }
+  ]
+}

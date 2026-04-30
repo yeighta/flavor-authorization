@@ -1,0 +1,44 @@
+{
+  "date": "2020-10-01",
+  "kind": "shinki",
+  "filename": "20201001_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20201001_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "マールボロ",
+      "name": "ヒートスティック・リッチ・レギュラー",
+      "variant": "F45 20スティック ハードパック",
+      "grams": "",
+      "priceYen": 550,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ミックス",
+      "name": "レギュラー",
+      "variant": "F48 20スティック ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ミックス",
+      "name": "アイス",
+      "variant": "F48 20スティック ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ミックス",
+      "name": "ミックス",
+      "variant": "F48 20スティック ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "date": "2023-05-24",
+  "kind": "henkou",
+  "filename": "20230524_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230524_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾄﾞﾛﾝ",
+      "name": "1926 No.9",
+      "variant": "136mm 1本",
+      "grams": "",
+      "priceYen": 6600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾄﾞﾛﾝ",
+      "name": "1926 No.6",
+      "variant": "122mm 1本",
+      "grams": "",
+      "priceYen": 4700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾄﾞﾛﾝ",
+      "name": "1926 40th ｱﾆﾊﾞｰｻﾘｰ",
+      "variant": "164mm 1本",
+      "grams": "",
+      "priceYen": 7600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾄﾞﾛﾝ",
+      "name": "1926 80th ｱﾆﾊﾞｰｻﾘｰ",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 9100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾄﾞﾛﾝ",
+      "name": "ﾌｧﾐﾘｰﾘｻﾞｰﾌﾞ No.45",
+      "variant": "151mm 1本",
+      "grams": "",
+      "priceYen": 8000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾄﾞﾛﾝ",
+      "name": "1964 ﾄﾙﾍﾟﾄﾞ",
+      "variant": "151mm 1本",
+      "grams": "",
+      "priceYen": 5600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾄﾞﾛﾝ",
+      "name": "1964 ｴｸｽｸﾙｰｼﾎﾞ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 4100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾄﾞﾛﾝ",
+      "name": "2000",
+      "variant": "126mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ｻﾝﾛﾀｰﾉ ﾊﾊﾞﾉ ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ｴﾝｸﾗｰﾍﾞ ﾊﾊﾞﾉ ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2050,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ｴﾝｸﾗｰﾍﾞ ﾌﾞﾛｰﾄﾞﾘｰﾌ ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2250,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾆｭｰﾜｰﾙﾄﾞ ﾌﾟｰﾛｴｽﾍﾟｼｱﾙ ｼｮｰﾄﾁｬｰﾁﾙ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2250,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾆｭｰﾜｰﾙﾄﾞ ｺﾈﾁｶｯﾄ ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1850,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾆｭｰﾜｰﾙﾄﾞ ｶﾒﾙｰﾝ ﾀﾞﾌﾞﾙﾛﾌﾞｽﾄ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2050,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾗｽﾄｺｰﾙ ﾊﾊﾞﾉ ﾍﾆｱﾚｽ",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 1600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾃﾞｨｱｽ ﾃﾞ ｸﾞﾛﾘｱ ﾛﾌﾞｽﾄ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾍﾞｰｼﾞｬ ｱﾙﾃｽ ﾏﾃﾞｭｰﾛ ﾛﾌﾞｽﾄ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾍﾞｰｼﾞｬ ｱﾙﾃｽ ﾏﾃﾞｭｰﾛ ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ｻﾝﾛﾀｰﾉ ﾊﾊﾞﾉ ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ｻﾝﾛﾀｰﾉ ﾏﾃﾞｭｰﾛ ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2150,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ｻﾝﾛﾀｰﾉ ﾏﾃﾞｭｰﾛ ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ｻﾝﾛﾀｰﾉ ｺﾈﾁｶｯﾄ ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1950,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ｻﾝﾛﾀｰﾉ ｺﾈﾁｶｯﾄ ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ｻﾝﾛﾀｰﾉ ｵｰﾊﾞﾙ ﾊﾊﾞﾉ ﾛﾌﾞｽﾄ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2450,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ｻﾝﾛﾀｰﾉ ｵｰﾊﾞﾙ ﾊﾊﾞﾉ ﾄﾛ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ｻﾝﾛﾀｰﾉ ﾌﾞﾙ ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ｻﾝﾛﾀｰﾉ ﾌﾞﾙ ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾆｭｰﾜｰﾙﾄﾞ ｺﾈﾁｶｯﾄ ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2050,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾆｭｰﾜｰﾙﾄﾞ ﾌﾟｰﾛｴｽﾍﾟｼｱﾙ ﾛﾌﾞｽﾄ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾆｭｰﾜｰﾙﾄﾞ ﾌﾟｰﾛｴｽﾍﾟｼｱﾙ ﾄﾛ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2450,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾆｭｰﾜｰﾙﾄﾞ ｶﾒﾙｰﾝ ｼｮｰﾄ ﾛﾌﾞｽﾄ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1750,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾆｭｰﾜｰﾙﾄﾞ ｶﾒﾙｰﾝ ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2050,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ｴﾝｸﾗｰﾍﾞ ﾊﾊﾞﾉ ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2150,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ｴﾝｸﾗｰﾍﾞ ﾌﾞﾛｰﾄﾞﾘｰﾌ ﾄﾛ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2550,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ｴﾝｸﾗｰﾍﾞ ｺﾈﾁｶｯﾄ ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ｴﾝｸﾗｰﾍﾞ ｺﾈﾁｶｯﾄ ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2150,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾗｽﾄｺｰﾙ ﾊﾊﾞﾉ ﾁｷｰﾀｽ",
+      "variant": "89mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾗｽﾄｺｰﾙ ﾊﾊﾞﾉ ｺﾙﾃｨｶｽ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1650,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾗｽﾄｺｰﾙ ﾊﾊﾞﾉ ﾍﾟｹｰﾆｬｽ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1750,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾗｽﾄｺｰﾙ ﾊﾊﾞﾉ ﾌﾗｷｰﾀｽ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1850,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾍﾞｰｼﾞｬ ｱﾙﾃｽ ｼｮｰﾄﾁｬｰﾁﾙ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2550,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾍﾞｰｼﾞｬ ｱﾙﾃｽ ﾛﾌﾞｽﾄ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2650,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾍﾞｰｼﾞｬ ｱﾙﾃｽ ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾍﾞｰｼﾞｬ ｱﾙﾃｽ ﾏﾃﾞｭｰﾛ ﾗﾝｾﾛ",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 2550,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾃﾞｨｱｽ ﾃﾞ ｸﾞﾛﾘｱ ｼｮｰﾄﾁｬｰﾁﾙ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾃﾞｨｱｽ ﾃﾞ ｸﾞﾛﾘｱ ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾌﾞﾚﾝﾄﾞ15 ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1350,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾌﾞﾚﾝﾄﾞ15 ｼｮｰﾄﾛﾌﾞｽﾄ",
+      "variant": "89mm 1本",
+      "grams": "",
+      "priceYen": 1050,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾌﾞﾚﾝﾄﾞ15 ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1450,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｴｲｼﾞﾝｸﾞ ﾙｰﾑ",
+      "name": "ｸﾜﾄﾛ ｴｽﾌﾟﾚｼｰﾎﾞ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｴｲｼﾞﾝｸﾞ ﾙｰﾑ",
+      "name": "ｸﾜﾄﾛ ﾋﾞﾌﾞﾗｰﾄ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｳﾞｨｳﾞｧﾗｳﾞｨﾀﾞ",
+      "name": "ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2950,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｳﾞｨｳﾞｧﾗｳﾞｨﾀﾞ",
+      "name": "ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3050,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｳﾞｨｳﾞｧﾗｳﾞｨﾀﾞ",
+      "name": "ﾃﾞｨｱﾃﾞﾏ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 3550,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｳﾞｨｳﾞｧﾗｳﾞｨﾀﾞ",
+      "name": "ｸﾗﾌﾞ 500",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3850,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

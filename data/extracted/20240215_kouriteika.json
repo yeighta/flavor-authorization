@@ -1,0 +1,26 @@
+{
+  "date": "2024-02-15",
+  "kind": "shinki",
+  "filename": "20240215_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240215_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ｸﾗﾌﾄ･ﾒﾝｿｰﾙ･ﾍﾟｱｰｶﾌﾟｾﾙ･8･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 430,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ｸﾗﾌﾄ･ﾒﾝｿｰﾙ･ﾍﾟｱｰｶﾌﾟｾﾙ･5･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 430,
+      "country": "日本"
+    }
+  ]
+}

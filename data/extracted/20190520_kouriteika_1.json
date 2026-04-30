@@ -1,0 +1,26 @@
+{
+  "date": "2019-05-20",
+  "kind": "shinki",
+  "filename": "20190520_kouriteika_1.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20190520_kouriteika_1.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸｰﾙ",
+      "name": "ﾙｰﾌﾟﾄﾞ･5",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 350,
+      "country": "大韓民国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸｰﾙ",
+      "name": "ﾙｰﾌﾟﾄﾞ･8",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 350,
+      "country": "大韓民国"
+    }
+  ]
+}

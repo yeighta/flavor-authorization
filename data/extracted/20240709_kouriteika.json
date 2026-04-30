@@ -1,0 +1,26 @@
+{
+  "date": "2024-07-09",
+  "kind": "shinki",
+  "filename": "20240709_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240709_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾘｯﾁ",
+      "variant": "FK 20本 ｿﾌﾄﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾘｯﾁ･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 580,
+      "country": "日本"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "date": "2025-04-08",
+  "kind": "henkou",
+  "filename": "20250408_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250408_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "シガローネ",
+      "name": "ロイヤルスリム",
+      "variant": "F115mm 20本 ﾎﾞｯｸｽ",
+      "grams": "",
+      "priceYen": 1200,
+      "country": "ｱﾙﾒﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "シガローネ",
+      "name": "ファントム・シルバー",
+      "variant": "F117mm 20本 ﾎﾞｯｸｽ",
+      "grams": "",
+      "priceYen": 1100,
+      "country": "ｱﾙﾒﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "シガローネ",
+      "name": "ウルトラスリム・ブラック",
+      "variant": "FK84mm 20本 ﾎﾞｯｸｽ",
+      "grams": "",
+      "priceYen": 700,
+      "country": "ｱﾙﾒﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "シガローネ",
+      "name": "スーパースリム・ブラック",
+      "variant": "FK100mm 20本 ﾎﾞｯｸｽ",
+      "grams": "",
+      "priceYen": 780,
+      "country": "ｱﾙﾒﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "シガローネ",
+      "name": "マグネット",
+      "variant": "F97mm 20本 ﾎﾞｯｸｽ",
+      "grams": "",
+      "priceYen": 800,
+      "country": "ｱﾙﾒﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "シガローネ",
+      "name": "ロイヤルスリム・メンソール",
+      "variant": "F117mm 20本 ﾎﾞｯｸｽ",
+      "grams": "",
+      "priceYen": 1200,
+      "country": "ｱﾙﾒﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "シガローネ",
+      "name": "スーパースリム・メンソール",
+      "variant": "FK100mm 20本 ﾎﾞｯｸｽ",
+      "grams": "",
+      "priceYen": 780,
+      "country": "ｱﾙﾒﾆｱ"
+    }
+  ]
+}

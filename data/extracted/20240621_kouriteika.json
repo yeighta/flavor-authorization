@@ -1,0 +1,152 @@
+{
+  "date": "2024-06-21",
+  "kind": "shinki",
+  "filename": "20240621_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240621_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ﾒﾝｿｰﾙ･ﾏｽｶｯﾄｸﾞﾘｰﾝ･ﾌﾟﾙｰﾑ･ｴｯｸｽ･ﾌﾟﾙｰﾑ･ｴｽ用",
+      "variant": "20本",
+      "grams": "5.4g",
+      "priceYen": 500,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｽﾑｰｽ･ﾚｷﾞｭﾗｰ･ﾌﾟﾙｰﾑ･ｴｯｸｽ用",
+      "variant": "20本",
+      "grams": "5.0g",
+      "priceYen": 500,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Prosperous",
+      "name": "Robusto",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 7700,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Prosperous",
+      "name": "B56",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 9400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Prosperous",
+      "name": "Pyramids",
+      "variant": "160mm 1本",
+      "grams": "",
+      "priceYen": 8800,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Prosperous",
+      "name": "Canonazo",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 8800,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ｼｮｰﾄ ﾄﾞﾗｺﾞﾝ 2024ED",
+      "variant": "82mm 88本",
+      "grams": "",
+      "priceYen": 49500,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ﾜｲﾄﾞ ｼｮｰﾄ",
+      "variant": "100mm 1本",
+      "grams": "",
+      "priceYen": 880,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "LIRRA",
+      "name": "CARDAMOM",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "LIRRA",
+      "name": "LEMON GRASS",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "LIRRA",
+      "name": "EVENING JASMINE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "LIRRA",
+      "name": "GINGER",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "LIRRA",
+      "name": "SAKURA MOCHI",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "LIRRA",
+      "name": "THE MEISTER",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "LIRRA",
+      "name": "WHITE MUSK",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEBAJ",
+      "name": "ICE MANGO",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    }
+  ]
+}

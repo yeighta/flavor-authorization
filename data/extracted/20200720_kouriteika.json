@@ -1,0 +1,62 @@
+{
+  "date": "2020-07-20",
+  "kind": "shinki",
+  "filename": "20200720_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20200720_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾈｵ",
+      "name": "ﾀﾊﾞｺ・ｵｰｸ・ｽﾃｨｯｸ･glo hyper用",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ﾏﾃﾞｨｿﾝ 515 ｴｸｽｸﾙｰｼﾌﾞ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 7900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｳｨﾝｽﾄﾝﾁｬｰﾁﾙ ﾄﾛ ｱﾝｶｯﾄ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 6020,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta Tobacco",
+      "name": "Lychee",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta Tobacco",
+      "name": "Pineapple",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta Tobacco",
+      "name": "TKO",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    }
+  ]
+}

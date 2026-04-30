@@ -1,0 +1,305 @@
+{
+  "date": "2025-12-02",
+  "kind": "shinki",
+  "filename": "20251202_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20251202_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ブラックスパイダー",
+      "name": "シャグ・イチゴキャンディー",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ブラックスパイダー",
+      "name": "シャグ・メロンメンソール",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ブラックスパイダー",
+      "name": "シャグ・オレンジピールメンソール",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TP-77",
+      "name": "オメガメンソール",
+      "variant": "缶",
+      "grams": "150.0g",
+      "priceYen": 3990,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "4th ジェネレーション",
+      "name": "リミテッドエディション",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 6000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "アーク・ローヤル",
+      "name": "キャラメルマキアート",
+      "variant": "FK84mm 20本 ボックス",
+      "grams": "",
+      "priceYen": 550,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラ・リパブリカーナ",
+      "name": "ブラック",
+      "variant": "FK84mm 20本 ボックス",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラ・リパブリカーナ",
+      "name": "イエロー",
+      "variant": "FK84mm 20本 ボックス",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "フロール・デ・コパン",
+      "name": "1795 リミテッドエディション",
+      "variant": "157mm 1本",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "BAGDADI",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "ORANGE MINT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "GRAPE MINT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "BLUE MELON",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "ENGLISH LORD",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "STRAWBERRY SPLASH",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "HAWAII",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "GRAPE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "HAVANA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "JAMAICAN VIBES",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "ICE LIME ON THE ROCKS",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "SKY FALL",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "BLUEBERRY'S",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "JK 777",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "BLUE CURACAO",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "LIME SPICE PEACH",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "ICE GREEN APPLE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "ICE LEMON MINT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "LIME LYCHEE BLUEBERRY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "PISTACHIO ICE CREAM",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 9500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "GRAPE",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 9500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "BUBBLE FRUIT",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 9500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "GREEN MIX",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 9500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "MARBELLA",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 9500,
+      "country": "ﾄﾙｺ"
+    }
+  ]
+}

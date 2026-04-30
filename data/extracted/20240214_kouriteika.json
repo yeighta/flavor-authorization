@@ -1,0 +1,26 @@
+{
+  "date": "2024-02-14",
+  "kind": "shinki",
+  "filename": "20240214_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240214_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾍﾞﾛ",
+      "name": "ﾎﾟｰﾗｰ･ﾐﾝﾄ･ｴｯｸｽｲﾝﾃﾝｽ･ﾅﾉ",
+      "variant": "15個缶",
+      "grams": "",
+      "priceYen": 300,
+      "country": "ﾊﾝｶﾞﾘｰ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾍﾞﾛ",
+      "name": "ﾙﾋﾞｰ･ﾍﾞﾘｰ･ｴｯｸｽｲﾝﾃﾝｽ･ﾅﾉ",
+      "variant": "15個缶",
+      "grams": "",
+      "priceYen": 300,
+      "country": "ﾊﾝｶﾞﾘｰ"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "date": "2024-03-08",
+  "kind": "shinki",
+  "filename": "20240308_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240308_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Dapper Cigar",
+      "name": "Cubata Cru Shade Bucko",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Dapper Cigar",
+      "name": "Desvalido Disla Lonsdale",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 3970,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Dapper Cigar",
+      "name": "Holy Smoke Genesis",
+      "variant": "160mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ﾏﾃﾞｭｰﾛ LT2024 ｼｮｰﾄｺﾛﾅ",
+      "variant": "87mm 1本",
+      "grams": "",
+      "priceYen": 9500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ﾏﾃﾞｭｰﾛ LT2024 ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 11000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ﾏﾃﾞｭｰﾛ LT2024 ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 13000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    }
+  ]
+}

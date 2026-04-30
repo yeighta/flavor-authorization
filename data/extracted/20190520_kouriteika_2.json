@@ -1,0 +1,26 @@
+{
+  "date": "2019-05-20",
+  "kind": "shinki",
+  "filename": "20190520_kouriteika_2.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20190520_kouriteika_2.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾏｽｶｯﾄ･ｸｰﾗｰ･ﾌｫｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ",
+      "variant": "5本",
+      "grams": "",
+      "priceYen": 490,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾋﾟｱﾆｯｼﾓ",
+      "name": "ﾚﾓﾝ･ﾗｲﾑ･ｸｰﾗｰ･ﾌｫｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ",
+      "variant": "5本",
+      "grams": "",
+      "priceYen": 490,
+      "country": "日本"
+    }
+  ]
+}

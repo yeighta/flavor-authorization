@@ -1,0 +1,152 @@
+{
+  "date": "2024-08-30",
+  "kind": "henkou",
+  "filename": "20240830_kouriteikahenkou_1.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240830_kouriteikahenkou_1.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ソブラニー",
+      "name": "カクテル",
+      "variant": "20本 箱",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ポーランド"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ソブラニー",
+      "name": "ブラック・ロシアン",
+      "variant": "20本 箱",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ポーランド"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "マックバレン",
+      "name": "ヴァニラ クリーム",
+      "variant": "50g パウチ",
+      "grams": "50g",
+      "priceYen": 1600,
+      "country": "デンマーク"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "マックバレン",
+      "name": "ミックスチュア",
+      "variant": "50g パウチ",
+      "grams": "50g",
+      "priceYen": 1600,
+      "country": "デンマーク"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "マックバレン",
+      "name": "ヴァージニア・No.1",
+      "variant": "50g パウチ",
+      "grams": "50g",
+      "priceYen": 1600,
+      "country": "デンマーク"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "セブンシーズ",
+      "name": "ゴールドブレンド",
+      "variant": "40g パウチ",
+      "grams": "40g",
+      "priceYen": 1250,
+      "country": "デンマーク"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "セブンシーズ",
+      "name": "レギュラーブレンド",
+      "variant": "40g パウチ",
+      "grams": "40g",
+      "priceYen": 1250,
+      "country": "デンマーク"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "セブンシーズ",
+      "name": "ロイヤルブレンド",
+      "variant": "40g パウチ",
+      "grams": "40g",
+      "priceYen": 1250,
+      "country": "デンマーク"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "セブンシーズ",
+      "name": "チェリー",
+      "variant": "40g パウチ",
+      "grams": "40g",
+      "priceYen": 1250,
+      "country": "デンマーク"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "飛鳥",
+      "variant": "100g 缶",
+      "grams": "100g",
+      "priceYen": 3600,
+      "country": "デンマーク"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "桃山100 II",
+      "variant": "100g 缶",
+      "grams": "100g",
+      "priceYen": 3400,
+      "country": "デンマーク"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "桃山(40)",
+      "variant": "40g パウチ",
+      "grams": "40g",
+      "priceYen": 1350,
+      "country": "デンマーク"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ロックン・チェア II (40)",
+      "variant": "40g パウチ",
+      "grams": "40g",
+      "priceYen": 1350,
+      "country": "デンマーク"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "シルクロード (40)",
+      "variant": "40g パウチ",
+      "grams": "40g",
+      "priceYen": 1350,
+      "country": "デンマーク"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "プロムナード (40)",
+      "variant": "40g パウチ",
+      "grams": "40g",
+      "priceYen": 1350,
+      "country": "デンマーク"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "カピート・メローライト II (40)",
+      "variant": "40g パウチ",
+      "grams": "40g",
+      "priceYen": 1350,
+      "country": "デンマーク"
+    }
+  ]
+}

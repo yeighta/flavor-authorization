@@ -1,0 +1,386 @@
+{
+  "date": "2019-01-21",
+  "kind": "shinki",
+  "filename": "20190121_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20190121_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｼﾞｬｯｸ",
+      "name": "ｽｰﾊﾟｰｽﾘﾑﾒﾝｿｰﾙ6 +ﾁｪﾝｼﾞ",
+      "variant": "F83mm 20本",
+      "grams": "",
+      "priceYen": 320,
+      "country": "大韓民国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｼﾞｬｯｸ",
+      "name": "ｽｰﾊﾟｰｽﾘﾑﾒﾝｿｰﾙ1",
+      "variant": "F83mm 20本",
+      "grams": "",
+      "priceYen": 320,
+      "country": "大韓民国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Apple Sambuca",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Blue Magic",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Cappuccino",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Coco Blue",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Coconut Milk",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Cola",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Frankfurter Two Apple",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Fresh Winter",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Ginger Tea",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Golden Peach",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Grape Paradise",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Honey Moon Melon",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Ice Apple",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Ice Bubblegum",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Ice Lemon",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Kiwi Chill",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Lemonade",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Lychee",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Maracuja Heaven",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Milk",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Mix Fruits",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Orange Mandarin",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Pink Lady",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Rock Melon",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Scotch Whiskey",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Sex On The Beach",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Strawberry Kiss",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Sweet Yoghurt",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Tequila Sunrise",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Tropical Mango",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 14000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Coconut Milk",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Ginger Tea",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Lychee",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Coconut Milk",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 1400,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Ginger Tea",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 1400,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Lychee",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 1400,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾛｲﾄﾞ",
+      "name": "ﾛﾝｸﾞ･1",
+      "variant": "F100mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 470,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾊｰﾍﾞｽﾄ",
+      "name": "ｼｬｸﾞ･ﾊﾞﾆﾗ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 680,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾊｰﾍﾞｽﾄ",
+      "name": "ｼｬｸﾞ･ﾁｪﾘｰ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 680,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾊｰﾍﾞｽﾄ",
+      "name": "ｼｬｸﾞ･ﾐﾝﾄ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 680,
+      "country": "ﾄﾞｲﾂ"
+    }
+  ]
+}

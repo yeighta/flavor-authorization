@@ -1,0 +1,431 @@
+{
+  "date": "2019-03-14",
+  "kind": "shinki",
+  "filename": "20190314_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20190314_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ｱｲﾃﾞｨｰ",
+      "name": "ｽﾃｨｯｸ･ﾚｷﾞｭﾗｰ",
+      "variant": "20本",
+      "grams": "",
+      "priceYen": 460,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｱｲﾃﾞｨｰ",
+      "name": "ｽﾃｨｯｸ･ﾒﾝｿｰﾙ",
+      "variant": "20本",
+      "grams": "",
+      "priceYen": 460,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｱｲﾃﾞｨｰ",
+      "name": "ｽﾃｨｯｸ･ﾐﾝﾄ",
+      "variant": "20本",
+      "grams": "",
+      "priceYen": 460,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｱｲﾃﾞｨｰ",
+      "name": "ｽﾃｨｯｸ･ｽｰﾊﾟｰ･ｶﾌﾟｾﾙ･ﾒﾝｿｰﾙ",
+      "variant": "20本",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸﾊﾞｵ",
+      "name": "ﾐﾆｼｶﾞﾘﾛ･ｵﾘｼﾞﾅﾙ",
+      "variant": "82mm 1本",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸﾊﾞｵ",
+      "name": "ﾐﾆｼｶﾞﾘﾛ･ﾊﾞﾆﾗ",
+      "variant": "82mm 1本",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸﾊﾞｵ",
+      "name": "ﾐﾆｼｶﾞﾘﾛ･ﾁｮｺﾚｰﾄ",
+      "variant": "82mm 1本",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸﾊﾞｵ",
+      "name": "ﾐﾆｼｶﾞﾘﾛ･ﾊﾆｰ",
+      "variant": "82mm 1本",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Barista ' s Choice",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Pina Colada",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Tropical Paradise",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Winter Rose",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Berrymania",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Candy",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Chai Masala",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Cherry Muffin",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Chocolate Cake",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Cinnamon Cookie",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Dubai Apple",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Grow A Pear",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Lemon Muffin",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Lemongrass",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Limoncello",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Lychee",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Mango Cheesecake",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Fumari",
+      "name": "Mojito Mojo",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "JSE Cardamom",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1200,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "JSE Cinnamon",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1200,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "JSE Double Apple",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1200,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "JSE Grapefruit",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1200,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "JSE Honey",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1200,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "JSE Licorice",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1200,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "JSE Pan Rasna",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1200,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "JSE Pear Chill",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1200,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "JSE Spiced Chai",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1200,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Abukhaliq",
+      "name": "Turkish Coffee",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1200,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "JSE Vanilla",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1200,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Dreams",
+      "name": "Menthol",
+      "variant": "85mm 20本",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "California Dreams",
+      "name": "Assorted Colors",
+      "variant": "85mm 20本",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Midnight Dreams",
+      "name": "Russian Blend",
+      "variant": "85mm 20本",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Pink Dreams",
+      "name": "",
+      "variant": "85mm 20本",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Natural Dreams",
+      "name": "",
+      "variant": "85mm 20本",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｼﾞｪｯﾄ",
+      "name": "ｵﾘｼﾞﾅﾙ･8",
+      "variant": "82mm 20本",
+      "grams": "",
+      "priceYen": 300,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｼﾞｪｯﾄ",
+      "name": "ﾒﾝｿｰﾙ･8",
+      "variant": "82mm 20本",
+      "grams": "",
+      "priceYen": 300,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｸ",
+      "name": "ｵﾘｼﾞﾅﾙ",
+      "variant": "F97mm 20本",
+      "grams": "",
+      "priceYen": 280,
+      "country": "中華人民共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｸ",
+      "name": "ﾗｲﾄ",
+      "variant": "F97mm 20本",
+      "grams": "",
+      "priceYen": 280,
+      "country": "中華人民共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｸ",
+      "name": "ﾒﾝｿｰﾙ",
+      "variant": "F97mm 20本",
+      "grams": "",
+      "priceYen": 280,
+      "country": "中華人民共和国"
+    }
+  ]
+}

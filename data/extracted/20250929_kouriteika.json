@@ -1,0 +1,26 @@
+{
+  "date": "2025-09-29",
+  "kind": "shinki",
+  "filename": "20250929_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250929_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DARKSIDE",
+      "name": "SUPERMINT",
+      "variant": "箱",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DARKSIDE",
+      "name": "VIRGIN PEACH 2.0",
+      "variant": "箱",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    }
+  ]
+}

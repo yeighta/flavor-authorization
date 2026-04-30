@@ -1,0 +1,413 @@
+{
+  "date": "2023-09-05",
+  "kind": "shinki",
+  "filename": "20230905_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230905_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CAPITOL",
+      "name": "JACK",
+      "variant": "125mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CAPITOL",
+      "name": "CASINO",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CAPITOL",
+      "name": "GALA",
+      "variant": "160mm 1本",
+      "grams": "",
+      "priceYen": 3200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞｶﾞﾌｨﾅ",
+      "name": "ﾄﾘﾋﾞｭｰﾄ",
+      "variant": "120mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞｶﾞﾌｨﾅ",
+      "name": "F2･ﾄﾞｰﾌﾞﾙ ｶﾎﾟﾃ",
+      "variant": "149mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞｶﾞﾌｨﾅ",
+      "name": "ﾆｶﾗｸﾞｱ ｸﾞﾗﾝ ﾌﾞﾙｶﾉ",
+      "variant": "137mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞｶﾞﾌｨﾅ",
+      "name": "ﾆｶﾗｸﾞｱ ﾚｾﾞﾙﾊﾞ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞｶﾞﾌｨﾅ",
+      "name": "ｲﾔｰ ｵﾌﾞ ｻﾞ ﾗﾋﾞｯﾄ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Two Apples Gold",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Mint",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Vanilla",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Coconut",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Pineapple",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Milk",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Ice",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Cardamom",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Blue Orange",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Power Drink",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "White Chocolate",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Lemon",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Lemon Cake",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Golden Rose",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Happy Mango",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Ice Bonbon",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Ice Cola",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Pistachio Breeze",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Choco Ice",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Tiramisu",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Blueberry",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Blue Mist",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Chai Lemon",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Cigar",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Dejavu",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Paan Raas",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Ice Green Apple",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Chocolate Chill",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Ice Pineapple",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Mango Passion",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Ice Cactus",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Paradise Island",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Cinnamon Gum",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Lychee",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Lavender",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Taiga",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Two Apples",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "date": "2025-02-05",
+  "kind": "shinki",
+  "filename": "20250205_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250205_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "SOBREMESA",
+      "name": "BRULEE \"WAGASHI\"",
+      "variant": "153mm 1本",
+      "grams": "",
+      "priceYen": 3900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casa de Suenos",
+      "name": "Angelito Gordito",
+      "variant": "101.6mm 1本",
+      "grams": "",
+      "priceYen": 3900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casa de Suenos",
+      "name": "Angelito Churchill",
+      "variant": "177.8mm 1本",
+      "grams": "",
+      "priceYen": 4500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casa de Suenos",
+      "name": "Fantasia Short Belicoso",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 4300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casa de Suenos",
+      "name": "Fantasia Toro Gordo",
+      "variant": "165.1mm 1本",
+      "grams": "",
+      "priceYen": 4500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casa de Suenos",
+      "name": "Sonador Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 4300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casa de Suenos",
+      "name": "Sonador Maximo",
+      "variant": "177.8mm 1本",
+      "grams": "",
+      "priceYen": 4500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casa de Suenos",
+      "name": "Sonador Salomon",
+      "variant": "177.8mm 1本",
+      "grams": "",
+      "priceYen": 8400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    }
+  ]
+}

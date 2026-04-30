@@ -1,0 +1,548 @@
+{
+  "date": "2018-06-28",
+  "kind": "shinki",
+  "filename": "20180628_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20180628_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｮｲｽ",
+      "name": "ﾚﾓﾝﾁｪﾛ(15)",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "15.0g",
+      "priceYen": 380,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｮｲｽ",
+      "name": "ﾏﾝｺﾞｰ(15)",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "15.0g",
+      "priceYen": 380,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｮｲｽ",
+      "name": "ﾚﾓﾝﾁｪﾛ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 710,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｮｲｽ",
+      "name": "ﾏﾝｺﾞｰ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 710,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ﾒﾃﾞｨｵ ｼｸﾞﾛ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 4500,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H.ｱｯﾌﾟﾏﾝ",
+      "name": "ｺﾉｽｰﾙ B",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 3700,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H.ｱｯﾌﾟﾏﾝ",
+      "name": "ｻｰｳｲﾝｽﾄﾝ ｸﾞﾗﾝ･ﾚｾﾞﾙﾊﾞ 2011",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 15000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾎﾖｰ･ﾄﾞｩ･ﾓﾝﾄﾚｰ",
+      "name": "ﾏﾗｳﾞｨﾗｽ 2015",
+      "variant": "233mm 1本",
+      "grams": "",
+      "priceYen": 15000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾓﾝﾃｸﾘｽﾄ",
+      "name": "ﾃﾞｭﾏｽ LINEA 1935",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾓﾝﾃｸﾘｽﾄ",
+      "name": "ﾚｼﾞｪﾝﾀﾞ LINEA 1935",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 4300,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾓﾝﾃｸﾘｽﾄ",
+      "name": "ﾏﾙﾃｽ LINEA 1935",
+      "variant": "153mm 1本",
+      "grams": "",
+      "priceYen": 3800,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾗﾓﾝ･ｱﾛﾝﾈｽ",
+      "name": "ｼﾙﾊﾞｰ ｼﾞｭﾋﾞﾘｰ RE 2017",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 4200,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞｶﾞﾌｨﾅ",
+      "name": "ｸﾞﾗﾝ ﾚｾﾞﾙﾊﾞ 20 ｱﾆﾍﾞﾙｻﾘｵ",
+      "variant": "156mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Apple Sambuca",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Blue Magic",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Cappuccino",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Coco Blue",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Cola",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Frankfurter Two Apple",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Fresh Winter",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Golden Peach",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Grape Paradise",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Honey Moon Melon",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Ice Apple",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Ice Bubble Gum",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Ice Lemon",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Kiwi Chill",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Lemonade",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Maracuja Heaven",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Milk",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Mix Fruits",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Orange Mandarin",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Pink Lady",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Rock Melon",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Scotch Whiskey",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Sex On The Beach",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Strawberry Kiss",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Sweet Yoghurt",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Tequila Sunrise",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Tropical Mango",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Kiwi Chill",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 1400,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Sweet Yoghurt",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 1400,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｳｨﾝｽﾄﾝﾁｬｰﾁﾙ ﾚｲﾄｱﾜｰ ﾄﾛ ｱﾝｶｯﾄ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 6000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Rudies",
+      "name": "Petit Corona",
+      "variant": "123mm 1本",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Starbuzz",
+      "name": "Egyptian Pharos",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Starbuzz",
+      "name": "Holiday Mix",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Starbuzz",
+      "name": "Spicy Red",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Starbuzz",
+      "name": "Turkish Apple",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Starbuzz Bold",
+      "name": "Apple Mist",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Starbuzz Bold",
+      "name": "Asian Persuasion",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Starbuzz Bold",
+      "name": "Brownie",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Starbuzz Bold",
+      "name": "Dibs on Ashley",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Starbuzz Bold",
+      "name": "Irish Kiss",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Starbuzz Bold",
+      "name": "Jack the Ripper",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Starbuzz Bold",
+      "name": "Mighty Freeze",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Starbuzz Bold",
+      "name": "Peach Ice Tea",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Starbuzz Bold",
+      "name": "Pineapple Freeze",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Starbuzz Bold",
+      "name": "Spiced Chai",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Starbuzz Bold",
+      "name": "White Bear",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Starbuzz Bold",
+      "name": "White Chai",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    }
+  ]
+}

@@ -1,0 +1,629 @@
+{
+  "date": "2018-10-16",
+  "kind": "shinki",
+  "filename": "20181016_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20181016_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Dreams",
+      "name": "Columbian Blend",
+      "variant": "85mm 12本",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ｶﾅﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Dreams",
+      "name": "Sweet Aromatic Blend",
+      "variant": "85mm 12本",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ｶﾅﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Dreams",
+      "name": "Napa Blend",
+      "variant": "85mm 12本",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ｶﾅﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Dreams",
+      "name": "VSOP Blend",
+      "variant": "85mm 12本",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ｶﾅﾀﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｺｺﾅｯﾂﾐﾙｸ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 460,
+      "country": "ﾀﾝｻﾞﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ﾁｮｺﾚｰﾄ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 460,
+      "country": "ﾀﾝｻﾞﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｱｲｽﾊﾞﾆﾗ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 460,
+      "country": "ﾀﾝｻﾞﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｶﾌｪﾊﾞﾆﾗ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 460,
+      "country": "ﾀﾝｻﾞﾆｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｼｬｸﾞ･ｺｺﾅｯﾂﾐﾙｸ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 800,
+      "country": "ﾀﾝｻﾞﾆｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｼｬｸﾞ･ﾁｮｺﾚｰﾄ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 800,
+      "country": "ﾀﾝｻﾞﾆｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｼｬｸﾞ･ｱｲｽﾊﾞﾆﾗ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 800,
+      "country": "ﾀﾝｻﾞﾆｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｼｬｸﾞ･ｶﾌｪﾊﾞﾆﾗ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 800,
+      "country": "ﾀﾝｻﾞﾆｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｼｬｸﾞ･ｼﾞﾝｼﾞｬｰｴｰﾙ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 800,
+      "country": "ﾀﾝｻﾞﾆｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｼｬｸﾞ･ｱﾏｿﾞﾝｶﾞﾗﾅ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 800,
+      "country": "ﾀﾝｻﾞﾆｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｼｬｸﾞ･ﾁｪﾘｰｺｰﾗ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 800,
+      "country": "ﾀﾝｻﾞﾆｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾜｲﾙﾄﾞ",
+      "name": "ﾊﾞｲｿﾝ(35)",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "35.0g",
+      "priceYen": 900,
+      "country": "ﾀﾝｻﾞﾆｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾜｲﾙﾄﾞ",
+      "name": "ﾊﾞｲｿﾝ(150)",
+      "variant": "缶",
+      "grams": "150.0g",
+      "priceYen": 3900,
+      "country": "ﾀﾝｻﾞﾆｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "name": "ﾌﾞﾗｯｸﾌﾚｲｸ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2250,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "name": "ﾀﾞｰﾊﾞｰｽｸｴｱ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "name": "ｱｰﾘｰﾊﾞｰﾄﾞ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "name": "ﾏｼﾞｪｽﾃｨ･ｴﾘｻﾞﾍﾞｽ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "name": "ﾌﾚｲｸ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "name": "ｼﾃｨ･ｵﾌﾞ･ﾛﾝﾄﾞﾝ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "name": "ﾏｲﾐｯｸｽﾁｭｱ･ﾊﾞｰｷﾝﾛｰﾄﾞ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "name": "ﾏｲﾐｯｸｽﾁｭｱ･999",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "name": "ﾏｲﾐｯｸｽﾁｭｱ･No.1938",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "name": "ｲｸﾘﾌﾟｽ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "name": "ﾅｲﾄｸﾗﾌﾞ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "name": "ﾚﾃﾞｨﾗﾌﾞﾄﾞ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "name": "ｺﾞｰﾙﾃﾞﾝｽﾀﾝﾀﾞｰﾄﾞ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "name": "ｽﾀﾝﾀﾞｰﾄﾞ ﾐﾃﾞｨｱﾑ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "name": "ｱﾍﾟﾀｲｻﾞｰ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "name": "ﾛｲﾔﾙｱｲﾗﾝﾄﾞ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "name": "ﾊﾞｰｼﾞﾆｱ･5ｲﾔｰﾏﾁｭｱｰﾄﾞ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "name": "ｵｰﾙﾄﾞｻｲﾝ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾁｬｯﾌﾟﾏﾝ",
+      "name": "ｽｰﾊﾟｰｽﾘﾑ･ｸﾗｼｯｸ",
+      "variant": "100mm 20本",
+      "grams": "",
+      "priceYen": 370,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾁｬｯﾌﾟﾏﾝ",
+      "name": "ｽｰﾊﾟｰｽﾘﾑ･ﾊﾞﾆﾗ",
+      "variant": "100mm 20本",
+      "grams": "",
+      "priceYen": 370,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾁｬｯﾌﾟﾏﾝ",
+      "name": "ｽｰﾊﾟｰｽﾘﾑ･ﾁｪﾘｰ",
+      "variant": "100mm 20本",
+      "grams": "",
+      "priceYen": 370,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾝﾀｰ",
+      "name": "ﾌﾞﾙｰ(14)",
+      "variant": "75mm 14本 箱",
+      "grams": "",
+      "priceYen": 820,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾝﾀｰ",
+      "name": "ﾃﾞｻﾞｰﾄ(14)",
+      "variant": "75mm 14本 箱",
+      "grams": "",
+      "priceYen": 820,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾝﾀｰ",
+      "name": "ｱﾛﾏ(14)",
+      "variant": "75mm 14本 箱",
+      "grams": "",
+      "priceYen": 820,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾝﾀｰ",
+      "name": "ｽﾌﾟﾘﾝﾄ(14)",
+      "variant": "75mm 14本 箱",
+      "grams": "",
+      "priceYen": 820,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｽﾀﾝﾚｰ",
+      "name": "ﾊﾞﾆﾗ缶(100)",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2300,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾎﾞﾃﾞｨｼｮｯﾄ",
+      "name": "ﾊﾞﾆﾗ",
+      "variant": "F85mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 410,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾎﾞﾃﾞｨｼｮｯﾄ",
+      "name": "ﾁｪﾘｰ",
+      "variant": "F85mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 410,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V 554 Double Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V 554 Belicoso",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V 543 #4",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V 552 Melanio",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V 652 Melanio Figurado",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie O 550 Robusto Tubo",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Nub",
+      "name": "460 Cameroon Tubo",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Nub",
+      "name": "460 Conneticut Tubo",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Nub",
+      "name": "460 Sungrown Tubo",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Nub",
+      "name": "460 Maduro Tubo",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1550,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Undercrown",
+      "name": "Sun Grown Corona",
+      "variant": "143mm 1本",
+      "grams": "",
+      "priceYen": 1400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Undercrown",
+      "name": "Sun Grown Flying Pig",
+      "variant": "100mm 1本",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Liga Privada",
+      "name": "Unico Serie LP40",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌｫﾙﾃ",
+      "name": "ｴｸｽﾄﾗ ﾗｲﾄﾒﾝｿｰﾙ",
+      "variant": "F70mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 270,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌｫﾙﾃ",
+      "name": "ｴｸｽﾄﾗ ﾗｲﾄ",
+      "variant": "F70mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 270,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱﾙｶﾎﾟﾈ",
+      "name": "ﾎﾟｹｯﾄﾌｨﾙﾀｰ ｽｲｰﾄｺﾆｬｯｸ3's",
+      "variant": "70mm 10本",
+      "grams": "",
+      "priceYen": 140,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾄﾘﾆﾀﾞｯﾄﾞ",
+      "name": "ｼｮｰﾄ",
+      "variant": "82mm 1本",
+      "grams": "",
+      "priceYen": 240,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱﾑｽﾃﾙﾀﾞﾏｰ",
+      "name": "ｱｯﾌﾟﾙｱｲｽ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 600,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱﾑｽﾃﾙﾀﾞﾏｰ",
+      "name": "ｺｰﾋｰｱｲｽ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 600,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱﾑｽﾃﾙﾀﾞﾏｰ",
+      "name": "ﾊﾞﾆﾗｱｲｽ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 600,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾞｰﾙﾃﾞﾝﾌﾞﾚﾝﾄﾞ",
+      "name": "ﾊﾞｰｼﾞﾆｱｸﾞﾘｰﾝ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 720,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Laguito",
+      "name": "No.1",
+      "variant": "192mm 1本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Laguito",
+      "name": "No.4",
+      "variant": "119mm 1本",
+      "grams": "",
+      "priceYen": 3900,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "RAW",
+      "name": "ｵｰｶﾞﾆｯｸ 100",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3450,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    }
+  ]
+}

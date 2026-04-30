@@ -1,0 +1,89 @@
+{
+  "date": "2024-11-26",
+  "kind": "shinki",
+  "filename": "20241126_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20241126_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ALISHAN",
+      "name": "JING TAI DIAN LAN SOFT PACK",
+      "variant": "FK84mm 20本 ｿﾌﾄﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 800,
+      "country": "台湾"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ALISHAN",
+      "name": "JING TAI DIAN LAN SLIM PACK",
+      "variant": "FSK97mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 600,
+      "country": "台湾"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ALISHAN",
+      "name": "JING TAI DIAN LAN HARD PACK",
+      "variant": "FK84mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 520,
+      "country": "台湾"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ALISHAN",
+      "name": "MUSE4 HARD PACK",
+      "variant": "FK84mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 430,
+      "country": "台湾"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ALISHAN",
+      "name": "MUSE8 HARD PACK",
+      "variant": "FK84mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 430,
+      "country": "台湾"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾋﾞﾘｶﾞｰ",
+      "name": "ﾘﾐﾃｯﾄﾞ ｴﾃﾞｨｼｮﾝ ｲﾔｰｵﾌﾞﾄﾞﾗｺﾞﾝ･ｸﾞﾗﾝﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 6000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾟﾗｾﾝｼｱ",
+      "name": "ｺｾﾁｬ151 ﾗ･ﾑｼﾞｶ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾟﾗｾﾝｼｱ",
+      "name": "ｺｾﾁｬ151 ﾗ･ﾄﾗﾃﾞｨｼｮﾝ",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 3500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾟﾗｾﾝｼｱ",
+      "name": "ｺｾﾁｬ151 ｻﾝ･ﾃﾞｨｴｺﾞ",
+      "variant": "145mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

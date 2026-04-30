@@ -1,0 +1,44 @@
+{
+  "date": "2024-10-02",
+  "kind": "shinki",
+  "filename": "20241002_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20241002_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "メビウス",
+      "name": "イーシリーズ・アイスストーム・8",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "メビウス",
+      "name": "イーシリーズ・アイスストーム・5",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "メビウス",
+      "name": "イーシリーズ・アイスストーム・ワン・100's",
+      "variant": "FSK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "メビウス",
+      "name": "イーシリーズ・アイスストーム・ワン・100's・スリム",
+      "variant": "FSK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    }
+  ]
+}

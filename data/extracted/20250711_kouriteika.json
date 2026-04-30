@@ -1,0 +1,62 @@
+{
+  "date": "2025-07-11",
+  "kind": "shinki",
+  "filename": "20250711_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250711_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "L.A.",
+      "name": "ライト",
+      "variant": "FK 16本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "L.A.",
+      "name": "アイス マンゴー ブースト",
+      "variant": "FK 16本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ドーラ",
+      "name": "クレームブリュレ",
+      "variant": "ﾊﾟｳﾁﾊﾟｯｸ",
+      "grams": "30.0g",
+      "priceYen": 900,
+      "country": "ﾌﾞﾗｼﾞﾙ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ドーラ",
+      "name": "アイス",
+      "variant": "ﾊﾟｳﾁﾊﾟｯｸ",
+      "grams": "30.0g",
+      "priceYen": 900,
+      "country": "ﾌﾞﾗｼﾞﾙ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ドーラ",
+      "name": "アサイー",
+      "variant": "ﾊﾟｳﾁﾊﾟｯｸ",
+      "grams": "30.0g",
+      "priceYen": 900,
+      "country": "ﾌﾞﾗｼﾞﾙ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ドーラ",
+      "name": "チェリー",
+      "variant": "ﾊﾟｳﾁﾊﾟｯｸ",
+      "grams": "30.0g",
+      "priceYen": 900,
+      "country": "ﾌﾞﾗｼﾞﾙ"
+    }
+  ]
+}

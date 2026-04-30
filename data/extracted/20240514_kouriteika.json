@@ -1,0 +1,107 @@
+{
+  "date": "2024-05-14",
+  "kind": "shinki",
+  "filename": "20240514_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240514_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Ozgener Family",
+      "name": "Bosphorus",
+      "variant": "135mm 1本",
+      "grams": "",
+      "priceYen": 3500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Crowned Heads",
+      "name": "Le Patissier",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 2850,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Crowned Heads",
+      "name": "Mil Dias Topes",
+      "variant": "120mm 1本",
+      "grams": "",
+      "priceYen": 3700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Crowned Heads",
+      "name": "Mil Dias Double Robusto",
+      "variant": "160mm 1本",
+      "grams": "",
+      "priceYen": 3800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Crowned Heads",
+      "name": "Le Careme",
+      "variant": "145mm 1本",
+      "grams": "",
+      "priceYen": 2990,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Crowned Heads",
+      "name": "Juarez",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Crowned Heads",
+      "name": "Jericho Hill",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 3250,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱﾙﾄｳｰﾛ ﾌｴﾝﾃ",
+      "name": "ﾛｻﾄﾞ56",
+      "variant": "143mm 1本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｼﾍﾞﾘｱ",
+      "name": "ﾌﾞﾗｯｸ",
+      "variant": "箱",
+      "grams": "10.0g",
+      "priceYen": 1100,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｼﾍﾞﾘｱ",
+      "name": "ﾌﾞﾗｳﾝ",
+      "variant": "箱",
+      "grams": "10.0g",
+      "priceYen": 1100,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｼﾍﾞﾘｱ",
+      "name": "ﾐﾆ ﾌﾞﾗｯｸ",
+      "variant": "箱",
+      "grams": "8.0g",
+      "priceYen": 900,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    }
+  ]
+}

@@ -1,0 +1,692 @@
+{
+  "date": "2022-10-07",
+  "kind": "shinki",
+  "filename": "20221007_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20221007_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾃﾘｱ",
+      "name": "ﾎﾞｰﾙﾄﾞ･ﾚｷﾞｭﾗｰ",
+      "variant": "F45 20ｽﾃｨｯｸ ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 580,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "LEMON CHILL",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "BLUEBERRY ICE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "CHERRY MINT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "LEMON MINT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "IZZY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "TURKISH MASTIK",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "STRAWBERRY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "MELONY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "HAWAII",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "GUM MINT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "MY LOVE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "TANGER SPLASH",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "IZMIR SUNSET",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "MY LADY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "DALIDA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "KAOS",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "AFTER EIGHT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "AMBIANCE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "RSM",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "BRUMANIA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "DOUBLE APPLE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "MIA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "WATERMELON",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "BISCUIT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "GRAPE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "LEMON CHILL",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "BLUEBERRY ICE",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "CHERRY MINT",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "LEMON MINT",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "IZZY",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "TURKISH MASTIK",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "STRAWBERRY",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "MELONY",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "HAWAII",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "GUM MINT",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "MY LOVE",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "TANGER SPLASH",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "IZMIR SUNSET",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "MY LADY",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "DALIDA",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "KAOS",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "AFTER EIGHT",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "AMBIANCE",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "RSM",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "BRUMANIA",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "DOUBLE APPLE",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "MIA",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "WATERMELON",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "BISCUIT",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "GRAPE",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "LEMON CHILL",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "BLUEBERRY ICE",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "CHERRY MINT",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "LEMON MINT",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "IZZY",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "TURKISH MASTIK",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "STRAWBERRY",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "MELONY",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "HAWAII",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "GUM MINT",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "MY LOVE",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "TANGER SPLASH",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "IZMIR SUNSET",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "MY LADY",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "DALIDA",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "KAOS",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "AFTER EIGHT",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "AMBIANCE",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "RSM",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "BRUMANIA",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "DOUBLE APPLE",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "MIA",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "WATERMELON",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "BISCUIT",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MOTTO",
+      "name": "GRAPE",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8400,
+      "country": "ﾄﾙｺ"
+    }
+  ]
+}

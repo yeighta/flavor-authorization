@@ -1,0 +1,116 @@
+{
+  "date": "2020-02-25",
+  "kind": "shinki",
+  "filename": "20200225_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20200225_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AL FAKHER",
+      "name": "GUM MASTIC",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1240,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾗｯｷｰ･ｽﾄﾗｲｸ",
+      "name": "ﾌｨﾙﾀｰ･ｼｶﾞﾘﾛ･ﾗｲﾄ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 340,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾗｯｷｰ･ｽﾄﾗｲｸ",
+      "name": "ﾌｨﾙﾀｰ･ｼｶﾞﾘﾛ･ﾒﾝｿｰﾙ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 340,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｼｬｸﾞ･ｱﾌﾀﾇｰﾝﾃｨｰ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 800,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｼｬｸﾞ･ﾚﾓﾝﾃｨｰ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 800,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾋｰﾄｽﾃｨｯｸ･ﾃﾞｨﾒﾝｼｮﾝｽﾞ･ﾉｱ",
+      "variant": "F45mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 530,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾋｰﾄｽﾃｨｯｸ･ﾃﾞｨﾒﾝｼｮﾝｽﾞ･ﾕｳｹﾞﾝ",
+      "variant": "F45mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 530,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾋｰﾄｽﾃｨｯｸ･ﾃﾞｨﾒﾝｼｮﾝｽﾞ･ｱﾐｰﾙ",
+      "variant": "F45mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 530,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｴｸｽｸﾙｰｼﾌﾞ ｼｶﾞｰｼﾞｬｰﾅﾙ 2019",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 7020,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｶﾏｰﾁｮ",
+      "name": "ﾃﾞｨﾌﾟﾛﾏ ﾌﾞﾗｯｸ ｽﾍﾟｼｬﾙ ｾﾚｸｼｮﾝ ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 5000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱｰｸﾛｰﾔﾙ",
+      "name": "ﾊﾟｯｼｮﾝﾌﾙｰﾂ･ｼｬｸﾞ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 780,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱｰｸﾛｰﾔﾙ",
+      "name": "ﾐﾝﾄｸﾘｰﾑ･ｼｬｸﾞ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 780,
+      "country": "ｳﾙｸﾞｱｲ"
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "date": "2024-10-04",
+  "kind": "shinki",
+  "filename": "20241004_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20241004_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Malaki",
+      "name": "Iced Mint",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1850,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Malaki",
+      "name": "Melon",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1850,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Malaki",
+      "name": "Pomegranate",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1850,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "White Elephant",
+      "name": "Etosha",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2800,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "White Elephant",
+      "name": "Kalahari",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2800,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "White Elephant",
+      "name": "Sahara",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2800,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "White Elephant",
+      "name": "Serengeti",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2800,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Prometheus",
+      "name": "God of Fire BY CALITO AND BY DON CARLOS 5-CIGAR ASSORT (5)",
+      "variant": "",
+      "grams": "",
+      "priceYen": 55500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Prometheus",
+      "name": "God of Fire SERIE B 5-CIGAR ASSORT (5)",
+      "variant": "",
+      "grams": "",
+      "priceYen": 55000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Prometheus",
+      "name": "OpusX THE LOST CITY 5-CIGAR ASSORT (5)",
+      "variant": "",
+      "grams": "",
+      "priceYen": 73500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BIN",
+      "name": "Mini Cigar (20)",
+      "variant": "",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BIN",
+      "name": "Mini Cigar",
+      "variant": "",
+      "grams": "",
+      "priceYen": 120,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "Elite Edition Licorice",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "Elite Edition Max Pipe",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "Elite Edition Menthol Fusion",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "Elite Edition Tea",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "Elite Edition Coffee",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｵﾛﾌﾞﾗﾝｺ 111",
+      "variant": "",
+      "grams": "",
+      "priceYen": 135000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸｻﾞｰﾉ",
+      "name": "ﾎﾝｼﾞｭﾗｽ ﾊｰﾌｺﾛﾅ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸｻﾞｰﾉ",
+      "name": "ﾎﾝｼﾞｭﾗｽ ﾛﾌﾞｽﾄ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸｻﾞｰﾉ",
+      "name": "ﾎﾝｼﾞｭﾗｽ ﾄﾛ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸｻﾞｰﾉ",
+      "name": "ﾎﾝｼﾞｭﾗｽ ﾁｬｰﾁﾙ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｱｼﾞｱ 50th ｱﾆﾊﾞｰｻﾘｰ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 7800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞｶﾞﾌｨﾅ",
+      "name": "1998/56",
+      "variant": "",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞｶﾞﾌｨﾅ",
+      "name": "ｲﾔｰ ｵﾌﾞ ｻﾞ ﾄﾞﾗｺﾞﾝ 2024",
+      "variant": "",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Henry Clay",
+      "name": "War Hawk Corona",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1650,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Henry Clay",
+      "name": "War Hawk Robusto",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1980,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Henry Clay",
+      "name": "War Hawk Toro",
+      "variant": "",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Henry Clay",
+      "name": "War Hawk Lonsdale",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1980,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CONFIDENCIAAL",
+      "name": "CORONA",
+      "variant": "",
+      "grams": "",
+      "priceYen": 2860,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CONFIDENCIAAL",
+      "name": "CORTO",
+      "variant": "",
+      "grams": "",
+      "priceYen": 2860,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CONFIDENCIAAL",
+      "name": "TORPEDO",
+      "variant": "",
+      "grams": "",
+      "priceYen": 3410,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V 554 Melanio Figurado LE 2023",
+      "variant": "",
+      "grams": "",
+      "priceYen": 3960,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

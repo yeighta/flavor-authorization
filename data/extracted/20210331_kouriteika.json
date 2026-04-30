@@ -1,0 +1,98 @@
+{
+  "date": "2021-03-31",
+  "kind": "shinki",
+  "filename": "20210331_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210331_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾍﾟﾍﾟ",
+      "name": "ﾘｯﾁｸﾞﾘｰﾝ･ｼｶﾞﾚｯﾄ",
+      "variant": "F85mm 18本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾍﾟﾍﾟ",
+      "name": "ｲｰｼﾞｰｸﾞﾘｰﾝ･ｼｶﾞﾚｯﾄ",
+      "variant": "F85mm 18本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼﾞｬｰﾏｲﾝ",
+      "name": "ﾊﾝﾌﾟﾄﾝ･ﾌﾚｲｸ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｫｰｽｼﾞｪﾈﾚｰｼｮﾝ",
+      "name": "ﾌｧﾐﾘｰﾘｻﾞｰﾌﾞ",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 5000,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸｱﾊﾞ",
+      "name": "ｴｲﾊﾟｯｸ RE 2021",
+      "variant": "158mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H.ｱｯﾌﾟﾏﾝ",
+      "name": "ﾏｸﾞﾅﾑ52 ｲﾔｰ ｵﾌﾞ ｻﾞ ﾀｲｶﾞｰ 2022",
+      "variant": "148mm 1本",
+      "grams": "",
+      "priceYen": 10000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛﾒｵ･Y･ｼﾞｭﾘｴｯﾀ",
+      "name": "ﾃﾞｨｱﾅ",
+      "variant": "145mm 1本",
+      "grams": "",
+      "priceYen": 4800,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛﾒｵ･Y･ｼﾞｭﾘｴｯﾀ",
+      "name": "ｲﾀﾞﾙｺﾞ",
+      "variant": "125mm 1本",
+      "grams": "",
+      "priceYen": 4500,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛﾒｵ･Y･ｼﾞｭﾘｴｯﾀ",
+      "name": "ﾉﾌﾞﾚ",
+      "variant": "135mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "PAN PARAG",
+      "name": "GUTKHA (PP MASALA)",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "4.0g",
+      "priceYen": 90,
+      "country": "ｲﾝﾄﾞ"
+    }
+  ]
+}

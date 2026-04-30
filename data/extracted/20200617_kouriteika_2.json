@@ -1,0 +1,89 @@
+{
+  "date": "2020-06-17",
+  "kind": "shinki",
+  "filename": "20200617_kouriteika_2.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20200617_kouriteika_2.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｳｨﾝｽﾄﾝ",
+      "name": "ｺﾝﾊﾟｸﾄ･ﾌﾞﾙｰ･6･ﾎﾞｯｸｽ･18本入",
+      "variant": "FK 18本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 390,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｳｨﾝｽﾄﾝ",
+      "name": "ｺﾝﾊﾟｸﾄ･ﾌﾞﾙｰ･3･ﾎﾞｯｸｽ･18本入",
+      "variant": "FK 18本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 390,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｳｨﾝｽﾄﾝ",
+      "name": "ｺﾝﾊﾟｸﾄ･ﾌﾞﾙｰ･ﾜﾝ･ﾎﾞｯｸｽ･18本入",
+      "variant": "FK 18本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 390,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾅﾁｭﾗﾙ ｱﾒﾘｶﾝ ｽﾋﾟﾘｯﾄ",
+      "name": "ｵｰｶﾞﾆｯｸ ﾐﾝﾄ 14本入",
+      "variant": "FK 14本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 380,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾅﾁｭﾗﾙ ｱﾒﾘｶﾝ ｽﾋﾟﾘｯﾄ",
+      "name": "ｵｰｶﾞﾆｯｸ ﾐﾝﾄ ﾗｲﾄ 14本入",
+      "variant": "FK 14本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 380,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾅﾁｭﾗﾙ ｱﾒﾘｶﾝ ｽﾋﾟﾘｯﾄ",
+      "name": "ｵｰｶﾞﾆｯｸ ﾐﾝﾄ ｳﾙﾄﾗ ﾗｲﾄ 14本入",
+      "variant": "FK 14本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 380,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾅﾁｭﾗﾙ ｱﾒﾘｶﾝ ｽﾋﾟﾘｯﾄ",
+      "name": "ｵｰｶﾞﾆｯｸ ﾐﾝﾄ ONE 14本入",
+      "variant": "FK 14本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 380,
+      "country": "日本"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ｼｶﾞｰ･ﾒﾝｿｰﾙ･ﾍﾞﾘｰｶﾌﾟｾﾙ･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 360,
+      "country": "日本"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ｼｶﾞｰ･ﾒﾝｿｰﾙ･ﾍﾞﾘｰｶﾌﾟｾﾙ･ﾗｲﾄ･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 360,
+      "country": "日本"
+    }
+  ]
+}

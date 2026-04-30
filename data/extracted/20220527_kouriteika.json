@@ -1,0 +1,44 @@
+{
+  "date": "2022-05-27",
+  "kind": "shinki",
+  "filename": "20220527_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220527_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｴﾙ ﾌﾞﾙﾋｰﾄ",
+      "name": "Year of The Tiger 2022",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ｳﾞｨﾝﾃｰｼﾞ1999 ﾁｬｰﾁﾙ ｶﾞﾗｽﾁｭｰﾌﾞ",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "RUDIES",
+      "name": "Geisya No.1",
+      "variant": "175mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AHLUA",
+      "name": "",
+      "variant": "115mm 1本",
+      "grams": "",
+      "priceYen": 900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

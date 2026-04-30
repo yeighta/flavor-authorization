@@ -1,0 +1,26 @@
+{
+  "date": "2025-01-08",
+  "kind": "shinki",
+  "filename": "20250108_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250108_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "フィリップ モリス",
+      "name": "1・100sスーパースリムボックスN",
+      "variant": "FSK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 430,
+      "country": "ﾁｪｺ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "フィリップ モリス",
+      "name": "パープル・1・100sスーパースリムボックスN",
+      "variant": "FSK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 430,
+      "country": "ﾁｪｺ"
+    }
+  ]
+}

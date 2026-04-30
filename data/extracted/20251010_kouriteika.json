@@ -1,0 +1,35 @@
+{
+  "date": "2025-10-10",
+  "kind": "shinki",
+  "filename": "20251010_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20251010_kouriteika.pdf",
+  "products": [
+    {
+      "category": "かぎたばこ",
+      "manufacturer": "ベロ",
+      "name": "スピッフィー・スペアミント・ウルトラ",
+      "variant": "20個缶",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ﾊﾟｷｽﾀﾝ"
+    },
+    {
+      "category": "かぎたばこ",
+      "manufacturer": "ベロ",
+      "name": "グルービー・グレープ・インテンス",
+      "variant": "15個缶",
+      "grams": "",
+      "priceYen": 360,
+      "country": "ﾊﾟｷｽﾀﾝ"
+    },
+    {
+      "category": "かぎたばこ",
+      "manufacturer": "ベロ",
+      "name": "グルービー・グレープ・エックスインテンス",
+      "variant": "15個缶",
+      "grams": "",
+      "priceYen": 360,
+      "country": "ﾊﾟｷｽﾀﾝ"
+    }
+  ]
+}

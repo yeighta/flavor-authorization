@@ -1,0 +1,89 @@
+{
+  "date": "2020-02-06",
+  "kind": "shinki",
+  "filename": "20200206_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20200206_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クール",
+      "name": "ループド・サングリア",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 360,
+      "country": "大韓民国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クール",
+      "name": "ループド・トロピカル",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 360,
+      "country": "大韓民国"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "",
+      "name": "黒蜘蛛",
+      "variant": "パウチ",
+      "grams": "20.0g",
+      "priceYen": 580,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "レッドフィールド",
+      "name": "ナチュラル",
+      "variant": "パウチ",
+      "grams": "20.0g",
+      "priceYen": 500,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "レッドフィールド",
+      "name": "バージニア",
+      "variant": "パウチ",
+      "grams": "20.0g",
+      "priceYen": 500,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "レッドフィールド",
+      "name": "アークティックメンソール",
+      "variant": "パウチ",
+      "grams": "20.0g",
+      "priceYen": 500,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ボールト 2019 ギンザ バンドル",
+      "variant": "210mm 1本",
+      "grams": "",
+      "priceYen": 8000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "2020 エクスクルーシブ トウキョウ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 8000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "フィリップモリス",
+      "name": "ロードスター・ミックス",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 330,
+      "country": "ﾛｼｱ"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "date": "2025-11-27",
+  "kind": "shinki",
+  "filename": "20251127_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20251127_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EX4",
+      "name": "Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ﾌﾞﾗｼﾞﾙ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Apyna",
+      "name": "Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3700,
+      "country": "ﾌﾞﾗｼﾞﾙ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Ubazito",
+      "name": "",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 1200,
+      "country": "ﾌﾞﾗｼﾞﾙ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Juan Lopez",
+      "name": "Lancero Adriatico ER2023AD",
+      "variant": "192mm 1本",
+      "grams": "",
+      "priceYen": 20000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "San Luis Rey",
+      "name": "Adamastor ER2023PT",
+      "variant": "192mm 1本",
+      "grams": "",
+      "priceYen": 20000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Por Larrañaga",
+      "name": "Leones ER2021ES",
+      "variant": "155mm 1本",
+      "grams": "",
+      "priceYen": 16000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Juan Lopez",
+      "name": "Cincuenta y Cuatro ER2023ES",
+      "variant": "120mm 1本",
+      "grams": "",
+      "priceYen": 19800,
+      "country": "ｷｭｰﾊﾞ"
+    }
+  ]
+}

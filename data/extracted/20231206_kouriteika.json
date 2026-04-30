@@ -1,0 +1,26 @@
+{
+  "date": "2023-12-06",
+  "kind": "shinki",
+  "filename": "20231206_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20231206_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AL AMASI",
+      "name": "Golden Kiwi",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ﾊﾟｲﾌﾟﾀﾊﾞｺ ｲﾔｰ ｵﾌﾞ ｻﾞ ﾄﾞﾗｺﾞﾝ",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 18000,
+      "country": "ﾄﾞｲﾂ"
+    }
+  ]
+}

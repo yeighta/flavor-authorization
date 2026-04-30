@@ -1,0 +1,197 @@
+{
+  "date": "2024-01-31",
+  "kind": "shinki",
+  "filename": "20240131_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240131_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Malaki",
+      "name": "Vanilla",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1850,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Malaki",
+      "name": "Strawberry",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1850,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Malaki",
+      "name": "Kiwi",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1850,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Malaki",
+      "name": "Gum Mastic",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1850,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱﾙﾄｳｰﾛ ﾌｴﾝﾃ",
+      "name": "ｵｰﾊﾟｽX ﾏｸﾞﾅﾑO",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 7700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱﾙﾄｳｰﾛ ﾌｴﾝﾃ",
+      "name": "ｵｰﾊﾟｽX ﾌﾟｯｼｰｷｬｯﾄ",
+      "variant": "120mm 1本",
+      "grams": "",
+      "priceYen": 5000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱﾙﾄｳｰﾛ ﾌｴﾝﾃ",
+      "name": "ﾄﾞﾝｶﾙﾛｽ THE MAN",
+      "variant": "133mm 1本",
+      "grams": "",
+      "priceYen": 7700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱﾙﾄｳｰﾛ ﾌｴﾝﾃ",
+      "name": "ﾛｻﾄﾞｻﾝｸﾞﾛｳﾝ 8-5-8",
+      "variant": "88mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱﾙﾄｳｰﾛ ﾌｴﾝﾃ",
+      "name": "ﾄﾞﾝｶﾙﾛｽ ｱｲｵﾌﾞｻﾌﾞﾙ",
+      "variant": "158mm 1本",
+      "grams": "",
+      "priceYen": 5000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BOLERO",
+      "name": "Doble Corona",
+      "variant": "156mm 1本",
+      "grams": "",
+      "priceYen": 3890,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Tabacos Baez",
+      "name": "Serie SF Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Tabacos Baez",
+      "name": "Serie SF Toro",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1150,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Tabacos Baez",
+      "name": "Serie SF Corona",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Jaime Garcia",
+      "name": "Reserva Especial Robusto",
+      "variant": "133mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "My Father",
+      "name": "La Promesa Corona Gorda",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "My Father",
+      "name": "La Promesa Lancero",
+      "variant": "190mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Tatuaje",
+      "name": "Mexican Experiment ME Ⅱ Belicoso",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "L'Atelier",
+      "name": "La Mission 1959",
+      "variant": "120mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "L'Atelier",
+      "name": "LAT52",
+      "variant": "120mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "LIRRA",
+      "name": "KASHMIR",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "LIRRA",
+      "name": "ROSE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    }
+  ]
+}

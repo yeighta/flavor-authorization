@@ -1,0 +1,161 @@
+{
+  "date": "2026-01-15",
+  "kind": "shinki",
+  "filename": "20260115_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260115_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "KRAKEN",
+      "name": "CHEDDAR CHEESE",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "KRAKEN",
+      "name": "BLACK CORN",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "KRAKEN",
+      "name": "CREME BRULEE",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "KRAKEN",
+      "name": "EARL GREY TEA",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "KRAKEN",
+      "name": "GUAVA SUPREME",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "KRAKEN",
+      "name": "LEMON CAKE",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "KRAKEN",
+      "name": "MANGO ALPHONSO",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "KRAKEN",
+      "name": "MEXICAN LIME",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "KRAKEN",
+      "name": "MOROCCAN MINT",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "KRAKEN",
+      "name": "ORIGINAL",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "KRAKEN",
+      "name": "PEANUT",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "KRAKEN",
+      "name": "STRAWBERRY",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "KRAKEN",
+      "name": "YUBARI MELON",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ニューワールド デセニオ ロブスト",
+      "variant": "",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ニカラグア"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ベガフィナ",
+      "name": "ニカラグア ブルカノ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1650,
+      "country": "ドミニカ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ベガフィナ",
+      "name": "イヤー オブ ザ ホース 2026",
+      "variant": "",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ドミニカ共和国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "中華",
+      "name": "スーパースリム",
+      "variant": "",
+      "grams": "",
+      "priceYen": 830,
+      "country": "中華人民共和国"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "date": "2023-06-12",
+  "kind": "shinki",
+  "filename": "20230612_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230612_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "セレクト・1・100ボックス",
+      "variant": "FSK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "セレクト・メンソール・1・100ボックス",
+      "variant": "FSK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "セレクト・メンソール・5・100ボックス",
+      "variant": "FSK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "セレクト・パープル・1・100ボックス",
+      "variant": "FSK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Lampert",
+      "name": "Ocean Breeze Magnum",
+      "variant": "120mm 1本",
+      "grams": "",
+      "priceYen": 3800,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Lampert",
+      "name": "El Gringo Robusto",
+      "variant": "120mm 1本",
+      "grams": "",
+      "priceYen": 3250,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Lampert",
+      "name": "Don Patron Toro",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 3990,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Lampert",
+      "name": "Gatsby Torpedo",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 3950,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MAZAYA",
+      "name": "Yellow Candy",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MAZAYA",
+      "name": "Kiwi with Lemon",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MAZAYA",
+      "name": "Sweet Blue",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MAZAYA",
+      "name": "Italian Ice Cream",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MAZAYA",
+      "name": "Melon with Milk",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MAZAYA",
+      "name": "Pomelo with Mint",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MAZAYA",
+      "name": "Tiramisu",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MAZAYA",
+      "name": "Frozen Green Apple",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MAZAYA",
+      "name": "Coffee with Cardamom",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾖﾙﾀﾞﾝ"
+    }
+  ]
+}

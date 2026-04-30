@@ -1,0 +1,494 @@
+{
+  "date": "2021-08-18",
+  "kind": "shinki",
+  "filename": "20210818_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210818_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱｲﾙﾗﾝﾄﾞ",
+      "name": "ｼｬﾉﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｴﾙｳｯﾄﾞ",
+      "name": "No2",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｵｶﾋﾟ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｵﾗﾌ ﾎﾟｰﾙｿﾝ",
+      "name": "No.88",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｶﾘﾋﾞｱﾝﾌﾞﾚﾝﾄﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｷﾎﾞｺ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2250,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｸﾘｽｳｨﾙ",
+      "name": "ｱｲﾘｯｼｭ ﾐｸｽﾁｬｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｸﾘｽｳｨﾙ",
+      "name": "ｺﾞｰﾙﾃﾞﾝﾈｲﾋﾞｰｶｯﾄ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｸﾘｽｳｨﾙ",
+      "name": "ｸﾗｼｶﾙﾈｲﾋﾞｰｶｯﾄ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｺﾞｰﾄﾞﾝﾋﾟﾑ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2350,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｺｯｸﾛﾋﾞﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾍﾟﾝﾊｰｹﾞﾝ",
+      "name": "ｷｬﾍﾞﾝﾃﾞｨｯｼｭ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾍﾟﾝﾊｰｹﾞﾝ",
+      "name": "ﾛｯﾄNo.35",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2250,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｻﾞ",
+      "name": "ﾚｲﾊﾞﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼﾞｮｰｼﾞｱ",
+      "name": "ﾌﾞﾗｳﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼﾞｮﾘｰ",
+      "name": "ｼﾞｮｰｶｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2250,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｾﾝﾄ",
+      "name": "ﾊﾞｰﾅｰﾄﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2350,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾀﾝﾌﾞﾘﾝ",
+      "name": "ﾀﾞｲｽ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MA",
+      "name": "ﾌﾞﾗｯｸﾌﾞﾚﾝﾄﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2200,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾚｯﾄﾞ ｻﾞ",
+      "name": "ﾌﾛｯｸﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾛﾘﾀﾞ",
+      "name": "ｽﾄﾚｲﾂ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "MA",
+      "name": "ﾎﾜｲﾄﾌﾞﾚﾝﾄﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｲｸｽ",
+      "name": "ﾚﾃﾞｨｰﾗﾌﾞﾄﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾓﾅ",
+      "name": "ﾘｻﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾘﾄﾙ",
+      "name": "ﾚﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｸﾞﾚﾝ",
+      "name": "ﾊﾟｲﾊﾟｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2250,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾓｲ",
+      "name": "ｱｲﾘｯｼｭ ﾐｸｽﾁｬｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾓｲ",
+      "name": "ｲﾝｸﾞﾘｯｼｭ ﾐｸｽﾁｬｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾓｲ",
+      "name": "ｺｰﾆｯｼｭ ﾐｸｽﾁｬｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2500,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾓｲ",
+      "name": "ｽｺﾃｨｯｼｭ ﾐｸｽﾁｬｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼｬｺﾑ",
+      "name": "1",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼｬｺﾑ",
+      "name": "2",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2200,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼｬｺﾑ",
+      "name": "3",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2200,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼｬｺﾑ",
+      "name": "4",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2200,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼｬｺﾑ",
+      "name": "5",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2250,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼｬｺﾑ",
+      "name": "6",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2250,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾊﾞｸﾞﾊﾟｲﾊﾟｰｽﾞ",
+      "name": "ﾄﾞﾘｰﾑ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2250,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｭｱ",
+      "name": "ｵﾘｴﾝﾄ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｭｱ",
+      "name": "ｷｭｰﾊﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｭｱ",
+      "name": "ﾌﾞﾗｼﾞﾙ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｭｱ",
+      "name": "ﾗﾀｷｱ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2250,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾏﾃﾞｭﾛ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2200,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾞｰﾎﾞ",
+      "name": "ﾊﾟｲﾌﾟﾀﾊﾞｺ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Pure Tobacco",
+      "name": "Blueberry",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Pure Tobacco",
+      "name": "Fresh Mint",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Pure Tobacco",
+      "name": "Honeydew Melon",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Pure Tobacco",
+      "name": "Ice Berry",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Pure Tobacco",
+      "name": "Morangie",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Pure Tobacco",
+      "name": "Perfect Peach",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Pure Tobacco",
+      "name": "Tangerine",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Pure Tobacco",
+      "name": "FML Blue",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾍﾞﾛ",
+      "name": "ﾎﾟｰﾗｰ･ﾐﾝﾄ･ｲﾝﾃﾝｽ･ﾅﾉ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 300,
+      "country": "ﾊﾝｶﾞﾘｰ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾍﾞﾛ",
+      "name": "ﾙﾋﾞｰ･ﾍﾞﾘｰ･ｲﾝﾃﾝｽ･ﾅﾉ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 300,
+      "country": "ﾊﾝｶﾞﾘｰ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾍﾞﾛ",
+      "name": "ﾌﾘｰｽﾞ･ｲﾝﾃﾝｽ･ﾅﾉ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 300,
+      "country": "ﾊﾝｶﾞﾘｰ"
+    }
+  ]
+}

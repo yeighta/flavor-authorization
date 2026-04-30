@@ -1,0 +1,26 @@
+{
+  "date": "2019-01-10",
+  "kind": "shinki",
+  "filename": "20190110_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20190110_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺﾞｰﾙﾃﾞﾝﾊﾞｯﾄ",
+      "name": "ｼｶﾞｰ",
+      "variant": "FR ｿﾌﾄﾊﾟｯｸ",
+      "grams": "10.0g",
+      "priceYen": 270,
+      "country": "日本"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺﾞｰﾙﾃﾞﾝﾊﾞｯﾄ",
+      "name": "ｼｶﾞｰ･ﾒﾝｿｰﾙ",
+      "variant": "FR ｿﾌﾄﾊﾟｯｸ",
+      "grams": "10.0g",
+      "priceYen": 270,
+      "country": "日本"
+    }
+  ]
+}

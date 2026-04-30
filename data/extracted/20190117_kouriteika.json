@@ -1,0 +1,71 @@
+{
+  "date": "2019-01-17",
+  "kind": "shinki",
+  "filename": "20190117_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20190117_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾏｲﾙﾄﾞ･ﾌﾞﾚﾝﾄﾞ･ﾌｫｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ",
+      "variant": "5本",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾛｰｽﾄ･ﾌﾞﾚﾝﾄﾞ･ﾌｫｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ",
+      "variant": "5本",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｺｰﾙﾄﾞ･ﾐﾝﾄ･ﾌｫｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ",
+      "variant": "5本",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｸﾘｱ･ﾐﾝﾄ･ﾌｫｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ",
+      "variant": "5本",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾚｷﾞｭﾗｰﾃｲｽﾄ･ﾌｫｰ･ﾌﾟﾙｰﾑ･ｴｽ",
+      "variant": "20本",
+      "grams": "",
+      "priceYen": 480,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾒﾝｿｰﾙ･ﾌｫｰ･ﾌﾟﾙｰﾑ･ｴｽ",
+      "variant": "20本",
+      "grams": "",
+      "priceYen": 480,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾒﾝｿｰﾙ･ｸｰﾙｴﾌｪｸﾄ･ﾌｫｰ･ﾌﾟﾙｰﾑ･ｴｽ",
+      "variant": "20本",
+      "grams": "",
+      "priceYen": 480,
+      "country": "日本"
+    }
+  ]
+}

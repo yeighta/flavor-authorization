@@ -1,0 +1,35 @@
+{
+  "date": "2025-04-07",
+  "kind": "shinki",
+  "filename": "20250407_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250407_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "ディープ・レギュラー・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "コールド・メンソール・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "ベリー・クリスタル・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 550,
+      "country": "日本"
+    }
+  ]
+}

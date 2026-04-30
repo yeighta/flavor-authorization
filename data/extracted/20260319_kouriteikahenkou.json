@@ -1,0 +1,197 @@
+{
+  "date": "2026-03-19",
+  "kind": "henkou",
+  "filename": "20260319_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260319_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クラブマスター",
+      "name": "ミニ・スーペリア・バニラ",
+      "variant": "67mm 20本 缶",
+      "grams": "",
+      "priceYen": 1050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クラブマスター",
+      "name": "ミニ・スーペリア・ブラジル",
+      "variant": "67mm 20本 缶",
+      "grams": "",
+      "priceYen": 1050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クラブマスター",
+      "name": "ミニ・スーペリア・スマトラ",
+      "variant": "67mm 20本 缶",
+      "grams": "",
+      "priceYen": 1050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クラブマスター",
+      "name": "ミニ・スーペリア・チョコレート",
+      "variant": "67mm 20本 缶",
+      "grams": "",
+      "priceYen": 1050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クラブマスター",
+      "name": "ミニ・スーペリア・ブルー",
+      "variant": "67mm 20本 缶",
+      "grams": "",
+      "priceYen": 1050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クラブマスター",
+      "name": "ミニ・バニラ・フィルター",
+      "variant": "70mm 20本 箱",
+      "grams": "",
+      "priceYen": 1150,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クラブマスター",
+      "name": "ミニ・ホワイト・フィルター",
+      "variant": "70mm 20本 箱",
+      "grams": "",
+      "priceYen": 1150,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "チャズ",
+      "name": "シガリロ",
+      "variant": "100mm 20本 箱",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "チャズ",
+      "name": "シガロス・コルトス",
+      "variant": "75mm 10本 箱",
+      "grams": "",
+      "priceYen": 1400,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "チャズ",
+      "name": "シガロス",
+      "variant": "105mm 5本 箱",
+      "grams": "",
+      "priceYen": 930,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "フランドリア",
+      "name": "ブラック",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 760,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "フランドリア",
+      "name": "ナチュラル",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 760,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "フランドリア",
+      "name": "スパニッシュバージニア",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 760,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "フランドリア",
+      "name": "バージニア",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 760,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "フランドリア",
+      "name": "バニラ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 760,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "フランドリア",
+      "name": "オリジナル",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 760,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "フランドリア",
+      "name": "ゴールド",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 760,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "フランドリア",
+      "name": "シルバー",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 760,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "H.O.T.",
+      "name": "レッド",
+      "variant": "1本",
+      "grams": "1.0g",
+      "priceYen": 560,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "H.O.T.",
+      "name": "ブルー",
+      "variant": "1本",
+      "grams": "1.0g",
+      "priceYen": 560,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "H.O.T.",
+      "name": "メンソール",
+      "variant": "1本",
+      "grams": "1.0g",
+      "priceYen": 560,
+      "country": "ｱﾒﾘｶ合衆国"
+    }
+  ]
+}

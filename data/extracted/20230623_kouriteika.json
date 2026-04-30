@@ -1,0 +1,377 @@
+{
+  "date": "2023-06-23",
+  "kind": "shinki",
+  "filename": "20230623_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230623_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｼｶﾞﾛｰﾈ",
+      "name": "ﾏｸﾞﾈｯﾄ",
+      "variant": "F97mm 20本 ﾎﾞｯｸｽ",
+      "grams": "",
+      "priceYen": 750,
+      "country": "ｱﾙﾒﾆｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Tatuaje",
+      "name": "Cojonu 2006",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2900,
+      "country": "ｱﾒﾘｶ合衆国,ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｴﾙ ﾌﾞﾙﾋｰﾄ",
+      "name": "Year of Rabbit 2023",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Auspicious",
+      "name": "Serie H No.1",
+      "variant": "124mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Cigar Bank",
+      "name": "Seleccion Robusto",
+      "variant": "124mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Mappa",
+      "name": "#18 Robusto",
+      "variant": "135mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Mappa",
+      "name": "#19 Robusto",
+      "variant": "135mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Mappa",
+      "name": "#18 Cañonazo",
+      "variant": "160mm 1本",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Mappa",
+      "name": "#19 Cañonazo",
+      "variant": "160mm 1本",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Malaki",
+      "name": "Citrus",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1850,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Malaki",
+      "name": "Licorice",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1850,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Malaki",
+      "name": "Two Apple Diamond",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1850,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Malaki",
+      "name": "Grape",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1850,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Malaki",
+      "name": "Dreamy Love",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1850,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Watermelon",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Grape",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Amarena Cherry",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Garnet",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Grapefruit",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Wild Berries",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Cactus",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Strawberry",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Mango Yogurt",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Herbal Currant",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Root Beer",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Prunes",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Apple Juice",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black TOP",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Bubble Gum",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Limonchello",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Lemon Candy",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Cookie Monster",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Strawberry Banana",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Mellow Mango",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Western",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Green Pear",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Feiberry",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Barberry",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Blueberry",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Cola",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black Strawberry-Guava",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2019-03-13",
+  "kind": "shinki",
+  "filename": "20190313_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20190313_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾌﾟﾚﾐｱﾑﾒﾝｿｰﾙ･ｵﾌﾟｼｮﾝ･ﾏｽｶｯﾄｸﾞﾘｰﾝ･5･100's･ｽﾘﾑ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾌﾟﾚﾐｱﾑﾒﾝｿｰﾙ･ｵﾌﾟｼｮﾝ･ﾏｽｶｯﾄｸﾞﾘｰﾝ･ﾜﾝ･100's･ｽﾘﾑ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "日本"
+    }
+  ]
+}

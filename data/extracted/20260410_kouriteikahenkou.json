@@ -1,0 +1,44 @@
+{
+  "date": "2026-04-10",
+  "kind": "henkou",
+  "filename": "20260410_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260410_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "エル ブルヒート",
+      "name": "F1",
+      "variant": "125mm 1本",
+      "grams": "",
+      "priceYen": 1550,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "エル ブルヒート",
+      "name": "F8",
+      "variant": "110mm 1本",
+      "grams": "",
+      "priceYen": 1250,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "アルファンブラ",
+      "name": "緑帯 ロブスト",
+      "variant": "125mm 1本",
+      "grams": "",
+      "priceYen": 1650,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "アルファンブラ",
+      "name": "緑帯 ハーフコロナ",
+      "variant": "100mm 1本",
+      "grams": "",
+      "priceYen": 1300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

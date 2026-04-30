@@ -1,0 +1,80 @@
+{
+  "date": "2019-02-19",
+  "kind": "shinki",
+  "filename": "20190219_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20190219_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ｹﾝﾄ",
+      "name": "ﾈｵｽﾃｨｯｸ･ﾘｯﾁ･ﾀﾊﾞｺ･ｴｯｸｽ",
+      "variant": "20本",
+      "grams": "",
+      "priceYen": 460,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｹﾝﾄ",
+      "name": "ﾈｵｽﾃｨｯｸ･ﾐﾝﾄ･ﾌﾞｰｽﾄ･ｴｯｸｽ",
+      "variant": "20本",
+      "grams": "",
+      "priceYen": 460,
+      "country": "大韓民国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Rudies",
+      "name": "Robusto",
+      "variant": "1本 127mm",
+      "grams": "",
+      "priceYen": 1200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "The",
+      "name": "B",
+      "variant": "1本 125mm",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｼﾃｨｰﾗｲﾝ･No.3",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｶﾛ･ﾐｵ",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｻﾝﾃﾞｰｽﾞ･ﾍﾞｽﾄ",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 4100,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾌﾞﾙｰ･ｶﾅﾘｰ",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾞｲﾂ"
+    }
+  ]
+}

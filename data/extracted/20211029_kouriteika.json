@@ -1,0 +1,620 @@
+{
+  "date": "2021-10-29",
+  "kind": "shinki",
+  "filename": "20211029_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20211029_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "APPLE CREAM",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "BANANA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "BLACK GRAPE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "BLUEBERRY SPECIAL",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "BUBBLE GUM",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "CHERRY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "CHOCOLATE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "COCONUT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "COFFEE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "COLA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "CREAM",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "DOUBLE APPLE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "ESKANDARANI",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "FROSTY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "FROSTY BLUEBERRY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "FROSTY DOUBLE APPLE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "FROSTY LEMON",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "GRAPEFRUIT(SINDI)",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "GUAVA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "GUM",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "GUM MINT ICE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "GRAPE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "GRAPE MINT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "GUM CINNAMON",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "GUM MELON",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "ICE MANGO",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "Kiwi",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "LEMON",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "LEMON LIME ICE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "LEMON MINT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "LOVE XO",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "MANGO",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "MANGO CREAM",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "MASTIC GUM",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "MELON",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "Milk",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "MINT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "MINT CREAM",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "MIXED FRUIT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "MOJITO",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "ORANGE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "ORANGE CREAM",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "ORANGE MINT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "PAAN",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "PASSION FRUIT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "PEACH",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "PEACH CREAM",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "RASPBERRY GRAPE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "ROSE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "STRAWBERRY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "STRAWBERRY CREAM",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "VANILLA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "WATERMELON",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Layalina Ya Layl",
+      "name": "WATERMELON MINT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Eskimo Cola Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Mango Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾂｹﾞ",
+      "name": "M-33",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2600,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾂｹﾞ",
+      "name": "M-34",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2600,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾂｹﾞ",
+      "name": "M-35",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2600,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾂｹﾞ",
+      "name": "M-36",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2600,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾂｹﾞ",
+      "name": "M-79",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2200,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｰｺﾆｰｽﾞ",
+      "name": "ｴｷｾﾃﾞｽ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 3000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｰｺﾆｰｽﾞ",
+      "name": "ｸﾞﾛﾘｵｽﾐｯｼｮﾝ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 3000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｰｺﾆｰｽﾞ",
+      "name": "ｶﾅﾃﾞｨｱﾝﾃﾝﾊﾟｰ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 3000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｰｺﾆｰｽﾞ",
+      "name": "ﾐｽﾃﾘｱｽｱｲﾗﾝﾄﾞ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 3000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BS･ｼｰｼｬ",
+      "name": "ｼﾞﾝｼﾞｬｴｰﾙ",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BS･ｼｰｼｬ",
+      "name": "ｱﾏｿﾞﾝｶﾞﾗﾅ",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BS･ｼｰｼｬ",
+      "name": "ﾁｪﾘｰｺｰﾗ",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾗｵｽ"
+    }
+  ]
+}

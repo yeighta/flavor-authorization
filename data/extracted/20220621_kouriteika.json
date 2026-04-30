@@ -1,0 +1,116 @@
+{
+  "date": "2022-06-21",
+  "kind": "shinki",
+  "filename": "20220621_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220621_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ｾﾞﾛｽﾀｲﾙ",
+      "name": "ｽﾇｰｽ･ﾘｯﾁ･ﾐﾃﾞｨｱﾑ",
+      "variant": "缶",
+      "grams": "6.1g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｾﾞﾛｽﾀｲﾙ",
+      "name": "ｽﾇｰｽ･ｱｯﾌﾟﾙﾐﾝﾄ･ﾗｲﾄ",
+      "variant": "缶",
+      "grams": "6.1g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｾﾞﾛｽﾀｲﾙ",
+      "name": "ｽﾇｰｽ･ﾊﾞﾆﾗ･ﾗｲﾄ",
+      "variant": "缶",
+      "grams": "6.1g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｾﾞﾛｽﾀｲﾙ",
+      "name": "ｽﾇｰｽ･ｸｰﾙﾐﾝﾄ･ﾐﾃﾞｨｱﾑ",
+      "variant": "缶",
+      "grams": "6.1g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｾﾞﾛｽﾀｲﾙ",
+      "name": "ｽﾇｰｽ･ｽﾊﾟｲｽ･ｽﾄﾛﾝｸﾞ",
+      "variant": "缶",
+      "grams": "8.1g",
+      "priceYen": 550,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｾﾞﾛｽﾀｲﾙ",
+      "name": "ｽﾇｰｽ･ﾃﾞｨｰﾌﾟ･ﾒﾝｿｰﾙ･ｽﾄﾛﾝｸﾞ",
+      "variant": "缶",
+      "grams": "8.1g",
+      "priceYen": 550,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｾﾞﾛｽﾀｲﾙ",
+      "name": "ｽﾇｰｽ･抹茶ﾗﾃ･ﾗｲﾄ",
+      "variant": "缶",
+      "grams": "5.6g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｾﾞﾛｽﾀｲﾙ",
+      "name": "ｽﾇｰｽ･梅･ﾗｲﾄ",
+      "variant": "缶",
+      "grams": "5.6g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾏｶﾇｰﾄﾞ",
+      "name": "ｲﾝｽﾋﾟﾗｰﾄﾞ ｵﾚﾝｼﾞ ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本 ｾﾛﾊﾝ",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾏｶﾇｰﾄﾞ",
+      "name": "ｲﾝｽﾋﾟﾗｰﾄﾞ ｵﾚﾝｼﾞ ｷﾞｶﾞﾝﾃ",
+      "variant": "152mm 1本 ｾﾛﾊﾝ",
+      "grams": "",
+      "priceYen": 1400,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V 135 Aniversario",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾙﾀｶﾞｽ",
+      "name": "ﾚｶﾞﾄﾞｽ LE 2020",
+      "variant": "157mm 1本",
+      "grams": "",
+      "priceYen": 5000,
+      "country": "ｷｭｰﾊﾞ"
+    }
+  ]
+}

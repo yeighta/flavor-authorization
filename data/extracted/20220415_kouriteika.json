@@ -1,0 +1,80 @@
+{
+  "date": "2022-04-15",
+  "kind": "shinki",
+  "filename": "20220415_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220415_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "キャメル",
+      "name": "クラフト・12・ボックス",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 430,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "キャメル",
+      "name": "クラフト・6・ボックス",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 430,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "キャメル",
+      "name": "クラフト・1・100’s・ボックス",
+      "variant": "FSK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 430,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "キャメル",
+      "name": "クラフト・メンソール・5・ボックス",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 430,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "キャメル",
+      "name": "クラフト・メンソール・1・100’s・ボックス",
+      "variant": "FSK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 430,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "キャメル",
+      "name": "クラフト・メンソール・ベリーカプセル・8・ボックス",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 430,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "キャメル",
+      "name": "クラフト・メンソール・ベリーカプセル・5・ボックス",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 430,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "キャメル",
+      "name": "クラフト・メンソール・ベリーカプセル・1・100’s・ボックス",
+      "variant": "FSK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 430,
+      "country": "日本"
+    }
+  ]
+}

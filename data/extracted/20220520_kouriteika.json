@@ -1,0 +1,89 @@
+{
+  "date": "2022-05-20",
+  "kind": "shinki",
+  "filename": "20220520_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220520_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾃﾘｱ",
+      "name": "ﾙﾋﾞｰ･ﾚｷﾞｭﾗｰ",
+      "variant": "F45 20ｽﾃｨｯｸ ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 580,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Caldwell",
+      "name": "Eastern Standard Cream Crush",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 3600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Caldwell",
+      "name": "Long Live the King Petite Double Wide Short Churchill",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Cohiba",
+      "name": "Blue Churchill",
+      "variant": "190mm 1本",
+      "grams": "",
+      "priceYen": 4700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Cohiba",
+      "name": "Royale Gran",
+      "variant": "112mm 1本",
+      "grams": "",
+      "priceYen": 8300,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Flor De Las Antillas",
+      "name": "Toro Gordo",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Flor De Las Antillas",
+      "name": "Toro",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Warped",
+      "name": "Cloud Hopper Number 53",
+      "variant": "133mm 1本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Warped",
+      "name": "Serie Gran Reserva 1988 Robusto GR88",
+      "variant": "133mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

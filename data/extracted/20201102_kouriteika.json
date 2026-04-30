@@ -1,0 +1,125 @@
+{
+  "date": "2020-11-02",
+  "kind": "shinki",
+  "filename": "20201102_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20201102_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾋｰﾂ",
+      "name": "ﾋﾟｭｱ･ﾃｨｰｸ",
+      "variant": "F45 20ｽﾃｨｯｸ ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱｳﾞｫ",
+      "name": "ﾘｰｼﾞｮﾅﾙ ﾉｰｽ ｴﾃﾞｨｼｮﾝ",
+      "variant": "177mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱｳﾞｫ",
+      "name": "ﾘｰｼﾞｮﾅﾙ ｻｳｽ ｴﾃﾞｨｼｮﾝ",
+      "variant": "168mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｲﾔｰ ｵﾌﾞ ｻﾞ ｵｯｸｽ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 9500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "DOG ﾏｽﾀｰｾﾚｸｼｮﾝ 2014",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 7300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ﾏｽﾀｰｾﾚｸｼｮﾝ 2012",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 7300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱｯﾌﾟｽﾀｲﾙ",
+      "name": "ｵﾘｼﾞﾅﾙ",
+      "variant": "100mm 16本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 290,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱｯﾌﾟｽﾀｲﾙ",
+      "name": "ﾒﾝｿｰﾙ",
+      "variant": "100mm 16本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 290,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱｯﾌﾟｽﾀｲﾙ",
+      "name": "ｽﾑｰｽﾞ",
+      "variant": "100mm 16本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 290,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ｸﾗﾌﾞ 10's 2020 ED",
+      "variant": "97mm 10本",
+      "grams": "",
+      "priceYen": 1850,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ｼｮｰﾄ ﾋｭﾐﾄﾞｰﾙ50 2020ED",
+      "variant": "82mm 50本",
+      "grams": "",
+      "priceYen": 14200,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ｼｮｰﾄ 5's 2020ED",
+      "variant": "82mm 1本",
+      "grams": "",
+      "priceYen": 270,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛﾒｵYｼﾞｭﾘｴｯﾀ",
+      "name": "ｸﾗﾌﾞ 20's Tin 2020ED",
+      "variant": "97mm 20本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ｷｭｰﾊﾞ"
+    }
+  ]
+}

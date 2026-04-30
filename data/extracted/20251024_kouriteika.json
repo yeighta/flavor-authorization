@@ -1,0 +1,53 @@
+{
+  "date": "2025-10-24",
+  "kind": "shinki",
+  "filename": "20251024_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20251024_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "JFR",
+      "name": "Connecticut Junior",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 1300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "JFR",
+      "name": "20th Anniversary Super Toro",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "La Validacion Maduro Toro BP",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Lunatic",
+      "name": "Habano Hombre Libre",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Lunatic",
+      "name": "Maduro Short Robusto",
+      "variant": "120mm 1本",
+      "grams": "",
+      "priceYen": 1600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

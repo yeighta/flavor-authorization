@@ -1,0 +1,98 @@
+{
+  "date": "2021-12-22",
+  "kind": "shinki",
+  "filename": "20211222_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20211222_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta Tobacco",
+      "name": "Arak",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3420,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta Tobacco",
+      "name": "Iced Orange Mint",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3420,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta Tobacco",
+      "name": "Raspberry Lemon Roll",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3420,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌｪﾘｰｽ",
+      "name": "ｽﾄﾛﾍﾞﾘｰ･ｼｶﾞﾘﾛ",
+      "variant": "118mm 5本 箱",
+      "grams": "",
+      "priceYen": 750,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌｪﾘｰｽ",
+      "name": "ﾊﾆｰ･ｼｶﾞﾘﾛ",
+      "variant": "118mm 5本 箱",
+      "grams": "",
+      "priceYen": 750,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌｪﾘｰｽ",
+      "name": "ｺﾆｬｯｸ･ｼｶﾞﾘﾛ",
+      "variant": "118mm 5本 箱",
+      "grams": "",
+      "priceYen": 750,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌｪﾘｰｽ",
+      "name": "ﾊﾞﾆﾗ･ｼｶﾞﾘﾛ",
+      "variant": "118mm 5本 箱",
+      "grams": "",
+      "priceYen": 750,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌｪﾘｰｽ",
+      "name": "ｽｳｨｰﾄ･ｼｶﾞﾘﾛ",
+      "variant": "118mm 5本 箱",
+      "grams": "",
+      "priceYen": 750,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾗﾝﾄﾞﾘｱ",
+      "name": "ｵﾘｼﾞﾅﾙ",
+      "variant": "",
+      "grams": "25.0g",
+      "priceYen": 720,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ﾊﾟｲﾌﾟﾀﾊﾞｺ ｲﾔｰ ｵﾌﾞ ｻﾞ ﾀｲｶﾞｰ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 12500,
+      "country": "ﾄﾞｲﾂ"
+    }
+  ]
+}

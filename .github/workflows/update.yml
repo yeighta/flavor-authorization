@@ -1,0 +1,60 @@
+name: Update tobacco DB
+
+on:
+  schedule:
+    # Hourly on the 17th minute (avoid the top-of-hour stampede on free runners).
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-db
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # We commit back data/* so we need full history for non-fast-forward pushes.
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.26'
+          cache: true
+
+      - name: Refresh PDF URL list
+        run: go run ./cmd/collect-urls -out data/pdf-urls.json
+
+      - name: Scrape new PDFs (incremental, skips already-cached)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          # Limit per-run to keep within the free-tier RPM and to bound runtime.
+          # Bootstrap (when cache is mostly empty) needs --limit 0 manually.
+          go run ./cmd/scraper -limit 60 -rps 0.2
+
+      - name: Classify newly-seen manufacturers
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: go run ./cmd/classify
+
+      - name: Commit data updates
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/
+          if git diff --cached --quiet; then
+            echo "no data changes"
+            exit 0
+          fi
+          git commit -m "data: scheduled refresh ($(date -u +%Y-%m-%dT%H:%MZ))"
+          # Pull --rebase before pushing to handle concurrent runs gracefully.
+          git pull --rebase --autostash origin ${{ github.ref_name }}
+          git push

@@ -1,0 +1,80 @@
+{
+  "date": "2025-07-28",
+  "kind": "shinki",
+  "filename": "20250728_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250728_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Bang Bang",
+      "name": "FEEL FREE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1780,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Bang Bang",
+      "name": "SILENT NIGHT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1780,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Bang Bang",
+      "name": "ENGLISH MAN",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1780,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Bang Bang",
+      "name": "LOVE ISLAND",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1780,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AL AMASI",
+      "name": "Paprika",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AL AMASI",
+      "name": "Curry Spice",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AL AMASI",
+      "name": "Energy Bull",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AL AMASI",
+      "name": "Xylitol Gum",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    }
+  ]
+}

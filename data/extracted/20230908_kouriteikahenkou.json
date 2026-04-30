@@ -1,0 +1,341 @@
+{
+  "date": "2023-09-08",
+  "kind": "henkou",
+  "filename": "20230908_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230908_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ｸﾗﾌﾞ 10's",
+      "variant": "96.5mm 10本",
+      "grams": "",
+      "priceYen": 2300,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ｸﾗﾌﾞ",
+      "variant": "96.5mm 20本",
+      "grams": "",
+      "priceYen": 4600,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ｸﾗﾌﾞ ﾎﾜｲﾄ10",
+      "variant": "96.5mm 10本",
+      "grams": "",
+      "priceYen": 2300,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ｸﾗﾌﾞ ﾎﾜｲﾄ",
+      "variant": "96.5mm 20本",
+      "grams": "",
+      "priceYen": 4600,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ﾐﾆｼｶﾞﾘﾛ10's",
+      "variant": "87mm 10本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ﾐﾆｼｶﾞﾘﾛ",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 3800,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ﾐﾆｼｶﾞﾘﾛ ﾎﾜｲﾄ10",
+      "variant": "87mm 10本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ﾐﾆｼｶﾞﾘﾛ ﾎﾜｲﾄ",
+      "variant": "87mm 20本",
+      "grams": "",
+      "priceYen": 3800,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ｼｮｰﾄ",
+      "variant": "82mm 1本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸﾞｱﾝﾀﾅﾒﾗ",
+      "name": "ｸﾘｽﾀﾚｽ",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 880,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸﾞｱﾝﾀﾅﾒﾗ",
+      "name": "ﾃﾞｼﾓｽ",
+      "variant": "134mm 1本",
+      "grams": "",
+      "priceYen": 580,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸﾞｱﾝﾀﾅﾒﾗ",
+      "name": "ﾐﾆｼｶﾞﾘﾛ",
+      "variant": "81mm 20本",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸﾞｱﾝﾀﾅﾒﾗ",
+      "name": "ﾌﾟﾘﾄｽ",
+      "variant": "106mm 1本",
+      "grams": "",
+      "priceYen": 380,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾎｾ･L･ﾋﾟｴﾄﾞﾗ",
+      "name": "ﾐﾆｼｶﾞﾘﾛ",
+      "variant": "78mm 20本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾓﾝﾃｸﾘｽﾄ",
+      "name": "ｸﾗﾌﾞ 10's",
+      "variant": "97mm 10本",
+      "grams": "",
+      "priceYen": 1850,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾓﾝﾃｸﾘｽﾄ",
+      "name": "ｸﾗﾌﾞ",
+      "variant": "97mm 20本",
+      "grams": "",
+      "priceYen": 3700,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾓﾝﾃｸﾘｽﾄ",
+      "name": "ﾐﾆｼｶﾞﾘﾛ10's",
+      "variant": "83mm 10本",
+      "grams": "",
+      "priceYen": 1550,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾓﾝﾃｸﾘｽﾄ",
+      "name": "ﾐﾆｼｶﾞﾘﾛ",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 3100,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾓﾝﾃｸﾘｽﾄ",
+      "name": "ﾐﾆｼｶﾞﾘﾛ50's",
+      "variant": "82mm 1本",
+      "grams": "",
+      "priceYen": 162,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾓﾝﾃｸﾘｽﾄ",
+      "name": "ｵｰﾌﾟﾝｸﾗﾌﾞ 10's",
+      "variant": "97mm 10本",
+      "grams": "",
+      "priceYen": 1850,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾓﾝﾃｸﾘｽﾄ",
+      "name": "ｵｰﾌﾟﾝｸﾗﾌﾞ 20's",
+      "variant": "97mm 20本",
+      "grams": "",
+      "priceYen": 3700,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾓﾝﾃｸﾘｽﾄ",
+      "name": "ｵｰﾌﾟﾝ ﾐﾆｼｶﾞﾘﾛ10's",
+      "variant": "83mm 10本",
+      "grams": "",
+      "priceYen": 1550,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾓﾝﾃｸﾘｽﾄ",
+      "name": "ｵｰﾌﾟﾝ ﾐﾆｼｶﾞﾘﾛ20's",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 3100,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾓﾝﾃｸﾘｽﾄ",
+      "name": "ｼｮｰﾄ",
+      "variant": "83mm 1本",
+      "grams": "",
+      "priceYen": 280,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾙﾀｶﾞｽ",
+      "name": "ﾁｺ",
+      "variant": "106mm 1本",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾙﾀｶﾞｽ",
+      "name": "ｸﾗﾌﾞ",
+      "variant": "97mm 1本",
+      "grams": "",
+      "priceYen": 163,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾙﾀｶﾞｽ",
+      "name": "ﾐﾆｼｶﾞﾘﾛ",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 2650,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾙﾀｶﾞｽ",
+      "name": "ｾﾘｰｸﾗﾌﾞ10's",
+      "variant": "97mm 10本",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾙﾀｶﾞｽ",
+      "name": "ｾﾘｰｸﾗﾌﾞ",
+      "variant": "97mm 20本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾙﾀｶﾞｽ",
+      "name": "ｾﾘｰ ﾐﾆｼｶﾞﾘﾛ 10's",
+      "variant": "83mm 10本",
+      "grams": "",
+      "priceYen": 1450,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾙﾀｶﾞｽ",
+      "name": "ｾﾘｰ ﾐﾆｼｶﾞﾘﾛ",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 2900,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛﾒｵ･Y･ｼﾞｭﾘｴｯﾀ",
+      "name": "ｸﾗﾌﾞ",
+      "variant": "97mm 20本",
+      "grams": "",
+      "priceYen": 3500,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛﾒｵ･Y･ｼﾞｭﾘｴｯﾀ",
+      "name": "ﾐﾆｼｶﾞﾘﾛ10's",
+      "variant": "83mm 10本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛﾒｵ･Y･ｼﾞｭﾘｴｯﾀ",
+      "name": "ｽﾓｰﾙｼｶﾞﾘﾛ",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛﾒｵ･Y･ｼﾞｭﾘｴｯﾀ",
+      "name": "ｽﾓｰﾙｼｶﾞﾘﾛ50's",
+      "variant": "83mm 50本",
+      "grams": "",
+      "priceYen": 7800,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛﾒｵ･Y･ｼﾞｭﾘｴｯﾀ",
+      "name": "ﾌﾟﾘﾄｽ",
+      "variant": "107mm 1本",
+      "grams": "",
+      "priceYen": 420,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾄﾘﾆﾀﾞｯﾄﾞ",
+      "name": "ｼｮｰﾄ",
+      "variant": "82mm 1本",
+      "grams": "",
+      "priceYen": 320,
+      "country": "ｷｭｰﾊﾞ"
+    }
+  ]
+}

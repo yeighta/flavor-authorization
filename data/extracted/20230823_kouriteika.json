@@ -1,0 +1,26 @@
+{
+  "date": "2023-08-23",
+  "kind": "shinki",
+  "filename": "20230823_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230823_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｲｰｼﾘｰｽﾞ･ﾒﾝｿｰﾙ･ｻﾆｰｺﾞｰﾙﾄﾞ･8",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｲｰｼﾘｰｽﾞ･ﾒﾝｿｰﾙ･ｻﾆｰｺﾞｰﾙﾄﾞ･5",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    }
+  ]
+}

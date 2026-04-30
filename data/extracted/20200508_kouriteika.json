@@ -1,0 +1,134 @@
+{
+  "date": "2020-05-08",
+  "kind": "shinki",
+  "filename": "20200508_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20200508_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ケント",
+      "name": "ネオスティック・トゥルー・タバコ・glo hyper用",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 470,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ケント",
+      "name": "ネオスティック・トゥルー・メンソール・glo hyper用",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 470,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ケント",
+      "name": "ネオスティック・トゥルー・ベリー・ブースト・glo hyper用",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 470,
+      "country": "大韓民国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "アヴォ",
+      "name": "インプロビゼーション 2020",
+      "variant": "162mm 1本",
+      "grams": "",
+      "priceYen": 5200,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "スペシャル53 2020",
+      "variant": "156mm 1本",
+      "grams": "",
+      "priceYen": 7500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ロブスト インテンソ 2020",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 7500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "エクセレント",
+      "name": "アップル(25)",
+      "variant": "パウチ",
+      "grams": "25.0g",
+      "priceYen": 620,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "エクセレント",
+      "name": "キールロワイヤル(25)",
+      "variant": "パウチ",
+      "grams": "25.0g",
+      "priceYen": 620,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "エクセレント",
+      "name": "グレープ(25)",
+      "variant": "パウチ",
+      "grams": "25.0g",
+      "priceYen": 620,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "エクセレント",
+      "name": "スイートプラム(25)",
+      "variant": "パウチ",
+      "grams": "25.0g",
+      "priceYen": 620,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "エクセレント",
+      "name": "パイナップル(25)",
+      "variant": "パウチ",
+      "grams": "25.0g",
+      "priceYen": 620,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "エクセレント",
+      "name": "バニラ(25)",
+      "variant": "パウチ",
+      "grams": "25.0g",
+      "priceYen": 620,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "エクセレント",
+      "name": "マンゴー(25)",
+      "variant": "パウチ",
+      "grams": "25.0g",
+      "priceYen": 620,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "エクセレント",
+      "name": "レモンミント(25)",
+      "variant": "パウチ",
+      "grams": "25.0g",
+      "priceYen": 620,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    }
+  ]
+}

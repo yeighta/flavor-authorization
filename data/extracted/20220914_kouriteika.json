@@ -1,0 +1,98 @@
+{
+  "date": "2022-09-14",
+  "kind": "shinki",
+  "filename": "20220914_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220914_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾍﾞﾛ",
+      "name": "ﾌﾘｰｽﾞ･ｴｯｸｽｲﾝﾃﾝｽ･ﾅﾉ",
+      "variant": "15個 缶",
+      "grams": "",
+      "priceYen": 300,
+      "country": "ﾊﾝｶﾞﾘｰ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ﾋﾟﾗﾐﾃﾞｽ ｴｸｽﾄﾗ ﾃｭﾎﾞｽ",
+      "variant": "160mm 1本",
+      "grams": "",
+      "priceYen": 12500,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ﾛﾌﾞｽﾄｽ ﾃｭﾎﾞｽ",
+      "variant": "124mm 1本",
+      "grams": "",
+      "priceYen": 8400,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌｧﾝﾛﾍﾟｽﾞ",
+      "name": "ｾﾚｸｼｮﾝ ｴｽﾍﾟｼｬﾙ",
+      "variant": "170mm 1本",
+      "grams": "",
+      "priceYen": 6400,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｼｬｸﾞ･ﾏﾛﾝｸﾞﾗｯｾ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｼｬｸﾞ･ﾏﾝｺﾞｰﾗｯｼｰ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｼｬｸﾞ･ゆず",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｼｬｸﾞ･ﾗﾑﾈ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｼｬｸﾞ･ﾌﾛｰｽﾞﾝﾓﾋｰﾄ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｽﾍﾟｰﾄﾞ",
+      "name": "ｴｱｰﾌﾞﾚﾝﾄﾞ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "20.0g",
+      "priceYen": 500,
+      "country": "ﾗｵｽ"
+    }
+  ]
+}

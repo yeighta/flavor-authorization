@@ -1,0 +1,26 @@
+{
+  "date": "2021-10-27",
+  "kind": "shinki",
+  "filename": "20211027_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20211027_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｵﾌﾟｼｮﾝ･ﾊﾟｰﾌﾟﾙ･ﾌﾟﾙｰﾑ･ｴｯｸｽ･ﾌﾟﾙｰﾑ･ｴｽ用",
+      "variant": "20本",
+      "grams": "11.5g",
+      "priceYen": 570,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｵﾌﾟｼｮﾝ･ｲｴﾛｰ･ﾌﾟﾙｰﾑ･ｴｯｸｽ･ﾌﾟﾙｰﾑ･ｴｽ用",
+      "variant": "20本",
+      "grams": "11.4g",
+      "priceYen": 570,
+      "country": "日本"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "date": "2025-10-20",
+  "kind": "shinki",
+  "filename": "20251020_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20251020_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Jaime Garcia",
+      "name": "Reserva Especial Figurado",
+      "variant": "143mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Tatuaje",
+      "name": "Black Petite Lancero",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "El Triunfador",
+      "name": "Lancero Original",
+      "variant": "191mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Tatuaje",
+      "name": "10th Belle Encre Perfect",
+      "variant": "136mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Pepin Garcia",
+      "name": "Serie JJ 20th Anniversary Toro",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 5000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Pepin Garcia",
+      "name": "Serie JJ 20th Anniversary Salomon",
+      "variant": "184mm 1本",
+      "grams": "",
+      "priceYen": 7000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Bang Bang",
+      "name": "Ice Grape",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1780,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DARKSIDE",
+      "name": "RETRO APPLE",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    }
+  ]
+}

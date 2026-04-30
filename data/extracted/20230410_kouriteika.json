@@ -1,0 +1,386 @@
+{
+  "date": "2023-04-10",
+  "kind": "shinki",
+  "filename": "20230410_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230410_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｼｰｴｰｵｰ",
+      "name": "ﾌｧｲﾔｰｳｫｰｶｰ LE",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｷｬﾌﾟﾃﾝﾌﾞﾗｯｸ",
+      "name": "ﾊﾟｲﾌﾟ ｳｫｰﾀｰﾒﾛﾝ 42.5",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "42.5g",
+      "priceYen": 1400,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｷｬﾌﾟﾃﾝﾌﾞﾗｯｸ",
+      "name": "ﾊﾟｲﾌﾟ ｸﾞﾘｰﾝｱｯﾌﾟﾙ 42.5",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "42.5g",
+      "priceYen": 1400,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾟｴﾌﾞﾛ",
+      "name": "ﾅﾁｭﾗﾙ ｼｬｸﾞﾌﾞﾙｰ 100",
+      "variant": "円柱ﾎﾞｯｸｽ",
+      "grams": "100.0g",
+      "priceYen": 2690,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Black Line Pineapple",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Black Line Green Tea",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Black Line Passion Fruit",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Black Line Royal Orange",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Kokutou",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Chestnut",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Down Under",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Grapefruit",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Kiwi",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Passion Fruit",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Pineapple",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Wasabi",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Roasted Green Tea",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Vanilla Beans",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Peanut Butter",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Red Bean",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Rum Raisin",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Royal Milk Tea",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Sakura",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Black Sesame",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Coconut Milk",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Osaka",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Tokyo",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Vangvieng Special",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Banana Hazelnut",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line White Chocolate",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Ube",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Ramune",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Relax and Shisha",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Milk",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Honey Comb",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line I Want to Eat a Pancake",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Maple Syrup",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tangiers",
+      "name": "Cane Mint Alpha",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tangiers",
+      "name": "Pink Grapefruit",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tangiers",
+      "name": "Foreplay on the Peach",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Sweet Pineapple Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Mastic Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    }
+  ]
+}

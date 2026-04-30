@@ -1,0 +1,35 @@
+{
+  "date": "2025-11-07",
+  "kind": "shinki",
+  "filename": "20251107_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20251107_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "",
+      "name": "ブリックトーバーフェスト・リミテッドエディション",
+      "variant": "197mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "イヤー オブ ザ ホース 2026",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 18000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "イヤー オブ ザ ホース フラッグシップ 2026",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 23000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    }
+  ]
+}

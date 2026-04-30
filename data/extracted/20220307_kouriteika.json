@@ -1,0 +1,62 @@
+{
+  "date": "2022-03-07",
+  "kind": "shinki",
+  "filename": "20220307_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220307_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CUBATABACO",
+      "name": "Montecristo No.1 Vintage 1970's",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 14000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "TABACUBA",
+      "name": "Montecristo No.3 Vintage 1995",
+      "variant": "142mm 1本",
+      "grams": "",
+      "priceYen": 9000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "TABACUBA",
+      "name": "Montecristo No.4 NNSL",
+      "variant": "129mm 1本",
+      "grams": "",
+      "priceYen": 8000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ANDRES RODRIGUEZ",
+      "name": "La Flor de Mayo Selectos",
+      "variant": "117mm 1本",
+      "grams": "",
+      "priceYen": 14000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Debaj",
+      "name": "Ice Grapefruit Flavor",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Debaj",
+      "name": "Zafran Pan Flavor",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    }
+  ]
+}

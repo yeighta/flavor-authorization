@@ -1,0 +1,179 @@
+{
+  "date": "2023-11-21",
+  "kind": "shinki",
+  "filename": "20231121_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20231121_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Pepin Garcia",
+      "name": "Original 20th Toro",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 10000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾛｰﾙ･ﾃﾞ･ｺﾊﾟﾝ",
+      "name": "ｸﾞﾗﾝﾚｾﾞﾙﾊﾞ20 2023ﾘﾐﾃｯﾄﾞｴﾃﾞｨｼｮﾝ",
+      "variant": "157mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Humidor Selection",
+      "name": "Club Cigarillos Box 10's",
+      "variant": "85mm 1本",
+      "grams": "",
+      "priceYen": 210,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ROYAL SMOKIN",
+      "name": "LEMON GINGER",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ROYAL SMOKIN",
+      "name": "HONEY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ROYAL SMOKIN",
+      "name": "MARBELLA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Hookafina",
+      "name": "Blueberry Lemonade",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Hookafina",
+      "name": "Deja Blü",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Hookafina",
+      "name": "Double Melon Blast",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Hookafina",
+      "name": "Limeade",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Hookafina",
+      "name": "Mangolade",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Hookafina",
+      "name": "Melon Pop",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Hookafina",
+      "name": "Mint Knockout",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Hookafina",
+      "name": "Salted Caramel Waffle",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Hookafina",
+      "name": "Tutti Fruiti",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Hookafina",
+      "name": "Vanilla Shake",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Hookafina",
+      "name": "Watermelon Mint",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "LIRRA",
+      "name": "PEANUTS",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "LIRRA",
+      "name": "ROSEMARY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    }
+  ]
+}

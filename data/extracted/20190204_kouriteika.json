@@ -1,0 +1,26 @@
+{
+  "date": "2019-02-04",
+  "kind": "shinki",
+  "filename": "20190204_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20190204_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾋﾟｱﾆｯｼﾓ",
+      "name": "ｱﾘｱ･ﾒﾝｿｰﾙ･ﾌｫｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ",
+      "variant": "5本",
+      "grams": "",
+      "priceYen": 490,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾋﾟｱﾆｯｼﾓ",
+      "name": "ﾊﾟｲﾅｯﾌﾟﾙ･ﾋﾟｰﾁ･ｲｴﾛｰ･ｸｰﾗｰ･ﾌｫｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ",
+      "variant": "5本",
+      "grams": "",
+      "priceYen": 490,
+      "country": "日本"
+    }
+  ]
+}

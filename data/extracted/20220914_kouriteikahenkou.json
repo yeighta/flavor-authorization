@@ -1,0 +1,377 @@
+{
+  "date": "2022-09-14",
+  "kind": "henkou",
+  "filename": "20220914_kouriteikahenkou.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220914_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾚｷﾞｭﾗｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ専用",
+      "variant": "5本",
+      "grams": "2.4g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾒﾝｿｰﾙ･ﾌﾟﾙｰﾑ･ﾃｯｸ専用",
+      "variant": "5本",
+      "grams": "2.4g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾚｯﾄﾞ･ｸｰﾗｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ専用",
+      "variant": "5本",
+      "grams": "2.4g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾊﾟｰﾌﾟﾙ･ｸｰﾗｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ専用",
+      "variant": "5本",
+      "grams": "2.4g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｺﾞｰﾙﾄﾞ･ﾚｷﾞｭﾗｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ専用",
+      "variant": "5本",
+      "grams": "2.5g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｺﾞｰﾙﾄﾞ･ﾒﾝｿｰﾙ･ﾌﾟﾙｰﾑ･ﾃｯｸ専用",
+      "variant": "5本",
+      "grams": "2.5g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾌﾞﾗｳﾝ･ﾌﾟﾙｰﾑ･ﾃｯｸ専用",
+      "variant": "5本",
+      "grams": "2.5g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾐｯｸｽ･ｸﾞﾘｰﾝ･ｸｰﾗｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ専用",
+      "variant": "5本",
+      "grams": "2.5g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾋﾟｱﾆｯｼﾓ",
+      "name": "ｱﾘｱ･ﾒﾝｿｰﾙ･ﾌﾟﾙｰﾑ･ﾃｯｸ専用",
+      "variant": "5本",
+      "grams": "2.5g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾋﾟｱﾆｯｼﾓ",
+      "name": "ﾋﾟﾝｸ･ｸｰﾗｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ専用",
+      "variant": "5本",
+      "grams": "2.5g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾋﾟｱﾆｯｼﾓ",
+      "name": "ﾓｰﾆﾝｸﾞ･ﾛｰｽﾞ･ｸｰﾗｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ専用",
+      "variant": "5本",
+      "grams": "2.5g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾋﾟｱﾆｯｼﾓ",
+      "name": "ﾐｯﾄﾞﾅｲﾄ･ｼﾞｬｽﾐﾝ･ｸｰﾗｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ専用",
+      "variant": "5本",
+      "grams": "2.5g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾋﾟｱﾆｯｼﾓ",
+      "name": "ｱﾌﾟﾘｺｯﾄ･ｷｭｰｶﾝﾊﾞｰ･ｸｰﾗｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ専用",
+      "variant": "5本",
+      "grams": "2.5g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾋﾟｱﾆｯｼﾓ",
+      "name": "ﾊﾆｰｱｯﾌﾟﾙ･ﾋﾞﾈｶﾞｰ･ｸｰﾗｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ専用",
+      "variant": "5本",
+      "grams": "2.5g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾊﾟｰﾌﾟﾙ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "2.9g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｺﾞｰﾙﾄﾞ･ﾛｰｽﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｺﾞｰﾙﾄﾞ･ｸﾘｱ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｺﾞｰﾙﾄﾞ･ﾏｽｶｯﾄｸﾞﾘｰﾝ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｺﾞｰﾙﾄﾞ･ﾚｯﾄﾞ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾌﾟﾚﾐｱﾑｺﾞｰﾙﾄﾞ･ﾚｷﾞｭﾗｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾌﾟﾚﾐｱﾑｺﾞｰﾙﾄﾞ･ﾒﾝｿｰﾙ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾌﾟﾚﾐｱﾑｺﾞｰﾙﾄﾞ･ﾌﾛｰｽﾞﾝ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.0g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｴﾅｼﾞｰ･ｽﾊﾟｰｸ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｴﾅｼﾞｰ･ｼｮｯﾄ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｴﾅｼﾞｰ･ﾎﾟｯﾌﾟ ｸﾞﾚｰﾌﾟ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｴﾅｼﾞｰ･ﾓｽｺﾐｭｰﾙ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｴﾅｼﾞｰ･ﾋﾟﾆｬｺﾗｰﾀﾞ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｴﾅｼﾞｰ･ﾎｯﾄﾜｲﾝ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.0g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｴﾅｼﾞｰ･ｽﾊﾟｰｸﾘﾝｸﾞﾜｲﾝ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾛｰｽﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾏｲﾙﾄﾞ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.0g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｸﾘｱ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｺｰﾙﾄﾞ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "2.9g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾚｯﾄﾞ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｺﾞｰﾙﾄﾞ･ｲｴﾛｰ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｺﾞｰﾙﾄﾞ･ｵﾚﾝｼﾞ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾋﾟｱﾆｯｼﾓ",
+      "name": "ﾍﾞﾙｶﾞﾓｯﾄ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾋﾟｱﾆｯｼﾓ",
+      "name": "ｷﾝﾓｸｾｲ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.1g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ｺﾞｰﾙﾄﾞ･ﾌﾟﾙｰﾑ･ｴｯｸｽ用",
+      "variant": "20本",
+      "grams": "4.9g",
+      "priceYen": 460,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ｺﾊﾞﾙﾄ･ﾌﾟﾙｰﾑ･ｴｯｸｽ用",
+      "variant": "20本",
+      "grams": "5.3g",
+      "priceYen": 460,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ﾊﾟｰﾌﾟﾙ･ｵﾌﾟｼｮﾝ･ﾌﾟﾙｰﾑ･ｴｯｸｽ用",
+      "variant": "20本",
+      "grams": "5.4g",
+      "priceYen": 460,
+      "country": "日本"
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "date": "2023-04-24",
+  "kind": "shinki",
+  "filename": "20230424_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "クール・エックス・ネオ",
+      "name": "アイス・メンソール・glo hyper用",
+      "variant": "",
+      "grams": "",
+      "priceYen": 540,
+      "country": "大韓民国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "VLN",
+      "name": "",
+      "variant": "",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "VLN",
+      "name": "メンソール",
+      "variant": "",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "SPICED PEACH",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "GRAPE",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "MELON",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "COLA ORANGE",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "BISCUIT",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "FRESH",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "STRAWBERRY",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "MANGO PEACH ICE",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "TROPICAL",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "COLA LEMON",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "CAPPUCCINO",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "GRAPEBERRY",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "GUM",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "COLA",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "WILDBERRY CHILL",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "DRAGON BLUE",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "ROSSA BELLA",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "PINEAPPLE ICE",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "PEACH",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "BAGDADI",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "NIRVANA",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "MINT",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "LOL",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "MATADOR",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "EVEREST",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "RASPBERRY ICE",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "LEMON",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "TURKISH GUM",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "DEWAJ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "BUBBLE GUM",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "ORANGE MANGO",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "ORANGE",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "MOSKOW",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "GUM CINNAMON",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "ORANGE MINT ICE",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "LEMON MINT",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "FRESH GUM MINT",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "AFRICAN QUEEN",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "GRAPE MINT",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "WATERMELON CHILL",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    }
+  ]
+}

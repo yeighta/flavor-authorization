@@ -1,0 +1,503 @@
+{
+  "date": "2025-12-05",
+  "kind": "shinki",
+  "filename": "20251205_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20251205_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Royalty Corona",
+      "variant": "139.7mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Royalty Corona Box",
+      "variant": "139.7mm 24本",
+      "grams": "",
+      "priceYen": 48000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Royalty Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Royalty Robusto Box",
+      "variant": "127mm 20本",
+      "grams": "",
+      "priceYen": 50000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Royalty Robusto Real",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Royalty Robusto Real Box",
+      "variant": "127mm 20本",
+      "grams": "",
+      "priceYen": 48000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Royalty Toro",
+      "variant": "152.4mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Royalty Toro Box",
+      "variant": "152.4mm 20本",
+      "grams": "",
+      "priceYen": 52000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Royalty Grand Toro",
+      "variant": "152.4mm 1本",
+      "grams": "",
+      "priceYen": 2900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Royalty Grand Toro Box",
+      "variant": "152.4mm 20本",
+      "grams": "",
+      "priceYen": 58000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Porcelain Corona Gorda",
+      "variant": "139.7mm 1本",
+      "grams": "",
+      "priceYen": 2300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Porcelain Corona Gorda Box",
+      "variant": "139.7mm 20本",
+      "grams": "",
+      "priceYen": 46000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Porcelain Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Porcelain Robusto Box",
+      "variant": "127mm 20本",
+      "grams": "",
+      "priceYen": 46000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Salvation Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Salvation Robusto Box",
+      "variant": "127mm 20本",
+      "grams": "",
+      "priceYen": 50000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Salvation Robusto Real",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Salvation Robusto Real Box",
+      "variant": "127mm 20本",
+      "grams": "",
+      "priceYen": 48000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Salvation Toro",
+      "variant": "152.4mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Salvation Toro Box",
+      "variant": "152.4mm 20本",
+      "grams": "",
+      "priceYen": 52000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Salvation Grand Toro",
+      "variant": "152.4mm 1本",
+      "grams": "",
+      "priceYen": 2900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Salvation Grand Toro Box",
+      "variant": "152.4mm 20本",
+      "grams": "",
+      "priceYen": 58000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Lawless Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Lawless Robusto Box",
+      "variant": "127mm 20本",
+      "grams": "",
+      "priceYen": 52000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Lawless Robusto Real",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Lawless Robusto Real Box",
+      "variant": "127mm 20本",
+      "grams": "",
+      "priceYen": 50000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Lawless Toro",
+      "variant": "152.4mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Lawless Toro Box",
+      "variant": "152.4mm 20本",
+      "grams": "",
+      "priceYen": 54000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Lawless Grand Toro",
+      "variant": "152.4mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Lawless Grand Toro Box",
+      "variant": "152.4mm 20本",
+      "grams": "",
+      "priceYen": 60000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Lawless Churchill",
+      "variant": "177.8mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Lawless Churchill Box",
+      "variant": "177.8mm 20本",
+      "grams": "",
+      "priceYen": 52000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Last Rites Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Last Rites Robusto Box",
+      "variant": "127mm 20本",
+      "grams": "",
+      "priceYen": 54000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Last Rites Robusto Real",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Last Rites Robusto Real Box",
+      "variant": "127mm 20本",
+      "grams": "",
+      "priceYen": 52000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Last Rites Petite Lancero",
+      "variant": "165.1mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Last Rites Petite Lancero Box",
+      "variant": "165.1mm 20本",
+      "grams": "",
+      "priceYen": 48000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Last Rites Toro",
+      "variant": "152.4mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Last Rites Toro Box",
+      "variant": "152.4mm 20本",
+      "grams": "",
+      "priceYen": 56000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Last Rites Grand Toro",
+      "variant": "152.4mm 1本",
+      "grams": "",
+      "priceYen": 3100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Last Rites Grand Toro Box",
+      "variant": "152.4mm 20本",
+      "grams": "",
+      "priceYen": 62000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Santa Muerte Corona Gorda",
+      "variant": "139.7mm 1本",
+      "grams": "",
+      "priceYen": 2300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Santa Muerte Corona Gorda Box",
+      "variant": "139.7mm 20本",
+      "grams": "",
+      "priceYen": 46000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Santa Muerte Short Robusto",
+      "variant": "120.65mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Santa Muerte Short Robusto Box",
+      "variant": "120.65mm 20本",
+      "grams": "",
+      "priceYen": 48000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Santa Muerte Petite Lancero",
+      "variant": "165.1mm 1本",
+      "grams": "",
+      "priceYen": 2300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Santa Muerte Petite Lancero Box",
+      "variant": "165.1mm 20本",
+      "grams": "",
+      "priceYen": 46000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Coffin Nails",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Coffin Nails Box",
+      "variant": "127mm 10本",
+      "grams": "",
+      "priceYen": 16000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Coffin Nails 5Box",
+      "variant": "127mm 50本",
+      "grams": "",
+      "priceYen": 80000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "コイーバ",
+      "name": "ビストソス TR 2024",
+      "variant": "145mm 1本",
+      "grams": "",
+      "priceYen": 66000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H.アップマン",
+      "name": "マグナム フィニート LE 2024",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 16500,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "スウィッシャースイート",
+      "name": "フォイルパウチ グリーン",
+      "variant": "109mm 2本",
+      "grams": "",
+      "priceYen": 290,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "スウィッシャースイート",
+      "name": "フォイルパウチ ハニーバナナ",
+      "variant": "109mm 2本",
+      "grams": "",
+      "priceYen": 290,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "date": "2024-03-15",
+  "kind": "shinki",
+  "filename": "20240315_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240315_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾏｽﾄﾛ ﾄﾙﾅﾌﾞｫｰﾆ",
+      "name": "ﾛﾝｸﾞ",
+      "variant": "155mm 1本",
+      "grams": "",
+      "priceYen": 1450,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾏｽﾄﾛ ﾄﾙﾅﾌﾞｫｰﾆ",
+      "name": "ｱﾌｨﾅｯﾄ",
+      "variant": "155mm 1本",
+      "grams": "",
+      "priceYen": 1450,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾏｽﾄﾛ ﾄﾙﾅﾌﾞｫｰﾆ",
+      "name": "ｽｺﾙﾁｬｰﾄ",
+      "variant": "75mm 1本",
+      "grams": "",
+      "priceYen": 680,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾏｽﾄﾛ ﾄﾙﾅﾌﾞｫｰﾆ",
+      "name": "ｽｺﾙﾁｬｰﾄ ﾘｾﾙｳﾞｧ",
+      "variant": "75mm 1本",
+      "grams": "",
+      "priceYen": 720,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾏｽﾄﾛ ﾄﾙﾅﾌﾞｫｰﾆ",
+      "name": "ｽｰﾊﾟｰﾀｽｶﾝ",
+      "variant": "180mm 1本",
+      "grams": "",
+      "priceYen": 6000,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾋﾞｼﾞｬ･ﾋﾞｴﾊ",
+      "name": "ｼｮｰﾄ",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 1650,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾋﾞｼﾞｬ･ﾋﾞｴﾊ",
+      "name": "ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾋﾞｼﾞｬ･ﾋﾞｴﾊ",
+      "name": "ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

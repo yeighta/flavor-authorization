@@ -1,0 +1,62 @@
+{
+  "date": "2021-04-26",
+  "kind": "shinki",
+  "filename": "20210426_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210426_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "",
+      "name": "ミックス・アイス・プラス",
+      "variant": "F45 20スティック ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "HONGMEI",
+      "name": "HP SPRING DF",
+      "variant": "FK 84mm 20本 ハードパック",
+      "grams": "",
+      "priceYen": 480,
+      "country": "香港"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "YUXI",
+      "name": "HP GOLDEN EXP",
+      "variant": "FK 84mm 20本 ハードパック",
+      "grams": "",
+      "priceYen": 580,
+      "country": "香港"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "JSE Earl Grey",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "JSE Lemon Tea",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "JSE Milk Tea",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾖﾙﾀﾞﾝ"
+    }
+  ]
+}

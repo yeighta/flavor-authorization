@@ -1,0 +1,89 @@
+{
+  "date": "2024-11-15",
+  "kind": "shinki",
+  "filename": "20241115_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20241115_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "オーロラ",
+      "name": "120th・ｱﾆﾊﾞｰｻﾘｰ・ﾌﾟﾚﾌｪﾘﾄﾞｽ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 5500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｼﾞｬｯｸ",
+      "name": "ｽﾊﾟｻﾜ・ﾗﾝﾀﾞﾑ5",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 550,
+      "country": "大韓民国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "PAN RASNA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "DEATH ICE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "HAPPY PEAR",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "KEY LIME",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "CINNAMON CHAI",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｲﾔｰ ｵﾌﾞ ｻﾞ ｽﾈｰｸ 2025",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 17000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｲﾔｰ ｵﾌﾞ ｻﾞ ｽﾈｰｸ ﾌﾗｯｸﾞｼｯﾌﾟ 2025",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 21000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    }
+  ]
+}

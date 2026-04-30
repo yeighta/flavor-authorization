@@ -1,0 +1,26 @@
+{
+  "date": "2021-06-10",
+  "kind": "shinki",
+  "filename": "20210610_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210610_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｾﾌﾞﾝｽﾀｰ",
+      "name": "ﾆｯﾎﾟﾝ･ﾘｰﾌ･ﾏﾂｶﾜ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｴﾅｼﾞｰ･ﾎﾟｯﾌﾟｸﾞﾚｰﾌﾟ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "3.0g",
+      "priceYen": 550,
+      "country": "日本"
+    }
+  ]
+}

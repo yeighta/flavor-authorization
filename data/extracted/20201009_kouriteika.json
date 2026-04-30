@@ -1,0 +1,170 @@
+{
+  "date": "2020-10-09",
+  "kind": "shinki",
+  "filename": "20201009_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20201009_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta Tobacco",
+      "name": "Death By Ice",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta Tobacco",
+      "name": "Earl Gray",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta Tobacco",
+      "name": "Indian Kheer",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta Tobacco",
+      "name": "Lavender Mint",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta Tobacco",
+      "name": "Lime",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta Tobacco",
+      "name": "P3",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Fumari",
+      "name": "Aloha Mango",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Fumari",
+      "name": "Caribbean Colada",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Fumari",
+      "name": "Lemon Loaf",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Fumari",
+      "name": "Sour Cherry",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL Hookah Molasses",
+      "name": "Lemon Tea",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL Hookah Molasses",
+      "name": "Icy Lemon Tea",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL Hookah Molasses",
+      "name": "Choco Hazel",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL Hookah Molasses",
+      "name": "Mango Lassi",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Debaj",
+      "name": "Milk Flavor",
+      "variant": "箱",
+      "grams": "250.0g",
+      "priceYen": 8000,
+      "country": "アラブ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tangiers",
+      "name": "Burley Canemint",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "キャメル",
+      "name": "オリジナル25g",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 730,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "キャメル",
+      "name": "ライト25g",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 730,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    }
+  ]
+}

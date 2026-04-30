@@ -1,0 +1,44 @@
+{
+  "date": "2022-04-26",
+  "kind": "shinki",
+  "filename": "20220426_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220426_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾅﾁｭﾗﾙ ｱﾒﾘｶﾝ ｽﾋﾟﾘｯﾄ",
+      "name": "ｵｰｶﾞﾆｯｸ ﾘｰﾌ ﾀｰｺｲｽﾞ 14本入",
+      "variant": "FK 14本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 420,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾅﾁｭﾗﾙ ｱﾒﾘｶﾝ ｽﾋﾟﾘｯﾄ",
+      "name": "ｵｰｶﾞﾆｯｸ ﾘｰﾌ ｺﾞｰﾙﾄﾞ 14本入",
+      "variant": "FK 14本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 420,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾅﾁｭﾗﾙ ｱﾒﾘｶﾝ ｽﾋﾟﾘｯﾄ",
+      "name": "ｵｰｶﾞﾆｯｸ ﾘｰﾌ ONE 14本入",
+      "variant": "FK 14本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 420,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾅﾁｭﾗﾙ ｱﾒﾘｶﾝ ｽﾋﾟﾘｯﾄ",
+      "name": "ﾗｲﾄ 14本入",
+      "variant": "FK 14本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 420,
+      "country": "日本"
+    }
+  ]
+}

@@ -1,0 +1,2584 @@
+{
+  "entries": {
+    "3 DOGS": {
+      "manufacturer": "3 DOGS",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "製品名にキャベンディッシュ、ラタキア、ペリク等の伝統的なパイプたばこのブレンド用語が並んでいるため。"
+    },
+    "4th ジェネレーション": {
+      "manufacturer": "4th ジェネレーション",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製のパイプたばこブランドであり、リミテッドエディション等の名称は伝統的なパイプ製品に一般的であるため。"
+    },
+    "ADALYA": {
+      "manufacturer": "ADALYA",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "トルコ製であり、製品名にフルーツ名やシーシャ特有のファンシーな名称（BERLIN NIGHTS等）が多いため。"
+    },
+    "AFZAL": {
+      "manufacturer": "AFZAL",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "製品名に明確にHookah Molasses（水タバコ用糖蜜）と記載されており、インド製のシーシャブランドであるため。"
+    },
+    "AFZAL Hookah Molasses": {
+      "manufacturer": "AFZAL Hookah Molasses",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "メーカー名にHookah Molassesを含み、マンゴーラッシー等のシーシャ特有のフレーバー名が並んでいるため。"
+    },
+    "AL AMASI": {
+      "manufacturer": "AL AMASI",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "トルコ製で、Absolute ZeroやBlue Guavaといったシーシャ市場で一般的なフレーバー名が多いため。"
+    },
+    "AL FAKHER": {
+      "manufacturer": "AL FAKHER",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "UAEを拠点とする世界的に有名なシーシャブランドであり、単一フルーツフレーバーの構成が特徴的であるため。"
+    },
+    "AL Fakher": {
+      "manufacturer": "AL Fakher",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "UAEおよびヨルダン製で、バブルガムやカプチーノ等のシーシャ用フレーバーが並んでいるため。"
+    },
+    "AL Safwa": {
+      "manufacturer": "AL Safwa",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "UAE製で、エナジードリンクやシトラスミントといったシーシャ特有のラインナップであるため。"
+    },
+    "ALFAKHAMAH": {
+      "manufacturer": "ALFAKHAMAH",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "UAE製で、シャンパンやバウンティドリーム等のシーシャらしいミックスフレーバーが多いため。"
+    },
+    "ALRAYAN": {
+      "manufacturer": "ALRAYAN",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ヨルダン製で、Ice AppleやIce Cherryといったシーシャで多用される清涼感のあるフレーバー名が多いため。"
+    },
+    "ALWAZIR": {
+      "manufacturer": "ALWAZIR",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ドイツ製だが、50gパッケージの表記とフルーツミント系のフレーバー構成からシーシャ用と判断できるため。"
+    },
+    "Abukhaliq": {
+      "manufacturer": "Abukhaliq",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ヨルダン・マレーシア製で、カクテル名やスイーツ系のフレーバー名がシーシャの特徴と一致するため。"
+    },
+    "Al Fakher": {
+      "manufacturer": "Al Fakher",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "UAE製の代表的なシーシャブランドであり、Two Apples（ダブルアップル）等の定番製品が含まれるため。"
+    },
+    "Al Waha": {
+      "manufacturer": "Al Waha",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ヨルダン製の有名シーシャブランドであり、Elite Editionというシリーズ名もシーシャ製品に一般的であるため。"
+    },
+    "Al Waha Elite Edition": {
+      "manufacturer": "Al Waha Elite Edition",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ヨルダン製で、Arctic（氷結系）フレーバーやスイーツ系の名称がシーシャの特性を示しているため。"
+    },
+    "Al Waha JSE": {
+      "manufacturer": "Al Waha JSE",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ヨルダン製で、ダブルアップルやジャスミンといったシーシャの伝統的なフレーバー構成であるため。"
+    },
+    "Azure": {
+      "manufacturer": "Azure",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "米国製のシーシャブランドであり、製品名にhookah tobaccoと明記されているため。"
+    },
+    "Azure hookah tobacco": {
+      "manufacturer": "Azure hookah tobacco",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "米国製で、Black Line（高ニコチン）等のシーシャ特有のシリーズ展開とフレーバー名が一致するため。"
+    },
+    "Azure hookah tobacco, Black Line": {
+      "manufacturer": "Azure hookah tobacco, Black Line",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "米国製シーシャブランドの特定ラインであり、コーラ等の飲料系フレーバーが含まれるため。"
+    },
+    "Azure hookah tobacco, Gold Line": {
+      "manufacturer": "Azure hookah tobacco, Gold Line",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "米国製シーシャブランドの特定ラインであり、グミベア等の菓子系フレーバーが特徴的であるため。"
+    },
+    "BALLI": {
+      "manufacturer": "BALLI",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "トルコ製で、African QueenやBiscuitといったシーシャ市場で人気の高いフレーバー名が多いため。"
+    },
+    "BLACK BURN": {
+      "manufacturer": "BLACK BURN",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ロシア製の有名なダークリーフシーシャブランドであり、フレーバー名もシーシャ特有のものであるため。"
+    },
+    "BONCHE": {
+      "manufacturer": "BONCHE",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ロシア製のシーシャブランドで、葉巻葉をベースにしたシーシャたばこ（Base等）を展開しているため。"
+    },
+    "BS･ｼｰｼｬ": {
+      "manufacturer": "BS･ｼｰｼｬ",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "メーカー名に「シーシャ」と明記されており、フレーバー名も飲料系であるため。"
+    },
+    "Bang Bang": {
+      "manufacturer": "Bang Bang",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "UAE製のシーシャブランドであり、Billionaire等のファンシーな名称とフルーツフレーバーが多いため。"
+    },
+    "Buta": {
+      "manufacturer": "Buta",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ヨルダン製のシーシャブランドであり、アメリカンパイやバナナミルクシェイク等の甘いフレーバーが多いため。"
+    },
+    "Cre-Scents": {
+      "manufacturer": "Cre-Scents",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "マレーシア製で、エナジードリンクやカクテル名など、東南アジア系シーシャフレーバーの特徴と一致するため。"
+    },
+    "D&R": {
+      "manufacturer": "D&R",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "米国Daughters & Ryan社の略称であり、Three Sails等の伝統的なパイプ・手巻き用たばこを製造しているため。"
+    },
+    "DAIM": {
+      "manufacturer": "DAIM",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "トルコ製で、Absolute ZeroやDragon Fruitといったシーシャで一般的なフレーバー名が並んでいるため。"
+    },
+    "DANI": {
+      "manufacturer": "DANI",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "トルコ産で、ビスケットやカルダモン、ベリーマーマレードといったシーシャ特有のフレーバー名が並んでいるため。"
+    },
+    "DARKSIDE": {
+      "manufacturer": "DARKSIDE",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ロシア産の有名なシーシャブランドであり、バナナパパやバジルブラストといった独創的なフレーバー名が特徴的であるため。"
+    },
+    "DEBAJ": {
+      "manufacturer": "DEBAJ",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "UAE産で、アイスマンゴーというシーシャで定番のフレーバー構成であるため。"
+    },
+    "DEUS": {
+      "manufacturer": "DEUS",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ロシア産で、ブラックベリーやフラワーパフュームといったシーシャ特有のフレーバー展開が見られるため。"
+    },
+    "DOZAJ": {
+      "manufacturer": "DOZAJ",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "トルコ産の主要なシーシャブランドであり、アサイーやバナナミルクシェイクなどの多彩なフレーバーがあるため。"
+    },
+    "DOZAJ BLACK": {
+      "manufacturer": "DOZAJ BLACK",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "DOZAJのダークリーフラインであり、ケーンミントやチョコクリームといったシーシャ特有の製品名であるため。"
+    },
+    "Darkside": {
+      "manufacturer": "Darkside",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ロシア産の著名なシーシャブランドであり、マンゴーラッシーやレッドティーといった飲料系のフレーバー名が多いため。"
+    },
+    "Debaj": {
+      "manufacturer": "Debaj",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "UAE産で、バナナケーキやカプチーノといった甘いデザート系のフレーバーが中心であるため。"
+    },
+    "Doobacco": {
+      "manufacturer": "Doobacco",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "インドネシア産で、アップルサンブーカといったシーシャ向けのフレーバー展開を行っているため。"
+    },
+    "Doobacco Premium": {
+      "manufacturer": "Doobacco Premium",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "コーラやゴールデンピーチといったシーシャで一般的なフレーバー名が並んでいるため。"
+    },
+    "Dr. Pipe": {
+      "manufacturer": "Dr. Pipe",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ブラジル産だが、フレイク、バーレー、イングリッシュミクスチャーといった伝統的なパイプたばこの用語が使われているため。"
+    },
+    "Element": {
+      "manufacturer": "Element",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ロシア産の有名なシーシャブランドであり、ライチやパイナップルといったフルーツフレーバーが主であるため。"
+    },
+    "Eternal Smoke": {
+      "manufacturer": "Eternal Smoke",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "米国産のシーシャブランドで、アロハナイツやブルーリットといった独自のミックスフレーバー名が特徴であるため。"
+    },
+    "FUMARI": {
+      "manufacturer": "FUMARI",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "米国を代表するシーシャブランドの一つであり、アンブロシアやキャラメルキスといった有名な製品名が含まれるため。"
+    },
+    "Fumari": {
+      "manufacturer": "Fumari",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "米国産の著名シーシャブランドで、ブルーベリーマフィンなどのスイーツ系フレーバーが代表的であるため。"
+    },
+    "GIXOM PREMIUM TOBACCO": {
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "トルコ産で、ベイクドミルクやバナナミルクシェイクといったシーシャ特有のフレーバー構成であるため。"
+    },
+    "GOLDEN LAYALINA": {
+      "manufacturer": "GOLDEN LAYALINA",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "UAE産のシーシャブランドで、Molasses（糖蜜）の表記とブルーヘブン等の名称から判断。"
+    },
+    "Hookafina": {
+      "manufacturer": "Hookafina",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "米国産のシーシャブランドで、レモネードやメロンポップといった清涼飲料・菓子系のフレーバーが多いため。"
+    },
+    "JBR": {
+      "manufacturer": "JBR",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ドイツ産だが、ツーアップルやブルーベリーミントといったシーシャの定番フレーバー名が日本語で登録されているため。"
+    },
+    "JENT": {
+      "manufacturer": "JENT",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ロシア産で、アブサンやモヒートといったアルコール飲料を模したシーシャ用フレーバーであるため。"
+    },
+    "JENT CIGAR": {
+      "manufacturer": "JENT CIGAR",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "アマレットやココナッツクリームといったフレーバー名から、シーシャ用のラインナップと判断。"
+    },
+    "JiBiAR": {
+      "manufacturer": "JiBiAR",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "トルコ産のシーシャブランドで、杏仁豆腐（Almond Tofu）やベイクドピーチといった多様なフレーバーがあるため。"
+    },
+    "KHALEEJ": {
+      "manufacturer": "KHALEEJ",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "UAE産で、ダブルレモンやカクテルといったシーシャの標準的なフレーバー名であるため。"
+    },
+    "KRAKEN": {
+      "manufacturer": "KRAKEN",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ロシア産で、チェダーチーズやコーンといったシーシャ特有の変わり種フレーバーが含まれるため。"
+    },
+    "LAYALINA": {
+      "manufacturer": "LAYALINA",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "UAE産の老舗シーシャブランドであり、Molasses（糖蜜）ベースの製品名が並んでいるため。"
+    },
+    "LIRRA": {
+      "manufacturer": "LIRRA",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "トルコ産で、ドラゴンフルーツやシトラスモヒートといったシーシャ向けのフレーバー名であるため。"
+    },
+    "Layalina Ya Layl": {
+      "manufacturer": "Layalina Ya Layl",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "Layalinaの別ラインであり、バブルガムやチョコレートといったシーシャの定番フレーバーであるため。"
+    },
+    "MA": {
+      "manufacturer": "MA",
+      "type": "unknown",
+      "confidence": "low",
+      "reason": "ラオス産でブラック/ホワイトブレンドという名称のみでは、パイプ用かシーシャ用か判断が困難なため。"
+    },
+    "MAZAYA": {
+      "manufacturer": "MAZAYA",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ヨルダン産の世界的シーシャブランドであり、ツーアップルやフローズングリーンアップルが代表的であるため。"
+    },
+    "MEZZA": {
+      "manufacturer": "MEZZA",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "インドネシア産で、ケーンミントやレモンドロップといったシーシャで多用される名称が並んでいるため。"
+    },
+    "MOTTO": {
+      "manufacturer": "MOTTO",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "トルコ産でアサイーやアフターエイトなどのフレーバー名が並ぶため。"
+    },
+    "Malaki": {
+      "manufacturer": "Malaki",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "UAE産でベリーやチョコレートミントなどのシーシャ特有のフレーバー構成であるため。"
+    },
+    "Mixto": {
+      "manufacturer": "Mixto",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ドイツ産のシーシャブランドであり、キャンディウォーターメロン等の名称から判断。"
+    },
+    "Must Have": {
+      "manufacturer": "Must Have",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ロシア産の有名なダークリーフシーシャブランドであるため。"
+    },
+    "NASH": {
+      "manufacturer": "NASH",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ロシア産でアロエストロベリーやキウイなどの多彩なフレーバー展開があるため。"
+    },
+    "NIRVANA": {
+      "manufacturer": "NIRVANA",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "米国産のシーシャブランドで、独特な製品名（Ants In My Head等）が特徴的であるため。"
+    },
+    "Nakhla": {
+      "manufacturer": "Nakhla",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "エジプトの老舗シーシャメーカーであり、ダブルアップル（Basha Apple）等が有名。"
+    },
+    "No. 13": {
+      "manufacturer": "No. 13",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ産のカプチーノフレーバーだが、伝統的なパイプたばこのシリーズ名に多いため。"
+    },
+    "No. 13 イタリアンスタイル": {
+      "manufacturer": "No. 13 イタリアンスタイル",
+      "type": "unknown",
+      "confidence": "low",
+      "reason": "ラオス産という珍しい出自で製品名も空欄のため判断材料が不足。"
+    },
+    "No.13": {
+      "manufacturer": "No.13",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ産のパイプ用着香たばこと推測されるため。"
+    },
+    "OVERDOZZ": {
+      "manufacturer": "OVERDOZZ",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "スペイン産のシーシャブランドで、ポップな製品名がシーシャ市場向けであるため。"
+    },
+    "P&S": {
+      "manufacturer": "P&S",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ産で「ミクスチャー」という伝統的なパイプたばこの用語を使用しているため。"
+    },
+    "P&S 34": {
+      "manufacturer": "P&S 34",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ産で「ミクスチャー」という伝統的なパイプたばこの用語を使用しているため。"
+    },
+    "PL88": {
+      "manufacturer": "PL88",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "バージニアブレンドやメンソールなど、手巻き（シャグ）やパイプ用の伝統的名称であるため。"
+    },
+    "Panorama": {
+      "manufacturer": "Panorama",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ヨルダン産でカルダモンやライチなどのシーシャフレーバーが並ぶため。"
+    },
+    "Panorama Premium": {
+      "manufacturer": "Panorama Premium",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ヨルダン産でドーナツやサボテン（Cactus）などのシーシャ特有のフレーバーがあるため。"
+    },
+    "Pure Tobacco": {
+      "manufacturer": "Pure Tobacco",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "米国産のシーシャブランドで、FMLシリーズなどの強力なミント系が有名。"
+    },
+    "R.M.": {
+      "manufacturer": "R.M.",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ産でオリエンタルやスコティッシュケーキといった伝統的パイプ用語のため。"
+    },
+    "RAW": {
+      "manufacturer": "RAW",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "世界的に有名な手巻き・パイプたばこブランドであり、オーガニック系が主流。"
+    },
+    "REVOSHI TOBACCO": {
+      "manufacturer": "REVOSHI TOBACCO",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "トルコ産のシーシャブランドで、ダブルアップル等のフレーバー表記が明確。"
+    },
+    "ROYAL SMOKIN": {
+      "manufacturer": "ROYAL SMOKIN",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "インド産でコットンキャンディやドバイスペシャルなどのシーシャフレーバーのため。"
+    },
+    "Romman": {
+      "manufacturer": "Romman",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ヨルダン産の伝統的なシーシャブランドであるため。"
+    },
+    "SAMURAI": {
+      "manufacturer": "SAMURAI",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ヨルダン産で青森アップルやアズキなど、日本市場を意識したシーシャフレーバーのため。"
+    },
+    "SEBERO": {
+      "manufacturer": "SEBERO",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ロシア産の人気シーシャブランドで、クリーミーなミックスフレーバーが特徴。"
+    },
+    "SERBETLI": {
+      "manufacturer": "SERBETLI",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "トルコ産の有名シーシャブランドで、世界的に広く流通しているため。"
+    },
+    "SOCIAL SMOKE": {
+      "manufacturer": "SOCIAL SMOKE",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "米国を代表するシーシャブランドの一つで、モダンなフレーバーが多いため。"
+    },
+    "STARBUZZ": {
+      "manufacturer": "STARBUZZ",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "世界で最も有名な米国シーシャブランドの一つであり、Blue Mist等が代表作。"
+    },
+    "STARBUZZ VINTAGE": {
+      "manufacturer": "STARBUZZ VINTAGE",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "Starbuzz社のダークリーフラインであり、シーシャ用であるため。"
+    },
+    "STARLINE": {
+      "manufacturer": "STARLINE",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ロシア産のシーシャブランドで、ワッフルやポップコーン等のスイーツ系が多いため。"
+    },
+    "Shisha Kartel": {
+      "manufacturer": "Shisha Kartel",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ブランド名に「Shisha」が含まれており、UAE産のシーシャ製品であるため。"
+    },
+    "Smyrna": {
+      "manufacturer": "Smyrna",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "トルコ製であり、製品名がフルーツやスイーツ系のフレーバー名で占められているため。"
+    },
+    "Social Smoke": {
+      "manufacturer": "Social Smoke",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "米国を代表するシーシャブランドであり、製品名も典型的なシーシャフレーバーであるため。"
+    },
+    "Social Smoke Tobacco": {
+      "manufacturer": "Social Smoke Tobacco",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "Social Smokeの別名義であり、ミルクティーや柚子などのフレーバー展開がシーシャ特有であるため。"
+    },
+    "Star Smokers": {
+      "manufacturer": "Star Smokers",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ドイツ製で、キュウリやライム、ミントなどのミックスフレーバー名がシーシャの特徴と一致するため。"
+    },
+    "Starbuzz": {
+      "manufacturer": "Starbuzz",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "世界的に有名なシーシャブランドであり、製品名もシーシャ用フレーバーそのものであるため。"
+    },
+    "Starbuzz Bold": {
+      "manufacturer": "Starbuzz Bold",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "Starbuzzのハイエンドラインであり、独創的なフレーバー名がシーシャ製品の特徴であるため。"
+    },
+    "TLC": {
+      "manufacturer": "TLC",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国製で、バージニアやラタキアといった伝統的なパイプたばこの原料名が製品名となっているため。"
+    },
+    "TP-77": {
+      "manufacturer": "TP-77",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "アメリカンブレンドやバージニアブレンドといった名称は、伝統的なパイプまたは手巻き用たばこの呼称であるため。"
+    },
+    "TROY": {
+      "manufacturer": "TROY",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "トルコ製で、バクラヴァやビール、フルーツ系のフレーバー名が並ぶシーシャブランドであるため。"
+    },
+    "TUMBAKI": {
+      "manufacturer": "TUMBAKI",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "トルコ製で、ダブルアップルやピスタチオなどのシーシャで定番のフレーバー名が確認できるため。"
+    },
+    "Tangiers": {
+      "manufacturer": "Tangiers",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "米国産の有名なダークリーフシーシャブランドであり、Birquqなどの独自ライン名からも判断可能。"
+    },
+    "Tangiers Noir": {
+      "manufacturer": "Tangiers Noir",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "Tangiersの代表的なラインであり、カシミールやピーチアイスティーなどのフレーバー名からシーシャと断定。"
+    },
+    "Tick Tock": {
+      "manufacturer": "Tick Tock",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "トルコ製で、抽象的な名称のフレーバー展開は近年のシーシャブランドに特有の傾向であるため。"
+    },
+    "TickTock": {
+      "manufacturer": "TickTock",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "Tick Tockの表記揺れであり、同様にトルコ製のシーシャフレーバーと判断。"
+    },
+    "Tokyo Shisha": {
+      "manufacturer": "Tokyo Shisha",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "日本のシーシャ専門店がプロデュースするブランドであり、フレーバー名もシーシャ用であるため。"
+    },
+    "Tombacco": {
+      "manufacturer": "Tombacco",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "インドネシア製で、アロエベラやカルダモンなどのフレーバー展開はシーシャ特有であるため。"
+    },
+    "Trifecta": {
+      "manufacturer": "Trifecta",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "米国産の人気シーシャブランドであり、ペパーミントシェイクなどの製品名がそれを裏付けている。"
+    },
+    "Trifecta Tobacco": {
+      "manufacturer": "Trifecta Tobacco",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "Trifectaの別名義であり、アップルパイやコンコードグレープなどのフレーバー名からシーシャと判断。"
+    },
+    "VK-05": {
+      "manufacturer": "VK-05",
+      "type": "unknown",
+      "confidence": "low",
+      "reason": "ラオス製で容量のみの記載となっており、製品の性質を特定する情報が不足しているため。"
+    },
+    "VK-06": {
+      "manufacturer": "VK-06",
+      "type": "unknown",
+      "confidence": "low",
+      "reason": "ラオス製で容量のみの記載となっており、製品の性質を特定する情報が不足しているため。"
+    },
+    "VK-2": {
+      "manufacturer": "VK-2",
+      "type": "unknown",
+      "confidence": "low",
+      "reason": "ラオス製でパッケージ形式のみの記載となっており、特定が困難なため。"
+    },
+    "VK-3": {
+      "manufacturer": "VK-3",
+      "type": "unknown",
+      "confidence": "low",
+      "reason": "ラオス製でパッケージ形式のみの記載となっており、特定が困難なため。"
+    },
+    "VK-4": {
+      "manufacturer": "VK-4",
+      "type": "unknown",
+      "confidence": "low",
+      "reason": "ラオス製でパッケージ形式のみの記載となっており、特定が困難なため。"
+    },
+    "White Elephant": {
+      "manufacturer": "White Elephant",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツのKohlhase & Kopp社が手掛ける伝統的なパイプたばこブランドであるため。"
+    },
+    "Zodiac": {
+      "manufacturer": "Zodiac",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "manual override: not shisha"
+    },
+    "Zumerret": {
+      "manufacturer": "Zumerret",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "製品名に明確に 'hookah tobacco'（シーシャたばこ）との記載があるため。"
+    },
+    "Zumerret hookah tobacco": {
+      "manufacturer": "Zumerret hookah tobacco",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "メーカー名および製品名に 'hookah' とあり、フレーバー名もシーシャそのものであるため。"
+    },
+    "かがやき": {
+      "manufacturer": "かがやき",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製で日本語名のパイプたばこは、日本の伝統的な喫味を意識したパイプ用製品である可能性が高いため。"
+    },
+    "アイルランド シャノン": {
+      "manufacturer": "アイルランド シャノン",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "シャノンは伝統的なパイプたばこの銘柄として知られており、ドイツで委託製造されているため。"
+    },
+    "アクレマ": {
+      "manufacturer": "アクレマ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ブラジル製で「ブレンド」という名称は、伝統的な刻みたばこやパイプたばこに用いられる表現であるため。"
+    },
+    "アンタッチャブルス": {
+      "manufacturer": "アンタッチャブルス",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製であり、伝統的なパイプたばこブランドの名称として知られています。"
+    },
+    "アークローヤル": {
+      "manufacturer": "アークローヤル",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ウルグアイ製の手巻き（シャグ）およびパイプ用たばこの有名ブランドです。"
+    },
+    "イエス・コウノウィッチ": {
+      "manufacturer": "イエス・コウノウィッチ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツの伝統的なパイプたばこメーカーであり、製品名もパイプ用を示唆しています。"
+    },
+    "イルステッド・ゴールデンフレイク": {
+      "manufacturer": "イルステッド・ゴールデンフレイク",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "製品名に「フレイク」を含み、ドイツで製造される伝統的なパイプたばこです。"
+    },
+    "エクセレント": {
+      "manufacturer": "エクセレント",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマーク製のフレーバー付きシャグ・パイプたばこであり、25gパッケージは手巻き・パイプ用です。"
+    },
+    "エルウッド No. 2": {
+      "manufacturer": "エルウッド No. 2",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製の伝統的なパイプたばこ銘柄です。"
+    },
+    "オカピ": {
+      "manufacturer": "オカピ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製であり、伝統的なパイプたばこのラインナップに含まれます。"
+    },
+    "オールド ホルボーン": {
+      "manufacturer": "オールド ホルボーン",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "世界的に有名な手巻き（シャグ）およびパイプたばこのブランドです。"
+    },
+    "オールドアイロンサイド": {
+      "manufacturer": "オールドアイロンサイド",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製のラタキア等を使用した伝統的なパイプたばこです。"
+    },
+    "カロライナローズ": {
+      "manufacturer": "カロライナローズ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製であり、パイプたばこの銘柄として流通しています。"
+    },
+    "カロ・ミオ": {
+      "manufacturer": "カロ・ミオ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製であり、パイプたばこの銘柄として登録されています。"
+    },
+    "カロ・ミオ (20)": {
+      "manufacturer": "カロ・ミオ (20)",
+      "type": "kiseru",
+      "confidence": "low",
+      "reason": "ラオス製で20本入りの形態を示唆しますが、パイプたばこ区分での認可に基づきkiseruに分類します。"
+    },
+    "キボコ": {
+      "manufacturer": "キボコ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製であり、パイプたばこの銘柄として知られています。"
+    },
+    "キャメル": {
+      "manufacturer": "キャメル",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ポーランド製の25gパッケージは、手巻き（シャグ）用のパイプたばこ区分製品です。"
+    },
+    "クリスウィル": {
+      "manufacturer": "クリスウィル",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "製品名に「ネイビーカット」を含み、ドイツ製の伝統的なパイプたばこです。"
+    },
+    "クルーズライン": {
+      "manufacturer": "クルーズライン",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製であり、パイプたばこの銘柄として登録されています。"
+    },
+    "グレンパイパー": {
+      "manufacturer": "グレンパイパー",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製の伝統的なパイプたばこ銘柄です。"
+    },
+    "コックロビン": {
+      "manufacturer": "コックロビン",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製であり、パイプたばこの銘柄として流通しています。"
+    },
+    "コペンハーゲン・キャベンディッシュ": {
+      "manufacturer": "コペンハーゲン・キャベンディッシュ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "製品名に「キャベンディッシュ」を含み、ドイツ製のパイプたばこです。"
+    },
+    "コメイ": {
+      "manufacturer": "コメイ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "製品名に「ミクスチャー」を多用するドイツ製の伝統的なパイプたばこです。"
+    },
+    "コルツ": {
+      "manufacturer": "コルツ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマーク製の有名なシャグ・パイプたばこブランドです。"
+    },
+    "コーネルディール": {
+      "manufacturer": "コーネルディール",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "米国を代表する伝統的なパイプたばこメーカーです。"
+    },
+    "ゴードンビム": {
+      "manufacturer": "ゴードンビム",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製であり、パイプたばこの銘柄として登録されています。"
+    },
+    "ゴールデンブレンド": {
+      "manufacturer": "ゴールデンブレンド",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "「アロマティック」「バージニア」など伝統的なパイプたばこの名称を使用しています。"
+    },
+    "サビネリ": {
+      "manufacturer": "サビネリ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "イタリアの有名パイプメーカーによるドイツ製のパイプ用たばこです。"
+    },
+    "サミュエルガーウィズ": {
+      "manufacturer": "サミュエルガーウィズ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国の老舗パイプたばこメーカーであり、非常に有名な銘柄を多数製造しています。"
+    },
+    "サンデーズ・ベスト": {
+      "manufacturer": "サンデーズ・ベスト",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製であり、パイプたばこの銘柄として流通しています。"
+    },
+    "サンデーズ・ベスト (20)": {
+      "manufacturer": "サンデーズ・ベスト (20)",
+      "type": "kiseru",
+      "confidence": "low",
+      "reason": "ラオス製で20本入りの形態を示唆しますが、パイプたばこ区分での認可に基づきkiseruに分類します。"
+    },
+    "シャコム": {
+      "manufacturer": "シャコム",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "フランスの有名パイプメーカーによるドイツ製のパイプ用たばこシリーズです。"
+    },
+    "ジャーマイン": {
+      "manufacturer": "ジャーマイン",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国の伝統的なパイプたばこメーカーであり、ラタキアやペリクを使用した製品が特徴です。"
+    },
+    "ジョージア ブラウン": {
+      "manufacturer": "ジョージア ブラウン",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製の伝統的なパイプたばこブランドとして知られています。"
+    },
+    "ジーエル・ピース": {
+      "manufacturer": "ジーエル・ピース",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "米国G.L. Peaseは伝統的なパイプたばこの高級ブランドであり、製品名も伝統的です。"
+    },
+    "スウィートバニラ・ハニーデュー": {
+      "manufacturer": "スウィートバニラ・ハニーデュー",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツのダンタバコ社が製造する有名なパイプ用アロマティックたばこです。"
+    },
+    "スタンレー": {
+      "manufacturer": "スタンレー",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ベルギー製のシャグ（手巻き・パイプ兼用）ブランドとして広く流通しています。"
+    },
+    "スリービー": {
+      "manufacturer": "スリービー",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "製品名にミクスチャー等の伝統的なパイプ用語が含まれています。"
+    },
+    "セブンシーズ": {
+      "manufacturer": "セブンシーズ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "マックバレン社が展開するデンマーク製の伝統的なパイプたばこシリーズです。"
+    },
+    "セント バーナード": {
+      "manufacturer": "セント バーナード",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製の伝統的なパイプたばこ銘柄です。"
+    },
+    "ソラーニ": {
+      "manufacturer": "ソラーニ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツの伝統的なパイプたばこブランドで、バーレーやフレイク等の用語が使われています。"
+    },
+    "ソル・オーガニック": {
+      "manufacturer": "ソル・オーガニック",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ラオス産ですが、日本市場では手巻き（シャグ）用パイプたばことして展開されています。"
+    },
+    "ソル・ゴールド": {
+      "manufacturer": "ソル・ゴールド",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ラオス産の手巻き（シャグ）用パイプたばこシリーズです。"
+    },
+    "ソル・ミント": {
+      "manufacturer": "ソル・ミント",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ラオス産の手巻き（シャグ）用パイプたばこのメンソール版です。"
+    },
+    "タンブリン ダイス": {
+      "manufacturer": "タンブリン ダイス",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製のパイプたばこブランドです。"
+    },
+    "ダビドフ": {
+      "manufacturer": "ダビドフ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "世界的に有名な高級パイプたばこブランドであり、ミクスチュアやフレイク等の製品名が並びます。"
+    },
+    "ダビンチ": {
+      "manufacturer": "ダビンチ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製の有名なパイプたばこ銘柄です。"
+    },
+    "チェ": {
+      "manufacturer": "チェ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ルクセンブルク製の有名なシャグ（手巻き・パイプ兼用）ブランドです。"
+    },
+    "チェ・シャグ": {
+      "manufacturer": "チェ・シャグ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "チェ・ブランドのシャグ（手巻き・パイプ兼用）製品です。"
+    },
+    "チューチュートレイン": {
+      "manufacturer": "チューチュートレイン",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製のパイプたばこ銘柄です。"
+    },
+    "ティム": {
+      "manufacturer": "ティム",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製の伝統的なパイプたばこブランドです。"
+    },
+    "ティム・ロンドンブレンド (20)": {
+      "manufacturer": "ティム・ロンドンブレンド (20)",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ラオス製造ですが、ブランド名からパイプ・シャグ用と判断されます。"
+    },
+    "テイクユアタイム": {
+      "manufacturer": "テイクユアタイム",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製のパイプたばこ銘柄です。"
+    },
+    "ディスカバリー": {
+      "manufacturer": "ディスカバリー",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製のパイプたばこ銘柄です。"
+    },
+    "デビルズホリデー": {
+      "manufacturer": "デビルズホリデー",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツのダンタバコ社が製造する非常に有名なパイプたばこです。"
+    },
+    "デビルズホリデー (20)": {
+      "manufacturer": "デビルズホリデー (20)",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ラオス製造のデビルズホリデーブランドの製品です。"
+    },
+    "トーベンダンスク": {
+      "manufacturer": "トーベンダンスク",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製の伝統的なパイプたばこで、ラタキアやキャベンディッシュ等の用語が使われています。"
+    },
+    "ドーラ": {
+      "manufacturer": "ドーラ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "manual override: not shisha"
+    },
+    "ハグパイパーズ ドリーム": {
+      "manufacturer": "ハグパイパーズ ドリーム",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製のパイプたばこで、ロンドンの地名を冠した伝統的なシリーズです。"
+    },
+    "バルカン ブレンド": {
+      "manufacturer": "バルカン ブレンド",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製の伝統的なパイプたばこミクスチャーです。"
+    },
+    "バースデーブレンド": {
+      "manufacturer": "バースデーブレンド",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製のパイプたばこ銘柄です。"
+    },
+    "パイプ 66": {
+      "manufacturer": "パイプ 66",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製のパイプたばこ銘柄です。"
+    },
+    "パーフェクトブレンド": {
+      "manufacturer": "パーフェクトブレンド",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製のパイプたばこ銘柄です。"
+    },
+    "パーフェクトブレンド (20)": {
+      "manufacturer": "パーフェクトブレンド (20)",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ラオス製造の低価格帯シャグ（手巻き・パイプ用）ブランドとして知られています。"
+    },
+    "ビーボ・パイプ タバコ": {
+      "manufacturer": "ビーボ・パイプ タバコ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツのプランタ社が製造する伝統的なパイプ用たばこブランドです。"
+    },
+    "ピュア": {
+      "manufacturer": "ピュア",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ラタキアやオリエントなど、伝統的なパイプたばこのブレンド用葉材の名称が並んでいます。"
+    },
+    "ファウエン": {
+      "manufacturer": "ファウエン",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツの老舗パイプメーカーであり、伝統的なパイプ用ブレンドを展開しています。"
+    },
+    "フォン・クラーレン": {
+      "manufacturer": "フォン・クラーレン",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ラオス製造の限定版シャグ・パイプたばこシリーズです。"
+    },
+    "フランドリア": {
+      "manufacturer": "フランドリア",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ベルギー産の有名な手巻き（シャグ）およびパイプたばこブランドです。"
+    },
+    "フレッド ザ フロッグ": {
+      "manufacturer": "フレッド ザ フロッグ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製造のシャグたばこブランドとして流通しています。"
+    },
+    "ブラックスパイダー": {
+      "manufacturer": "ブラックスパイダー",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "多彩なフレーバーがありますが、日本市場では手巻き（シャグ）用パイプたばことして定着しています。"
+    },
+    "ブラックブレンド": {
+      "manufacturer": "ブラックブレンド",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製造のパイプ用たばこ（ブラックキャベンディッシュ主体等）と推測されます。"
+    },
+    "ブルーノート": {
+      "manufacturer": "ブルーノート",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツのダン・タバコ（DTM）を代表する非常に有名なパイプ用たばこです。"
+    },
+    "ブルー・カナリー": {
+      "manufacturer": "ブルー・カナリー",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツおよびラオスで製造される手巻き・パイプ用たばこブランドです。"
+    },
+    "ブルー・カナリー (20)": {
+      "manufacturer": "ブルー・カナリー (20)",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ブルー・カナリーの別規格または製造拠点違いの製品です。"
+    },
+    "プエブロ": {
+      "manufacturer": "プエブロ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツのポッシェル社が製造する、無添加で有名な手巻き（シャグ）たばこブランドです。"
+    },
+    "プランタ": {
+      "manufacturer": "プランタ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ（現在はマックバレン傘下）の伝統的なパイプたばこメーカーです。"
+    },
+    "ペペ": {
+      "manufacturer": "ペペ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツのフォン・アイケン社が製造する、無添加シャグたばこの代表的ブランドです。"
+    },
+    "マイクス レディーラブド": {
+      "manufacturer": "マイクス レディーラブド",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Ready Rubbedはパイプたばこの伝統的なカット形式を示す用語です。"
+    },
+    "マックバレン": {
+      "manufacturer": "マックバレン",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマークを代表する世界最大級のパイプたばこメーカーです。"
+    },
+    "マデュロ": {
+      "manufacturer": "マデュロ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製造のパイプ用または手巻き用の黒たばこ系ブランドと推測されます。"
+    },
+    "マラード": {
+      "manufacturer": "マラード",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツのダン・タバコ（DTM）が製造するパイプ用たばこです。"
+    },
+    "ミロンガ": {
+      "manufacturer": "ミロンガ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツのダン・タバコ（DTM）が製造するバニラ・キャラメル系のパイプたばこです。"
+    },
+    "ミロンガ (20)": {
+      "manufacturer": "ミロンガ (20)",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ミロンガの別規格またはラオス製造の派生版です。"
+    },
+    "モナ リザ": {
+      "manufacturer": "モナ リザ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製造の着香系パイプたばこブランドです。"
+    },
+    "ラットレー": {
+      "manufacturer": "ラットレー",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "スコットランド発祥の非常に高名な伝統的パイプたばこブランドです。"
+    },
+    "レッドフィールド": {
+      "manufacturer": "レッドフィールド",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ベルギー産の低価格帯シャグ（手巻き・パイプ用）ブランドです。"
+    },
+    "ロバートマッコーネル": {
+      "manufacturer": "ロバートマッコーネル",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国の伝統を継承するドイツ製造の高級パイプたばこブランドです。"
+    },
+    "ロバートルイス": {
+      "manufacturer": "ロバートルイス",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ロンドンの老舗ショップのレシピを継承する伝統的なパイプたばこです。"
+    },
+    "ローランド": {
+      "manufacturer": "ローランド",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "日本の深代喫煙具製作所によるブランドで、ドイツで委託製造されているパイプたばこです。"
+    },
+    "旬 SHUN": {
+      "manufacturer": "旬 SHUN",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "中国製でフルーツ系のフレーバー名が並んでおり、典型的なシーシャ用たばこです。"
+    },
+    "桃山": {
+      "manufacturer": "桃山",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "日本を代表する伝統的なパイプたばこブランド（現在はデンマーク製造）です。"
+    },
+    "飛鳥": {
+      "manufacturer": "飛鳥",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "桃山と並び称される日本ブランドの伝統的なパイプたばこです。"
+    },
+    "ｱｯｼｭﾄﾝ": {
+      "manufacturer": "ｱｯｼｭﾄﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Ashtonは世界的に有名なパイプたばこブランドであり、製品名も伝統的なパイプ用ブレンドを示しています。"
+    },
+    "ｱｰｸﾛｰﾔﾙ": {
+      "manufacturer": "ｱｰｸﾛｰﾔﾙ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "シャグ（手巻き・キセル用）として広く認知されており、ウルグアイ製造の伝統的な刻みたばこです。"
+    },
+    "ｱｲﾙﾗﾝﾄﾞ": {
+      "manufacturer": "ｱｲﾙﾗﾝﾄﾞ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "製品名のシャノンやスライゴベイはアイルランドの地名にちなんだ伝統的なパイプたばこの命名規則に一致します。"
+    },
+    "ｱｸﾛﾎﾟﾘｽ": {
+      "manufacturer": "ｱｸﾛﾎﾟﾘｽ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製造のファインカット（細刻み）たばこであり、伝統的なパイプ・キセル用ブランドです。"
+    },
+    "ｱﾉ": {
+      "manufacturer": "ｱﾉ",
+      "type": "unknown",
+      "confidence": "low",
+      "reason": "メーカー名および製品情報が極めて乏しく、特定が困難です。"
+    },
+    "ｱﾊﾟｯﾁ": {
+      "manufacturer": "ｱﾊﾟｯﾁ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "オランダ製造のシャグたばこブランドとして日本市場で広く流通しています。"
+    },
+    "ｱﾑｽﾃﾙﾀﾞﾏｰ": {
+      "manufacturer": "ｱﾑｽﾃﾙﾀﾞﾏｰ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマーク製造のシャグたばこであり、100%タバック等の製品構成からキセル・手巻き用と判断できます。"
+    },
+    "ｱﾒﾘｶﾝ･ﾊﾞｲｿﾝ": {
+      "manufacturer": "ｱﾒﾘｶﾝ･ﾊﾞｲｿﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "米国産の無添加シャグたばこ（手巻き・キセル用）として有名なブランドです。"
+    },
+    "ｱﾝﾀｯﾁｬﾌﾞﾙｽ": {
+      "manufacturer": "ｱﾝﾀｯﾁｬﾌﾞﾙｽ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製造のパイプたばこブランドとして登録されています。"
+    },
+    "ｱﾝﾊﾞｰﾘｰﾌ": {
+      "manufacturer": "ｱﾝﾊﾞｰﾘｰﾌ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国・欧州で非常にポピュラーな手巻き（シャグ）たばこブランドです。"
+    },
+    "ｱﾝﾎｰﾗ": {
+      "manufacturer": "ｱﾝﾎｰﾗ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "マックバレン社が製造する世界的なパイプたばこの代表的ブランドです。"
+    },
+    "ｲｴｽ･ｺｳﾉｳｨｯﾁ": {
+      "manufacturer": "ｲｴｽ･ｺｳﾉｳｨｯﾁ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツのKohlhase & Kopp社による高級パイプたばこシリーズです。"
+    },
+    "ｲﾑｺ": {
+      "manufacturer": "ｲﾑｺ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ライターで有名なIMCOブランドのパイプ・シャグ用たばこです。"
+    },
+    "ｲﾙｽﾃｯﾄﾞ": {
+      "manufacturer": "ｲﾙｽﾃｯﾄﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ゴールデンフレイク等の製品名から、伝統的なパイプ用フレイクたばこと判断できます。"
+    },
+    "ｳﾞｨﾝｾﾝﾄ ﾏﾆﾙ": {
+      "manufacturer": "ｳﾞｨﾝｾﾝﾄ ﾏﾆﾙ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ベルギーの伝統的な無添加刻みたばこ（スモア）の著名な製造者です。"
+    },
+    "ｳﾞｨﾝｾﾝﾄ･ﾏﾆﾙ": {
+      "manufacturer": "ｳﾞｨﾝｾﾝﾄ･ﾏﾆﾙ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ベルギーの伝統的な無添加刻みたばこ（スモア）の著名な製造者です。"
+    },
+    "ｴｸｾﾚﾝﾄ": {
+      "manufacturer": "ｴｸｾﾚﾝﾄ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ・フォン・アイケン社が製造するフレーバーシャグの有名ブランドです。"
+    },
+    "ｴﾘｰｾﾞ": {
+      "manufacturer": "ｴﾘｰｾﾞ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製造の伝統的なパイプ用アロマティックたばこです。"
+    },
+    "ｴﾙｳｯﾄﾞ": {
+      "manufacturer": "ｴﾙｳｯﾄﾞ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ラオス製造ですが、製品展開からパイプ用の刻みたばことして分類されます。"
+    },
+    "ｵｰﾘｯｸ": {
+      "manufacturer": "ｵｰﾘｯｸ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマークのOrlik社は世界最大級のパイプたばこメーカーであり、ゴールデンスライスは同社の代表作です。"
+    },
+    "ｵｰﾙﾄﾞｱｲﾛﾝｻｲﾄﾞ": {
+      "manufacturer": "ｵｰﾙﾄﾞｱｲﾛﾝｻｲﾄﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Dan Tobacco等で扱われる伝統的なフルボディのパイプたばこです。"
+    },
+    "ｵﾗﾌ ﾎﾟｰﾙｿﾝ": {
+      "manufacturer": "ｵﾗﾌ ﾎﾟｰﾙｿﾝ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "北欧系の名称を持つ伝統的なパイプたばこブランドです。"
+    },
+    "ｵﾘｴﾝﾄｼｰｼｬ": {
+      "manufacturer": "ｵﾘｴﾝﾄｼｰｼｬ",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "メーカー名に「シーシャ」を含み、製品名がフルーツやミントのフレーバーのみで構成されているため。"
+    },
+    "ｵﾙｽﾎﾞ": {
+      "manufacturer": "ｵﾙｽﾎﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマークの伝統的なパイプたばこブランド（Orlsbo）です。"
+    },
+    "ｵﾚﾝｼﾞﾄﾞﾘｰﾑ": {
+      "manufacturer": "ｵﾚﾝｼﾞﾄﾞﾘｰﾑ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製造の着香系パイプたばこ製品です。"
+    },
+    "ｶﾋﾟｰﾄ": {
+      "manufacturer": "ｶﾋﾟｰﾄ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "日本の柘製作所がプロデュースする、小容量パイプ（カピート）専用の刻みたばこです。"
+    },
+    "ｶﾌﾟﾁｰﾉ": {
+      "manufacturer": "ｶﾌﾟﾁｰﾉ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製造のフレーバーシャグ（手巻き・キセル用）として知られるブランドです。"
+    },
+    "ｶﾛ": {
+      "manufacturer": "ｶﾛ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製造のパイプ用たばこブランドです。"
+    },
+    "ｶﾛ･ﾐｵ": {
+      "manufacturer": "ｶﾛ･ﾐｵ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製造のパイプ用たばこブランドです。"
+    },
+    "ｶﾛﾗｲﾅﾛｰｽﾞ": {
+      "manufacturer": "ｶﾛﾗｲﾅﾛｰｽﾞ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製造の伝統的な着香パイプたばこです。"
+    },
+    "ｶﾞﾚﾘｱ": {
+      "manufacturer": "ｶﾞﾚﾘｱ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "米国産でブルーノートやナイト・キャップといった伝統的なパイプたばこの銘柄名が含まれています。"
+    },
+    "ｶﾞﾝﾄﾞｩﾝ": {
+      "manufacturer": "ｶﾞﾝﾄﾞｩﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "インドネシア産のクレテック（丁子）系たばこで、手巻きやパイプ用として流通しています。"
+    },
+    "ｶﾞﾝﾄﾞｩﾝ･ｱﾛﾏ": {
+      "manufacturer": "ｶﾞﾝﾄﾞｩﾝ･ｱﾛﾏ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ガンドゥンブランドの別表記であり、インドネシア産の刻みたばこに分類されます。"
+    },
+    "ｷｬﾌﾟﾃﾝﾌﾞﾗｯｸ": {
+      "manufacturer": "ｷｬﾌﾟﾃﾝﾌﾞﾗｯｸ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "世界的に有名なパイプたばこブランドであり、シャグ（手巻き）製品も展開しています。"
+    },
+    "ｷｬﾒﾙ": {
+      "manufacturer": "ｷｬﾒﾙ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ポーランド産の25gパッケージは手巻き（シャグ）用の刻みたばこです。"
+    },
+    "ｷｬﾒﾛﾝ": {
+      "manufacturer": "ｷｬﾒﾛﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ産のバレー（Burley）種を用いた伝統的なパイプたばこです。"
+    },
+    "ｷｬﾒﾛﾝ ﾊﾞﾚｰ": {
+      "manufacturer": "ｷｬﾒﾛﾝ ﾊﾞﾚｰ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "キャメロンブランドのバレー種製品を指すパイプたばこです。"
+    },
+    "ｷｭｰﾋﾞｯｸ": {
+      "manufacturer": "ｷｭｰﾋﾞｯｸ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ産の着香系パイプたばこであり、クリーミーナッツ等のフレーバーが特徴です。"
+    },
+    "ｸｰﾙ": {
+      "manufacturer": "ｸｰﾙ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "韓国産のネオスティックは加熱式たばこデバイス用ですが、税法上パイプたばこに分類されます。"
+    },
+    "ｸﾗﾝ": {
+      "manufacturer": "ｸﾗﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマーク産の伝統的なアロマティック・パイプたばこです。"
+    },
+    "ｸﾘｽｳｨﾙ": {
+      "manufacturer": "ｸﾘｽｳｨﾙ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ミクスチャーやネイビーカットといった伝統的なパイプたばこの形状・名称を使用しています。"
+    },
+    "ｸﾙｰｽﾞﾗｲﾝ": {
+      "manufacturer": "ｸﾙｰｽﾞﾗｲﾝ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ産のパイプたばこブランドとして知られています。"
+    },
+    "ｸﾞﾚﾝ": {
+      "manufacturer": "ｸﾞﾚﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "製品名「パイパー」から、パイプ用たばこであることが明確です。"
+    },
+    "ｸﾞﾛｯｷﾞｰ": {
+      "manufacturer": "ｸﾞﾛｯｷﾞｰ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "カクテル系のフレーバー名ですが、米国産のシャグ（手巻き）たばこブランドです。"
+    },
+    "ｸﾞﾛｳｽﾑｰｱ": {
+      "manufacturer": "ｸﾞﾛｳｽﾑｰｱ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国サミュエル・ガーウィズ社の有名な伝統的パイプたばこ銘柄です。"
+    },
+    "ｹﾝﾄ": {
+      "manufacturer": "ｹﾝﾄ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "韓国産のネオスティックは加熱式たばこ用ですが、認可区分はパイプたばこです。"
+    },
+    "ｺールﾊｽ": {
+      "manufacturer": "ｺールﾊｽ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツの老舗Kohlhase & Kopp社による高級パイプたばこです。"
+    },
+    "ｺｰﾈﾙﾃﾞｨｰﾙ": {
+      "manufacturer": "ｺｰﾈﾙﾃﾞｨｰﾙ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "米国Cornell & Diehl社は伝統的なパイプたばこ製造の代表格です。"
+    },
+    "ｺｰﾙﾊｽ": {
+      "manufacturer": "ｺｰﾙﾊｽ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Kohlhase & Kopp社の表記揺れであり、伝統的なパイプたばこです。"
+    },
+    "ｺﾍﾟﾝﾊｰｹﾞﾝ": {
+      "manufacturer": "ｺﾍﾟﾝﾊｰｹﾞﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "キャベンディッシュ等の名称から、伝統的なパイプたばこに分類されます。"
+    },
+    "ｺﾓｲ": {
+      "manufacturer": "ｺﾓｲ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Comoy'sは英国・デンマーク系の伝統的なパイプおよびパイプたばこブランドです。"
+    },
+    "ｺﾓｲ ｶｽｸ": {
+      "manufacturer": "ｺﾓｲ ｶｽｸ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "コモイの「カスク」シリーズは、ナンバリングされた伝統的なパイプたばこです。"
+    },
+    "ｺﾓﾝｳｪﾙｽ": {
+      "manufacturer": "ｺﾓﾝｳｪﾙｽ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国サミュエル・ガーウィズ社のラタキアを多用した伝統的パイプたばこです。"
+    },
+    "ｺﾙﾂ": {
+      "manufacturer": "ｺﾙﾂ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマーク産の非常にポピュラーな手巻き（シャグ）およびパイプたばこブランドです。"
+    },
+    "ｺﾞｰﾙﾃﾞﾝ･ﾊﾞｰｼﾞﾆｱ": {
+      "manufacturer": "ｺﾞｰﾙﾃﾞﾝ･ﾊﾞｰｼﾞﾆｱ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国を代表する手巻き（シャグ）用の刻みたばこブランドです。"
+    },
+    "ｺﾞｰﾙﾃﾞﾝｶｶﾞﾔｷ": {
+      "manufacturer": "ｺﾞｰﾙﾃﾞﾝｶｶﾞﾔｷ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ラオス産の刻みたばこ（キセル・パイプ用）として流通している銘柄です。"
+    },
+    "ｺﾞｰﾙﾃﾞﾝｸﾛｰﾊﾞｰ": {
+      "manufacturer": "ｺﾞｰﾙﾃﾞﾝｸﾛｰﾊﾞｰ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ラオス産のパイプ用刻みたばこブランドです。"
+    },
+    "ｺﾞｰﾙﾃﾞﾝﾊﾞｰｼﾞﾆｱ": {
+      "manufacturer": "ｺﾞｰﾙﾃﾞﾝﾊﾞｰｼﾞﾆｱ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ゴールデン・バージニアの表記揺れで、世界的なシャグたばこです。"
+    },
+    "ｺﾞｰﾙﾃﾞﾝﾌﾞﾚﾝﾄﾞ": {
+      "manufacturer": "ｺﾞｰﾙﾃﾞﾝﾌﾞﾚﾝﾄﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ産の伝統的なパイプたばこブランド（Golden Blend's）です。"
+    },
+    "ｻｰﾌｻｲﾄﾞ": {
+      "manufacturer": "ｻｰﾌｻｲﾄﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ハンガリー産のカクテル系フレーバーを特徴とする手巻き（シャグ）たばこです。"
+    },
+    "ｻﾋﾞﾈﾘ": {
+      "manufacturer": "ｻﾋﾞﾈﾘ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "イタリアの老舗パイプブランドであり、製品名もブラックキャベンディッシュ等の伝統的なパイプ用語であるため。"
+    },
+    "ｻﾐｭｴﾙ ｶﾞｰｳｨｽﾞ": {
+      "manufacturer": "ｻﾐｭｴﾙ ｶﾞｰｳｨｽﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国の伝統的なパイプたばこメーカーであり、フレイクやミックスチャーといった製品形態が特徴的であるため。"
+    },
+    "ｻﾐｭｴﾙ･ｶﾞｰｳｨｽﾞ": {
+      "manufacturer": "ｻﾐｭｴﾙ･ｶﾞｰｳｨｽﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国の著名なパイプたばこブランドであり、製品名も伝統的なパイプたばこの分類に合致するため。"
+    },
+    "ｻﾐｭｴﾙｶﾞｰｳｨｽﾞ": {
+      "manufacturer": "ｻﾐｭｴﾙｶﾞｰｳｨｽﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国の老舗メーカーであり、ケンダルクリームやスキッフミックスチャー等の有名なパイプ用銘柄が含まれるため。"
+    },
+    "ｻﾑｽﾞ": {
+      "manufacturer": "ｻﾑｽﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国製造で製品名がフレイク（パイプたばこのカット形式）であるため。"
+    },
+    "ｻﾑｽﾞ ﾌﾚｲｸ": {
+      "manufacturer": "ｻﾑｽﾞ ﾌﾚｲｸ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "メーカー名自体にパイプたばこのカット形式であるフレイクが含まれているため。"
+    },
+    "ｻﾑｽﾞ･ﾌﾚｲｸ": {
+      "manufacturer": "ｻﾑｽﾞ･ﾌﾚｲｸ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国の伝統的なパイプたばこの名称および形式であるため。"
+    },
+    "ｻﾝﾃﾞｰｽﾞ": {
+      "manufacturer": "ｻﾝﾃﾞｰｽﾞ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製造のパイプたばこブランドとして流通しているため。"
+    },
+    "ｻﾞ": {
+      "manufacturer": "ｻﾞ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "モルトハウス等の製品名から、ドイツ系の伝統的なパイプたばこと判断されるため。"
+    },
+    "ｻﾞ ﾓﾙﾄﾊｳｽ": {
+      "manufacturer": "ｻﾞ ﾓﾙﾄﾊｳｽ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製の伝統的なパイプたばこブランド名であるため。"
+    },
+    "ｻﾞ･ﾓﾙﾄﾊｳｽ": {
+      "manufacturer": "ｻﾞ･ﾓﾙﾄﾊｳｽ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製の伝統的なパイプたばこブランド名であるため。"
+    },
+    "ｼｬｺﾑ": {
+      "manufacturer": "ｼｬｺﾑ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "フランスの有名パイプメーカーのブランドであり、ナンバリングによる製品展開はパイプ用によく見られるため。"
+    },
+    "ｼﾙｸﾛｰﾄﾞ": {
+      "manufacturer": "ｼﾙｸﾛｰﾄﾞ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "デンマーク製造のパイプたばこブランドとして知られているため。"
+    },
+    "ｼﾞｬｰﾏｲﾝ": {
+      "manufacturer": "ｼﾞｬｰﾏｲﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国の伝統的な高級パイプたばこメーカーであり、ラタキアやペリク等の専門用語が並ぶため。"
+    },
+    "ｼﾞｬﾝｺﾞ": {
+      "manufacturer": "ｼﾞｬﾝｺﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマーク製造のパイプ・手巻き用ブランドであり、アロマティック等の名称からパイプ用と判断できるため。"
+    },
+    "ｼﾞｮｰｼﾞｱ": {
+      "manufacturer": "ｼﾞｮｰｼﾞｱ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ラオス製造の安価なパイプ・手巻き用たばことして流通しているため。"
+    },
+    "ｼﾞｮﾘｰ": {
+      "manufacturer": "ｼﾞｮﾘｰ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ジョーカー等の製品名で知られる、ラオス製造のパイプ・手巻き用たばこであるため。"
+    },
+    "ｼﾞｮﾝｴｲﾙｽﾞ": {
+      "manufacturer": "ｼﾞｮﾝｴｲﾙｽﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツの高級パイプたばこブランド（John Aylesbury）であるため。"
+    },
+    "ｼﾞｰｴﾙﾋﾟｰｽ": {
+      "manufacturer": "ｼﾞｰｴﾙﾋﾟｰｽ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "米国を代表する現代のパイプたばこブレンダー（G.L. Pease）の製品群であるため。"
+    },
+    "ｼﾞｸﾞｻﾞｸﾞ": {
+      "manufacturer": "ｼﾞｸﾞｻﾞｸﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "手巻き・パイプ用として世界的に有名なブランドであり、シャグ形式の製品であるため。"
+    },
+    "ｼﾞﾌﾞ": {
+      "manufacturer": "ｼﾞﾌﾞ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "オランダ製造の伝統的なパイプ・手巻き用たばこブランドであるため。"
+    },
+    "ｽｲｰﾄﾀﾞﾌﾞﾘﾝ": {
+      "manufacturer": "ｽｲｰﾄﾀﾞﾌﾞﾘﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマーク製の非常に有名なパイプたばこ銘柄であるため。"
+    },
+    "ｽｳｨｰﾄﾊﾞﾆﾗ": {
+      "manufacturer": "ｽｳｨｰﾄﾊﾞﾆﾗ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製のパイプたばこであり、ハニデュー等の伝統的な着香パイプたばこの名称を持つため。"
+    },
+    "ｽｸﾜﾄﾞﾛﾝ": {
+      "manufacturer": "ｽｸﾜﾄﾞﾛﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "サミュエル・ガーウィズの「スクワドロンリーダー」等、英国の伝統的なパイプたばこに関連する名称であるため。"
+    },
+    "ｽﾀｯﾄﾞ": {
+      "manufacturer": "ｽﾀｯﾄﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "オランダの伝統的なパイプたばこブランド（Stad Ootmarsum）であるため。"
+    },
+    "ｽﾀﾝｳｴﾙ": {
+      "manufacturer": "ｽﾀﾝｳｴﾙ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマークの著名なパイプメーカーによるパイプたばこブランドであるため。"
+    },
+    "ｽﾀﾝﾚｰ": {
+      "manufacturer": "ｽﾀﾝﾚｰ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ベルギー製造の多種多様なフレーバーを持つシャグ（手巻き・パイプ用）ブランドであるため。"
+    },
+    "ｽﾍﾟｰﾄﾞ": {
+      "manufacturer": "ｽﾍﾟｰﾄﾞ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ラオス製造のパイプ・手巻き用たばこブランドとして流通しているため。"
+    },
+    "ｽﾘｰﾋﾞｰ": {
+      "manufacturer": "ｽﾘｰﾋﾞｰ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製造で、イングリッシュやスコティッシュといった伝統的なパイプたばこのブレンド名を持つため。"
+    },
+    "ｾﾌﾞﾝｼｰｽﾞ": {
+      "manufacturer": "ｾﾌﾞﾝｼｰｽﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "マックバレン社が展開する、デンマーク製の代表的なパイプたばこシリーズであるため。"
+    },
+    "ｾﾘｰﾆ": {
+      "manufacturer": "ｾﾘｰﾆ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製でクラシコやフォルテといった伝統的なパイプたばこの名称を使用しているため。"
+    },
+    "ｾﾝﾄ": {
+      "manufacturer": "ｾﾝﾄ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ラオス製造のパイプ用ブランド「バーナード」を展開しているため。"
+    },
+    "ｾﾝﾄｼﾞｪｰﾑｽ": {
+      "manufacturer": "ｾﾝﾄｼﾞｪｰﾑｽ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国製のフレイクたばこは伝統的なパイプたばこの代表的な形態であるため。"
+    },
+    "ｾﾝﾄｼﾞｪｰﾑｽ ﾌﾚｲｸ": {
+      "manufacturer": "ｾﾝﾄｼﾞｪｰﾑｽ ﾌﾚｲｸ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "製品名自体が伝統的なパイプたばこのカット形式であるフレイクを指しているため。"
+    },
+    "ｾﾝﾄｼﾞｪｰﾑｽ･ﾌﾚｲｸ": {
+      "manufacturer": "ｾﾝﾄｼﾞｪｰﾑｽ･ﾌﾚｲｸ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国製の伝統的なパイプ用フレイクたばこであると判断できるため。"
+    },
+    "ｿﾗｰﾆ": {
+      "manufacturer": "ｿﾗｰﾆ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製でヴァージニアやバーレーのフレイクなど、伝統的なパイプたばこのラインナップであるため。"
+    },
+    "ﾀﾝﾌﾞﾘﾝ": {
+      "manufacturer": "ﾀﾝﾌﾞﾘﾝ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ラオス製で「ダイス」などの製品名を持つパイプ用たばこブランドであるため。"
+    },
+    "ﾀﾞﾆｯｼｭ": {
+      "manufacturer": "ﾀﾞﾆｯｼｭ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマーク・ドイツ製のブラックバニラは非常に有名なパイプたばこの銘柄であるため。"
+    },
+    "ﾀﾞﾋﾞﾄﾞﾌ": {
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "世界的に有名な高級パイプたばこブランドであり、イングリッシュミクスチュア等の伝統的製品を展開しているため。"
+    },
+    "ﾀﾞﾋﾞﾝﾁ": {
+      "manufacturer": "ﾀﾞﾋﾞﾝﾁ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製の有名なパイプたばこブランド（ダ・ヴィンチ）であるため。"
+    },
+    "ﾀﾞﾝﾋﾙ": {
+      "manufacturer": "ﾀﾞﾝﾋﾙ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "パイプたばこの歴史において最も著名なブランドの一つであり、アーリーモーニング等の名作を製造しているため。"
+    },
+    "ﾁｪ": {
+      "manufacturer": "ﾁｪ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ルクセンブルク製の手巻き（シャグ）たばこブランドとして広く認知されているため。"
+    },
+    "ﾁｬﾗﾀﾝ": {
+      "manufacturer": "ﾁｬﾗﾀﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製でミクスチャーやバージニアなど、伝統的なパイプたばこの名称を冠しているため。"
+    },
+    "ﾁｭーﾁｭーﾄﾚｲﾝ": {
+      "manufacturer": "ﾁｭーﾁｭーﾄﾚｲﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製のパイプたばこブランド（Choo Choo Train）として知られているため。"
+    },
+    "ﾁｭｰﾁｭートﾚｲﾝ": {
+      "manufacturer": "ﾁｭｰﾁｭートﾚｲﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "表記揺れであるが、ドイツ製のパイプたばこブランドであるため。"
+    },
+    "ﾁｮｲｽ": {
+      "manufacturer": "ﾁｮｲｽ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマークのマックバレン社が製造する有名な手巻き・パイプ用たばこシリーズであるため。"
+    },
+    "ﾁｰﾀｰ": {
+      "manufacturer": "ﾁｰﾀｰ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製のシャグ（手巻き）たばこブランドとして日本市場で流通しているため。"
+    },
+    "ﾂｹﾞ": {
+      "manufacturer": "ﾂｹﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "日本の老舗パイプメーカー「柘製作所」のブランドであり、伝統的なパイプたばこを展開しているため。"
+    },
+    "ﾃｨﾑ": {
+      "manufacturer": "ﾃｨﾑ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製でロンドンブレンド等の名称を使用する伝統的なパイプたばこブランドであるため。"
+    },
+    "ﾃｨﾑ･ｼﾃｨｰﾗｲﾝ": {
+      "manufacturer": "ﾃｨﾑ･ｼﾃｨｰﾗｲﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製のパイプたばこ「ティム」のシリーズ製品であるため。"
+    },
+    "ﾃｲｸｲｯﾄｲｰｼﾞｰ": {
+      "manufacturer": "ﾃｲｸｲｯﾄｲｰｼﾞｰ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製のパイプたばこブランド（Take It Easy）として知られているため。"
+    },
+    "ﾃｷｰﾗｻﾝﾗｲｽﾞ": {
+      "manufacturer": "ﾃｷｰﾗｻﾝﾗｲｽﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製の着香系パイプたばこ銘柄であるため。"
+    },
+    "ﾃﾞｨｽｶﾊﾞﾘｰ": {
+      "manufacturer": "ﾃﾞｨｽｶﾊﾞﾘｰ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製のパイプたばこブランドとして流通しているため。"
+    },
+    "ﾃﾞﾋﾞﾙｽﾞﾎﾘﾃﾞｰ": {
+      "manufacturer": "ﾃﾞﾋﾞﾙｽﾞﾎﾘﾃﾞｰ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツの高級パイプたばこメーカーが製造する非常に有名な着香銘柄であるため。"
+    },
+    "ﾄｰﾍﾞﾝﾀﾞﾝｽｸ": {
+      "manufacturer": "ﾄｰﾍﾞﾝﾀﾞﾝｽｸ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製でオリエントやケンタッキーなど、単一葉や伝統的ブレンドを扱うパイプたばこブランドであるため。"
+    },
+    "ﾄﾞﾐﾝｺﾞ": {
+      "manufacturer": "ﾄﾞﾐﾝｺﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "欧州製の有名な手巻き（シャグ）たばこブランドであるため。"
+    },
+    "ﾄﾞﾗﾑ": {
+      "manufacturer": "ﾄﾞﾗﾑ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "世界的に有名な手巻き（シャグ）たばこの代表的ブランドであるため。"
+    },
+    "ﾅﾁｭﾗﾙ ｱﾒﾘｶﾝ ｽﾋﾟﾘｯﾄ": {
+      "manufacturer": "ﾅﾁｭﾗﾙ ｱﾒﾘｶﾝ ｽﾋﾟﾘｯﾄ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "日本でも非常に有名な無添加たばこブランドで、手巻き用のシャグを展開しているため。"
+    },
+    "ﾈｵ": {
+      "manufacturer": "ﾈｵ",
+      "type": "unknown",
+      "confidence": "medium",
+      "reason": "韓国製で「スティック」という名称から加熱式たばこ用と思われるが、パイプたばこ区分での詳細は不明瞭なため。"
+    },
+    "ﾊｰﾌ ｱﾝﾄﾞ ﾊｰﾌ": {
+      "manufacturer": "ﾊｰﾌ ｱﾝﾄﾞ ﾊｰﾌ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマーク製の歴史ある有名なパイプたばこ銘柄であるため。"
+    },
+    "ﾊｰﾌ･ｱﾝﾄﾞ･ﾊｰﾌ": {
+      "manufacturer": "ﾊｰﾌ･ｱﾝﾄﾞ･ﾊｰﾌ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Half and Halfはデンマーク製造の歴史的なパイプたばこブランドであるため。"
+    },
+    "ﾊｰﾍﾞｽﾄ": {
+      "manufacturer": "ﾊｰﾍﾞｽﾄ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製のシャグ（手巻き・パイプ用）として広く知られるブランドであるため。"
+    },
+    "ﾊｲﾀﾊﾞｺ": {
+      "manufacturer": "ﾊｲﾀﾊﾞｺ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ブラジル産の無添加系シャグたばこブランドとして著名であるため。"
+    },
+    "ﾊﾞバリｼｬｸﾞ": {
+      "manufacturer": "ﾊﾞバリｼｬｸﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "バリシャグの表記揺れであり、ハーフスワレ等の伝統的な刻みたばこであるため。"
+    },
+    "ﾊﾞｰｼﾞﾆｱ": {
+      "manufacturer": "ﾊﾞｰｼﾞﾆｱ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "オランダ製造のバージニア葉を用いた伝統的なパイプ・シャグたばこと推測されるため。"
+    },
+    "ﾊﾞｰｽﾃﾞｰﾌﾞﾚﾝﾄﾞ": {
+      "manufacturer": "ﾊﾞｰｽﾃﾞｰﾌﾞﾚﾝﾄﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツのKohlhase & Kopp社等が手掛ける伝統的なパイプ用アロマティックたばこであるため。"
+    },
+    "ﾊﾞｲｵﾘﾝ": {
+      "manufacturer": "ﾊﾞｲｵﾘﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "インドネシア産のダークファイアキュアード（DFC）を用いた特徴的なパイプ・シャグたばこであるため。"
+    },
+    "ﾊﾞｸﾞﾊﾟｲﾊﾟｰｽﾞ": {
+      "manufacturer": "ﾊﾞｸﾞﾊﾟｲﾊﾟｰｽﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ラオス製造だが、ブランド名がパイプ演奏者を指し、伝統的なパイプたばこの形式であるため。"
+    },
+    "ﾊﾞﾘｼｬｸﾞ": {
+      "manufacturer": "ﾊﾞﾘｼｬｸﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマーク製の非常に有名な手巻き・パイプ用刻みたばこブランドであるため。"
+    },
+    "ﾊﾞﾙｶﾝ": {
+      "manufacturer": "ﾊﾞﾙｶﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "フレイクやブレンドといった名称、およびバルカン系という伝統的パイプたばこの分類に合致するため。"
+    },
+    "ﾊﾞﾙｶﾝ ﾌﾚｲｸ": {
+      "manufacturer": "ﾊﾞﾙｶﾝ ﾌﾚｲｸ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "サミュエルガーウィズ等の英国伝統のパイプたばこ製法（フレイク）を指すため。"
+    },
+    "ﾊﾞﾙｶﾝ ﾌﾞﾚﾝﾄﾞ": {
+      "manufacturer": "ﾊﾞﾙｶﾝ ﾌﾞﾚﾝﾄﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ラタキア葉を用いた伝統的なパイプたばこのブレンド様式を指すため。"
+    },
+    "ﾊﾞﾙｶﾝ･ﾌﾚｲｸ": {
+      "manufacturer": "ﾊﾞﾙｶﾝ･ﾌﾚｲｸ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国伝統のプレス成形されたパイプ用たばこ（フレイク）であるため。"
+    },
+    "ﾊﾞﾙｶﾝｿﾌﾞﾗﾆｰ": {
+      "manufacturer": "ﾊﾞﾙｶﾝｿﾌﾞﾗﾆｰ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "世界的に有名な伝説的パイプたばこブランド（Balkan Sobranie）であるため。"
+    },
+    "ﾊﾟｰﾌｪｸﾄﾌﾞﾚﾝﾄﾞ": {
+      "manufacturer": "ﾊﾟｰﾌｪｸﾄﾌﾞﾚﾝﾄﾞ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ファインカット（細刻み）の名称から、パイプまたは手巻き用の刻みたばこと判断されるため。"
+    },
+    "ﾊﾟｲﾌﾟ": {
+      "manufacturer": "ﾊﾟｲﾌﾟ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製造の「Pipe 66」などのパイプ専用たばこ製品を指すため。"
+    },
+    "ﾊﾟﾋﾟﾖﾝ": {
+      "manufacturer": "ﾊﾟﾋﾟﾖﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "インドネシア産のクローブ等を使用したパイプ・手巻き用刻みたばこであるため。"
+    },
+    "ﾋﾞｭﾃﾗ": {
+      "manufacturer": "ﾋﾞｭﾃﾗ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "米国Buteraブランドの高級パイプたばこ（ゴールデンケーキ等）であるため。"
+    },
+    "ﾋﾞｰﾎﾞ": {
+      "manufacturer": "ﾋﾞｰﾎﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ラオス製造のパイプ用たばこブランドとして流通しているため。"
+    },
+    "ﾋﾞｰﾎﾞ･ﾊﾟｲﾌﾟﾀﾊﾞｺ": {
+      "manufacturer": "ﾋﾞｰﾎﾞ･ﾊﾟｲﾌﾟﾀﾊﾞｺ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "名称にパイプたばこと明記されており、ドイツ製造の伝統的な製品であるため。"
+    },
+    "ﾋﾞﾎﾞ": {
+      "manufacturer": "ﾋﾞﾎﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ファインカット（細刻み）のパイプ・手巻き用たばこであるため。"
+    },
+    "ﾋﾟｭｱ": {
+      "manufacturer": "ﾋﾟｭｱ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ラタキアやオリエントなど、伝統的なパイプ用原葉ブレンドの名称を用いているため。"
+    },
+    "ﾋﾟｰﾀｰｿﾝ": {
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "世界で最も有名なアイルランド発祥のパイプブランドおよびパイプたばこであるため。"
+    },
+    "ﾌｧｳｴﾝ": {
+      "manufacturer": "ﾌｧｳｴﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツの老舗パイプメーカーVauenによる伝統的なパイプ用たばこであるため。"
+    },
+    "ﾌｫｰｽ ｼﾞｪﾈﾚｰｼｮﾝ": {
+      "manufacturer": "ﾌｫｰｽ ｼﾞｪﾈﾚｰｼｮﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Erik Stokkebyeによる4th Generationブランドの伝統的なパイプたばこであるため。"
+    },
+    "ﾌｫｰｽ･ｼﾞｪﾈﾚｰｼｮﾝ": {
+      "manufacturer": "ﾌｫｰｽ･ｼﾞｪﾈﾚｰｼｮﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "4th Generationの表記揺れであり、デンマーク製造の高級パイプたばこであるため。"
+    },
+    "ﾌｫｰｽｼﾞｪﾈﾚｰｼｮﾝ": {
+      "manufacturer": "ﾌｫｰｽｼﾞｪﾈﾚｰｼｮﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ファミリーリザーブ等の名称から、伝統的なパイプたばこ製品と判断されるため。"
+    },
+    "ﾌｫｰﾏｰ": {
+      "manufacturer": "ﾌｫｰﾏｰ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツの有名ブレンダーFormerによる、フレイクを中心とした伝統的パイプたばこであるため。"
+    },
+    "ﾌｫﾝ ｸﾗｰﾚﾝ": {
+      "manufacturer": "ﾌｫﾝ ｸﾗｰﾚﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Von Eicken社に関連する伝統的なパイプ用ブレンドのシリーズであるため。"
+    },
+    "ﾌｫﾝ･ｸﾗｰﾚﾝ": {
+      "manufacturer": "ﾌｫﾝ･ｸﾗｰﾚﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "キャベンディッシュやバージニアなど、伝統的なパイプたばこの用語が製品名に含まれるため。"
+    },
+    "ﾌﾗｲﾎﾞｰｸﾞ ｱﾝﾄﾞ ﾄﾚｲﾔｰ": {
+      "manufacturer": "ﾌﾗｲﾎﾞｰｸﾞ ｱﾝﾄﾞ ﾄﾚｲﾔｰ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製で製品名にミクスチャーが含まれる伝統的なパイプたばこブランドです。"
+    },
+    "ﾌﾗﾝﾄﾞﾘｱ": {
+      "manufacturer": "ﾌﾗﾝﾄﾞﾘｱ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ベルギー製のシャグ（手巻き・パイプ）ブランドとして著名で、バージニア等の伝統的葉を使用しています。"
+    },
+    "ﾌﾙ": {
+      "manufacturer": "ﾌﾙ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国製でバージニア葉を主体とする伝統的なパイプたばこです。"
+    },
+    "ﾌﾙ ﾊﾞｰｼﾞﾆｱ": {
+      "manufacturer": "ﾌﾙ ﾊﾞｰｼﾞﾆｱ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "サミュエルガーウィズ等の英国伝統のバージニア・パイプたばこを指します。"
+    },
+    "ﾌﾙ･ﾊﾞｰｼﾞﾆｱ": {
+      "manufacturer": "ﾌﾙ･ﾊﾞｰｼﾞﾆｱ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国製のフルバージニア・フレイク等の伝統的なパイプ用製品です。"
+    },
+    "ﾌﾚｯﾄﾞ ｻﾞ": {
+      "manufacturer": "ﾌﾚｯﾄﾞ ｻﾞ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ラオス製ですが、製品名フロッグは手巻きやパイプ用のシャグとして流通しています。"
+    },
+    "ﾌﾛｯｸﾞﾓｰﾄﾝ": {
+      "manufacturer": "ﾌﾛｯｸﾞﾓｰﾄﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "マクレランド社による米国製の非常に有名なパイプたばこシリーズです。"
+    },
+    "ﾌﾛﾘﾀﾞ": {
+      "manufacturer": "ﾌﾛﾘﾀﾞ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ラオス製ですが、製品名ストレイツは手巻き・パイプ用のシャグブランドです。"
+    },
+    "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ": {
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "フレーバーは多彩ですが、日本市場では手巻き（シャグ）およびパイプ用として広く認知されています。"
+    },
+    "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ": {
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "オランダ製の有名なシャグ（手巻き・パイプ）ブランドです。"
+    },
+    "ﾌﾞﾗｯｸﾌﾞﾚﾝﾄﾞ": {
+      "manufacturer": "ﾌﾞﾗｯｸﾌﾞﾚﾝﾄﾞ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製のパイプ用ブラックキャベンディッシュ主体のブレンドと推測されます。"
+    },
+    "ﾌﾞﾗｯｸﾎｰｸ": {
+      "manufacturer": "ﾌﾞﾗｯｸﾎｰｸ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製のパイプたばこで、カプチーノ等のアロマティック系製品です。"
+    },
+    "ﾌﾞﾘｯｸﾞ": {
+      "manufacturer": "ﾌﾞﾘｯｸﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツのプランタ社が製造する、パウチ入りのポピュラーなパイプたばこです。"
+    },
+    "ﾌﾞﾙｰ": {
+      "manufacturer": "ﾌﾞﾙｰ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製のパイプたばこブランド「ブルーカナリー」の一部と推測されます。"
+    },
+    "ﾌﾞﾙｰ･ｶﾅﾘｰ": {
+      "manufacturer": "ﾌﾞﾙｰ･ｶﾅﾘｰ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製の伝統的なパイプたばこブランドです。"
+    },
+    "ﾌﾞﾙｰﾉｰﾄ": {
+      "manufacturer": "ﾌﾞﾙｰﾉｰﾄ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツのダンタバコ（DTM）を代表する非常に有名なアロマティック・パイプたばこです。"
+    },
+    "ﾌﾟｴﾌﾞﾛ": {
+      "manufacturer": "ﾌﾟｴﾌﾞﾛ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製の無添加シャグ（手巻き・パイプ）として非常に有名なブランドです。"
+    },
+    "ﾌﾟﾗﾝﾀ": {
+      "manufacturer": "ﾌﾟﾗﾝﾀ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツの著名なパイプたばこメーカーであり、ゴールデンバニラはその代表作です。"
+    },
+    "ﾌﾟﾚｽﾋﾞﾃﾘｱﾝ": {
+      "manufacturer": "ﾌﾟﾚｽﾋﾞﾃﾘｱﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ（元は英国）で製造される、歴史あるイングリッシュミクスチャーのパイプたばこです。"
+    },
+    "ﾌﾟﾛﾑﾅｰﾄﾞ": {
+      "manufacturer": "ﾌﾟﾛﾑﾅｰﾄﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマーク製の伝統的なパイプたばこ製品です。"
+    },
+    "ﾍﾚﾆｽﾞﾑ": {
+      "manufacturer": "ﾍﾚﾆｽﾞﾑ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製のオリエント葉などを使用したパイプたばこと推測されます。"
+    },
+    "ﾍﾞｽﾄ": {
+      "manufacturer": "ﾍﾞｽﾄ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国サミュエルガーウィズ社のベストブラウンフレイクを指すパイプたばこです。"
+    },
+    "ﾍﾞｽﾄ ﾌﾞﾗｳﾝﾌﾚｲｸ": {
+      "manufacturer": "ﾍﾞｽﾄ ﾌﾞﾗｳﾝﾌﾚｲｸ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国製の伝統的なバージニアフレイク・パイプたばこです。"
+    },
+    "ﾍﾞｽﾄ･ﾌﾞﾗｳﾝﾌﾚｲｸ": {
+      "manufacturer": "ﾍﾞｽﾄ･ﾌﾞﾗｳﾝﾌﾚｲｸ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "英国サミュエルガーウィズ社の代表的なパイプ用フレイクたばこです。"
+    },
+    "ﾍﾞﾘｰﾆ": {
+      "manufacturer": "ﾍﾞﾘｰﾆ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツのプランタ社が製造する、イタリアの都市名を冠したパイプたばこシリーズです。"
+    },
+    "ﾍﾞﾝﾄﾚｰ": {
+      "manufacturer": "ﾍﾞﾝﾄﾚｰ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツでライセンス製造されている高級パイプたばこブランドです。"
+    },
+    "ﾍﾟｯｾｶﾇｰ": {
+      "manufacturer": "ﾍﾟｯｾｶﾇｰ",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "トルコ製で方位を冠した製品名は、シーシャ（水たばこ）ブランドの特徴です。"
+    },
+    "ﾍﾟﾍﾟ": {
+      "manufacturer": "ﾍﾟﾍﾟ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製の無添加バージニア葉を使用した有名なシャグ（手巻き・パイプ）ブランドです。"
+    },
+    "ﾎﾘｰｽﾞ": {
+      "manufacturer": "ﾎﾘｰｽﾞ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ドイツ製のパイプたばこブランド「コールハス」等のシリーズと推測されます。"
+    },
+    "ﾎﾙｶﾞｰﾀﾞﾝｽｹ": {
+      "manufacturer": "ﾎﾙｶﾞｰﾀﾞﾝｽｹ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツ製の伝統的なパイプたばこブランドで、ダブルファーメンテッド等が有名です。"
+    },
+    "ﾎﾞﾙｸﾑﾘｰﾌ": {
+      "manufacturer": "ﾎﾞﾙｸﾑﾘｰﾌ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Borkum Riff is a world-famous traditional pipe tobacco brand from Denmark."
+    },
+    "ﾏｯｸﾊバレン": {
+      "manufacturer": "ﾏｯｸﾊバレン",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Mac Baren is a leading Danish pipe tobacco manufacturer known for its Choice and Vanilla series."
+    },
+    "ﾏｯｸﾊﾞｰﾚﾝ": {
+      "manufacturer": "ﾏｯｸﾊﾞｰﾚﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Mac Baren is a major pipe tobacco brand; products like Navy Flake are classic pipe tobacco styles."
+    },
+    "ﾏｯｸﾊﾞﾚﾝ": {
+      "manufacturer": "ﾏｯｸﾊﾞﾚﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Variation of Mac Baren, a well-known Danish pipe tobacco producer."
+    },
+    "ﾏｯｸﾘﾝﾄｯｸ": {
+      "manufacturer": "ﾏｯｸﾘﾝﾄｯｸ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "McClintock is a German brand known for traditional pipe tobacco and roll-your-own blends."
+    },
+    "ﾏｯｺｰﾈﾙ": {
+      "manufacturer": "ﾏｯｺｰﾈﾙ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Robert McConnell is a historic brand famous for traditional English-style pipe tobacco."
+    },
+    "ﾏｰｺﾆｰｽﾞ": {
+      "manufacturer": "ﾏｰｺﾆｰｽﾞ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "Marconi's is a German pipe tobacco brand featuring traditional blends like Canadian Temper."
+    },
+    "ﾏｰﾙﾎﾞﾛ": {
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Marlboro HeatSticks are categorized as pipe tobacco for tax purposes in Japan but are used in electronic devices."
+    },
+    "ﾏｲｸｽ": {
+      "manufacturer": "ﾏｲｸｽ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "The term 'Ready Rubbed' is a specific cut used exclusively for pipe tobacco."
+    },
+    "ﾏｸﾚｰﾗﾝﾄﾞ": {
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "McClelland was a legendary American pipe tobacco manufacturer famous for Latakia and Perique blends."
+    },
+    "ﾏｸﾚｰﾗﾝﾄﾞ TLC": {
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ TLC",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "A specific line from the American pipe tobacco manufacturer McClelland."
+    },
+    "ﾏﾆﾄｳ": {
+      "manufacturer": "ﾏﾆﾄｳ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Manitou is a German brand primarily known for additive-free roll-your-own and pipe tobacco."
+    },
+    "ﾏﾗｰﾄﾞ": {
+      "manufacturer": "ﾏﾗｰﾄﾞ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "Mallard is a known pipe tobacco brand produced by Dan Tobacco in Germany."
+    },
+    "ﾐﾛﾝｶﾞ": {
+      "manufacturer": "ﾐﾛﾝｶﾞ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "Milonga is a specific aromatic pipe tobacco blend produced by Dan Tobacco in Germany."
+    },
+    "ﾒﾋﾞｳｽ": {
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Mevius Ploom Tech capsules are classified as pipe tobacco under Japanese tax law."
+    },
+    "ﾒﾛｰﾌﾞﾘｰｽﾞ": {
+      "manufacturer": "ﾒﾛｰﾌﾞﾘｰｽﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Mellow Breeze is a traditional Danish aromatic pipe tobacco brand."
+    },
+    "ﾓﾅ": {
+      "manufacturer": "ﾓﾅ",
+      "type": "kiseru",
+      "confidence": "low",
+      "reason": "Likely a roll-your-own or pipe tobacco brand from Laos, but specific data is limited."
+    },
+    "ﾓﾎｰｸ": {
+      "manufacturer": "ﾓﾎｰｸ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "Mohawk is a brand known for Virginia-based pipe and roll-your-own tobacco."
+    },
+    "ﾗｯﾄﾚｰ": {
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Rattray's is a prestigious Scottish brand known for high-quality traditional pipe tobacco."
+    },
+    "ﾗｰﾙｾﾝ": {
+      "manufacturer": "ﾗｰﾙｾﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "W.O. Larsen is a famous Danish luxury pipe tobacco brand."
+    },
+    "ﾗｲﾅｰ": {
+      "manufacturer": "ﾗｲﾅｰ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Reiner is a high-end pipe tobacco brand produced by Kohlhase & Kopp in Germany."
+    },
+    "ﾗｼﾞｬ": {
+      "manufacturer": "ﾗｼﾞｬ",
+      "type": "kiseru",
+      "confidence": "low",
+      "reason": "Likely a local Indonesian tobacco brand, often used for hand-rolling or pipes."
+    },
+    "ﾗｽﾀ": {
+      "manufacturer": "ﾗｽﾀ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Rasta is a well-known Belgian brand for roll-your-own and pipe tobacco."
+    },
+    "ﾘﾄﾙ": {
+      "manufacturer": "ﾘﾄﾙ",
+      "type": "kiseru",
+      "confidence": "low",
+      "reason": "Likely a niche brand from Laos, categorized under pipe tobacco in Japan."
+    },
+    "ﾙｯｸｱｳﾄ": {
+      "manufacturer": "ﾙｯｸｱｳﾄ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Look Out is a popular Dutch brand for roll-your-own and pipe tobacco."
+    },
+    "ﾚｯﾄﾞﾌｨｰﾙﾄﾞ": {
+      "manufacturer": "ﾚｯﾄﾞﾌｨｰﾙﾄﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Redfield is a Belgian brand offering various flavored and natural pipe/RYO tobaccos."
+    },
+    "ﾚｯﾄﾞﾌﾞﾙ": {
+      "manufacturer": "ﾚｯﾄﾞﾌﾞﾙ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "Red Bull is a German brand known for Zware and Halfzware pipe/RYO tobacco."
+    },
+    "ﾚｯﾄﾞﾛｰｾﾞｽ": {
+      "manufacturer": "ﾚｯﾄﾞﾛｰｾﾞｽ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "Red Roses is an aromatic pipe tobacco brand produced in Germany."
+    },
+    "ﾛｯｸﾝ･ﾁｪｱ": {
+      "manufacturer": "ﾛｯｸﾝ･ﾁｪｱ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "Rocking Chair is a Danish pipe tobacco brand known for its mild blends."
+    },
+    "ﾛｯｸﾝ･ﾁｪｱⅡ": {
+      "manufacturer": "ﾛｯｸﾝ･ﾁｪｱⅡ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "A variation or sequel blend of the Danish Rocking Chair pipe tobacco."
+    },
+    "ﾛｰﾗﾝﾄﾞ": {
+      "manufacturer": "ﾛｰﾗﾝﾄﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "日本の老舗パイプブランドであり、ドイツ製造の伝統的なパイプ用たばこを展開しているため。"
+    },
+    "ﾛｲﾔﾙ･ﾋﾞﾝﾃｰｼﾞ": {
+      "manufacturer": "ﾛｲﾔﾙ･ﾋﾞﾝﾃｰｼﾞ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "キャバンディッシュ、フレイク、ラタキアといった伝統的なパイプたばこの用語が製品名に含まれているため。"
+    },
+    "ﾛﾊﾞｰﾄ ﾏｯｺｰﾈﾙ": {
+      "manufacturer": "ﾛﾊﾞｰﾄ ﾏｯｺｰﾈﾙ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "オリエンタルやスコティッシュケーキなど、伝統的なパイプたばこのブレンド名が確認できるため。"
+    },
+    "ﾛﾊﾞｰﾄ･ﾙｲｽ": {
+      "manufacturer": "ﾛﾊﾞｰﾄ･ﾙｲｽ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ミクスチュアというパイプたばこ特有の名称を使用しており、ドイツ製造の歴史あるブランドであるため。"
+    },
+    "ﾛﾊﾞｰﾄﾏｯｺーﾈﾙ": {
+      "manufacturer": "ﾛﾊﾞｰﾄﾏｯｺーﾈﾙ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ロバートマッコーネルの表記揺れであり、スコティッシュフレイクは代表的なパイプ用製品であるため。"
+    },
+    "ﾛﾊﾞｰﾄﾏｯｺｰﾈﾙ": {
+      "manufacturer": "ﾛﾊﾞｰﾄﾏｯｺｰﾈﾙ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ロバートマッコーネルの表記揺れであり、スコティッシュフレイクは代表的なパイプ用製品であるため。"
+    },
+    "ﾛﾊﾞｰﾄﾙｲｽ": {
+      "manufacturer": "ﾛﾊﾞｰﾄﾙｲｽ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ロバート・ルイスの表記揺れであり、ミックスチュアという名称からパイプ用たばこと判断できるため。"
+    },
+    "ﾜｲﾙﾄﾞ": {
+      "manufacturer": "ﾜｲﾙﾄﾞ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "バイソンは手巻きやパイプ用として流通しているシャグ・刻み系のブランドであるため。"
+    },
+    "ﾜｲﾙﾄﾞ ﾊﾞｲｿﾝ": {
+      "manufacturer": "ﾜｲﾙﾄﾞ ﾊﾞｲｿﾝ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "ワイルド・バイソンの表記揺れであり、シーシャ特有のフレーバー名が見当たらないため。"
+    },
+    "ﾜｲﾙﾄﾞ･ﾊﾞｲｿﾝ": {
+      "manufacturer": "ﾜｲﾙﾄﾞ･ﾊﾞｲｿﾝ",
+      "type": "kiseru",
+      "confidence": "medium",
+      "reason": "タンザニア産の葉を用いたパイプ・手巻き用たばこブランドとして知られているため。"
+    }
+  }
+}

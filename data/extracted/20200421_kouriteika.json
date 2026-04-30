@@ -1,0 +1,71 @@
+{
+  "date": "2020-04-21",
+  "kind": "shinki",
+  "filename": "20200421_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20200421_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta Tobacco",
+      "name": "Cherry Plum",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta Tobacco",
+      "name": "Grapefruit",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta Tobacco",
+      "name": "Spumoni",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta Tobacco",
+      "name": "Concord Grape",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｹﾝﾄ",
+      "name": "ﾘｰﾌ･ｳﾙﾄﾗﾗｲﾄ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ｲﾝﾄﾞﾈｼｱ 大韓民国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｹﾝﾄ",
+      "name": "ﾘｰﾌ･ｳﾙﾄﾗﾗｲﾄ･ｽﾊﾟｰｸ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ｲﾝﾄﾞﾈｼｱ 大韓民国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "Coconut",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    }
+  ]
+}

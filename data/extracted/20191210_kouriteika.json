@@ -1,0 +1,62 @@
+{
+  "date": "2019-12-10",
+  "kind": "shinki",
+  "filename": "20191210_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20191210_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌｨﾘｯﾌﾟ ﾓﾘｽ",
+      "name": "14･KSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 380,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌｨﾘｯﾌﾟ ﾓﾘｽ",
+      "name": "10･KSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 380,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌｨﾘｯﾌﾟ ﾓﾘｽ",
+      "name": "6･KSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 380,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌｨﾘｯﾌﾟ ﾓﾘｽ",
+      "name": "6･KSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 380,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌｨﾘｯﾌﾟ ﾓﾘｽ",
+      "name": "ﾒﾝｿｰﾙ･8･KSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 380,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌｨﾘｯﾌﾟ ﾓﾘｽ",
+      "name": "ﾒﾝｿｰﾙ･5･KSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 380,
+      "country": "ｾﾙﾋﾞｱ"
+    }
+  ]
+}

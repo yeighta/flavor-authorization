@@ -1,0 +1,134 @@
+{
+  "date": "2026-02-27",
+  "kind": "henkou",
+  "filename": "20260227_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260227_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "アークエックス",
+      "name": "アメリカンブルー",
+      "variant": "パウチ",
+      "grams": "25.0g",
+      "priceYen": 2200,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "アークエックス",
+      "name": "フォレストグリーン",
+      "variant": "パウチ",
+      "grams": "25.0g",
+      "priceYen": 2200,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "アークエックス",
+      "name": "サンセットアンバー",
+      "variant": "パウチ",
+      "grams": "25.0g",
+      "priceYen": 2200,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "アークエックス",
+      "name": "ルビーレッド",
+      "variant": "パウチ",
+      "grams": "25.0g",
+      "priceYen": 2200,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "アークエックス",
+      "name": "クリームイエロー",
+      "variant": "パウチ",
+      "grams": "25.0g",
+      "priceYen": 2200,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "アークエックス",
+      "name": "ブライトオレンジ",
+      "variant": "パウチ",
+      "grams": "25.0g",
+      "priceYen": 2200,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "アークエックス",
+      "name": "アメリカンブルー・H",
+      "variant": "パウチ",
+      "grams": "12.0g",
+      "priceYen": 1200,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "アークエックス",
+      "name": "フォレストグリーン・H",
+      "variant": "パウチ",
+      "grams": "12.0g",
+      "priceYen": 1200,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "アークエックス",
+      "name": "サンセットアンバー・H",
+      "variant": "パウチ",
+      "grams": "12.0g",
+      "priceYen": 1200,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "アークエックス",
+      "name": "ルビーレッド・H",
+      "variant": "パウチ",
+      "grams": "12.0g",
+      "priceYen": 1200,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "アークエックス",
+      "name": "クリームイエロー・H",
+      "variant": "パウチ",
+      "grams": "12.0g",
+      "priceYen": 1200,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "アークエックス",
+      "name": "ブライトオレンジ・H",
+      "variant": "パウチ",
+      "grams": "12.0g",
+      "priceYen": 1200,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "アークエックス",
+      "name": "ナイトブルー・H",
+      "variant": "パウチ",
+      "grams": "12.0g",
+      "priceYen": 1200,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "アークエックス",
+      "name": "チョコレートブラウン・H",
+      "variant": "パウチ",
+      "grams": "12.0g",
+      "priceYen": 1200,
+      "country": "ｳﾙｸﾞｱｲ"
+    }
+  ]
+}

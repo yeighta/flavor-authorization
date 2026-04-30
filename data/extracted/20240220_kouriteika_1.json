@@ -1,0 +1,26 @@
+{
+  "date": "2024-02-20",
+  "kind": "shinki",
+  "filename": "20240220_kouriteika_1.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240220_kouriteika_1.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺﾋﾟ",
+      "name": "ｸﾘｰﾐｰ ｽﾘﾑﾊﾟﾅﾃﾗ",
+      "variant": "177mm 5本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺﾋﾟ",
+      "name": "ｸﾘｰﾐｰ ｽﾘﾑﾊﾟﾅﾃﾗ",
+      "variant": "177mm 1本",
+      "grams": "",
+      "priceYen": 300,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    }
+  ]
+}

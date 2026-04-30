@@ -1,0 +1,71 @@
+{
+  "date": "2025-10-06",
+  "kind": "henkou",
+  "filename": "20251006_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20251006_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "プレミアム",
+      "name": "No.6",
+      "variant": "F96mm 10本 缶",
+      "grams": "",
+      "priceYen": 1420,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "プレミアム",
+      "name": "No.6 ハニー",
+      "variant": "F96mm 10本 缶",
+      "grams": "",
+      "priceYen": 1420,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "プレミアム",
+      "name": "No.6 チェリー",
+      "variant": "F96mm 10本 缶",
+      "grams": "",
+      "priceYen": 1420,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ビリガー",
+      "name": "エクスポート",
+      "variant": "101mm 5本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 1330,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ビリガー",
+      "name": "エクスポート マデューロ",
+      "variant": "101mm 5本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 1330,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "プレミアム",
+      "name": "No.1 スマトラ",
+      "variant": "120mm 1本",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "プレミアム",
+      "name": "ナンバーエイト (1本)",
+      "variant": "107mm 1本",
+      "grams": "",
+      "priceYen": 350,
+      "country": "ｽｲｽ"
+    }
+  ]
+}

@@ -1,0 +1,593 @@
+{
+  "date": "2020-11-12",
+  "kind": "shinki",
+  "filename": "20201112_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20201112_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｶﾌｪｸﾚｰﾑ",
+      "name": "ﾐﾆ ｸﾞｱﾊﾞ",
+      "variant": "F70mm 10本 紙箱",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｶﾌｪｸﾚｰﾑ",
+      "name": "ﾐﾆ ﾏﾝｺﾞｰﾗｯｼｰ",
+      "variant": "F70mm 10本 紙箱",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾋｰﾛｰ",
+      "name": "ﾚｯﾄﾞ",
+      "variant": "174mm 10本 ﾎﾞｯｸｽ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾋｰﾛｰ",
+      "name": "ｲｴﾛｰ",
+      "variant": "174mm 10本 ﾎﾞｯｸｽ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "Offroad",
+      "name": "Lakrits Mini Portion",
+      "variant": "ﾌﾟﾗｽﾃｨｯｸｹｰｽ",
+      "grams": "10.0g",
+      "priceYen": 550,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "Thunder",
+      "name": "Frosted Portion",
+      "variant": "ﾌﾟﾗｽﾃｨｯｸｹｰｽ",
+      "grams": "19.8g",
+      "priceYen": 680,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "Thunder X",
+      "name": "Slim White Dry Portion",
+      "variant": "ﾌﾟﾗｽﾃｨｯｸｹｰｽ",
+      "grams": "15.4g",
+      "priceYen": 680,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "Offroad",
+      "name": "Smooth Mint White Mini Portion",
+      "variant": "ﾌﾟﾗｽﾃｨｯｸｹｰｽ",
+      "grams": "6.0g",
+      "priceYen": 550,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "Offroad",
+      "name": "Eucalyptus White Mini Portion",
+      "variant": "ﾌﾟﾗｽﾃｨｯｸｹｰｽ",
+      "grams": "6.0g",
+      "priceYen": 550,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "Offroad",
+      "name": "Frosted Portion",
+      "variant": "ﾌﾟﾗｽﾃｨｯｸｹｰｽ",
+      "grams": "18.0g",
+      "priceYen": 600,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "BAKED APPLE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "BAKED MILK",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "BANANA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "BANANA MILKSHAKE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "BANANA STRAWBERRY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "BERRY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "BISCUIT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "BLUE FRESH",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "BLUEBERRY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "BODRUM MANDARINE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "CACTUS",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "CACTUS LIME",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "CARAMEL",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "CHEESE CREAM",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "CHERRY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "CHOCOLATE MILK",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "COLA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "COTTON CANDY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "EARL GRAY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "ENERGY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "EXOTIC LEMONADE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "EXTRA LIFE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "GRAPEFRUIT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "GRAPEFRUIT MINT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "GUARANA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "HONEY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "ICE CHERRY COLA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "ICE CREAM",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "ICE TEA LEMON",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "ICE LYCHEE RASPBERRY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "JASMIN / YASEMIN",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "KIWI",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "LEMON",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "LEMON CHILL",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "LEMONADE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "LION KING",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "LYCHEE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "LIMELYCHEE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "MELON",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "MELON MILK",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "MENTHOL",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "MILK",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "MINT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "MULBERRY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "ORANGE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "ORANGE MANGO",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "PASSION FRUIT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "PISTACHIO ICE CREAM",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "POPCORN",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "STRAWBERRY MILKSHAKE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "STRAWBERRY YOGHURT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "SUPER COCONUT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "TIRAMISU",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "WATERMELON",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GIXOM PREMIUM TOBACCO",
+      "name": "YOGHURT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ﾄﾙｺ"
+    }
+  ]
+}

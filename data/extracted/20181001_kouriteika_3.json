@@ -1,0 +1,143 @@
+{
+  "date": "2018-10-01",
+  "kind": "shinki",
+  "filename": "20181001_kouriteika_3.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20181001_kouriteika_3.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱﾙﾄｳｰﾛ ﾌｪﾝﾃ",
+      "name": "ﾄﾞﾝｶﾙﾛｽ 生誕80周年 ｱｲｵﾌﾞｻﾞｼｬｰｸ",
+      "variant": "135mm 1本",
+      "grams": "",
+      "priceYen": 3500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾓﾝﾃｸﾘｽﾄ",
+      "name": "ｴﾄﾞｩﾑﾝﾄﾞ ﾃｭﾎﾞｽ",
+      "variant": "135mm 1本",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛﾒｵ･Y･ｼﾞｭﾘｴｯﾀ",
+      "name": "ﾁｬｰﾁﾙｽﾞ ﾃｭﾎﾞｽ",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 3440,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "中華",
+      "name": "中華",
+      "variant": "FK 20本 ソフトパック",
+      "grams": "",
+      "priceYen": 1050,
+      "country": "中華人民共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾌﾞﾙﾊﾋﾟﾈｽ",
+      "name": "ﾗｲﾄ",
+      "variant": "89mm 20本",
+      "grams": "",
+      "priceYen": 290,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｼｶﾞﾛｰﾈ",
+      "name": "ｳﾙﾄﾗｽﾘﾑ･ﾌﾞﾗｯｸ",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ｱﾙﾒﾆｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱｳﾞｫ",
+      "name": "ｼﾝｸﾛ ﾆｶﾗｸﾞｱ ﾌﾟﾘﾄｽ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 460,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱｳﾞｫ",
+      "name": "ｼﾝｸﾛ ﾆｶﾗｸﾞｱ ﾌｫｶﾞｯﾀ ﾌﾟﾘﾄｽ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 460,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸﾞﾘﾌｨﾝ",
+      "name": "ﾌﾟﾘﾄｽ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ﾆｶﾗｸﾞｱ ｸﾞﾗﾝﾄﾙﾍﾟﾄﾞ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 4800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｴｽｸﾘｵ ｸﾞﾗﾝﾄﾙﾍﾟﾄﾞ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 4800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ﾔﾏｻ ｸﾞﾗﾝﾄﾙﾍﾟﾄﾞ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 4800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ﾔﾏｻ ﾛﾌﾞｽﾄ ﾁｭﾎﾞｽ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 5240,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｼｪﾌｽﾞ ｴﾃﾞｨｼｮﾝ 2018",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 8000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "RAW",
+      "name": "ｵｰｶﾞﾆｯｸ ｸﾞﾘｰﾝ",
+      "variant": "30.0g パウチ",
+      "grams": "30.0g",
+      "priceYen": 1070,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    }
+  ]
+}

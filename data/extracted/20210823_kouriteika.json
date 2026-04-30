@@ -1,0 +1,314 @@
+{
+  "date": "2021-08-23",
+  "kind": "shinki",
+  "filename": "20210823_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210823_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "3 DOGS",
+      "name": "ｷｬﾍﾞﾝﾃﾞｨｯｼｭﾌﾞﾚﾝﾄﾞ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 1000,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "3 DOGS",
+      "name": "ｸﾚﾃｯｸﾌﾞﾚﾝﾄﾞ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 1000,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "3 DOGS",
+      "name": "ｼｶﾞｰﾌﾞﾚﾝﾄﾞ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 1000,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "3 DOGS",
+      "name": "ﾀｰｷｯｼｭﾌﾞﾚﾝﾄﾞ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 1000,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "3 DOGS",
+      "name": "ﾍﾟﾘｸﾌﾞﾚﾝﾄﾞ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 1000,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "LADY KILLER",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "LOVE66",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "COLA DRAGON",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "BLUE HORSE MI AMOR",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "LADY KILLER",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "LOVE66",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "COLA DRAGON",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "BLUE HORSE MI AMOR",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "MANGO TANGO",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "LYCHEE BLUE",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "JOKER777",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "MM",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "HAWAII",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "ICE PEAR",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "THE TWO APPLES",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "ICE BONBON",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "IZMIR ROMANTIC",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "BERLIN NIGHTS",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "BLUE HORSE BAKU NIGHTS",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "BLUE HORSE MOSCOW EVENINGS",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "CASTRO ISLAND",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "GUAVA MINT",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "COLA LEMON ICE",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ADALYA",
+      "name": "THREE ANGELS",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BdR",
+      "name": "1787 ﾚｲﾝﾌｫﾚｽﾄ ﾋﾟｯｺﾛ",
+      "variant": "75mm 1本",
+      "grams": "",
+      "priceYen": 730,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BdR",
+      "name": "1787 ﾚｲﾝﾌｫﾚｽﾄ ﾛﾌﾞｽﾄ ｲﾒﾝｿ",
+      "variant": "100mm 1本",
+      "grams": "",
+      "priceYen": 1370,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BdR",
+      "name": "ﾐﾆｼｶﾞﾘﾛ ｸﾗｼｯｸ",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 150,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BdR",
+      "name": "ﾐﾆｼｶﾞﾘﾛ ﾌｫﾚｽﾄ",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 150,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BdR",
+      "name": "ﾐﾆｼｶﾞﾘﾛ ｳﾞｧｲﾅ",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 150,
+      "country": "ｺｽﾀﾘｶ"
+    }
+  ]
+}

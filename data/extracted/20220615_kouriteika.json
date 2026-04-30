@@ -1,0 +1,170 @@
+{
+  "date": "2022-06-15",
+  "kind": "shinki",
+  "filename": "20220615_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220615_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Herrera Esteli",
+      "name": "Miami Short Corona Gorda",
+      "variant": "149mm 1本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Partagas",
+      "name": "Miniaturas",
+      "variant": "95mm 1本",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Perdomo",
+      "name": "Mini Cigarillos Connecticut",
+      "variant": "76mm 1本",
+      "grams": "",
+      "priceYen": 165,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Perdomo",
+      "name": "Mini Cigarillos Maduro",
+      "variant": "76mm 1本",
+      "grams": "",
+      "priceYen": 165,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Perdomo",
+      "name": "Mini Cigarillos Sungrown",
+      "variant": "76mm 1本",
+      "grams": "",
+      "priceYen": 165,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Punch",
+      "name": "Cigarillos",
+      "variant": "101mm 1本",
+      "grams": "",
+      "priceYen": 160,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Romeo y Julieta",
+      "name": "Mini Red Aroma",
+      "variant": "73mm 1本",
+      "grams": "",
+      "priceYen": 160,
+      "country": "ｽﾍﾟｲﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Romeo y Julieta",
+      "name": "Mini Blue",
+      "variant": "73mm 1本",
+      "grams": "",
+      "priceYen": 160,
+      "country": "ｽﾍﾟｲﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Sancho Panza",
+      "name": "Matadors",
+      "variant": "101mm 1本",
+      "grams": "",
+      "priceYen": 280,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "VAMOS",
+      "name": "Mamacita",
+      "variant": "142mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾒｷｼｺ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "VAMOS",
+      "name": "Chingon",
+      "variant": "128mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾒｷｼｺ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "VAMOS",
+      "name": "Fresa",
+      "variant": "142mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾒｷｼｺ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "B･M",
+      "name": "HabanoMEX-Nica",
+      "variant": "138mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾒｷｼｺ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "B･M",
+      "name": "NSA-Habano Nica",
+      "variant": "128mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾒｷｼｺ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "B･M",
+      "name": "HabanoMEX-NSA",
+      "variant": "128mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾒｷｼｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ALFAKHAMAH",
+      "name": "Blackberry",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ALFAKHAMAH",
+      "name": "Bounty Dream",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ALFAKHAMAH",
+      "name": "Cream",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    }
+  ]
+}

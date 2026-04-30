@@ -1,0 +1,494 @@
+{
+  "date": "2022-11-22",
+  "kind": "shinki",
+  "filename": "20221122_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20221122_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｲﾔｰ ｵﾌﾞ ｻﾞ ﾗﾋﾞｯﾄ",
+      "variant": "151mm 1本",
+      "grams": "",
+      "priceYen": 12600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｲﾔｰ ｵﾌﾞ ｻﾞ ﾗﾋﾞｯﾄ ﾌﾗｯｸﾞｼｯﾌﾟ ｴｸｽｸﾙｰｼﾌﾞ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 16000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｼﾞﾝ",
+      "name": "ｸｰﾙﾐﾝﾄ 6mg",
+      "variant": "缶",
+      "grams": "8.0g",
+      "priceYen": 400,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｼﾞﾝ",
+      "name": "ｸｰﾙﾐﾝﾄ 9mg",
+      "variant": "缶",
+      "grams": "9.4g",
+      "priceYen": 400,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｼﾞﾝ",
+      "name": "ｴｽﾌﾟﾚｯｼｰﾉ 6mg",
+      "variant": "缶",
+      "grams": "8.0g",
+      "priceYen": 400,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｼﾞﾝ",
+      "name": "ﾍﾞﾘｰﾆ 3mg",
+      "variant": "缶",
+      "grams": "8.0g",
+      "priceYen": 400,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾙﾂ",
+      "name": "ｳﾞｧﾆﾗ 100 FC",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2750,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾙﾂ",
+      "name": "ｸﾘｱｰﾒﾝｿｰﾙ 100 FC",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2750,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾙﾂ",
+      "name": "ｸﾞﾘｰﾝﾃｨｰ 100 FC",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2750,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｬﾗﾀﾝ",
+      "name": "ﾌﾞﾗｯｸﾌﾚｲｸ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 3000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｬﾗﾀﾝ",
+      "name": "ﾌｧｰｽﾄﾎﾞｳﾙ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2700,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｬﾗﾀﾝ",
+      "name": "ﾋﾞｸﾄﾘｱﾝ ﾐｸｽﾁｬｰ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2700,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｬﾗﾀﾝ",
+      "name": "ﾌﾚｲｸ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 3000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｬﾗﾀﾝ",
+      "name": "No.10 ﾐｸｽﾁｬｰ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2700,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｬﾗﾀﾝ",
+      "name": "1992 ﾐｸｽﾁｬｰ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2700,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｬﾗﾀﾝ",
+      "name": "ｲｰﾌﾞﾝﾀｲﾄﾞ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2700,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｬﾗﾀﾝ",
+      "name": "ﾛｲﾔﾙｴﾝｻｲﾝ ﾐｸｽﾁｬｰ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2700,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｬﾗﾀﾝ",
+      "name": "ﾛｲﾔﾙｴｽｹｰﾌﾟ ﾐｸｽﾁｬｰ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2700,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｬﾗﾀﾝ",
+      "name": "ﾛｰﾙｽﾞ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 3300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｬﾗﾀﾝ",
+      "name": "ｶｰｿﾞﾝ ﾐｸｽﾁｬｰ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2700,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｬﾗﾀﾝ",
+      "name": "1863 ﾐｸｽﾁｬｰ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2700,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｬﾗﾀﾝ",
+      "name": "ﾊﾞｰｼﾞﾆｱ3 ｲﾔｰﾏﾁｭｱｰﾄﾞ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2700,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｬﾗﾀﾝ",
+      "name": "ﾌｫｱﾘｰﾌ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2700,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾛﾊﾞｰﾄ･ﾙｲｽ",
+      "name": "ｵｰｼﾗ ﾐｸｽﾁｭｱ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2600,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾛﾊﾞｰﾄ･ﾙｲｽ",
+      "name": "ﾄｩﾘｰ ﾐｸｽﾁｭｱ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2600,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾛﾊﾞｰﾄ･ﾙｲｽ",
+      "name": "ｳｲﾝｸﾞﾌｨｰﾙﾄﾞ ﾐｸｽﾁｭｱ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 2600,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Apple",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Banaras Pan",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Cappuccino",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Cucumber",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Masala Chai",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Mojito",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Pan Fusion",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Pineapple",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Pomegranate",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Watermelon",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Grape",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Lemon",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Mango",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Mint",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Orange",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Peach",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Blueberry",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Double Apple",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tangiers",
+      "name": "Noir Lemongrass",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tangiers",
+      "name": "Noir Maraschino Cherry",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tangiers",
+      "name": "Noir Eric's Mango",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tangiers",
+      "name": "Birquq Foreplay on the Peach",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AL AMASI",
+      "name": "Bergamot World",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AL AMASI",
+      "name": "Istanbul Nights",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AL AMASI",
+      "name": "Pan Rasna",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AL AMASI",
+      "name": "Super Guava",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AL AMASI",
+      "name": "Taiga Cedar",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AL AMASI",
+      "name": "Turkish Basil",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "date": "2026-03-19",
+  "kind": "shinki",
+  "filename": "20260319_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260319_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ボリバー",
+      "name": "ハマキ RE 2025",
+      "variant": "155mm 1本",
+      "grams": "",
+      "priceYen": 14300,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ホヨー・デ・モントレー",
+      "name": "デスティノス TR",
+      "variant": "145mm 1本",
+      "grams": "",
+      "priceYen": 11990,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ケドルセ",
+      "name": "エスペシャル ドルセ",
+      "variant": "153mm 1本",
+      "grams": "",
+      "priceYen": 15400,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "サンルイレイ",
+      "name": "THE A RE 2025",
+      "variant": "143mm 1本",
+      "grams": "",
+      "priceYen": 9900,
+      "country": "ｷｭｰﾊﾞ"
+    }
+  ]
+}

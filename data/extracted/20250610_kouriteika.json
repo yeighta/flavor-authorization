@@ -1,0 +1,629 @@
+{
+  "date": "2025-06-10",
+  "kind": "shinki",
+  "filename": "20250610_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250610_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EGM",
+      "name": "メディア・コロナ",
+      "variant": "90mm 1本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EGM",
+      "name": "ティブロネス",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EGM",
+      "name": "ブレコス",
+      "variant": "120mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EGM",
+      "name": "ロブスト",
+      "variant": "124mm 1本",
+      "grams": "",
+      "priceYen": 2900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EGM",
+      "name": "エンカントス",
+      "variant": "192mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EGM",
+      "name": "エンカントス キャビネット",
+      "variant": "192mm 1本",
+      "grams": "",
+      "priceYen": 3500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EGM",
+      "name": "ブラボス",
+      "variant": "119mm 1本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EGM",
+      "name": "エスクドス",
+      "variant": "144mm 1本",
+      "grams": "",
+      "priceYen": 3900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EGM",
+      "name": "ボデロソス",
+      "variant": "166mm 1本",
+      "grams": "",
+      "priceYen": 4500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ハムレット",
+      "name": "コンフィデンス 2024",
+      "variant": "196mm 1本",
+      "grams": "",
+      "priceYen": 6000,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ETB",
+      "name": "レデンプション コロナ",
+      "variant": "142mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ETB",
+      "name": "レデンプション トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ヴィンテージ 1990 トロ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ヴィンテージ 1990 シクスティ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2650,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ヴィンテージ 1990 DX トロ チュボス",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2650,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ヴィンテージ 1999 コロナ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ヴィンテージ 1999 シクスティ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2650,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ヴィンテージ 1999 ペルフェクト",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1650,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ヴィンテージ 1999 DX トロ チュボス",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2650,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ヴィンテージ 2003 トロ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2450,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ヴィンテージ 2003 シクスティ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ディケイド トロ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ディケイド トルペド",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ディケイド トロ チュボス",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 3200,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "エッジ コネチカット ロブスト",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "エッジ コロホ ロブスト",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "エッジ マデューロ ロブスト",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "エッジ コロホ B-52",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "エッジ マデューロ B-52",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "エッジ ニカラグア トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "サングロウン トロ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "LB1 トロ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "LB1 シクスティ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3100,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ナンバー6 トロ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ナンバー6 シクスティ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "A.L.R. 2nd. トロ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 3600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "A.L.R. 2nd. シクスティ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "CSWC ロブスト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2250,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "CSWC トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ディサイプル ハーフコロナ",
+      "variant": "89mm 1本",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "DBS ロブスト",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 3900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "DBS トロ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 4300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "DBS シクスティ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 4800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "エッジ 20周年 ロブスト",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "エッジ 20周年 トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "エッジ 20周年 シクスティ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "コンヴィクション トロ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 17500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ダークスター ロブスト",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ダークスター トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ダークスター シクスティ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3100,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "STS クラシック トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1200,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "STS クラシック チャーチル",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 1250,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "STS クラシック シクスティ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1550,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "STS シェード トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1200,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "STS シェード チャーチル",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 1250,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "STS シェード シクスティ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1550,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "イヤーオブザドラゴン 2024",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 5800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ゴールドラベル ハーフコロナ",
+      "variant": "89mm 1本",
+      "grams": "",
+      "priceYen": 1750,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ゴールドラベル ロブスト",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ゴールドラベル トロ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ゴールドラベル シクスティ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "クオーターセンチュリー DX トロ チュボス",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3150,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "シクスティ DX トロ チュボス",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 4100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ナンバー6 DX トロ チュボス",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2550,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "エッジ マデューロ DX トロ チュボス",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "エッジ コロホ DX トロ チュボス",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "エッジ コネチカット DX トロ チュボス",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "サングロウン マデューロ DX トロ チュボス",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "グランリゼルヴァ DX トロ チュボス",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

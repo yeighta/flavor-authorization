@@ -1,0 +1,98 @@
+{
+  "date": "2024-05-15",
+  "kind": "shinki",
+  "filename": "20240515_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240515_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "メンソール・パープル・プルーム・エックス・プルーム・エス用",
+      "variant": "20本",
+      "grams": "5.3g",
+      "priceYen": 500,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "コールド・メンソール・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.2g",
+      "priceYen": 500,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "シャープ・コールド・メンソール・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.2g",
+      "priceYen": 500,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "コルツ",
+      "name": "FC ライチ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "コルツ",
+      "name": "FC アップル\u0026シナモン",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "コルツ",
+      "name": "FC フルーティージャスミン",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "コルツ",
+      "name": "FC チェリー",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "アレック ブラッドリー",
+      "name": "マックス ザ フリーク",
+      "variant": "162mm 1本",
+      "grams": "",
+      "priceYen": 1950,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Romeo Y Julieta",
+      "name": "1875 Churchill",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 3450,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Romeo Y Julieta",
+      "name": "Reserve Churchill",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 3650,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    }
+  ]
+}

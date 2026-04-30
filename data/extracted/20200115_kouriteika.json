@@ -1,0 +1,629 @@
+{
+  "date": "2020-01-15",
+  "kind": "shinki",
+  "filename": "20200115_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20200115_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "WATERMELON LIT",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "PEACH LIT",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "LIME LIT",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "LEMON LIT",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "BLUE LIT",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "CAFÉ NOIR",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "MASALA CHAI",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "DARK BEAN",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "COCO CCINO",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "CHOCO DREAM",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "DOUCCE APPLE",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "CHILLED WINE",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "HOUDINI'S SECRET",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "INTENSE PIECES",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "ULTIMATE BERRY",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "ROYALS CUP",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "BARTENDER'S CHOICE",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "CUBAN HIGHBALL",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "ENERGY BOLT",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "LEMON POP",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "MILKIN' COOKIES",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "DOLCE BANANA",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "MIDNIGHT PASSION",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "PISTACHIO KISS",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "RED LIPS",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "WILD COCO",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "SMOOTHIE SUNSHINE",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "FRUITY BUBBLE",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "CARIBBEAN NIGHTS",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "ALOHA NIGHTS",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "PASSION FRUIT MOJITO",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "BLACKBERRY",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "MINT",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "JAPANESE YUZU",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "PISTACHIO BREEZE",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "MANGO HABANERO",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "PANDORA'S BOX",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "WATERMELON LIT",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "PEACH LIT",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "LIME LIT",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "LEMON LIT",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "BLUE LIT",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "CAFÉ NOIR",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "MASALA CHAI",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "DARK BEAN",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "COCO CCINO",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "CHOCO DREAM",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆_国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "DOUCCE APPLE",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "CHILLED WINE",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "HOUDINI'S SECRET",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "INTENSE PIECES",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "ULTIMATE BERRY",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "ROYALS CUP",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "BARTENDER'S CHOICE",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "CUBAN HIGHBALL",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "ENERGY BOLT",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "LEMON POP",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "MILKIN' COOKIES",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "DOLCE BANANA",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "MIDNIGHT PASSION",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "PISTACHIO KISS",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "RED LIPS",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "WILD COCO",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "SMOOTHIE SUNSHINE",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "FRUITY BUBBLE",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "CARIBBEAN NIGHTS",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Eternal Smoke",
+      "name": "ALOHA NIGHTS",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｾﾞﾛｽﾀｲﾙ",
+      "name": "ｽﾇｰｽ･抹茶ﾗﾃ",
+      "variant": "",
+      "grams": "6.2g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｾﾞﾛｽﾀｲﾙ",
+      "name": "ｽﾇｰｽ･梅",
+      "variant": "",
+      "grams": "6.2g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    }
+  ]
+}

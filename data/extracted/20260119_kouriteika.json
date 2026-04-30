@@ -1,0 +1,44 @@
+{
+  "date": "2026-01-19",
+  "kind": "shinki",
+  "filename": "20260119_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260119_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "フォン・クラーレン",
+      "name": "VL-LIMITED 2026",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "シレンシオ",
+      "name": "ロス リオス ロブスト",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 3250,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "シレンシオ",
+      "name": "ロス リオス ペケーニョス",
+      "variant": "106mm 1本",
+      "grams": "",
+      "priceYen": 1150,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ウィンストンチャーチル レイトアワー ベリコソ",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 5000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    }
+  ]
+}

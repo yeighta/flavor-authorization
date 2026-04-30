@@ -1,0 +1,917 @@
+{
+  "date": "2020-08-28",
+  "kind": "henkou",
+  "filename": "20200828_kouriteikahenkou.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20200828_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "スマートプラス・14mg・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 430,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "スマートプラス・1mg・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 430,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "スマートプラス・メンソール・1mg・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 430,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "スマートプラス・スプラッシュ・パープル・1mg・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 430,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "100ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｽｲｽ,ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "ブラック・ハイブリッド・8mg KSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ﾘﾄｱﾆｱ,ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "クラシック・マイルドKSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "エクストラ・3mg・100ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｳｸﾗｲﾅ,ｾﾙﾋﾞｱ,ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "エクストラ・3mg・KSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "ハイブリッドKSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｳｸﾗｲﾅ,ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "ハイブリッド・ワン 100ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "アイス・ミント・1mg100ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ﾘﾄｱﾆｱ,ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "アイス・ミント・5mg100ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ﾘﾄｱﾆｱ,ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "KSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "メンソール X KSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "マイルド100ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｽｲｽ,ｾﾙﾋﾞｱ,ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "マイルドKSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｳｸﾗｲﾅ,ｽｲｽ,ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "マイルド・メンソールKSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "ミント・スプラッシュ・7mg KS ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "スーパー・5mg・100ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "スーパー・5mg・KSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "スーパー・メンソールKSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "スーパー・マイルド100ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｽｲｽ,ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "スーパー・マイルドKSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｳｸﾗｲﾅ,ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "トロピカル・アイス・メンソール・1mg100ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "トロピカル・アイス・メンソール・5mgKSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "ウルトラ・1mg・100ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｽｲｽ,ｾﾙﾋﾞｱ,ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "ウルトラ・1mg・KSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "ウルトラ・メンソール100ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｾﾙﾋﾞｱ,ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラーク",
+      "name": "ウルトラ・メンソールKSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "ブラック・メンソール・1・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "ブラック・メンソール・8・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ﾘﾄｱﾆｱ,ｽｲｽ,ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "ブラックメンソール・エッジ 1・100's",
+      "variant": "",
+      "grams": "",
+      "priceYen": 560,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "ブラックメンソール・エッジ 8・100's",
+      "variant": "",
+      "grams": "",
+      "priceYen": 560,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "クリア・ハイブリッド・スリー・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "ドライ・メンソール・5・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｽｲｽ,ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "ドライ・メンソール・8・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "フレーバー・ワン・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｾﾙﾋﾞｱ,ﾁｪｺ,ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "ゴールド・100's・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "ゴールド",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "ゴールド・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "アイス・ブラスト・メガ・1・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｽｲｽ,ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "アイス・ブラスト・メガ・5・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｽｲｽ,ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "アイス・ブラスト・メガ・8・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｽｲｽ,ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｳｸﾗｲﾅ,ｽｲｽ,ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "ミディアム・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "メンソール・12",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "メンソール・12・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｾﾙﾋﾞｱ,ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "メンソール・4・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｾﾙﾋﾞｱ,ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "メンソール・8",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "メンソール・8・100's・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ﾘﾄｱﾆｱ,ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "メンソール・8・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ﾘﾄｱﾆｱ,ｾﾙﾋﾞｱ,ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "ダブル・バースト・5・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ﾘﾄｱﾆｱ,ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "マールボロ",
+      "name": "ダブル・バースト・パープル・5・ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ﾘﾄｱﾆｱ,ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "パーラメント",
+      "name": "100ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 580,
+      "country": "ｳｸﾗｲﾅ,ｽｲｽ,ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "パーラメント",
+      "name": "クリスタル・ブラスト・5・KSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 540,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "パーラメント",
+      "name": "クリスタル・ブラスト・8・KSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 540,
+      "country": "ｽｲｽ,ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "パーラメント",
+      "name": "エクストラ・ライト100ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 580,
+      "country": "ｾﾙﾋﾞｱ,ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "パーラメント",
+      "name": "KSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 540,
+      "country": "ｳｸﾗｲﾅ,ｽｲｽ,ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "パーラメント",
+      "name": "ライト100ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 580,
+      "country": "ｾﾙﾋﾞｱ,ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "パーラメント",
+      "name": "ライトKSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 540,
+      "country": "ｳｸﾗｲﾅ,ｽｲｽ,ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "パーラメント",
+      "name": "ライト・メンソール100ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 580,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "パーラメント",
+      "name": "ワン100ボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 580,
+      "country": "ｽｲｽ,ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "パーラメント",
+      "name": "ワンKSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 540,
+      "country": "ｳｸﾗｲﾅ,ｽｲｽ,ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "フィリップ モリス",
+      "name": "14・KSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "フィリップ モリス",
+      "name": "10・KSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "フィリップ モリス",
+      "name": "6・KSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ｾﾙﾋﾞｱ,ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "フィリップ モリス",
+      "name": "メンソール・8・KSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "フィリップ モリス",
+      "name": "メンソール・5・KSボックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "バージニア・エス",
+      "name": "デュオ・メンソール 10's",
+      "variant": "",
+      "grams": "",
+      "priceYen": 270,
+      "country": "ﾒｷｼｺ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "バージニア・エス",
+      "name": "アイスパール 1mg",
+      "variant": "",
+      "grams": "",
+      "priceYen": 530,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "バージニア・エス",
+      "name": "アイスパール 5mg",
+      "variant": "",
+      "grams": "",
+      "priceYen": 530,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "バージニア・エス",
+      "name": "ノアール・メンソール",
+      "variant": "",
+      "grams": "",
+      "priceYen": 530,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "バージニア・エス",
+      "name": "ロゼ・メンソール",
+      "variant": "",
+      "grams": "",
+      "priceYen": 530,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "バージニア・エス",
+      "name": "ソフィア 1",
+      "variant": "",
+      "grams": "",
+      "priceYen": 530,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "バージニア・エス",
+      "name": "ソフィア 6",
+      "variant": "",
+      "grams": "",
+      "priceYen": 530,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "フィリップ モリス",
+      "name": "ロードスター",
+      "variant": "",
+      "grams": "",
+      "priceYen": 380,
+      "country": "ｳｸﾗｲﾅ,ﾛｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "フィリップ モリス",
+      "name": "ロードスター・メンソール",
+      "variant": "",
+      "grams": "",
+      "priceYen": 380,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "フィリップ モリス",
+      "name": "ロードスター・ミックス",
+      "variant": "",
+      "grams": "",
+      "priceYen": 380,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "マールボロ",
+      "name": "ヒートスティック・レギュラー",
+      "variant": "",
+      "grams": "",
+      "priceYen": 550,
+      "country": "ｲﾀﾘｱ,ﾙｰﾏﾆｱ,ｷﾞﾘｼｬ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "マールボロ",
+      "name": "ヒートスティック・メンソール",
+      "variant": "",
+      "grams": "",
+      "priceYen": 550,
+      "country": "ｲﾀﾘｱ,ﾙｰﾏﾆｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "マールボロ",
+      "name": "ヒートスティック・バランスト・レギュラー",
+      "variant": "",
+      "grams": "",
+      "priceYen": 550,
+      "country": "ｲﾀﾘｱ,ｷﾞﾘｼｬ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "マールボロ",
+      "name": "ヒートスティック・ミント",
+      "variant": "",
+      "grams": "",
+      "priceYen": 550,
+      "country": "ｲﾀﾘｱ,ｷﾞﾘｼｬ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "マールボロ",
+      "name": "ヒートスティック・スムース・レギュラー",
+      "variant": "",
+      "grams": "",
+      "priceYen": 550,
+      "country": "ｲﾀﾘｱ,ﾙｰﾏﾆｱ,ｷﾞﾘｼｬ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "マールボロ",
+      "name": "ヒートスティック・パープル・メンソール",
+      "variant": "",
+      "grams": "",
+      "priceYen": 550,
+      "country": "ｲﾀﾘｱ,ｷﾞﾘｼｬ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "マールボロ",
+      "name": "ヒートスティック・イエロー・メンソール",
+      "variant": "",
+      "grams": "",
+      "priceYen": 550,
+      "country": "ｲﾀﾘｱ,ｷﾞﾘｼｬ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "マールボロ",
+      "name": "ヒートスティック・トロピカル・メンソール",
+      "variant": "",
+      "grams": "",
+      "priceYen": 550,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "マールボロ",
+      "name": "ヒートスティック・ブライト・メンソール",
+      "variant": "",
+      "grams": "",
+      "priceYen": 550,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "マールボロ",
+      "name": "ヒートスティック・ブラック・メンソール",
+      "variant": "",
+      "grams": "",
+      "priceYen": 550,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "マールボロ",
+      "name": "ヒートスティック・ディメンションズ・ノア",
+      "variant": "",
+      "grams": "",
+      "priceYen": 560,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "マールボロ",
+      "name": "ヒートスティック・ディメンションズ・アミール",
+      "variant": "",
+      "grams": "",
+      "priceYen": 560,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "マールボロ",
+      "name": "ヒートスティック・ディメンションズ・ユウゲン",
+      "variant": "",
+      "grams": "",
+      "priceYen": 560,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヒーツ",
+      "name": "ディープ・ブロンズ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ,ﾙｰﾏﾆｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヒーツ",
+      "name": "バランスト・イエロー",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ,ｷﾞﾘｼｬ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヒーツ",
+      "name": "クリア・シルバー",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヒーツ",
+      "name": "フレッシュ・エメラルド",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ,ﾙｰﾏﾆｱ,ｷﾞﾘｼｬ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヒーツ",
+      "name": "フロスト・グリーン",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヒーツ",
+      "name": "クール・ジェイド",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヒーツ",
+      "name": "シトラス・グリーン",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヒーツ",
+      "name": "フレッシュ・パープル",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ"
+    }
+  ]
+}

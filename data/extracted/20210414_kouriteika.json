@@ -1,0 +1,53 @@
+{
+  "date": "2021-04-14",
+  "kind": "shinki",
+  "filename": "20210414_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210414_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ﾜﾝ･100's･ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ﾒﾝｿｰﾙ･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ﾒﾝｿｰﾙ･ﾜﾝ･100's･ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ﾒﾝｿｰﾙ･ﾍﾞﾘｰｶﾌﾟｾﾙ･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ﾒﾝｿｰﾙ･ﾍﾞﾘｰｶﾌﾟｾﾙ･ﾗｲﾄ･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "日本"
+    }
+  ]
+}

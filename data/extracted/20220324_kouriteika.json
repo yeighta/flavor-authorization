@@ -1,0 +1,35 @@
+{
+  "date": "2022-03-24",
+  "kind": "shinki",
+  "filename": "20220324_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220324_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ｺﾞｰﾙﾄﾞ･ﾌﾟﾙｰﾑ･ｴｯｸｽ用",
+      "variant": "20本",
+      "grams": "10.7g",
+      "priceYen": 440,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ｺﾊﾞﾙﾄ･ﾌﾟﾙｰﾑ･ｴｯｸｽ用",
+      "variant": "20本",
+      "grams": "10.9g",
+      "priceYen": 440,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ﾊﾟｰﾌﾟﾙ･ｵﾌﾟｼｮﾝ･ﾌﾟﾙｰﾑ･ｴｯｸｽ用",
+      "variant": "20本",
+      "grams": "11.4g",
+      "priceYen": 440,
+      "country": "日本"
+    }
+  ]
+}

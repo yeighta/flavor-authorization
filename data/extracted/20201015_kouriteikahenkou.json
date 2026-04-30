@@ -1,0 +1,53 @@
+{
+  "date": "2020-10-15",
+  "kind": "henkou",
+  "filename": "20201015_kouriteikahenkou.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20201015_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "CABAC",
+      "name": "1-MG",
+      "variant": "FR 10本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 270,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "CABAC",
+      "name": "1-MG MENTHOL",
+      "variant": "FR 10本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 270,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "CABAC",
+      "name": "3-MG",
+      "variant": "FR 10本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 270,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "CABAC",
+      "name": "5-MG MENTHOL",
+      "variant": "FR 10本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 270,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "CABAC",
+      "name": "6-MG",
+      "variant": "FR 10本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 270,
+      "country": "ｲﾝﾄﾞ"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "date": "2024-12-26",
+  "kind": "shinki",
+  "filename": "20241226_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20241226_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ウィンストンチャーチル リミテッド エディション 2025",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 14000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AL AMASI",
+      "name": "Walnut",
+      "variant": "箱 ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Bang Bang",
+      "name": "Coco Milk",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1780,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Bang Bang",
+      "name": "Ice Mint",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1780,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Bang Bang",
+      "name": "Ice Watermelon",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1780,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Bang Bang",
+      "name": "Biscuits",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1780,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Bang Bang",
+      "name": "Watermelon Mint",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1780,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    }
+  ]
+}

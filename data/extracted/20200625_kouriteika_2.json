@@ -1,0 +1,35 @@
+{
+  "date": "2020-06-25",
+  "kind": "shinki",
+  "filename": "20200625_kouriteika_2.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20200625_kouriteika_2.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "100's･ｽﾘﾑ･ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 490,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｽｰﾊﾟｰﾗｲﾄ･100's･ｽﾘﾑ･ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 490,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾜﾝ･100's･ｽﾘﾑ･ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 490,
+      "country": "日本"
+    }
+  ]
+}

@@ -1,0 +1,674 @@
+{
+  "date": "2022-02-17",
+  "kind": "shinki",
+  "filename": "20220217_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220217_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ｸｰﾙ･ｴｯｸｽ･ﾈｵ",
+      "name": "ﾓﾋｰﾄ･ﾍﾞﾘｰ･ﾒﾝｿｰﾙ･glo hyper用",
+      "variant": "ﾌｨﾙﾀｰ付 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 520,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｸｰﾙ･ｴｯｸｽ･ﾈｵ",
+      "name": "ﾍﾞﾘｰ･ﾍﾞﾘｰ･ﾒﾝｿｰﾙ･glo hyper用",
+      "variant": "ﾌｨﾙﾀｰ付 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 520,
+      "country": "大韓民国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama Premium",
+      "name": "Spiced Chai",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama Premium",
+      "name": "Cactus",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama Premium",
+      "name": "Donuts",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama Premium",
+      "name": "Grape",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama Premium",
+      "name": "Guava",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama Premium",
+      "name": "Guevara",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama Premium",
+      "name": "Ice lemon",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama Premium",
+      "name": "Jasmine",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama Premium",
+      "name": "Kiwi",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama Premium",
+      "name": "Lemon Grass",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama Premium",
+      "name": "Love",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama Premium",
+      "name": "Margarita",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama Premium",
+      "name": "Mojito",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama Premium",
+      "name": "Papaya",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama Premium",
+      "name": "White Gummy Bear",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama",
+      "name": "Cardamom",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama",
+      "name": "Eskandarani",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama",
+      "name": "Lychee",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Panorama",
+      "name": "Tea",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "STARBUZZ VINTAGE",
+      "name": "DARK CARIBBEAN",
+      "variant": "箱",
+      "grams": "80.0g",
+      "priceYen": 3300,
+      "country": "ｽﾍﾟｲﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "STARBUZZ VINTAGE",
+      "name": "DARK VANILLA",
+      "variant": "箱",
+      "grams": "80.0g",
+      "priceYen": 3300,
+      "country": "ｽﾍﾟｲﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "STARBUZZ VINTAGE",
+      "name": "MORNING BREEZE",
+      "variant": "箱",
+      "grams": "80.0g",
+      "priceYen": 3300,
+      "country": "ｽﾍﾟｲﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "STARBUZZ VINTAGE",
+      "name": "TART CHOCO",
+      "variant": "箱",
+      "grams": "80.0g",
+      "priceYen": 3300,
+      "country": "ｽﾍﾟｲﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "STARBUZZ VINTAGE",
+      "name": "P SPICE",
+      "variant": "箱",
+      "grams": "80.0g",
+      "priceYen": 3300,
+      "country": "ｽﾍﾟｲﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "STARBUZZ VINTAGE",
+      "name": "SWEET CIGAR",
+      "variant": "箱",
+      "grams": "80.0g",
+      "priceYen": 3300,
+      "country": "ｽﾍﾟｲﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "STARBUZZ VINTAGE",
+      "name": "TIMISUE",
+      "variant": "箱",
+      "grams": "80.0g",
+      "priceYen": 3300,
+      "country": "ｽﾍﾟｲﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "STARBUZZ VINTAGE",
+      "name": "CHEERS",
+      "variant": "箱",
+      "grams": "80.0g",
+      "priceYen": 3300,
+      "country": "ｽﾍﾟｲﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "STARBUZZ VINTAGE",
+      "name": "TOKYO SPICE",
+      "variant": "箱",
+      "grams": "80.0g",
+      "priceYen": 3300,
+      "country": "ｽﾍﾟｲﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "PINK",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "BELLA CIAO",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "ICE CREAM PISTACHIO",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "ICE CREAM",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "HAWANA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "RATANA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "IBIZA NIGHT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "LEMON CHILL",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "EROS",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "TWEETY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "CARNAVAL",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "ORANGE CREAM",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "MAI TAI ICE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "ABSOLUTE 0",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "NARKOZ",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "BLUMIX",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "LADY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "TWO APPLE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "MANGO TANGO",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "BLUEBERRY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "APPLE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "LOVE 21",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "QUANTUM",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "OKEY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "APPLE",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "LOVE 21",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "QUANTUM",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "OKEY",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "PINK",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "BELLA CIAO",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BALLI",
+      "name": "TWEETY",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Java Queen",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Lemon Cake",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Malioboro",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "White Grape",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Java Queen",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Lemon Cake",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Malioboro",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "White Grape",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Java Queen",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 16000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Lemon Cake",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 16000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "Malioboro",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 16000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco Premium",
+      "name": "White Grape",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 16000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｳｨﾝｽﾄﾝﾁｬｰﾁﾙ ﾘﾐﾃｯﾄﾞｴﾃﾞｨｼｮﾝ 2022",
+      "variant": "149mm 1本",
+      "grams": "",
+      "priceYen": 8000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    }
+  ]
+}

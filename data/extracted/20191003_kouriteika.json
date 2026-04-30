@@ -1,0 +1,44 @@
+{
+  "date": "2019-10-03",
+  "kind": "shinki",
+  "filename": "20191003_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20191003_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｺﾞｰﾙﾄﾞ･ﾛｰｽﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｺﾞｰﾙﾄﾞ･ｸﾘｱ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾚｯﾄﾞ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾊﾟｰﾌﾟﾙ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    }
+  ]
+}

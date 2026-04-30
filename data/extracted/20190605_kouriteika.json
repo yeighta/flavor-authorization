@@ -1,0 +1,26 @@
+{
+  "date": "2019-06-05",
+  "kind": "shinki",
+  "filename": "20190605_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20190605_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾅﾁｭﾗﾙ ｱﾒﾘｶﾝ ｽﾋﾟﾘｯﾄ",
+      "name": "ｱｶﾞｯﾄ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 520,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾅﾁｭﾗﾙ ｱﾒﾘｶﾝ ｽﾋﾟﾘｯﾄ",
+      "name": "ｱｶﾞｯﾄ 10本入",
+      "variant": "FK 10本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 260,
+      "country": "日本"
+    }
+  ]
+}

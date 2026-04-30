@@ -1,0 +1,62 @@
+{
+  "date": "2022-03-16",
+  "kind": "shinki",
+  "filename": "20220316_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220316_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾗｯｷｰ･ｽﾄﾗｲｸ",
+      "name": "ﾒﾝｿｰﾙ･12本･glo hyper用",
+      "variant": "ﾌｨﾙﾀｰ付 12本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 300,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾗｯｷｰ･ｽﾄﾗｲｸ",
+      "name": "ﾍﾞﾘｰ･ﾒﾝｿｰﾙ･12本･glo hyper用",
+      "variant": "ﾌｨﾙﾀｰ付 12本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 300,
+      "country": "大韓民国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｸｰﾙ",
+      "name": "ﾐﾝﾃｨ･ｼﾘｰｽﾞ･ﾐﾝﾃｨﾍﾞﾘｰ･5",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｸｰﾙ",
+      "name": "ﾐﾝﾃｨ･ｼﾘｰｽﾞ･ﾐﾝﾃｨﾍﾞﾘｰ･8",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｸｰﾙ",
+      "name": "ﾐﾝﾃｨ･ｼﾘｰｽﾞ･ﾐﾝﾃｨﾌﾞｰｽﾄ･8",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｪ",
+      "name": "ｼｬｸﾞ･ﾌﾞﾗｯｸﾒﾝｿｰﾙ 100g缶",
+      "variant": "100.0g 缶",
+      "grams": "100.0g",
+      "priceYen": 2650,
+      "country": "ﾙｸｾﾝﾌﾞﾙｸ"
+    }
+  ]
+}

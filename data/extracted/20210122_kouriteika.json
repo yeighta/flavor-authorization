@@ -1,0 +1,368 @@
+{
+  "date": "2021-01-22",
+  "kind": "shinki",
+  "filename": "20210122_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210122_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ﾌﾟｰﾛﾄﾞｰﾛ 60×3/4 ｱﾝｶｯﾄ",
+      "variant": "95mm 1本",
+      "grams": "",
+      "priceYen": 4800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ﾎﾜｲﾄ ｴﾃﾞｨｼｮﾝ ﾎﾞｰﾙﾄﾞ 2020",
+      "variant": "146mm 1本",
+      "grams": "",
+      "priceYen": 7600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊｰﾍﾞｽﾄ",
+      "name": "ｷﾝｸﾞｻｲｽﾞ･ｸﾗｼｯｸ",
+      "variant": "F85mm 18本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 380,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊｰﾍﾞｽﾄ",
+      "name": "ｷﾝｸﾞｻｲｽﾞ･ﾊﾞﾆﾗ",
+      "variant": "F85mm 18本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 380,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊｰﾍﾞｽﾄ",
+      "name": "ｷﾝｸﾞｻｲｽﾞ･ﾁｪﾘｰ",
+      "variant": "F85mm 18本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 380,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Banana Split",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 1550,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Black Panther",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 1550,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Royal Mint",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 1550,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium True Love",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 1550,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Banana Split",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7750,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Black Panther",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7750,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Royal Mint",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7750,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium True Love",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7750,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Banana Split",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 15500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Black Panther",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 15500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium Royal Mint",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 15500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Doobacco",
+      "name": "Premium True Love",
+      "variant": "缶",
+      "grams": "500.0g",
+      "priceYen": 15500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "BASHA",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "HARMONY",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "24\\7",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "ILLUSION",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "SUMMER BREEZE",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "FIRED UP",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "CASANOVA",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "JOJO",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "BUT FIRST",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "YUMMY",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "DO-RE-MI",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "B52",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "BAILANDO",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "ALL DAY",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "THE ONE ONLY",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "TIAMO",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "LAVA",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "CASABLANCA",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "PARADISO",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "ALL EYES ON YOU",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "TEMPLATION",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "TOP SECRET",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TickTock",
+      "name": "CAESAR",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    }
+  ]
+}

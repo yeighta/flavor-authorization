@@ -1,0 +1,62 @@
+{
+  "date": "2023-12-21",
+  "kind": "shinki",
+  "filename": "20231221_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20231221_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "マックス・メンソール・glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "フレッシュ・メンソール・glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ラッキー・ストライク",
+      "name": "スムース・タバコ・glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "",
+      "priceYen": 400,
+      "country": "大韓民国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "シガローネ",
+      "name": "タトゥー・チョコレート",
+      "variant": "F84mm 20本",
+      "grams": "",
+      "priceYen": 800,
+      "country": "ｱﾙﾒﾆｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "シガローネ",
+      "name": "タトゥー・チェリー",
+      "variant": "F84mm 20本",
+      "grams": "",
+      "priceYen": 800,
+      "country": "ｱﾙﾒﾆｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "シガローネ",
+      "name": "タトゥー・バニラ",
+      "variant": "F84mm 20本",
+      "grams": "",
+      "priceYen": 800,
+      "country": "ｱﾙﾒﾆｱ"
+    }
+  ]
+}

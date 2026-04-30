@@ -1,0 +1,89 @@
+{
+  "date": "2021-11-12",
+  "kind": "shinki",
+  "filename": "20211112_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20211112_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾃﾘｱ",
+      "name": "ﾌﾞﾗｯｸ･ﾊﾟｰﾌﾟﾙ･ﾒﾝｿｰﾙ",
+      "variant": "F45 20ｽﾃｨｯｸ ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 580,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｱｰｸｴｯｸｽ",
+      "name": "ｱﾒﾘｶﾝﾌﾞﾙｰ･H",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "12.0g",
+      "priceYen": 680,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｱｰｸｴｯｸｽ",
+      "name": "ﾌｫﾚｽﾄｸﾞﾘｰﾝ･H",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "12.0g",
+      "priceYen": 680,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｱｰｸｴｯｸｽ",
+      "name": "ｻﾝｾｯﾄｱﾝﾊﾞｰ･H",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "12.0g",
+      "priceYen": 680,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｱｰｸｴｯｸｽ",
+      "name": "ﾙﾋﾞｰﾚｯﾄﾞ･H",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "12.0g",
+      "priceYen": 680,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｱｰｸｴｯｸｽ",
+      "name": "ｸﾘｰﾑｲｴﾛｰ･H",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "12.0g",
+      "priceYen": 680,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｱｰｸｴｯｸｽ",
+      "name": "ﾌﾞﾗｲﾄｵﾚﾝｼﾞ･H",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "12.0g",
+      "priceYen": 680,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｱｰｸｴｯｸｽ",
+      "name": "ﾅｲﾄﾌﾞﾙｰ･H",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "12.0g",
+      "priceYen": 680,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｱｰｸｴｯｸｽ",
+      "name": "ﾁｮｺﾚｰﾄﾌﾞﾗｳﾝ･H",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "12.0g",
+      "priceYen": 680,
+      "country": "ｳﾙｸﾞｱｲ"
+    }
+  ]
+}

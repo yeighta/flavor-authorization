@@ -1,0 +1,35 @@
+{
+  "date": "2025-12-15",
+  "kind": "shinki",
+  "filename": "20251215_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20251215_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ベロ",
+      "name": "スムース・ペパーミント・ミディアム",
+      "variant": "15個 缶",
+      "grams": "",
+      "priceYen": 360,
+      "country": "ﾊﾟｷｽﾀﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ベロ",
+      "name": "ブリージー・マンゴー・インテンス",
+      "variant": "15個 缶",
+      "grams": "",
+      "priceYen": 360,
+      "country": "ﾊﾟｷｽﾀﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヴァルト",
+      "name": "ブライト・チェリー・クリック",
+      "variant": "ﾌｨﾙﾀｰ付 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "5.3g",
+      "priceYen": 580,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    }
+  ]
+}

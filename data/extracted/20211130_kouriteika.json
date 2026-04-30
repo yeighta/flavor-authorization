@@ -1,0 +1,233 @@
+{
+  "date": "2021-11-30",
+  "kind": "shinki",
+  "filename": "20211130_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20211130_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tick Tock",
+      "name": "OLDI GOLDI",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tick Tock",
+      "name": "MADEMOISELLE",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tick Tock",
+      "name": "MR.JUICE",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tick Tock",
+      "name": "SHOCK",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tick Tock",
+      "name": "BLISS",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tick Tock",
+      "name": "BLUE EYES",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tick Tock",
+      "name": "TURN IT UP",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aroma de nica",
+      "name": "384 Nina",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aroma de nica",
+      "name": "385",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aroma de nica",
+      "name": "386",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aroma de nica",
+      "name": "387",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 1100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aroma de nica",
+      "name": "464",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aroma de nica",
+      "name": "465 Santa Maria",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aroma de nica",
+      "name": "466",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aroma de nica",
+      "name": "467",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 1300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aroma de nica",
+      "name": "504 Pinta",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aroma de nica",
+      "name": "505",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aroma de nica",
+      "name": "506",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aroma de nica",
+      "name": "507",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 1400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Charuto",
+      "name": "No. 1",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Charuto",
+      "name": "No. 2",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Charuto",
+      "name": "No. 3",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Charuto",
+      "name": "No. 4",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1450,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Charuto",
+      "name": "No. 5",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Charuto",
+      "name": "No. 6",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

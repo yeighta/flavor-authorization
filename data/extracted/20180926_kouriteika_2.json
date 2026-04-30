@@ -1,0 +1,3419 @@
+{
+  "date": "2018-09-26",
+  "kind": "shinki",
+  "filename": "20180926_kouriteika_2.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20180926_kouriteika_2.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "D\u0026R",
+      "name": "ｲﾝｸﾞﾘｯｼｭ･ﾌｰﾌﾟﾗｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 3250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "D\u0026R",
+      "name": "ｳｲﾝﾄﾞｾｲﾙ･ﾌﾟﾗﾁﾅﾑ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 2140,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "D\u0026R",
+      "name": "ｽﾘｰｾｲﾙｽﾞ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "D\u0026R",
+      "name": "ﾋﾟｶﾕｰﾝ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "D\u0026R",
+      "name": "ｳｨﾘｱﾑｽ･ﾃﾞｨﾗｲﾄ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 3250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "D\u0026R",
+      "name": "ｱｾｲ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 2140,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "D\u0026R",
+      "name": "ﾗﾝﾊﾞｯｸ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 2240,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "D\u0026R",
+      "name": "ﾛﾝﾄﾞﾝ･ﾄﾞｯｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2800,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾓﾎｰｸ",
+      "name": "ﾊﾞｰｼﾞﾆｱ",
+      "variant": "",
+      "grams": "35.0g",
+      "priceYen": 840,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾞﾗｼﾞﾙ･ﾄﾙﾚﾘｴ",
+      "name": "ﾐﾆ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1420,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾞﾗｼﾞﾙ･ﾄﾙﾚﾘｴ",
+      "name": "ｴﾙﾄﾞﾗﾄﾞ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 2020,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾞﾗｼﾞﾙ･ﾄﾙﾚﾘｴ",
+      "name": "ﾊﾞﾔｯﾂｫ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 10400,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞﾝﾄﾚｰ",
+      "name": "ｼｶﾞﾘﾛｽ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 3330,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞﾝﾄﾚｰ",
+      "name": "ｳｲｽｷｰ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1430,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞﾝﾄﾚｰ",
+      "name": "ｳｲｽｷｰ ｳｲｽﾞ ﾌｨﾙﾀｰ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1430,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾍﾞﾝﾄﾚｰ",
+      "name": "ｻﾞ･ｸﾗｼｯｸﾜﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾍﾞﾝﾄﾚｰ",
+      "name": "ｵﾘｴﾝﾀﾙｽﾊﾟｲｽ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾍﾞﾝﾄﾚｰ",
+      "name": "ﾌﾟﾗﾝﾀｰｽﾞｽｲｰﾄ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾍﾞﾝﾄﾚｰ",
+      "name": "ﾊﾞｰｼﾞﾆｱﾊﾆｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾍﾞﾝﾄﾚｰ",
+      "name": "ﾛｲﾔﾙVL",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾍﾞﾝﾄﾚｰ",
+      "name": "ﾛﾝﾄﾞﾝﾊﾟｲﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾊﾞｶﾚﾗ",
+      "name": "ｺﾛﾅｽ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 360,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾊﾞｶﾚﾗ",
+      "name": "ﾀﾞﾌﾞﾙｺﾛﾅｽ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 680,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾊﾞｶﾚﾗ",
+      "name": "ﾊﾟﾅﾃﾗ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 240,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾊﾞｶﾚﾗ",
+      "name": "ﾊｰﾌｺﾛﾅｽ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 270,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾊﾞｶﾚﾗ",
+      "name": "ﾋﾟﾗﾐｯﾄﾞ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 670,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾊﾞｶﾚﾗ",
+      "name": "ﾛﾌﾞｽﾄ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 540,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾊﾞｶﾚﾗ",
+      "name": "ｴﾙｺﾝﾃﾞ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 470,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾊﾞｶﾚﾗ",
+      "name": "ｺﾙﾀﾄﾞｽ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 370,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾄﾞﾝﾌｧﾝ",
+      "name": "ｺﾛﾅ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 710,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾄﾞﾝﾌｧﾝ",
+      "name": "ﾊｰﾌｺﾛﾅ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾄﾞﾝﾌｧﾝ",
+      "name": "ﾁｬｰﾁﾙ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 970,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾙｰﾉｰﾄ",
+      "name": "ﾌｧｲﾝｶｯﾄ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1340,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾞﾎﾞ",
+      "name": "ﾌｧｲﾝｶｯﾄ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1340,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｻﾞ",
+      "name": "ﾓﾙﾄﾊｳｽ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "No.13",
+      "name": "ｶﾌﾟﾁｰﾉ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾄｰﾍﾞﾝﾀﾞﾝｽｸ",
+      "name": "ﾗﾀｷｱ･ｼﾘｱ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾎﾘｰｽﾞ",
+      "name": "ﾃﾞｨｽｶﾊﾞﾘｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾄｰﾍﾞﾝﾀﾞﾝｽｸ",
+      "name": "ｵﾘｴﾝﾄ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾄｰﾍﾞﾝﾀﾞﾝｽｸ",
+      "name": "ﾊﾞｰｼﾞﾆｱ1.6ｻﾞｲｰﾙ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾄｰﾍﾞﾝﾀﾞﾝｽｸ",
+      "name": "ﾊﾞｰｼﾞﾆｱ･ﾏｲｿｰﾙ･ﾚﾃﾞｨｰ･ﾗﾌﾞﾄﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾄｰﾍﾞﾝﾀﾞﾝｽｸ",
+      "name": "ﾊﾞｰﾚｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾁｭｰﾁｭｰﾄﾚｲﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｫｰﾏｰ",
+      "name": "ﾌﾟﾗｲﾍﾞｰﾄ･ﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｫｰﾏｰ",
+      "name": "ｽﾄﾚｲﾄ･ｸﾞﾚｲﾝ･ﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｫｰﾏｰ",
+      "name": "ﾊﾞｰｽﾞｱｲ･ﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｫｰﾏｰ",
+      "name": "ｸﾛｽ･ｸﾞﾚｲﾝ･ﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｽｳｨｰﾄﾊﾞﾆﾗ･ﾊﾆｰﾃﾞｭｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾀﾞﾋﾞﾝﾁ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾃｲｸｲｯﾄｲｰｼﾞｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2100,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾄｰﾍﾞﾝﾀﾞﾝｽｸ",
+      "name": "ﾌﾞﾗｯｸｷｬﾍﾞﾝﾃﾞｨｯｼｭﾋﾟｭｱ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾄｰﾍﾞﾝﾀﾞﾝｽｸ",
+      "name": "ﾚｯﾄﾞﾊﾞｰｼﾞﾆｱ･No.3",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2100,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾄｰﾍﾞﾝﾀﾞﾝｽｸ",
+      "name": "ﾌﾞﾗｯｸ･ｷｬﾍﾞﾝﾃﾞｨｯｼｭｽｲｰﾄｱﾝﾄﾞﾏｲﾙﾄﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾊﾞｰｽﾃﾞｰﾌﾞﾚﾝﾄﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾌﾞﾙｰﾉｰﾄ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾌﾞﾗｯｸﾌﾞﾚﾝﾄﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾏﾗｰﾄﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾄｰﾍﾞﾝﾀﾞﾝｽｸ",
+      "name": "ｹﾝﾀｯｷｰUSA",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾊﾞﾙｶﾝ ﾌﾞﾚﾝﾄﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾄｰﾍﾞﾝﾀﾞﾝｽｸ",
+      "name": "ﾗﾀｷｱ･ｷﾌﾟﾛｽ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2200,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾄｰﾍﾞﾝﾀﾞﾝｽｸ",
+      "name": "ﾙｲｼﾞｱﾅ･ﾍﾟﾘｸUSA",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2250,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾃﾞﾋﾞﾙｽﾞﾎﾘﾃﾞｰ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾃｷｰﾗｻﾝﾗｲｽﾞ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾐﾛﾝｶﾞ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｺﾞｰﾙﾃﾞﾝｶｶﾞﾔｷ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4100,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "かがやき",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾍﾚﾆｽﾞﾑ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 5100,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ｱｲﾘｯｼｭｵｰｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ｼｬｰﾛｯｸﾎｰﾑｽﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ﾕﾆﾊﾞｰｼﾃｨｰﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ｱｲﾘｯｼｭｳｨｽｷｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ｵｰﾙﾄﾞﾀﾞﾌﾞﾘﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ｻﾝｾｯﾄﾌﾞﾘｰｽﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ｽｳｨｰﾄｷﾗﾆｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ｺﾞｰﾙﾃﾞﾝﾌﾞﾚﾝﾄﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ﾗｸﾞｼﾞｭｱﾘｰﾌﾞﾚﾝﾄﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ｺﾉｲｻｰｽﾞﾁｮｲｽ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ﾃﾞﾗｯｸｽﾐｽｸﾁｬｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ｱｲﾘｯｼｭﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ﾊﾟｰﾌｪｸﾄﾌﾟﾗｸﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ﾅｯﾃｨｶｯﾄ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ﾊｲﾄﾞﾊﾟｰｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ﾊﾞﾙｶﾝﾃﾞｨﾗｲﾄ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ｽﾍﾟｼｬﾙﾘｻﾞｰﾌﾞ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4200,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ｻﾏｰﾀｲﾑ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4200,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ﾎﾘﾃﾞｰｼｰｽﾞﾝ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4200,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾛｲﾔﾙ･ﾋﾞﾝﾃｰｼﾞ",
+      "name": "ﾗﾀｷｱNO.1",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾛｲﾔﾙ･ﾋﾞﾝﾃｰｼﾞ",
+      "name": "ﾗﾀｷｱNO.2",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾛｲﾔﾙ･ﾋﾞﾝﾃｰｼﾞ",
+      "name": "ｽｲｰﾄ･ｷｬﾊﾞﾝﾃﾞｨｯｼｭ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾛｲﾔﾙ･ﾋﾞﾝﾃｰｼﾞ",
+      "name": "ﾌﾞﾚﾝﾃﾞｯﾄﾞ･ﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾞｭﾃﾗ",
+      "name": "ﾛｲﾔﾙﾋﾞﾝﾃｰｼﾞ･ﾏﾁｭｱｰﾄﾞﾘﾎﾞﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾞｭﾃﾗ",
+      "name": "ﾛｲﾔﾙﾋﾞﾝﾃｰｼﾞ･ｺﾞｰﾙﾃﾞﾝｹｰｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱｰﾙｴｰﾌﾞｲ",
+      "name": "ｸﾗｼｺ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 460,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱｰﾙｴｰﾌﾞｲ",
+      "name": "ｳﾞｨｿ98",
+      "variant": "",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｶｽｹｲﾔ",
+      "name": "ﾁｬｰﾁﾙ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 5950,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｶｽｹｲﾔ",
+      "name": "ﾛﾌﾞｽﾄ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 4930,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｶｽｹｲﾔ",
+      "name": "ﾇﾒﾛ･ｸﾜﾄﾛ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 3600,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｶｽｹｲﾔ",
+      "name": "ﾌﾟﾘﾝｾｽ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 2350,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷｬﾝﾄﾞﾙﾗｲﾄ",
+      "name": "ｺｺﾅｯﾂﾌｨﾙﾀｰ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 420,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷｬﾝﾄﾞﾙﾗｲﾄ",
+      "name": "ｾﾆｮﾘﾀｽｼｶﾞｰ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 4620,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾊｰﾍﾞｽﾄ",
+      "name": "ﾁｪﾘｰ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏﾆﾄｳ",
+      "name": "ﾌﾞﾙｰ30",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏﾆﾄｳ",
+      "name": "ｺﾞｰﾙﾄﾞ30",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏﾆﾄｳ",
+      "name": "ｺﾞｰﾙﾄﾞ80",
+      "variant": "",
+      "grams": "80.0g",
+      "priceYen": 2180,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏﾆﾄｳ",
+      "name": "ｵｰｶﾞﾆｯｸ25",
+      "variant": "",
+      "grams": "25.0g",
+      "priceYen": 830,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏﾆﾄｳ",
+      "name": "ﾋﾟﾝｸ30",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾃﾞｨｰｼﾞｪｰﾐｯｸｽ",
+      "name": "ﾗﾃ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾋﾟｰﾙ",
+      "name": "ｽﾌﾟﾗｯｼｭｵﾚﾝｼﾞ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾋﾟｰﾙ",
+      "name": "ｽﾌﾟﾗｯｼｭｸﾞﾚｰﾌﾟ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "",
+      "name": "ﾄﾞﾝｴｽﾃﾊﾞﾝ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 2150,
+      "country": "ｱｲﾙﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｱﾏｿﾞﾝｶﾞﾗﾅ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 460,
+      "country": "ﾀﾝｻﾞﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ｼﾞﾝｼﾞｬｰｴｰﾙ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 460,
+      "country": "ﾀﾝｻﾞﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾊﾟｲﾀﾞｰ",
+      "name": "ﾁｪﾘｰｺｰﾗ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 460,
+      "country": "ﾀﾝｻﾞﾆｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾊﾞﾙｶﾝｿﾌﾞﾗﾆｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 3550,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｳﾞｨﾝｾﾝﾄ･ﾏﾆﾙ",
+      "name": "ﾌｧｲﾝｶｯﾄ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4100,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｳﾞｨﾝｾﾝﾄ･ﾏﾆﾙ",
+      "name": "ﾜｲﾄﾞｶｯﾄ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4100,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱﾒﾘｶﾝ･ﾊﾞｲｿﾝ",
+      "name": "(40)",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1040,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱﾒﾘｶﾝ･ﾊﾞｲｿﾝ",
+      "name": "(150)",
+      "variant": "",
+      "grams": "150.0g",
+      "priceYen": 3650,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｸﾞﾛｯｷﾞｰ",
+      "name": "ｷｭｰﾊﾞﾘﾌﾞﾚ",
+      "variant": "",
+      "grams": "25.0g",
+      "priceYen": 670,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｸﾞﾛｯｷﾞｰ",
+      "name": "ｼﾞｬﾏｲｶｼﾞｮｰ",
+      "variant": "",
+      "grams": "25.0g",
+      "priceYen": 670,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｸﾞﾛｯｷﾞｰ",
+      "name": "ｽﾄﾚｰﾄﾗﾑ",
+      "variant": "",
+      "grams": "25.0g",
+      "priceYen": 670,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｸﾞﾛｯｷﾞｰ",
+      "name": "ﾋﾟﾆｬｺﾗｰﾀﾞ",
+      "variant": "",
+      "grams": "25.0g",
+      "priceYen": 670,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｸﾞﾛｯｷﾞｰ",
+      "name": "ﾌﾞﾙｰﾀﾞｲｷﾘ",
+      "variant": "",
+      "grams": "25.0g",
+      "priceYen": 670,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｻﾐｭｴﾙｶﾞｰｳｨｽﾞ",
+      "name": "ｹﾝﾀｯｷｰｸﾘｰﾑDXﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｻﾐｭｴﾙｶﾞｰｳｨｽﾞ",
+      "name": "ﾊﾟｰﾌｪｸｼｮﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｻﾐｭｴﾙｶﾞｰｳｨｽﾞ",
+      "name": "ｽｷｯﾌﾐｯｸｽﾁｬｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｻﾐｭｴﾙｶﾞｰｳｨｽﾞ",
+      "name": "ﾌｧｲﾔｰﾀﾞﾝｽ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "1792ﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｸﾞﾛｳｽﾑｰｱ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｺﾓﾝｳｪﾙｽ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｽｸﾜﾄﾞﾛﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾊﾞﾙｶﾝ･ﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾌﾙ･ﾊﾞｰｼﾞﾆｱ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾍﾞｽﾄ･ﾌﾞﾗｳﾝﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｻﾑｽﾞ･ﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｾﾝﾄｼﾞｪｰﾑｽ･ﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｻﾐｭｴﾙｶﾞｰｳｨｽﾞ",
+      "name": "ｺﾞｰﾙﾃﾞﾝｸﾞﾛｳ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｻﾐｭｴﾙ･ｶﾞｰｳｨｽﾞ",
+      "name": "ｱｲﾘｯｼｭｽﾌﾟﾘﾝｸﾞ･ﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｻﾐｭｴﾙ･ｶﾞｰｳｨｽﾞ",
+      "name": "ｲﾝｸﾞﾘｯｼｭｻﾏｰ･ﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｻﾐｭｴﾙ･ｶﾞｰｳｨｽﾞ",
+      "name": "ｽｺﾃｨｯｼｭｵｰﾀﾑ･ﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｻﾐｭｴﾙ･ｶﾞｰｳｨｽﾞ",
+      "name": "ｳｲﾝﾀｰﾀｲﾑ･ﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｻﾐｭｴﾙ･ｶﾞｰｳｨｽﾞ",
+      "name": "ｷｬﾋﾞｰｽﾞ･ﾐｯｸｽﾁｬｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2150,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｻﾐｭｴﾙ･ｶﾞｰｳｨｽﾞ",
+      "name": "ﾎﾞｼｰ･ﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼﾞｬｰﾏｲﾝ",
+      "name": "ｽﾍﾟｼｬﾙ･ﾗﾀｷｱ･ﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "英国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺｰﾈﾙﾃﾞｨｰﾙ",
+      "name": "ﾁｪﾈｯﾂ･ｹｰｷ",
+      "variant": "",
+      "grams": "57.0g",
+      "priceYen": 2860,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺｰﾈﾙﾃﾞｨｰﾙ",
+      "name": "ﾐｼｼｯﾋﾟ･ﾏｯﾄﾞ",
+      "variant": "",
+      "grams": "57.0g",
+      "priceYen": 2860,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺｰﾈﾙﾃﾞｨｰﾙ",
+      "name": "ﾊﾞｰﾎﾞﾝﾌﾞﾙｰ",
+      "variant": "",
+      "grams": "57.0g",
+      "priceYen": 2860,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺｰﾈﾙﾃﾞｨｰﾙ",
+      "name": "ﾀﾞ･ｳﾞｨﾝﾁ",
+      "variant": "",
+      "grams": "57.0g",
+      "priceYen": 2860,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺｰﾈﾙﾃﾞｨｰﾙ",
+      "name": "ﾊﾞｲﾕｰ･ﾓｰﾆﾝｸﾞ",
+      "variant": "",
+      "grams": "57.0g",
+      "priceYen": 2860,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺｰﾈﾙﾃﾞｨｰﾙ",
+      "name": "ﾋﾞﾘｰ･ﾊﾞｯﾄﾞ",
+      "variant": "",
+      "grams": "57.0g",
+      "priceYen": 2860,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺｰﾈﾙﾃﾞｨｰﾙ",
+      "name": "ｱﾌﾀｰｱﾜｰ",
+      "variant": "",
+      "grams": "57.0g",
+      "priceYen": 2660,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼﾞｰｴﾙﾋﾟｰｽ",
+      "name": "ｱﾋﾞﾝﾄﾞﾝ",
+      "variant": "",
+      "grams": "57.0g",
+      "priceYen": 3060,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼﾞｰｴﾙﾋﾟｰｽ",
+      "name": "ｶﾞｽﾗｲﾄ",
+      "variant": "",
+      "grams": "57.0g",
+      "priceYen": 3060,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼﾞｰｴﾙﾋﾟｰｽ",
+      "name": "ﾊﾞｰｼﾞﾆｱｸﾘｰﾑ",
+      "variant": "",
+      "grams": "57.0g",
+      "priceYen": 3060,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼﾞｰｴﾙﾋﾟｰｽ",
+      "name": "ﾕﾆｵﾝｽｸｴｱ",
+      "variant": "",
+      "grams": "57.0g",
+      "priceYen": 3060,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼﾞｰｴﾙﾋﾟｰｽ",
+      "name": "ｼｯｸｽﾍﾟﾝｽ",
+      "variant": "",
+      "grams": "57.0g",
+      "priceYen": 3060,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼﾞｰｴﾙﾋﾟｰｽ",
+      "name": "ｾｸｽﾀﾝﾄ",
+      "variant": "",
+      "grams": "57.0g",
+      "priceYen": 3060,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｲｴｽ･ｺｳﾉｳｨｯﾁ",
+      "name": "T15",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｲｴｽ･ｺｳﾉｳｨｯﾁ",
+      "name": "T16",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｲｴｽ･ｺｳﾉｳｨｯﾁ",
+      "name": "T17",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1950,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｲﾙｽﾃｯﾄﾞ",
+      "name": "ｺﾞｰﾙﾃﾞﾝﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱｯｼｭﾄﾝ",
+      "name": "ｵｰﾙﾄﾞﾛﾝﾄﾞﾝ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4200,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱｯｼｭﾄﾝ",
+      "name": "ﾌﾞﾗｯｸﾊﾟﾛｯﾄ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4200,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱｯｼｭﾄﾝ",
+      "name": "ｺﾞｰﾙﾃﾞﾝﾗｯｼｭ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2750,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｶﾛﾗｲﾅﾛｰｽﾞ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3700,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｸﾙｰｽﾞﾗｲﾝ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3700,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｿﾗｰﾆ",
+      "name": "ｽｲｰﾄﾐｽﾃﾘｰ113",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｿﾗｰﾆ",
+      "name": "ｸﾞﾘｰﾝ127",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｿﾗｰﾆ",
+      "name": "ﾚｯﾄﾞ131",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｿﾗｰﾆ",
+      "name": "ﾌﾞﾙｰ369",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｿﾗｰﾆ",
+      "name": "ｳﾞｧｰｼﾞﾆｱﾌﾚｲｸ633",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｿﾗｰﾆ",
+      "name": "ｴｲｼﾞﾄﾞﾊﾞｰﾚﾌﾚｲｸ656",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｿﾗｰﾆ",
+      "name": "ｺﾞｰﾙﾃﾞﾝ779",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｽﾘｰﾋﾞｰ",
+      "name": "ｲﾝｸﾞﾘｯｼｭﾐｸｽﾁｬｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｽﾘｰﾋﾞｰ",
+      "name": "ｵﾘｴﾝﾀﾙﾐｸｽﾁｬｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｽﾘｰﾋﾞｰ",
+      "name": "ｽｺﾃｨｯｼｭﾐｸｽﾁｬｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾊﾟｲﾌﾟ",
+      "name": "66",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3700,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ｱｶｳﾝﾀﾝﾂ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ｵｰﾙﾄﾞｺﾞｰﾘｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ｼﾞｬｯｸｽﾐｸｽﾁｬｰ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ｽﾘｰﾉｷﾞﾝｽﾞ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ｾﾌﾞﾝﾘｻﾞｰﾌﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ﾀﾞｰｸﾌﾚｸﾞﾗﾝﾄ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ﾊｲﾗﾝﾄﾞﾀｰｼﾞ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ﾊﾛｰｻﾞｳｲﾝﾄﾞ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ﾌﾞﾗﾝｸﾙｰﾆｰ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ﾌﾞﾗｯｸﾊﾞｰｼﾞﾆｱ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ﾌﾞﾗｯｸﾏﾛﾘｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ﾌﾟﾛﾌｪｯｼｮﾅﾙ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ﾏｰﾘﾝﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ﾚｯﾄﾞﾗﾊﾟﾘｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ｻｰ･ｳｨﾘｱﾑ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ﾚｯﾄﾞﾗｲｵﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ﾏｸﾍﾞｽ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾚｯﾄﾞﾛｰｾﾞｽ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾛﾊﾞｰﾄﾏｯｺｰﾈﾙ",
+      "name": "ｽｺﾃｨｯｼｭﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ﾛﾝﾄﾞﾝｱｲ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ﾊﾞｯｷﾝｶﾞﾑ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ﾕﾆｵﾝｼﾞｬｯｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ｳｪｽﾄﾐﾝｽﾀｰｱﾋﾞｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ﾛｲﾔﾙｱﾙﾊﾞｰﾄ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ﾀﾜｰﾌﾞﾘｯｼﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ﾏﾙｺﾑﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ｽﾀｰﾘﾝｸﾞﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ｳｫﾚｽﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺｰﾙﾊｽ",
+      "name": "ｴﾃﾞｨｼｮﾝ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4100,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾗｯﾄﾚｰ",
+      "name": "ｴﾃﾞｨｼｮﾝ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4100,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾓｲ",
+      "name": "ｶｽｸ No.1",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾓｲ",
+      "name": "ｶｽｸ No.2",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾓｲ",
+      "name": "ｶｽｸ No.4",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾓｲ",
+      "name": "ｶｽｸ No.5",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾓｲ",
+      "name": "ｶｽｸ No.7",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾓｲ",
+      "name": "ｶｽｸ No.9",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾓｲ",
+      "name": "ｶｽｸ No.11",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｫｰｽ･ｼﾞｪﾈﾚｰｼｮﾝ",
+      "name": "1855",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 2190,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｫｰｽ･ｼﾞｪﾈﾚｰｼｮﾝ",
+      "name": "1957",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 2190,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｫｰｽ･ｼﾞｪﾈﾚｰｼｮﾝ",
+      "name": "1982",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 2190,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｫｰｽ･ｼﾞｪﾈﾚｰｼｮﾝ",
+      "name": "1897",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 2190,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺﾛﾅ",
+      "name": "ｽﾏﾄﾗ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 310,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼﾞｸﾞｻﾞｸﾞ",
+      "name": "ﾌｧｲﾝｶｯﾄ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1240,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｵﾘﾌｧﾝﾄ",
+      "name": "ｳﾞｨｰｵｰｼｰ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｵﾘﾌｧﾝﾄ",
+      "name": "ｸﾅｷｴ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 2300,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｵﾘﾌｧﾝﾄ",
+      "name": "ｺﾛﾅ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 3050,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｵﾘﾌｧﾝﾄ",
+      "name": "ｺﾛﾅﾊﾟﾅﾃﾗ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1980,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｵﾘﾌｧﾝﾄ",
+      "name": "ﾌｧﾝﾁｪ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1750,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｵﾘﾌｧﾝﾄ",
+      "name": "ﾏｰﾃﾘﾌ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 2080,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｵﾘﾌｧﾝﾄ",
+      "name": "ﾐﾆｽﾏﾄﾗ5",
+      "variant": "",
+      "grams": "",
+      "priceYen": 610,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｵﾘﾌｧﾝﾄ",
+      "name": "ﾐﾆﾌﾞﾗｼﾞﾙ7",
+      "variant": "",
+      "grams": "",
+      "priceYen": 770,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｵﾘﾌｧﾝﾄ",
+      "name": "ﾐﾆﾌﾞﾗｼﾞﾙ5",
+      "variant": "",
+      "grams": "",
+      "priceYen": 610,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｵﾘﾌｧﾝﾄ",
+      "name": "ﾊﾞﾚﾝﾁﾉ･ﾛﾌﾞｽﾄ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 4060,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ｺｰﾝﾒｲﾗﾌﾞﾗｯｸ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1340,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ｱﾗﾝ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1340,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ﾜｲﾙﾄﾞｱﾄﾗﾝﾃｨｯｸ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1340,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾟｰﾀｰｿﾝ",
+      "name": "ｱｲﾘｯｼｭﾃﾞｭｰ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1340,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ｺｺﾅｯﾂﾐﾙｸ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 490,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ﾁｮｺﾚｰﾄ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 490,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ﾋﾟﾝｸﾛｰｽﾞ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 490,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ｺﾞｰﾙﾄﾞ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 490,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ｱｲｽﾊﾞﾆﾗ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 490,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ｶﾌｪﾊﾞﾆﾗ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 490,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ｺｺﾅｯﾂﾐﾙｸ 120",
+      "variant": "",
+      "grams": "",
+      "priceYen": 2880,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ﾁｮｺﾚｰﾄ 120",
+      "variant": "",
+      "grams": "",
+      "priceYen": 2880,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱﾊﾟｯﾁ",
+      "name": "ｵﾘｼﾞﾅﾙ",
+      "variant": "",
+      "grams": "25.0g",
+      "priceYen": 590,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱﾊﾟｯﾁ",
+      "name": "ｼﾙﾊﾞｰ",
+      "variant": "",
+      "grams": "25.0g",
+      "priceYen": 590,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱﾊﾟｯﾁ",
+      "name": "ﾅﾁｭﾗﾙ",
+      "variant": "",
+      "grams": "25.0g",
+      "priceYen": 590,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱﾊﾟｯﾁ",
+      "name": "ﾒﾝｿｰﾙ",
+      "variant": "",
+      "grams": "25.0g",
+      "priceYen": 590,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱﾊﾟｯﾁ",
+      "name": "ｺﾞｰﾙﾄﾞ",
+      "variant": "",
+      "grams": "35.0g",
+      "priceYen": 870,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱﾊﾟｯﾁ",
+      "name": "ｺﾞｰﾙﾄﾞ100",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 2400,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱﾊﾟｯﾁ",
+      "name": "140･ﾚｯﾄﾞ",
+      "variant": "",
+      "grams": "140.0g",
+      "priceYen": 3140,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱﾊﾟｯﾁ",
+      "name": "140･ｸﾞﾘｰﾝ",
+      "variant": "",
+      "grams": "140.0g",
+      "priceYen": 3140,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｽﾀｯﾄﾞ",
+      "name": "ｵｰﾄﾏｰﾙｽﾑ･ﾌﾞﾙｰ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1090,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｽﾀｯﾄﾞ",
+      "name": "ｵｰﾄﾏｰﾙｽﾑ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1090,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ｺｺﾅｯﾂ･ｼｬｸﾞ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 960,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ｷｭｰﾃｨﾊﾆｰ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 960,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ｸﾞﾚｰﾄｱｲｽ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 960,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾙｯｸｱｳﾄ",
+      "name": "ｸﾗｼｺ",
+      "variant": "",
+      "grams": "35.0g",
+      "priceYen": 790,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾙｯｸｱｳﾄ",
+      "name": "ｱﾒﾘｶﾝﾌﾞﾚﾝﾄﾞ",
+      "variant": "",
+      "grams": "35.0g",
+      "priceYen": 790,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾙｯｸｱｳﾄ",
+      "name": "ﾅﾁｭﾗﾙ",
+      "variant": "",
+      "grams": "35.0g",
+      "priceYen": 840,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾙｯｸｱｳﾄ",
+      "name": "ﾌﾙｰﾃｨﾊﾞﾆﾗ",
+      "variant": "",
+      "grams": "35.0g",
+      "priceYen": 790,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｧｳｴﾝ",
+      "name": "ｺﾘｱﾝﾀﾞｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｧｳｴﾝ",
+      "name": "ｱｰﾙｸﾞﾚｲ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｧｳｴﾝ",
+      "name": "ｱｳｴﾝﾗﾝﾄ･ｲﾌﾞﾆﾝｸﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｧｳｴﾝ",
+      "name": "ｱｳｴﾝﾗﾝﾄ･ﾓｰﾆﾝｸﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｧｳｴﾝ",
+      "name": "ｴｽﾌﾟﾚｯｿ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｧｳｴﾝ",
+      "name": "ﾚｯﾄﾞﾜｲﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｧｳｴﾝ",
+      "name": "ｱｳｴﾝﾗﾝﾄ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2450,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾊｰﾍﾞｽﾄ",
+      "name": "ｱｯﾌﾟﾙﾚﾓﾝ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾊｰﾍﾞｽﾄ",
+      "name": "ﾊﾞﾆﾗ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾊｰﾍﾞｽﾄ",
+      "name": "ﾒﾝｿｰﾙ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "",
+      "name": "ｺｲｰﾊﾞ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 550,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｱｸﾛﾎﾟﾘｽ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｴｸｾﾚﾝﾄ",
+      "name": "ｱｯﾌﾟﾙ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 990,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｴｸｾﾚﾝﾄ",
+      "name": "ﾊﾟｲﾅｯﾌﾟﾙ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 990,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｴｸｾﾚﾝﾄ",
+      "name": "ｸﾞﾚｰﾌﾟ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1040,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｴｸｾﾚﾝﾄ",
+      "name": "ﾁｪﾘｰ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1040,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "",
+      "name": "宝船",
+      "variant": "",
+      "grams": "20.0g",
+      "priceYen": 560,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "",
+      "name": "宝船ｺﾞｰﾙﾄﾞ",
+      "variant": "",
+      "grams": "20.0g",
+      "priceYen": 560,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱｸﾛﾎﾟﾘｽ",
+      "name": "ﾌｧｲﾝｶｯﾄ",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｴｸｾﾚﾝﾄ",
+      "name": "ﾏﾝｺﾞｰ(ｼｬｸﾞ)",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 990,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｴｸｾﾚﾝﾄ",
+      "name": "ｷｰﾙﾛﾜｲﾔﾙ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1040,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｴｸｾﾚﾝﾄ",
+      "name": "ﾚﾓﾝﾐﾝﾄ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 990,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｴｸｾﾚﾝﾄ",
+      "name": "ｽｲｰﾄﾌﾟﾗﾑ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 990,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｴｸｾﾚﾝﾄ",
+      "name": "ﾒﾝｿｰﾙ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 990,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｴｸｾﾚﾝﾄ",
+      "name": "ﾊﾞﾆﾗ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 990,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｷｬﾒﾛﾝ",
+      "name": "ﾊﾞﾚｰ",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾀﾞﾆｯｼｭ",
+      "name": "ﾌﾞﾗｯｸﾊﾞﾆﾗ(40)",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1040,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｲﾑｺ",
+      "name": "ﾌｧｲﾝｶｯﾄ･ﾊﾞﾆﾗ",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 810,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｲﾑｺ",
+      "name": "ﾊﾟｲﾌﾟ･ﾊﾞﾆﾗ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1040,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｵﾘｴﾝﾄｼｰｼｬ",
+      "name": "ｸﾞﾚｰﾌﾟ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1400,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｵﾘｴﾝﾄｼｰｼｬ",
+      "name": "ﾏﾝｺﾞｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1400,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｵﾘｴﾝﾄｼｰｼｬ",
+      "name": "ﾐﾝﾄ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1400,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｵﾘｴﾝﾄｼｰｼｬ",
+      "name": "ｺｺﾅｯﾂ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1400,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｵﾘｴﾝﾄｼｰｼｬ",
+      "name": "ｺｰﾗ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1400,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｴﾘｰｾﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｵﾚﾝｼﾞﾄﾞﾘｰﾑ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｷｭｰﾋﾞｯｸ",
+      "name": "ｸﾘｰﾐｰﾅｯﾂ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｷｭｰﾋﾞｯｸ",
+      "name": "ｽｲｰﾄﾁｪﾘｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｾﾘｰﾆ",
+      "name": "ｸﾗｼｺ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｾﾘｰﾆ",
+      "name": "ﾌｫﾙﾃ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾂｹﾞ",
+      "name": "ｼﾞｬｰﾏﾝ･ﾊﾞｰｼﾞﾆｱ",
+      "variant": "",
+      "grams": "35.0g",
+      "priceYen": 1240,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｰﾀｰ",
+      "name": "ｱﾌﾘｶ",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 810,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾀﾞﾆｯｼｭ",
+      "name": "ﾌﾞﾗｯｸﾊﾞﾆﾗ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾀﾞﾆｯｼｭ",
+      "name": "ﾌﾞﾗｯｸﾊﾞﾆﾗ･ﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾀﾞﾆｯｼｭ",
+      "name": "ﾌﾞﾗｯｸﾊﾞﾆﾗ(125)",
+      "variant": "",
+      "grams": "125.0g",
+      "priceYen": 3630,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾀﾞﾆｯｼｭ",
+      "name": "ﾌﾞﾗｯｸﾊﾞﾆﾗ200ｸﾞﾗｽ",
+      "variant": "",
+      "grams": "200.0g",
+      "priceYen": 6200,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "PL88",
+      "name": "ｼﾞｬｽﾄﾀﾊﾞｺ",
+      "variant": "",
+      "grams": "200.0g",
+      "priceYen": 4850,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "PL88",
+      "name": "ｳﾞｧｰｼﾞﾆｱﾌﾞﾚﾝﾄﾞ",
+      "variant": "",
+      "grams": "200.0g",
+      "priceYen": 4700,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "PL88",
+      "name": "ﾒﾝｿｰﾙ",
+      "variant": "",
+      "grams": "200.0g",
+      "priceYen": 4700,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "PL88",
+      "name": "ﾚｯﾄﾞ(450)",
+      "variant": "",
+      "grams": "450.0g",
+      "priceYen": 11000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾎﾙｶﾞｰﾀﾞﾝｽｹ",
+      "name": "ﾌﾞﾗｯｸ\u0026ﾊﾞｰﾎﾞﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1400,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾎﾙｶﾞｰﾀﾞﾝｽｹ",
+      "name": "ﾈｲﾋﾞｰﾌﾚｲｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2050,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾎﾙｶﾞｰﾀﾞﾝｽｹ",
+      "name": "ﾀﾞﾌﾞﾙ･ﾌｧｰﾒﾝﾃｯﾄﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1400,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾍﾞﾘｰﾆ",
+      "name": "ﾄｽｶｰﾅ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾍﾞﾘｰﾆ",
+      "name": "ﾄﾘﾉ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾍﾞﾘｰﾆ",
+      "name": "ﾍﾞﾈﾁｱ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "P\u0026S 34",
+      "name": "ﾐｯｸｽﾁｬｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾘｯｸﾞ",
+      "name": "ｺｺﾊﾟｲﾅｯﾌﾟﾙ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1250,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾘｯｸﾞ",
+      "name": "ﾊﾆｰﾃﾞｭｰﾒﾛﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1250,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾟﾗﾝﾀ",
+      "name": "ｺﾞｰﾙﾃﾞﾝﾊﾞﾆﾗ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1100,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾟﾚｽﾋﾞﾃﾘｱﾝ",
+      "name": "ﾐｯｸｽﾁｬｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1850,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｸﾘﾝﾄｯｸ",
+      "name": "ｸﾚｰﾑ･ﾄﾞｩ･ｶｼｽ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｸﾘﾝﾄｯｸ",
+      "name": "ｲﾙ･ｶﾐｰﾉ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｸﾘﾝﾄｯｸ",
+      "name": "ﾌﾞﾗｯｸﾏｼﾞｯｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｯｸﾘﾝﾄｯｸ",
+      "name": "ｻﾞ･ｸﾞﾗﾝﾄﾞ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｫﾝ･ｸﾗｰﾚﾝ",
+      "name": "ﾊﾞｰｼﾞﾆｱ･ｳｨｽﾞ･ｷｬﾍﾞﾝﾃﾞｨｯｼｭ",
+      "variant": "",
+      "grams": "140.0g",
+      "priceYen": 4280,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｫﾝ･ｸﾗｰﾚﾝ",
+      "name": "ﾊﾞｰｼﾞﾆｱ･ｵﾘｼﾞﾅﾙ･ﾌﾞﾚﾝﾄﾞ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｫﾝ･ｸﾗｰﾚﾝ",
+      "name": "ﾌﾞﾙｰﾍﾞﾘｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｱﾉ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4100,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾞｰﾙﾃﾞﾝﾌﾞﾚﾝﾄﾞ",
+      "name": "ｱﾏﾚｯﾄ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｶﾌﾟﾁｰﾉ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1150,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾞｰﾙﾃﾞﾝﾌﾞﾚﾝﾄﾞ",
+      "name": "ﾊﾞﾆﾗ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾞｰﾙﾃﾞﾝﾌﾞﾚﾝﾄﾞ",
+      "name": "ﾌﾞﾗｯｸﾁｪﾘｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾚｯﾄﾞﾌﾞﾙ",
+      "name": "ﾊｰﾌﾂﾜﾚ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1080,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾚｯﾄﾞﾌﾞﾙ",
+      "name": "ﾌﾞﾛﾝﾄﾞ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1080,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾚｯﾄﾞﾌﾞﾙ",
+      "name": "ﾌﾞﾗｯｸｶﾗﾝﾄ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1080,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾚｯﾄﾞﾌﾞﾙ",
+      "name": "ﾂｱﾚ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1080,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾚｯﾄﾞﾌﾞﾙ",
+      "name": "ﾊﾞｰｼﾞﾆｱ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1080,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "かぎたばこ",
+      "manufacturer": "ﾎﾟｯｼｪﾙ",
+      "name": "ｺｰﾋｰｽﾅｯﾌ",
+      "variant": "",
+      "grams": "4.0g",
+      "priceYen": 260,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "かぎたばこ",
+      "manufacturer": "",
+      "name": "ｱﾌﾟﾘｺｯﾄ･ｽﾅｯﾌ",
+      "variant": "",
+      "grams": "10.0g",
+      "priceYen": 390,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "かぎたばこ",
+      "manufacturer": "",
+      "name": "ｸﾞﾚｯｼｬｰ･ｽﾅｯﾌ",
+      "variant": "",
+      "grams": "10.0g",
+      "priceYen": 390,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾊﾞﾙｶﾝ･ﾌﾞﾙｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 3050,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾚｯﾄﾞ\u0026ﾌﾞﾗｯｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 3050,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾄﾗﾍﾞﾗｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 3050,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾒｲﾌﾟﾙｼｭｰﾌﾟﾘｰﾑ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2850,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ｶﾙﾒ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2850,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾊﾟﾅｯｼｪ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2850,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾍﾞﾝﾁｬｰﾌｫｰｽ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 3050,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾌﾛｯｸﾞﾓｰﾄﾝ･ｾﾗｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾄﾞﾐﾆｶﾝｸﾞﾛｰﾘ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4200,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾄﾞﾐﾆｶﾝｸﾞﾛｰﾘｰﾏﾃﾞｭﾛ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4200,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾌﾛｯｸﾞﾓｰﾄﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾃﾞｨｰﾌﾟﾎﾛｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾌﾛｯｸﾞﾓｰﾄﾝ･ｵﾝｻﾞﾀｳﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ｷｬﾌﾟﾃﾝｸｰﾙ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾌﾞﾗｯｸｼｬｸﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "BTﾗﾀｷｱ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2650,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "BTﾍﾟﾘｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2650,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "BTｵﾘｴﾝﾀﾙ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2650,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｼﾘｱﾝﾌﾙﾊﾞﾙｶﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾛｰｽﾞｵﾌﾞﾗﾀｷｱ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾛｯｸﾞﾓｰﾄﾝ",
+      "name": "ｱｸﾛｽｻﾞﾎﾟﾝﾄﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾍﾞｽﾄｵﾌﾞｼｮｳ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾀｳﾝﾄﾋﾟｯｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾊﾟﾙｵｰﾏｲﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾃｲｽﾄﾏｽﾀｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ｲｰｼﾞｰｽﾄﾘｰﾄ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾒﾛｰﾏｯｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾛｯｸﾞﾓｰﾄﾝ",
+      "name": "ｵﾝｻﾞﾊﾞｲﾕｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ｵｰﾙﾄﾞﾁｬｰﾁ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ｵｰﾙﾄﾞﾄﾞｯｸﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "C.ｿﾌﾞﾘﾝ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ｷｬﾗﾒﾙﾗｯｼｭ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾊﾞﾆﾗｱｲｽ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾁｮｺﾚｰﾄｼﾙｸ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ｽﾄｰﾌﾞｴｲｼﾞﾄﾞ35",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ｺﾝﾃｽﾄﾌﾞﾚﾝﾄﾞ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ TLC",
+      "name": "ｽﾘｰﾁｪﾘｰ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2950,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ﾎﾘﾃﾞｰｽﾋﾟﾘｯﾄ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2550,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｸﾚｰﾗﾝﾄﾞ",
+      "name": "ｸﾘｽﾏｽﾁｱｰ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ｱﾒﾘｶ合衆国"
+    }
+  ]
+}

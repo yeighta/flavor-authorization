@@ -1,0 +1,134 @@
+{
+  "date": "2022-05-16",
+  "kind": "shinki",
+  "filename": "20220516_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220516_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Strawberry Banana Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Lemon Mint Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Eskimo Orange Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Eskimo Grapefruit Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Mojito Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Chocolate Mint Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Sweet Apple Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Peach Marmalade Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "Elite Edition Cherry",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "Elite Edition Dulce De Leche",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "Elite Edition Hawaii Beach",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Waha",
+      "name": "Elite Edition Red Apple",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾖﾙﾀﾞﾝ"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "ｱﾑｽﾃﾙﾀﾞﾏｰ",
+      "name": "ｵﾘｼﾞﾅﾙ ﾊﾞｰｼﾞﾆｱ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 550,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "ｱﾑｽﾃﾙﾀﾞﾏｰ",
+      "name": "ﾌﾞﾗｲﾄ ﾊﾞｰｼﾞﾆｱ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 550,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    }
+  ]
+}

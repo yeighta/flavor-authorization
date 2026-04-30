@@ -1,0 +1,44 @@
+{
+  "date": "2026-02-20",
+  "kind": "shinki",
+  "filename": "20260220_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260220_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BdR",
+      "name": "1787 ﾚｲﾝﾌｫﾚｽﾄ ﾗﾝｾﾛ",
+      "variant": "197mm 1本",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BdR",
+      "name": "ﾋﾞｾﾝﾃﾅﾘｵ ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｴﾙ ﾌﾞﾙﾋｰﾄ",
+      "name": "ｸﾞﾗﾝﾄﾛ LE2025",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 3350,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "JG",
+      "name": "ﾗﾝｾﾛ",
+      "variant": "194mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

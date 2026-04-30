@@ -1,0 +1,431 @@
+{
+  "date": "2019-06-12",
+  "kind": "shinki",
+  "filename": "20190612_kouriteika_2.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20190612_kouriteika_2.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Apple509",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "BOHEMIAN MIX",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "MOROZEST",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "BLUE STRAWBERRY",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Cucumber Mojito",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Lemon Mint",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Mediterranean Mint",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "SPICED JAVA",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "TWICE THE ICE",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "TWICE THE ICEX",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "VANILLA",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Peach Mint",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Pearfect",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Lavender Mint",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Death by ice",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "TWICE THE ICE",
+      "variant": "缶",
+      "grams": "1,000.0g",
+      "priceYen": 33000,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "TWICE THE ICEX",
+      "variant": "缶",
+      "grams": "1,000.0g",
+      "priceYen": 33000,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Lemon Mint",
+      "variant": "缶",
+      "grams": "1,000.0g",
+      "priceYen": 33000,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Peach Mint",
+      "variant": "缶",
+      "grams": "1,000.0g",
+      "priceYen": 33000,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Lavender Mint",
+      "variant": "缶",
+      "grams": "1,000.0g",
+      "priceYen": 33000,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Pearfect",
+      "variant": "缶",
+      "grams": "1,000.0g",
+      "priceYen": 33000,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Mountain Fog",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Blue Strawberry",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "TNT",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "P3",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Pineapple Guava",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "TKO",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Pineapple",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Lychee",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Earl Grey",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Indianan Kheer",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Bohemian Mix",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Pineapple Iced Tea",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SOCIAL SMOKE",
+      "name": "Absolute Zero",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SOCIAL SMOKE",
+      "name": "DULCE DE LECHE",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SOCIAL SMOKE",
+      "name": "HONG KONG MILK TEA",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SOCIAL SMOKE",
+      "name": "PEAR CHILL",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SOCIAL SMOKE",
+      "name": "BANANA FOSTER",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SOCIAL SMOKE",
+      "name": "BERRY PUNCH",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SOCIAL SMOKE",
+      "name": "CHOCOLATE CHILL",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SOCIAL SMOKE",
+      "name": "GINGER TEA",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SOCIAL SMOKE",
+      "name": "LEMON CHILL",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SOCIAL SMOKE",
+      "name": "TANGERINE RUSH",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SOCIAL SMOKE",
+      "name": "TWISTED",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SOCIAL SMOKE",
+      "name": "WATERMELON CHILL",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SOCIAL SMOKE",
+      "name": "WHITE GUMMY BEAR",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SOCIAL SMOKE",
+      "name": "WILD BERRY CHILL",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    }
+  ]
+}

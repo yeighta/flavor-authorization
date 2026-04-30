@@ -1,0 +1,80 @@
+{
+  "date": "2026-01-13",
+  "kind": "shinki",
+  "filename": "20260113_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260113_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ノルディックスピリット",
+      "name": "コーラフィズ・ミディアム",
+      "variant": "",
+      "grams": "5.6g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ノルディックスピリット",
+      "name": "ベリーミックス・ミディアム",
+      "variant": "",
+      "grams": "5.6g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ノルディックスピリット",
+      "name": "クールミント・ストロング",
+      "variant": "",
+      "grams": "5.6g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ノルディックスピリット",
+      "name": "トロピカルミックス・ミディアム",
+      "variant": "",
+      "grams": "5.6g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ノルディックスピリット",
+      "name": "クールミント・エックッスストロング",
+      "variant": "",
+      "grams": "5.6g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ノルディックスピリット",
+      "name": "スイートミント・ミディアム",
+      "variant": "",
+      "grams": "5.6g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ノルディックスピリット",
+      "name": "スイートミント・ストロング",
+      "variant": "",
+      "grams": "5.6g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ノルディックスピリット",
+      "name": "リッチメロン・ミディアム",
+      "variant": "",
+      "grams": "5.6g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    }
+  ]
+}

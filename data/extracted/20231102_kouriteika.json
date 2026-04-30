@@ -1,0 +1,71 @@
+{
+  "date": "2023-11-02",
+  "kind": "shinki",
+  "filename": "20231102_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20231102_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "",
+      "name": "Roque",
+      "variant": "170mm 1本",
+      "grams": "",
+      "priceYen": 15000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱｳﾞｫ",
+      "name": "ｼｰｽﾞﾝｽﾞ ﾘﾐﾃｯﾄﾞ ｴﾃﾞｨｼｮﾝ 2023 ﾌｫｰﾙ",
+      "variant": "168mm 1本",
+      "grams": "",
+      "priceYen": 6600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱｳﾞｫ",
+      "name": "ｼｰｽﾞﾝｽﾞ ﾘﾐﾃｯﾄﾞ ｴﾃﾞｨｼｮﾝ 2023 ｳｨﾝﾀｰ",
+      "variant": "168mm 1本",
+      "grams": "",
+      "priceYen": 6600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｲﾔｰ ｵﾌﾞ ｻﾞ ﾄﾞﾗｺﾞﾝ 2024",
+      "variant": "220mm 1本",
+      "grams": "",
+      "priceYen": 16000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｲﾔｰ ｵﾌﾞ ｻﾞ ﾄﾞﾗｺﾞﾝ ﾌﾗｯｸﾞｼｯﾌﾟ 2024",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 20000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱﾑｽﾃﾙﾀﾞﾏｰ",
+      "name": "XXX ｵﾈｽﾄ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 700,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱﾑｽﾃﾙﾀﾞﾏｰ",
+      "name": "XXX ﾌﾟﾚｰﾝ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 700,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    }
+  ]
+}

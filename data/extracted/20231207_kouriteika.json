@@ -1,0 +1,35 @@
+{
+  "date": "2023-12-07",
+  "kind": "shinki",
+  "filename": "20231207_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20231207_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾙﾂ",
+      "name": "FC ｸﾞﾘｰﾝﾃｨｰ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾙﾂ",
+      "name": "FC ｽﾑｰｽﾞﾃｲｽﾄ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾙﾂ",
+      "name": "FC 100%ﾅﾁｭﾗﾙ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    }
+  ]
+}

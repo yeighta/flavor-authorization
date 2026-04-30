@@ -1,0 +1,89 @@
+{
+  "date": "2019-10-18",
+  "kind": "shinki",
+  "filename": "20191018_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20191018_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾍﾞﾛ",
+      "name": "ﾎﾟｰﾗｰ･ﾐﾝﾄ･ﾗｲﾄ",
+      "variant": "缶",
+      "grams": "14.0g",
+      "priceYen": 580,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾍﾞﾛ",
+      "name": "ﾎﾟｰﾗｰ･ﾐﾝﾄ･ﾐﾃﾞｨｱﾑ",
+      "variant": "缶",
+      "grams": "14.0g",
+      "priceYen": 580,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾍﾞﾛ",
+      "name": "ﾙﾋﾞｰ･ﾍﾞﾘｰ･ﾗｲﾄ",
+      "variant": "缶",
+      "grams": "14.0g",
+      "priceYen": 580,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾍﾞﾛ",
+      "name": "ﾙﾋﾞｰ･ﾍﾞﾘｰ･ﾐﾃﾞｨｱﾑ",
+      "variant": "缶",
+      "grams": "14.0g",
+      "priceYen": 580,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱﾙｶﾎﾟﾈ",
+      "name": "ﾌｨﾙﾀｰｼｶﾞﾘﾛ",
+      "variant": "82mm 10本",
+      "grams": "",
+      "priceYen": 770,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ｼｮｰﾄ ﾋｭﾐﾄﾞｰﾙ50 2018ED",
+      "variant": "82mm 50本",
+      "grams": "",
+      "priceYen": 14000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｽｳｨｯｼｬｰｽｲｰﾄ",
+      "name": "ﾌｫｲﾙﾊﾟｳﾁ ﾀﾞｲﾔﾓﾝﾄﾞ",
+      "variant": "109mm 2本",
+      "grams": "",
+      "priceYen": 270,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｽｳｨｯｼｬｰｽｲｰﾄ",
+      "name": "ﾌｫｲﾙﾊﾟｳﾁ ﾄﾛﾋﾟｶﾙﾌｭｰｼﾞｮﾝ",
+      "variant": "109mm 2本",
+      "grams": "",
+      "priceYen": 270,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱﾝﾊﾞｰﾘｰﾌ",
+      "name": "3in1･ﾊﾟｯｸ",
+      "variant": "箱",
+      "grams": "25.0g",
+      "priceYen": 680,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    }
+  ]
+}

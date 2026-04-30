@@ -1,0 +1,125 @@
+{
+  "date": "2021-03-12",
+  "kind": "shinki",
+  "filename": "20210312_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210312_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾍﾞﾛ",
+      "name": "ﾎﾟｰﾗｰ･ﾐﾝﾄ･ﾗｲﾄ･ﾅﾉ",
+      "variant": "缶",
+      "grams": "7.5g",
+      "priceYen": 300,
+      "country": "ﾊﾝｶﾞﾘｰ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾍﾞﾛ",
+      "name": "ﾎﾟｰﾗｰ･ﾐﾝﾄ･ﾐﾃﾞｨｱﾑ･ﾅﾉ",
+      "variant": "缶",
+      "grams": "7.5g",
+      "priceYen": 300,
+      "country": "ﾊﾝｶﾞﾘｰ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾍﾞﾛ",
+      "name": "ﾙﾋﾞｰ･ﾍﾞﾘｰ･ﾗｲﾄ･ﾅﾉ",
+      "variant": "缶",
+      "grams": "7.5g",
+      "priceYen": 300,
+      "country": "ﾊﾝｶﾞﾘｰ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾍﾞﾛ",
+      "name": "ﾙﾋﾞｰ･ﾍﾞﾘｰ･ﾐﾃﾞｨｱﾑ･ﾅﾉ",
+      "variant": "缶",
+      "grams": "7.5g",
+      "priceYen": 300,
+      "country": "ﾊﾝｶﾞﾘｰ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｯｷｰ･ｽﾄﾗｲｸ",
+      "name": "ﾌﾞﾗｯｸ･ｼﾘｰｽﾞ･ﾁﾙﾍﾞﾘｰ･8",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 400,
+      "country": "大韓民国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｯｷｰ･ｽﾄﾗｲｸ",
+      "name": "ﾌﾞﾗｯｸ･ｼﾘｰｽﾞ･ﾁﾙﾍﾞﾘｰ･5",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 400,
+      "country": "大韓民国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｯｷｰ･ｽﾄﾗｲｸ",
+      "name": "ﾌﾞﾗｯｸ･ｼﾘｰｽﾞ･ｽｰﾊﾟｰｿﾆｯｸ･5",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 400,
+      "country": "大韓民国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｳｨﾝｽﾄﾝ ﾁｬｰﾁﾙ LE 2021 ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 7500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｼﾞﾉ",
+      "name": "ﾆｶﾗｸﾞｱ ｼｮｰﾄﾄﾙﾍﾟﾄﾞ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｼﾞﾉ",
+      "name": "ﾆｶﾗｸﾞｱ ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｼﾞﾉ",
+      "name": "ﾆｶﾗｸﾞｱ ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2540,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Punch",
+      "name": "ManTua ER2018IT",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 4500,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "",
+      "name": "Tulsi 00",
+      "variant": "缶",
+      "grams": "10.0g",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞ"
+    }
+  ]
+}

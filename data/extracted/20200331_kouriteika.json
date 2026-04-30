@@ -1,0 +1,98 @@
+{
+  "date": "2020-03-31",
+  "kind": "shinki",
+  "filename": "20200331_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20200331_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｳｴｽﾄ",
+      "name": "ｱｲｽﾌﾚｯｼｭ･ﾌｧｲﾌﾞ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 400,
+      "country": "台湾"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ﾗｲﾄ･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｮｲｽ",
+      "name": "ﾌﾞｰｽﾀｰ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 760,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｮｲｽ",
+      "name": "ｵﾚﾝｼﾞﾁｮｺﾚｰﾄ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 760,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Berry Blast",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Crème Caramel",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure",
+      "name": "hookah tobacco, Gold Line Apple Cider",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure",
+      "name": "hookah tobacco, Gold Line Fun at the beach",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure",
+      "name": "hookah tobacco, Gold Line White Gummi Bear",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V 648 Melanio Diadema LE 2019",
+      "variant": "171mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

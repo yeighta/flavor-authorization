@@ -1,0 +1,179 @@
+{
+  "date": "2023-05-30",
+  "kind": "shinki",
+  "filename": "20230530_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230530_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ｼｸﾞﾛ ﾃﾞ ｵﾛ ｲﾔｰ ｵﾌﾞ ｻﾞ ﾗﾋﾞｯﾄ",
+      "variant": "115mm 1本",
+      "grams": "",
+      "priceYen": 40000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾃﾞｨﾌﾟﾛﾏﾃｨｺｽ",
+      "name": "PCC 30th ｱﾆﾍﾞﾙｻﾘｵ RE 2022",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 11000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H.ｱｯﾌﾟﾏﾝ",
+      "name": "ｺﾚｸｼｵﾝ ｽｰﾊﾟｰﾏｸﾞﾅﾑ LCDH",
+      "variant": "180mm 1本",
+      "grams": "",
+      "priceYen": 40000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾓﾝﾃｸﾘｽﾄ",
+      "name": "ﾜｲﾄﾞ ｴﾄﾞｩﾑﾝﾄﾞ",
+      "variant": "125mm 1本",
+      "grams": "",
+      "priceYen": 7400,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾙﾀｶﾞｽ",
+      "name": "ｱﾘｱﾄﾞｽ LCDH",
+      "variant": "167mm 1本",
+      "grams": "",
+      "priceYen": 12000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾙﾀｶﾞｽ",
+      "name": "ｾﾘｰE No.2 ｸﾞﾗﾝ･ﾚｾﾞﾙﾊﾞ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 37000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾗﾓﾝ･ｱﾛﾝﾈｽ",
+      "name": "ｱﾛﾝﾈｽ No.3",
+      "variant": "138mm 1本",
+      "grams": "",
+      "priceYen": 6900,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾚｲ･ﾃﾞﾙ･ﾑﾝﾄﾞ",
+      "name": "ｲﾝﾍﾟﾘｵ 170th ｱﾆﾍﾞﾙｻﾘｵ",
+      "variant": "180mm 1本",
+      "grams": "",
+      "priceYen": 50000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｻﾝﾁｮ･ﾊﾟﾝｻﾞ",
+      "name": "ｴﾙ ﾚｲ RE 2021",
+      "variant": "192mm 1本",
+      "grams": "",
+      "priceYen": 6500,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾙﾂ",
+      "name": "FC ｳﾞｧﾆﾗ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺﾙﾂ",
+      "name": "FC ｸﾘｱｰﾒﾝｿｰﾙ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "RAW",
+      "name": "ｸﾗｼｯｸｼｬｸﾞ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 1090,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "RAW",
+      "name": "ﾌﾟﾚﾐｱﾑｼｬｸﾞ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 1090,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "RAW",
+      "name": "ｵﾘｼﾞﾅﾙｸﾞﾘｰﾝｼｬｸﾞ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 1090,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "RAW",
+      "name": "ｵﾘｼﾞﾅﾙｺﾞｰﾙﾄﾞｼｬｸﾞ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 1090,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "RAW",
+      "name": "ｸﾗｼｯｸｼｬｸﾞ100g",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3550,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "RAW",
+      "name": "ﾌﾟﾚﾐｱﾑｼｬｸﾞ100g",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3550,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "RAW",
+      "name": "ｵﾘｼﾞﾅﾙｸﾞﾘｰﾝｼｬｸﾞ100g",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3550,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AL FAKHER",
+      "name": "GUM WITH MINT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    }
+  ]
+}

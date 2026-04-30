@@ -1,0 +1,71 @@
+{
+  "date": "2025-03-03",
+  "kind": "shinki",
+  "filename": "20250303_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250303_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "クラシック・タバコ・hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "チルド・メンソール・hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "アイスド・メンソール・hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "アークティック・メンソール・hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "ブリリアント・ベリー・hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "ブリリアント・レッド・フルーツ・hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "ブリリアント・トロピカル・hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    }
+  ]
+}

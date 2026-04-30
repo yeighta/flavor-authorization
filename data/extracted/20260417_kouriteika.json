@@ -1,0 +1,278 @@
+{
+  "date": "2026-04-17",
+  "kind": "shinki",
+  "filename": "20260417_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260417_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "アークローヤル",
+      "name": "アイスマックスメンソール・シャグ",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 840,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Lavender",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Base",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Basil",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Caramel",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Honey",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Wild Strawberry",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Cherry",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Lychee",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Mango",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Passion Fruit",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Salami",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Brownie",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Clove",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Coffee",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Dark Chocolate",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Olive",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Rum",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Clover Club",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Gimlet",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Singapore Sling",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Happy New Year",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Vanilla",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Irga",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Kiwi",
+      "variant": "瓶",
+      "grams": "120.0g",
+      "priceYen": 8800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ブラックジャック",
+      "name": "スパサワ・ブルーベリー5",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "エクスクルーシブ オオサカ 2026",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 9900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "プーロ ドミニカーノ ショートロブスト",
+      "variant": "115mm 1本",
+      "grams": "",
+      "priceYen": 7000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "プーロ ドミニカーノ コロナ ラルガ",
+      "variant": "149mm 1本",
+      "grams": "",
+      "priceYen": 7900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "プーロ ドミニカーノ パーフェクト",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 8500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "date": "2023-08-07",
+  "kind": "henkou",
+  "filename": "20230807_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230807_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸﾗﾌﾞﾏｽﾀｰ",
+      "name": "ﾐﾆ･ｽｰﾍﾟﾘｱ･ﾊﾞﾆﾗ",
+      "variant": "67mm 20本 缶",
+      "grams": "",
+      "priceYen": 920,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸﾗﾌﾞﾏｽﾀｰ",
+      "name": "ﾐﾆ･ｽｰﾍﾟﾘｱ･ﾌﾞﾗｼﾞﾙ",
+      "variant": "67mm 20本 缶",
+      "grams": "",
+      "priceYen": 920,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸﾗﾌﾞﾏｽﾀｰ",
+      "name": "ﾐﾆ･ｽｰﾍﾟﾘｱ･ｽﾏﾄﾗ",
+      "variant": "67mm 20本 缶",
+      "grams": "",
+      "priceYen": 920,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸﾗﾌﾞﾏｽﾀｰ",
+      "name": "ﾐﾆ･ｽｰﾍﾟﾘｱ･ﾁｮｺﾚｰﾄ",
+      "variant": "67mm 20本 缶",
+      "grams": "",
+      "priceYen": 920,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸﾗﾌﾞﾏｽﾀｰ",
+      "name": "ﾐﾆ･ｽｰﾍﾟﾘｱ･ﾌﾞﾙｰ",
+      "variant": "67mm 20本 缶",
+      "grams": "",
+      "priceYen": 920,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸﾗﾌﾞﾏｽﾀｰ",
+      "name": "ﾐﾆ･ﾊﾞﾆﾗ･ﾌｨﾙﾀｰ",
+      "variant": "70mm 20本 箱",
+      "grams": "",
+      "priceYen": 980,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸﾗﾌﾞﾏｽﾀｰ",
+      "name": "ﾐﾆ･ﾎﾜｲﾄ･ﾌｨﾙﾀｰ",
+      "variant": "70mm 20本 箱",
+      "grams": "",
+      "priceYen": 980,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾞｽｺ･ﾀﾞ･ｶﾞﾏ",
+      "name": "ﾌﾞﾗｼﾞﾙ (1本)",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 390,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾞｽｺ･ﾀﾞ･ｶﾞﾏ",
+      "name": "ｽﾏﾄﾗ (1本)",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 390,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾞｽｺ･ﾀﾞ･ｶﾞﾏ",
+      "name": "ｵﾛ (1本)",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 420,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾄﾞﾝ･ﾃﾞｨｴｺﾞ",
+      "name": "ﾌﾟﾚﾘｭｰﾄﾞ(6)",
+      "variant": "102mm 6本",
+      "grams": "",
+      "priceYen": 1390,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    }
+  ]
+}

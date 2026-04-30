@@ -1,0 +1,683 @@
+{
+  "date": "2019-09-18",
+  "kind": "shinki",
+  "filename": "20190918_kouriteika_2.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20190918_kouriteika_2.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "Natural",
+      "name": "Dreams",
+      "variant": "K 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "Pink",
+      "name": "Dreams",
+      "variant": "K 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "Midnight Dreams",
+      "name": "Russian Blend",
+      "variant": "K 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "California Dreams",
+      "name": "Assorted Colors",
+      "variant": "K 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "Dreams",
+      "name": "Menthol",
+      "variant": "K 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Black Line Bermuda Mint",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Cosmos",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Spiced Berry",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Twisted Tea Bag",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Barista's Choice",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Berrymania",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Blueberry Muffin",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line California Blue",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Candy",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Carolina Peach",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Chai Masala",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Cherry Muffin",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Chocolate Cake",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Chocolate Mint",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Cinnamon Cookies",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Cocomania",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Cosmos",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Dubai Apple",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Grow A Pear",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Lemon Muffin",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Lemongrass",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Limoncello",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Lychee",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Mango Cheesecake",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Pina Colada",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Royal Mango",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Royal Queen",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Spiced Berry",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Tropical Paradise",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Twisted Tea Bag",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Viva La Horchata",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Winter Rose",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Black Line Bermuda Mint",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "Golden Delicious Apple",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "Lemon Drop",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Cactus Blast",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Cola",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Rio Mint",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Royal Raspberry",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Strawberry Guava",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Gold Edition Miranda",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8000,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Gold Edition Bon Apetit",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8000,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Gold Edition Miranda",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Gold Edition Bon Apetit",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Gold Edition DA VINCI",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Gold Edition Utopia",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Gold Edition Trophy",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Gold Edition God Father",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Gold Edition Fiesta",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Gold Edition Caanappe",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Gold Edition 24karat",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Blue Edition Green Lemon",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Blue Edition Grape",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Blue Edition Code96",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Blue Edition Green Lemon",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Blue Edition Ambrosia",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Blue Edition Fakfakhina",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Blue Edition Blueberry",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Zumerret hookah tobacco",
+      "name": "Blue Edition Misty Blend",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ﾊﾟｲﾌﾟﾀﾊﾞｺ ﾘﾐﾃｯﾄﾞｴﾃﾞｨｼｮﾝ 2019",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 12100,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱｳﾞｫ",
+      "name": "ｲﾝﾌﾟﾛﾋﾞｾﾞｰｼｮﾝ 2019",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 4500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸｻﾞｰﾉ",
+      "name": "ﾄﾞﾐﾆｶﾝ ﾏﾃﾞｭｰﾛ ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸｻﾞｰﾉ",
+      "name": "ﾄﾞﾐﾆｶﾝ ﾏﾃﾞｭｰﾛ ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1100,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸｻﾞｰﾉ",
+      "name": "ﾄﾞﾐﾆｶﾝ ﾏﾃﾞｭｰﾛ ﾁｬｰﾁﾙ",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 1200,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "天華物宝",
+      "name": "(人参爆珠)",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 1190,
+      "country": "中華人民共和国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "天華物宝",
+      "name": "(沈香爆珠)",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 1610,
+      "country": "中華人民共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｽﾀﾝﾚｰ",
+      "name": "ｱｰﾙｸﾞﾚｲﾃｨｰ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 740,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｽﾀﾝﾚｰ",
+      "name": "ﾍｰｾﾞﾙﾅｯﾂ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 740,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾍﾟﾍﾟ",
+      "name": "ﾀﾞｰｸｸﾞﾘｰﾝ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 710,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾞｽｺ･ﾀﾞ･ｶﾞﾏ",
+      "name": "ｽﾏﾄﾗ･ﾁｭｰﾎﾞ",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ﾄﾞｲﾂ"
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+{
+  "date": "2025-10-08",
+  "kind": "shinki",
+  "filename": "20251008_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20251008_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "アロエストロベリー",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ピーナッツバター",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ワッフル",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ブルーベリー",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "グレープフルーツ",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "リプトン",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "パッションフルーツ",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "バクラヴァ",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "グルート",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "スキットルズ",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ライチ",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "マンゴー",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ラストサムライ",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "パパイヤ",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "バタースコッチ",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "トフィー",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "キウイ",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "パッションフルーツアボカド",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "シダーベリーパイナップル",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "コーラ キャラメル",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ラベンダー トニック",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 2300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ウイスキー",
+      "variant": "箱",
+      "grams": "20.0g",
+      "priceYen": 1300,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ラストサムライ",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "パッションフルーツ",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "グレープフルーツ",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ブランデー",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "バクラヴァ",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ワッフル",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "キウイ",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ココナツ",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ウイスキー",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "プルーンシダー",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4600,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ハニートロピカルフルーツ",
+      "variant": "箱",
+      "grams": "30.0g",
+      "priceYen": 2600,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ハニートロピカルフルーツ",
+      "variant": "箱",
+      "grams": "120.0g",
+      "priceYen": 7500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ローズマリー タイム",
+      "variant": "箱",
+      "grams": "30.0g",
+      "priceYen": 2600,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ローズマリー タイム",
+      "variant": "箱",
+      "grams": "120.0g",
+      "priceYen": 7500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ヤマサ ロブスト アンカット LT 2025",
+      "variant": "147mm 1本",
+      "grams": "",
+      "priceYen": 7000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ニカラグア ロブスト アンカット LT 2025",
+      "variant": "147mm 1本",
+      "grams": "",
+      "priceYen": 6100,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ニカラグア トロ アンカット LT 2025",
+      "variant": "160mm 1本",
+      "grams": "",
+      "priceYen": 7100,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "グランクリュ ロブスト アンカット LT 2025",
+      "variant": "153mm 1本",
+      "grams": "",
+      "priceYen": 6400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ウィンストンチャーチル レイトアワー ロブスト アンカット LT 2025",
+      "variant": "145mm 1本",
+      "grams": "",
+      "priceYen": 7600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ウィンストンチャーチル レイトアワー トロ アンカット LT 2025",
+      "variant": "172mm 1本",
+      "grams": "",
+      "priceYen": 8600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    }
+  ]
+}

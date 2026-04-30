@@ -1,0 +1,53 @@
+{
+  "date": "2018-10-01",
+  "kind": "shinki",
+  "filename": "20181001_kouriteika_1.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20181001_kouriteika_1.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｳｨﾝｽﾄﾝ",
+      "name": "ｺﾝﾊﾟｸﾄﾒﾝｿｰﾙ･ﾊﾟｰﾌﾟﾙ･5･ﾎﾞｯｸｽ",
+      "variant": "FK 19本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 410,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｳｨﾝｽﾄﾝ",
+      "name": "ｺﾝﾊﾟｸﾄﾒﾝｿｰﾙ･ﾊﾟｰﾌﾟﾙ･ﾜﾝ･ﾎﾞｯｸｽ",
+      "variant": "FK 19本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 410,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｳｨﾝｽﾄﾝ",
+      "name": "ｺﾝﾊﾟｸﾄ･ﾌﾞﾙｰ･6･ﾎﾞｯｸｽ",
+      "variant": "FK 19本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 410,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｳｨﾝｽﾄﾝ",
+      "name": "ｺﾝﾊﾟｸﾄ･ﾌﾞﾙｰ･3･ﾎﾞｯｸｽ",
+      "variant": "FK 19本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 410,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｳｨﾝｽﾄﾝ",
+      "name": "ｺﾝﾊﾟｸﾄ･ﾌﾞﾙｰ･ﾜﾝ･ﾎﾞｯｸｽ",
+      "variant": "FK 19本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 410,
+      "country": "日本"
+    }
+  ]
+}

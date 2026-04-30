@@ -1,0 +1,116 @@
+{
+  "date": "2023-09-15",
+  "kind": "shinki",
+  "filename": "20230915_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230915_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "チェ",
+      "name": "レッド リミテッド エディション",
+      "variant": "F85mm 20本 ハードパック",
+      "grams": "",
+      "priceYen": 530,
+      "country": "ﾙｸｾﾝﾌﾞﾙｸ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ブリックハウス",
+      "name": "トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ブリックハウス",
+      "name": "トロ・マデューロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ブリックハウス",
+      "name": "マイティマイティ・マデューロ",
+      "variant": "159mm 1本",
+      "grams": "",
+      "priceYen": 1560,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "レッドフィールド",
+      "name": "バニラキャラメル",
+      "variant": "パウチ",
+      "grams": "20.0g",
+      "priceYen": 530,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "レッドフィールド",
+      "name": "ハニー",
+      "variant": "パウチ",
+      "grams": "20.0g",
+      "priceYen": 530,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "",
+      "name": "Cañonazo",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 10000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ギルバート・ド・モンサルバート",
+      "name": "アニバサリ グランロブスト",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "コーネルディール",
+      "name": "サンデーピクニック",
+      "variant": "缶",
+      "grams": "57.0g",
+      "priceYen": 3150,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "コーネルディール",
+      "name": "パイレイトケーク2oz",
+      "variant": "缶",
+      "grams": "57.0g",
+      "priceYen": 3150,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ジーエル・ピース",
+      "name": "ウエストミンスター",
+      "variant": "缶",
+      "grams": "57.0g",
+      "priceYen": 3350,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ジーエル・ピース",
+      "name": "カイロ",
+      "variant": "缶",
+      "grams": "57.0g",
+      "priceYen": 3350,
+      "country": "ｱﾒﾘｶ合衆国"
+    }
+  ]
+}

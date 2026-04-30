@@ -1,0 +1,116 @@
+{
+  "date": "2026-03-30",
+  "kind": "shinki",
+  "filename": "20260330_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260330_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "エル プルポ",
+      "name": "ジ・イール ランセロ",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "エル プルポ",
+      "name": "ザ・スクウィッド サロモン",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ビバ・ラ・ヴィーダ",
+      "name": "コネチカット ロブスト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ビバ・ラ・ヴィーダ",
+      "name": "コネチカット トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Diplomáticos",
+      "name": "Leal ER2021 CU",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 16000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ETB",
+      "name": "レデンプション サングロウン トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2900,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Montecristo",
+      "name": "Carmen",
+      "variant": "180mm 1本",
+      "grams": "",
+      "priceYen": 50000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ニューワールド オスクーロ ペティコロナ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Union",
+      "name": "My Father para Tatuaje",
+      "variant": "184mm 1本",
+      "grams": "",
+      "priceYen": 15000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Union",
+      "name": "Tatuaje for My Father",
+      "variant": "184mm 1本",
+      "grams": "",
+      "priceYen": 15000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ジョーカー",
+      "name": "20",
+      "variant": "F120mm 20本",
+      "grams": "",
+      "priceYen": 630,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ジョーカー",
+      "name": "ジェイド",
+      "variant": "F120mm 20本",
+      "grams": "",
+      "priceYen": 630,
+      "country": "ｽｲｽ"
+    }
+  ]
+}

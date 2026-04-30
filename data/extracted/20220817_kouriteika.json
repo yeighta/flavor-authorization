@@ -1,0 +1,35 @@
+{
+  "date": "2022-08-17",
+  "kind": "shinki",
+  "filename": "20220817_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220817_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "キャメル",
+      "name": "クラフト・14・ボックス",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 430,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "キャメル",
+      "name": "クラフト・10・ボックス",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 430,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "キャメル",
+      "name": "クラフト・3・ボックス",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 430,
+      "country": "日本"
+    }
+  ]
+}

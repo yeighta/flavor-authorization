@@ -1,0 +1,44 @@
+{
+  "date": "2025-05-30",
+  "kind": "shinki",
+  "filename": "20250530_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250530_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DARKSIDE",
+      "name": "SUPERMINT",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "リッチ・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 500,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "ディープ・レギュラー・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 500,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "スムース・レギュラー・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 500,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    }
+  ]
+}

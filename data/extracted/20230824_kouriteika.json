@@ -1,0 +1,44 @@
+{
+  "date": "2023-08-24",
+  "kind": "shinki",
+  "filename": "20230824_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230824_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾆｭｰﾜｰﾙﾄﾞ ﾄﾞﾗﾄﾞ ﾛﾌﾞｽﾄ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾆｭｰﾜｰﾙﾄﾞ ﾄﾞﾗﾄﾞ ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾆｭｰﾜｰﾙﾄﾞ ﾄﾞﾗﾄﾞ ｺﾞﾙﾃﾞｨｰﾄ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 3200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AJF",
+      "name": "ﾆｭｰﾜｰﾙﾄﾞ ﾄﾞﾗﾄﾞ ﾌｨｷﾞｭﾗﾄﾞ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

@@ -1,0 +1,827 @@
+{
+  "date": "2018-08-27",
+  "kind": "shinki",
+  "filename": "20180827_kouriteika_2.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20180827_kouriteika_2.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾒｶﾞ･ﾄﾞﾗｲ･ﾒﾝｿｰﾙ･8･ｽﾍﾟｼｬﾙ･10s",
+      "variant": "FK 10本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 240,
+      "country": "ﾁｪｺ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾒｶﾞ･ﾄﾞﾗｲ･ﾒﾝｿｰﾙ･5･ｽﾍﾟｼｬﾙ･10s",
+      "variant": "FK 10本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 240,
+      "country": "ﾁｪｺ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾊﾞｰｼﾞﾆｱ･ｴｽ",
+      "name": "ﾃﾞｭｵ･ﾒﾝｿｰﾙ 10's",
+      "variant": "FSK 10本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 240,
+      "country": "ﾒｷｼｺ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ﾊｲﾌﾞﾘｯﾄﾞ･ｾﾚｸｼｮﾝ･6mg 100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 440,
+      "country": "大韓民国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ﾊｲﾌﾞﾘｯﾄﾞ･ｾﾚｸｼｮﾝ･1mg 100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 440,
+      "country": "大韓民国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ｱｲｽ･ﾐﾝﾄ･ｾﾚｸｼｮﾝ･1mg 100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 440,
+      "country": "大韓民国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ｽｰﾊﾟｰ･5mg･100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ｽｰﾊﾟｰ･5mg･KSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ｴｸｽﾄﾗ･ﾗｲﾄ100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ｴｸｽﾄﾗ･ﾗｲﾄKSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ､大韓民国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ﾜﾝ100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ､ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ﾜﾝKSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ､大韓民国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "KSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ｸﾗｼｯｸ･ﾏｲﾙﾄﾞKSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾘﾄｱﾆｱ､ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ﾏｲﾙﾄﾞ100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ﾏｲﾙﾄﾞKSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ｾﾙﾋﾞｱ､ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ｽｰﾊﾟｰ･ﾏｲﾙﾄﾞ100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ｽｰﾊﾟｰ･ﾏｲﾙﾄﾞKSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ｴｸｽﾄﾗ･3mg･100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ｴｸｽﾄﾗ･3mg･KSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ｳｸﾗｲﾅ､ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ｳﾙﾄﾗ･1mg･100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾘﾄｱﾆｱ､ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ｳﾙﾄﾗ･1mg･KSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ｾﾙﾋﾞｱ､ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ﾛｲﾔﾙ･ﾌﾞﾚﾝﾄﾞ･1mg100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ﾌﾞﾗｯｸ･ﾊｲﾌﾞﾘｯﾄﾞ･8mgKSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ﾊｲﾌﾞﾘｯﾄﾞKSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ﾊｲﾌﾞﾘｯﾄﾞ･ﾜﾝ 100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ﾄﾛﾋﾟｶﾙ･ｱｲｽ･ﾒﾝｿｰﾙ･5mgKSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ﾄﾛﾋﾟｶﾙ･ｱｲｽ･ﾒﾝｿｰﾙ･1mg100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾘﾄｱﾆｱ､ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ﾒﾝｿｰﾙ X KSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ﾏｲﾙﾄﾞ･ﾒﾝｿｰﾙKSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ｽｰﾊﾟｰ･ﾒﾝｿｰﾙKSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ｾﾙﾋﾞｱ､ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ｳﾙﾄﾗ･ﾒﾝｿｰﾙ100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ｳﾙﾄﾗ･ﾒﾝｿｰﾙKSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ｾﾙﾋﾞｱ､ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ﾐﾝﾄ･ｽﾌﾟﾗｯｼｭ･7mg KS ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ｱｲｽ･ﾐﾝﾄ･5mg100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｰｸ",
+      "name": "ｱｲｽ･ﾐﾝﾄ･1mg100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾊﾞｰｼﾞﾆｱ･ｴｽ",
+      "name": "ｿﾌｨｱ 6",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾊﾞｰｼﾞﾆｱ･ｴｽ",
+      "name": "ｿﾌｨｱ 1",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾊﾞｰｼﾞﾆｱ･ｴｽ",
+      "name": "ﾛｾﾞ･ﾒﾝｿｰﾙ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾊﾞｰｼﾞﾆｱ･ｴｽ",
+      "name": "ﾉｱｰﾙ･ﾒﾝｿｰﾙ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾊﾞｰｼﾞﾆｱ･ｴｽ",
+      "name": "ｱｲｽﾊﾟｰﾙ 1mg",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾊﾞｰｼﾞﾆｱ･ｴｽ",
+      "name": "ｱｲｽﾊﾟｰﾙ 5mg",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾊﾟｰﾗﾒﾝﾄ",
+      "name": "KSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 490,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ､ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾊﾟｰﾗﾒﾝﾄ",
+      "name": "ﾗｲﾄKSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 490,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ､ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾊﾟｰﾗﾒﾝﾄ",
+      "name": "ﾜﾝKSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 490,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ､ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾊﾟｰﾗﾒﾝﾄ",
+      "name": "ｸﾘｽﾀﾙ･ﾌﾞﾗｽﾄ･8･KSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 490,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ､ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾊﾟｰﾗﾒﾝﾄ",
+      "name": "ｸﾘｽﾀﾙ･ﾌﾞﾗｽﾄ･5･KSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 490,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ､ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾌﾞﾗｯｸﾒﾝｿｰﾙ･ｴｯｼﾞ8･100's",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾌﾞﾗｯｸﾒﾝｿｰﾙ･ｴｯｼﾞ1･100's",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "",
+      "variant": "FK 20本 ｿﾌﾄﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ｳｸﾗｲﾅ､ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾐﾃﾞｨｱﾑ･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ｾﾙﾋﾞｱ､ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾌﾚｰﾊﾞｰ･ﾜﾝ･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ﾁｪｺ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ｺﾞｰﾙﾄﾞ･100's･ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ｾﾙﾋﾞｱ､ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ｺﾞｰﾙﾄﾞ",
+      "variant": "FK 20本 ｿﾌﾄﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ｺﾞｰﾙﾄﾞ･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ｸﾘｱ･ﾊｲﾌﾞﾘｯﾄﾞ･ｴｲﾄ･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ｸﾘｱ･ﾊｲﾌﾞﾘｯﾄﾞ･ｼｯｸｽ･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ｸﾘｱ･ﾊｲﾌﾞﾘｯﾄﾞ･ｽﾘｰ･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾒﾝｿｰﾙ･12",
+      "variant": "FK 20本 ｿﾌﾄﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾒﾝｿｰﾙ･12･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾒﾝｿｰﾙ･8･100's･ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ﾘﾄｱﾆｱ､ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾒﾝｿｰﾙ･8",
+      "variant": "FK 20本 ｿﾌﾄﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ｾﾙﾋﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾒﾝｿｰﾙ･8･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ｳｸﾗｲﾅ､ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾒﾝｿｰﾙ･4･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾌﾞﾗｯｸ･ﾒﾝｿｰﾙ･8･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾌﾞﾗｯｸ･ﾒﾝｿｰﾙ･1･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ｱｲｽ･ﾌﾞﾗｽﾄ･ﾒｶﾞ･8･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ｱｲｽ･ﾌﾞﾗｽﾄ･ﾒｶﾞ･5･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ｱｲｽ･ﾌﾞﾗｽﾄ･ﾒｶﾞ･1･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾌｭｰｼﾞｮﾝ･ﾌﾞﾗｽﾄ･ｴｲﾄ･KSﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾄﾞﾗｲ･ﾒﾝｿｰﾙ･8･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾄﾞﾗｲ･ﾒﾝｿｰﾙ･5･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾀﾞﾌﾞﾙ･ﾊﾞｰｽﾄ･5･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾀﾞﾌﾞﾙ･ﾊﾞｰｽﾄ･ｱﾝﾊﾞｰ･5･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "大韓民国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾀﾞﾌﾞﾙ･ﾊﾞｰｽﾄ･ﾊﾟｰﾌﾟﾙ･5･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 510,
+      "country": "大韓民国､ﾘﾄｱﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾊﾟｰﾗﾒﾝﾄ",
+      "name": "100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 530,
+      "country": "ｽｲｽ､ｳｸﾗｲﾅ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾊﾟｰﾗﾒﾝﾄ",
+      "name": "ﾜﾝ100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 530,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾊﾟｰﾗﾒﾝﾄ",
+      "name": "ｴｸｽﾄﾗ･ﾗｲﾄ100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 530,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾊﾟｰﾗﾒﾝﾄ",
+      "name": "ﾗｲﾄ100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 530,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾊﾟｰﾗﾒﾝﾄ",
+      "name": "ﾗｲﾄ･ﾒﾝｿｰﾙ100ﾎﾞｯｸｽ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 530,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾋｰﾄｽﾃｨｯｸ･ﾚｷﾞｭﾗｰ",
+      "variant": "F45mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾋｰﾄｽﾃｨｯｸ･ﾒﾝｿｰﾙ",
+      "variant": "F45mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾋｰﾄｽﾃｨｯｸ･ﾊﾞﾗﾝｽﾄﾞ･ﾚｷﾞｭﾗｰ",
+      "variant": "F45mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾋｰﾄｽﾃｨｯｸ･ﾐﾝﾄ",
+      "variant": "F45mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾋｰﾄｽﾃｨｯｸ･ﾊﾟｰﾌﾟﾙ･ﾒﾝｿｰﾙ",
+      "variant": "F45mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾋｰﾄｽﾃｨｯｸ･ｽﾑｰｽ･ﾚｷﾞｭﾗｰ",
+      "variant": "F45mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾋｰﾄｽﾃｨｯｸ･ﾌﾞﾚﾝﾄﾞ05",
+      "variant": "F45mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾋｰﾄｽﾃｨｯｸ･ﾌﾞﾚﾝﾄﾞ26",
+      "variant": "F45mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾋｰﾄｽﾃｨｯｸ･ｲｴﾛｰ･ﾒﾝｿｰﾙ",
+      "variant": "F45mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ"
+    }
+  ]
+}

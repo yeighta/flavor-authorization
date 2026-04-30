@@ -1,0 +1,26 @@
+{
+  "date": "2022-08-12",
+  "kind": "shinki",
+  "filename": "20220812_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220812_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｮｲｽ",
+      "name": "ﾀﾞﾌﾞﾙｸﾞﾚｰﾌﾟ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ｵﾘｼﾞﾅﾙ ﾘﾐﾃｯﾄﾞｴﾃﾞｨｼｮﾝ",
+      "variant": "F85mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 560,
+      "country": "ｵﾗﾝﾀﾞ"
+    }
+  ]
+}

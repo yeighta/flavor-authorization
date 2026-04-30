@@ -1,0 +1,71 @@
+{
+  "date": "2024-12-18",
+  "kind": "shinki",
+  "filename": "20241218_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20241218_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "SOLA",
+      "name": "SOLA",
+      "variant": "147mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "コイーバ",
+      "name": "エスプレンディドス グラン レゼルバ コセチャ 2017",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 129800,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "コイーバ",
+      "name": "ノバドソス LCDH",
+      "variant": "156mm 1本",
+      "grams": "",
+      "priceYen": 42900,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ラ・フロール・デ・カノ",
+      "name": "ディアデマス RE 2023",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 12100,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "モンテクリスト",
+      "name": "ル クレパ スキュール S.T. Dupont 150th Anniversary",
+      "variant": "145mm 1本",
+      "grams": "",
+      "priceYen": 91300,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "パルタガス",
+      "name": "トロピカレス 175th アニベルサリオ",
+      "variant": "175mm 1本",
+      "grams": "",
+      "priceYen": 110000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ポール・ララーナガ",
+      "name": "ロータス RE 2023",
+      "variant": "120mm 1本",
+      "grams": "",
+      "priceYen": 9900,
+      "country": "ｷｭｰﾊﾞ"
+    }
+  ]
+}

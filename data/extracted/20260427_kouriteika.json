@@ -1,0 +1,386 @@
+{
+  "date": "2026-04-27",
+  "kind": "shinki",
+  "filename": "20260427_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260427_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Cappuccino",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Kaymak",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Happy Lemon",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Dubai Chocolate",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Lemonade",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "English",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Wafer",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Double Melon",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JiBiAR",
+      "name": "Almond Tofu",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Eskimo Blueberry Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Ice Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Elder Flower Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Taiga Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "The Shuffle Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Vanilla Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Osmanthus Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Pan Rasna Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Lychee Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Key Lime Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Banana Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Yoghourt Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Milk Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Eskimo Green Apple Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "White Chocolate Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Dark Chocolate Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Linden Tea Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Passion Fruit Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Painapple Flavored",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｱｲﾙﾗﾝﾄﾞ",
+      "name": "ｽﾗｲｺﾞ ﾍﾞｲ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 3000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾋﾞｰﾎﾞ･ﾊﾟｲﾌﾟﾀﾊﾞｺ",
+      "name": "ｱｻﾞｰﾌﾞﾗｻﾞｰ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 3000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾍﾟｯｾｶﾇｰ",
+      "name": "ｲｰｽﾄ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 3200,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾍﾟｯｾｶﾇｰ",
+      "name": "ｳｪｽﾄ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 3200,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾍﾟｯｾｶﾇｰ",
+      "name": "ｻｳｽ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 3200,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾍﾟｯｾｶﾇｰ",
+      "name": "ﾉｰｽ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 3200,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｼｭｽﾀｰ ﾌﾞﾗｼﾞﾙ",
+      "name": "ﾐﾆ",
+      "variant": "85mm 14本",
+      "grams": "",
+      "priceYen": 3700,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｼｭｽﾀｰ ﾌﾞﾗｼﾞﾙ",
+      "name": "ｸﾗﾌﾞ",
+      "variant": "92mm 12本",
+      "grams": "",
+      "priceYen": 3700,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｼｭｽﾀｰ ﾌﾞﾗｼﾞﾙ",
+      "name": "ﾌﾟﾘﾄｽ",
+      "variant": "114mm 10本",
+      "grams": "",
+      "priceYen": 3900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼﾞｮﾝｴｲﾙｽﾞ",
+      "name": "ﾍﾞﾘｰ･ﾘﾐﾃｯﾄﾞ ｴﾃﾞｨｼｮﾝ",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 6000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DARKSIDE",
+      "name": "MARY JANE 2.0",
+      "variant": "箱",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DARKSIDE",
+      "name": "YAGODA MALINA",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷｰｽ･ﾏｲﾙﾄﾞ",
+      "name": "20",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 570,
+      "country": "日本"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷｰｽ･ﾏｲﾙﾄﾞ",
+      "name": "ｶﾌｪﾗﾃ･20",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 570,
+      "country": "日本"
+    }
+  ]
+}

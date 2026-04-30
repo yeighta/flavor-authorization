@@ -1,0 +1,188 @@
+{
+  "date": "2019-10-31",
+  "kind": "shinki",
+  "filename": "20191031_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20191031_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Pure Tobacco",
+      "name": "Maracuja",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 4500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "AFZAL",
+      "name": "Hookah Molasses Sweet Corn",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Royal Raspberry",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Strawberry Guava",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Bermuda Mint",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Black Line Cactus Blast",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "250.0g",
+      "priceYen": 8500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Bermuda Mint",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Black Line Cactus Blast",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Cool Cucumber",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｽﾓｰﾙﾊﾞｯﾁ NO.3",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 7500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｽﾓｰﾙﾊﾞｯﾁ NO.7",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 7900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ﾊﾟｲﾌﾟﾀﾊﾞｺ ｲﾔｰ ｵﾌﾞ ｻﾞ ﾗｯﾄ",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 12100,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｳｲﾝｽﾄﾝﾁｬｰﾁﾙ ﾚｲﾄｱﾜｰ ﾛﾌﾞｽﾄ ｱﾝ ｶｯﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 5500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｶﾏｰﾁｮ",
+      "name": "ｺﾈﾁｶｯﾄ ﾃﾞｨｽﾃｨﾚﾘｰ ｴﾃﾞｨｼｮﾝ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3500,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｴｯｾ･ﾁｪﾝｼﾞ",
+      "name": "ｱｯﾌﾟﾙﾐﾝﾄ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 490,
+      "country": "大韓民国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｴｯｾ･ﾁｪﾝｼﾞ",
+      "name": "ﾋﾏﾗﾔ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 490,
+      "country": "大韓民国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｴｯｾ･ﾁｪﾝｼﾞ",
+      "name": "ﾌﾛｰｽﾞﾝ",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 490,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ﾏｲﾙﾄﾞ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｺｰﾙﾄﾞ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾒﾋﾞｳｽ",
+      "name": "ｸﾘｱ･ﾐﾝﾄ･ﾌﾟﾙｰﾑ･ﾃｯｸ･ﾌﾟﾗｽ専用",
+      "variant": "5本",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    }
+  ]
+}

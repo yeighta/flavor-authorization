@@ -1,0 +1,242 @@
+{
+  "date": "2020-06-24",
+  "kind": "shinki",
+  "filename": "20200624_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20200624_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ケント",
+      "name": "リーフ・ウルトラライト・メンソール",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ｲﾝﾄﾞﾈｼｱ 大韓民国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ラッキー・ストライク",
+      "name": "フィルター・シガリロ・オリジナル",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 340,
+      "country": "ｲﾝﾄﾞﾈｼｱ 大韓民国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Cre-Scents",
+      "name": "Neo Caramel Latte",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2900,
+      "country": "ﾏﾚｰｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Cre-Scents",
+      "name": "Neo Cassis",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2900,
+      "country": "ﾏﾚｰｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Cre-Scents",
+      "name": "Neo Citrus Lime",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2900,
+      "country": "ﾏﾚｰｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Cre-Scents",
+      "name": "Neo Cuban Cocktail",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2900,
+      "country": "ﾏﾚｰｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Cre-Scents",
+      "name": "Neo Energy Drink",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2900,
+      "country": "ﾏﾚｰｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Cre-Scents",
+      "name": "Neo Golden Cadillac",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2900,
+      "country": "ﾏﾚｰｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Cre-Scents",
+      "name": "Neo Grape",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2900,
+      "country": "ﾏﾚｰｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Cre-Scents",
+      "name": "Neo Guava",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2900,
+      "country": "ﾏﾚｰｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Cre-Scents",
+      "name": "Neo Lychee",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2900,
+      "country": "ﾏﾚｰｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Cre-Scents",
+      "name": "Neo Mango Lassi",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2900,
+      "country": "ﾏﾚｰｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Cre-Scents",
+      "name": "Neo Mangosteen",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2900,
+      "country": "ﾏﾚｰｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Cre-Scents",
+      "name": "Neo Mint",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2900,
+      "country": "ﾏﾚｰｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Cre-Scents",
+      "name": "Neo Musk Melon",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2900,
+      "country": "ﾏﾚｰｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Cre-Scents",
+      "name": "Neo Peach",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2900,
+      "country": "ﾏﾚｰｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Cre-Scents",
+      "name": "Neo Strawberry",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2900,
+      "country": "ﾏﾚｰｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Cre-Scents",
+      "name": "Neo White Sangria",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 2900,
+      "country": "ﾏﾚｰｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Black Line Island City Blend",
+      "variant": "パウチ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Napa Grape",
+      "variant": "パウチ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Strawberry Passion",
+      "variant": "パウチ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Tropical Citrus",
+      "variant": "パウチ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Winter Berries",
+      "variant": "パウチ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "ニカラグア ロブスト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1580,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "ニカラグア トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1830,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "ニカラグア グランチャーチル",
+      "variant": "177mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    }
+  ]
+}

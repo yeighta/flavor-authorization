@@ -1,0 +1,26 @@
+{
+  "date": "2019-03-05",
+  "kind": "shinki",
+  "filename": "20190305_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20190305_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ｾﾞﾛｽﾀｲﾙ",
+      "name": "ｽﾇｰｽ･ｽﾊﾟｲｽ",
+      "variant": "缶",
+      "grams": "9.0g",
+      "priceYen": 550,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｾﾞﾛｽﾀｲﾙ",
+      "name": "ｽﾇｰｽ･ﾌﾞﾗｯｸ･ﾒﾝｿｰﾙ",
+      "variant": "缶",
+      "grams": "9.0g",
+      "priceYen": 550,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "date": "2018-10-01",
+  "kind": "shinki",
+  "filename": "20181001_kouriteika_2.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20181001_kouriteika_2.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾋｰﾂ",
+      "name": "ﾃﾞｨｰﾌﾟ･ﾌﾞﾛﾝｽﾞ",
+      "variant": "F45㎜ 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 470,
+      "country": "ｲﾀﾘｱ、ｽｲｽ、ｷﾞﾘｼｬ、ﾙｰﾏﾆｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾋｰﾂ",
+      "name": "ﾊﾞﾗﾝｽﾄﾞ･ｲｴﾛｰ",
+      "variant": "F45㎜ 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 470,
+      "country": "ｲﾀﾘｱ、ｷﾞﾘｼｬ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾋｰﾂ",
+      "name": "ｸﾘｱ･ｼﾙﾊﾞｰ",
+      "variant": "F45㎜ 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 470,
+      "country": "ｲﾀﾘｱ、ｽｲｽ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾋｰﾂ",
+      "name": "ﾌﾚｯｼｭ･ｴﾒﾗﾙﾄﾞ",
+      "variant": "F45㎜ 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 470,
+      "country": "ｲﾀﾘｱ、ｷﾞﾘｼｬ、ﾙｰﾏﾆｱ"
+    }
+  ]
+}

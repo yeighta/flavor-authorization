@@ -1,0 +1,566 @@
+{
+  "date": "2022-08-04",
+  "kind": "shinki",
+  "filename": "20220804_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220804_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "フィリップ モリス",
+      "name": "パープル・8・KSボックス",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 430,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "フィリップ モリス",
+      "name": "パープル・1・100sボックス",
+      "variant": "FSK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 430,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "フィリップ モリス",
+      "name": "ルビー・5・KSボックス",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 430,
+      "country": "ﾌｨﾘﾋﾟﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ラ エストレラ",
+      "name": "ポラー ロスチャイルド",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 700,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ラ エストレラ",
+      "name": "ポラー ギガンテ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1200,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "レポサド 96 エステート ブレンド",
+      "name": "コネチカット チャーチル",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "レポサド 96 エステート ブレンド",
+      "name": "コネチカット トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 750,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "レポサド 96 エステート ブレンド",
+      "name": "コロラド チャーチル",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "レポサド 96 エステート ブレンド",
+      "name": "コロラド トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 750,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジノ",
+      "name": "ミニシガリロ レッド",
+      "variant": "80mm 20本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジノ",
+      "name": "ミニシガリロ ニカラグア",
+      "variant": "80mm 20本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジノ",
+      "name": "プラチナム クラウン シリーズ リミテッド エディション 2020",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 5500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "LYCHEE",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "ICE CREAM LEMON",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "QUIENCE",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "MARACUJA",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "PASSION FRUIT",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "CACTUS",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "COTTON CANDY",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "GRAPE",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "MACARON PINK",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "KRUVASAN MARMALADE",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "PUMPKIN CAKE",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "GINGER COCONUT",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "PLUM",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "DRAGON FRUIT",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "BASIL",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "HOLLAND WAFFLE",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "SCHWEPS",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "RED CHOCOMINT",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "BLACK QUEEN",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "NUTELLE",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "TROPICAL PEARL",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "TEA TIME",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "FOREST BERRY",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "SUMMER LOVE",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "HAVANA PURRO",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "COOKIE",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "SUBZERO",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "BANGUM",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "MOSCOW ROSE",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "MOROCCO",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "MUCHO MANGO",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "MINT STORM",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "CHERRY CASH",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "KING OF NECTARINE",
+      "variant": "プラスチックケース",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DANI",
+      "name": "CARDAMOM",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DANI",
+      "name": "KIWI",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DANI",
+      "name": "ICE CREAM CHOCOLATE",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DANI",
+      "name": "ORANGE",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DANI",
+      "name": "DJVU",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DANI",
+      "name": "BISCUIT",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DANI",
+      "name": "DARK MINT",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DANI",
+      "name": "CREAM BERRY MARMALADE",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DANI",
+      "name": "GOLD GUM MASTIC",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DANI",
+      "name": "NECTARINE",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DANI",
+      "name": "GREEN APPLE",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DANI",
+      "name": "DOLCE DE LECHE",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DANI",
+      "name": "ISTANBUL",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DANI",
+      "name": "POSEIDON",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DANI",
+      "name": "PISTACHIO",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DANI",
+      "name": "LEMON TREE",
+      "variant": "パック",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    }
+  ]
+}

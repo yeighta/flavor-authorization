@@ -1,0 +1,44 @@
+{
+  "date": "2025-12-23",
+  "kind": "shinki",
+  "filename": "20251223_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20251223_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "グリーン・ミント・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "カカオ・ミント・クリスタル・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "トロピカル・ライム・クリスタル・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "サクラ・レギュラー・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 550,
+      "country": "日本"
+    }
+  ]
+}

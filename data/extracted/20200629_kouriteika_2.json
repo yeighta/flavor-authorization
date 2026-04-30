@@ -1,0 +1,44 @@
+{
+  "date": "2020-06-29",
+  "kind": "shinki",
+  "filename": "20200629_kouriteika_2.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20200629_kouriteika_2.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ﾒﾝｿｰﾙ･ﾊﾟｰﾌﾟﾙ･ﾌﾟﾙｰﾑ･ｴｽ用",
+      "variant": "20本",
+      "grams": "",
+      "priceYen": 460,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ﾌﾞﾗｯｸ･ﾐﾝﾄ･ﾒﾝｿｰﾙ･ﾌﾟﾙｰﾑ･ｴｽ用",
+      "variant": "20本",
+      "grams": "",
+      "priceYen": 460,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾋﾟｱﾆｯｼﾓ",
+      "name": "ﾓｰﾆﾝｸﾞ･ﾛｰｽﾞ･ｸｰﾗｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ専用",
+      "variant": "5本",
+      "grams": "",
+      "priceYen": 490,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾋﾟｱﾆｯｼﾓ",
+      "name": "ﾐｯﾄﾞﾅｲﾄ･ｼﾞｬｽﾐﾝ･ｸｰﾗｰ･ﾌﾟﾙｰﾑ･ﾃｯｸ専用",
+      "variant": "5本",
+      "grams": "",
+      "priceYen": 490,
+      "country": "日本"
+    }
+  ]
+}

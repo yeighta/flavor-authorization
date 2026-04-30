@@ -1,0 +1,53 @@
+{
+  "date": "2024-06-07",
+  "kind": "henkou",
+  "filename": "20240607_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240607_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Darkside",
+      "name": "Basil Blast",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Darkside",
+      "name": "Raf In The Jungle",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Darkside",
+      "name": "Killer Milk",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Darkside",
+      "name": "Mango Lassi",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Darkside",
+      "name": "Red Tea",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    }
+  ]
+}

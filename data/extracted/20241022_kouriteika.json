@@ -1,0 +1,71 @@
+{
+  "date": "2024-10-22",
+  "kind": "shinki",
+  "filename": "20241022_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20241022_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "M F",
+      "name": "Selection-toro Assort",
+      "variant": "152mm 5本",
+      "grams": "",
+      "priceYen": 11500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ぺぺ",
+      "name": "ｵｰｶﾞﾆｯｸ･ｼｶﾞﾚｯﾄ",
+      "variant": "18本 F85mm ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 540,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Cohiba",
+      "name": "Robustos PCC 20th JAR",
+      "variant": "124mm 1本",
+      "grams": "",
+      "priceYen": 38500,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Hoyo de Monterrey",
+      "name": "Epicure No.2 PCC 20th JAR",
+      "variant": "124mm 1本",
+      "grams": "",
+      "priceYen": 20900,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Partagas",
+      "name": "Serie D No.4 PCC 20th JAR",
+      "variant": "124mm 1本",
+      "grams": "",
+      "priceYen": 22000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Por Larranaga",
+      "name": "Robustos PCC 20th JAR",
+      "variant": "124mm 1本",
+      "grams": "",
+      "priceYen": 29700,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Quay D'Orsay",
+      "name": "Superiores PCC 20th JAR",
+      "variant": "124mm 1本",
+      "grams": "",
+      "priceYen": 26400,
+      "country": "ｷｭｰﾊﾞ"
+    }
+  ]
+}

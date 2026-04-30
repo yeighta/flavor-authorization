@@ -1,0 +1,368 @@
+{
+  "date": "2022-04-28",
+  "kind": "shinki",
+  "filename": "20220428_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220428_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｼｶﾞﾛｰﾈ",
+      "name": "ｴｸｽｸﾙｰｼﾌﾞ･ﾌﾞﾗｳﾝ",
+      "variant": "F117mm 20本 ﾎﾞｯｸｽ",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ｱﾙﾒﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｼｶﾞﾛｰﾈ",
+      "name": "ﾌｧﾝﾄﾑ･ｼﾙﾊﾞｰ",
+      "variant": "F117mm 20本 ﾎﾞｯｸｽ",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ｱﾙﾒﾆｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞﾝﾄﾚｰ",
+      "name": "ﾐﾆｼｶﾞﾘﾛ",
+      "variant": "85mm 20本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞﾝﾄﾚｰ",
+      "name": "ｽﾓｰﾙｺﾛﾅ",
+      "variant": "112mm 1本",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞﾝﾄﾚｰ",
+      "name": "ﾊｰﾌｺﾛﾅ",
+      "variant": "95mm 1本",
+      "grams": "",
+      "priceYen": 1300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞﾝﾄﾚｰ",
+      "name": "ｺﾛﾅ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞﾝﾄﾚｰ",
+      "name": "ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞﾝﾄﾚｰ",
+      "name": "ﾁｬｰﾁﾙ",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷｬﾌﾟﾃﾝﾌﾞﾗｯｸ",
+      "name": "ﾘﾄﾙｼｶﾞｰ ﾏﾝｺﾞｰ",
+      "variant": "F100mm 20本 ｿﾌﾄﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 750,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷｬﾌﾟﾃﾝﾌﾞﾗｯｸ",
+      "name": "ﾘﾄﾙｼｶﾞｰ ｸﾞﾘｰﾝｱｯﾌﾟﾙ",
+      "variant": "F100mm 20本 ｿﾌﾄﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 750,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｶﾌｪｸﾚｰﾑ",
+      "name": "ﾐﾆ ﾒﾝｿｰﾙ",
+      "variant": "F70mm 10本 紙箱",
+      "grams": "",
+      "priceYen": 590,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ﾎﾜｲﾄﾗﾍﾞﾙ ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ﾎﾜｲﾄﾗﾍﾞﾙ ﾁｬｰﾁﾙ",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 3700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ﾎﾜｲﾄﾗﾍﾞﾙ ﾄﾛ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 3800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ﾎﾜｲﾄﾗﾍﾞﾙ ｼｸｽﾃｨ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ﾃﾞｨｻｲﾌﾟﾙ ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ﾃﾞｨｻｲﾌﾟﾙ ﾊﾞﾗ",
+      "variant": "146mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ｼｸｽﾃｨ ﾛﾌﾞｽﾄ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ｼｸｽﾃｨ ﾄﾛ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ｼｸｽﾃｨ ｼｸｽﾃｨ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ﾊﾑﾚｯﾄ ﾀﾊﾞｹﾛ ｻﾗﾓﾝ",
+      "variant": "194mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ｻﾝｸﾞﾛｳﾝ ﾏﾃﾞｭｰﾛ ﾄﾛ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ｻﾝｸﾞﾛｳﾝ ﾏﾃﾞｭｰﾛ ﾗﾝｾﾛ",
+      "variant": "190mm 1本",
+      "grams": "",
+      "priceYen": 1400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ｻﾝｸﾞﾛｳﾝ ﾗﾝｾﾛ",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 1300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "20周年 ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2250,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ｳｨﾝﾀｰｺﾚｸｼｮﾝ 2020 ｺﾛﾅ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 1650,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ｳﾞｨﾝﾃｰｼﾞ1990 ﾁｬｰﾁﾙ",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ｳﾞｨﾝﾃｰｼﾞ1992 ﾁｬｰﾁﾙ",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ｳﾞｨﾝﾃｰｼﾞ1999 ﾁｬｰﾁﾙ",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H.ﾛﾊﾞｲﾅ",
+      "name": "ｵﾘｼﾞﾅﾙ ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H.ﾛﾊﾞｲﾅ",
+      "name": "ｵﾘｼﾞﾅﾙ ﾍﾞﾘｺｿ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H.ﾛﾊﾞｲﾅ",
+      "name": "ｵﾘｼﾞﾅﾙ ｴﾙﾓｿ",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H.ﾛﾊﾞｲﾅ",
+      "name": "ｵﾘｼﾞﾅﾙ ｺﾛﾅ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H.ﾛﾊﾞｲﾅ",
+      "name": "ｸﾗﾛ 109",
+      "variant": "184mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H.ﾛﾊﾞｲﾅ",
+      "name": "ｸﾗﾛ ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H.ﾛﾊﾞｲﾅ",
+      "name": "ｸﾗﾛ ﾛﾌﾞｽﾄ ｺﾞﾙﾄﾞ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H.ﾛﾊﾞｲﾅ",
+      "name": "ｸﾗﾛ ﾛｽﾁｬｲﾙﾄﾞ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H.ﾛﾊﾞｲﾅ",
+      "name": "ﾌﾞﾙｰ ｺﾞﾙﾄﾞ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H.ﾛﾊﾞｲﾅ",
+      "name": "ﾌﾞﾙｰ ﾍﾟﾃｨｴﾄﾞﾑﾝﾄﾞ",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H.ﾛﾊﾞｲﾅ",
+      "name": "ﾌﾞﾙｰ ｺﾛﾅｺﾞﾙﾀﾞ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "date": "2024-08-30",
+  "kind": "henkou",
+  "filename": "20240830_kouriteikahenkou_2.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240830_kouriteikahenkou_2.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "プエブロ",
+      "name": "ナチュラル シャグ",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "プエブロ",
+      "name": "ナチュラル シャグ ブルー",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "プエブロ",
+      "name": "ナチュラル シャグ オレンジ",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "プエブロ",
+      "name": "ナチュラル シャグ ピンク",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "プエブロ",
+      "name": "ナチュラル シャグ 100",
+      "variant": "円柱ボックス",
+      "grams": "100.0g",
+      "priceYen": 2900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "プエブロ",
+      "name": "ナチュラル シャグ ブルー 100",
+      "variant": "円柱ボックス",
+      "grams": "100.0g",
+      "priceYen": 2900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ゴールデンブレンド",
+      "name": "バージニア",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ゴールデンブレンド",
+      "name": "アロマティック",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ゴールデンブレンド",
+      "name": "バージニアグリーン",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JBR",
+      "name": "ブルーベリーミント",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JBR",
+      "name": "ツーアップル",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JBR",
+      "name": "バニラ",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JBR",
+      "name": "グレープ",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 900,
+      "country": "ﾄﾞｲﾂ"
+    }
+  ]
+}

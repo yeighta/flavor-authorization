@@ -1,0 +1,89 @@
+{
+  "date": "2024-03-28",
+  "kind": "shinki",
+  "filename": "20240328_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240328_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾎﾞﾘﾊﾞｰ",
+      "name": "ﾆｭｰ ｺﾞｰﾙﾄﾞﾒﾀﾞﾙ LCDH",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 9900,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ｲﾃﾞｱﾚｽ ｺﾚｸｼｵﾝ ﾊﾊﾞﾉｽ 2021",
+      "variant": "175mm 1本",
+      "grams": "",
+      "priceYen": 121000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾎﾖｰ･ﾄﾞｩ･ﾓﾝﾄﾚｰ",
+      "name": "ｴﾋﾟｷｭｱ No.3",
+      "variant": "125mm 1本",
+      "grams": "",
+      "priceYen": 7700,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾎﾖｰ･ﾄﾞｩ･ﾓﾝﾄﾚｰ",
+      "name": "ﾓﾝﾃﾚｲｴｽ No.4 LE2021",
+      "variant": "145mm 1本",
+      "grams": "",
+      "priceYen": 14300,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾎﾖｰ･ﾄﾞｩ･ﾓﾝﾄﾚｰ",
+      "name": "ｽｰｳﾞｪﾆｰﾙ ﾃﾞﾗｯｸｽ",
+      "variant": "129mm 1本",
+      "grams": "",
+      "priceYen": 3850,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾗ･ｸﾞﾛﾘｱ･ｷｭﾊﾞｰﾅ",
+      "name": "ﾄｩﾙｷﾉｽ",
+      "variant": "141mm 1本",
+      "grams": "",
+      "priceYen": 6050,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾝﾁ",
+      "name": "ｽｰﾊﾟｰ ｾﾚｸｼｮﾝ No.1 RE2023",
+      "variant": "155mm 1本",
+      "grams": "",
+      "priceYen": 7700,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾗﾌｧｴﾙ･ｺﾞﾝｻﾞﾚｽ",
+      "name": "ｺﾛﾅｽ ﾃﾞ ﾛﾝｽﾞﾃﾞｰﾙ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 4950,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞｸﾞｴﾛｽ",
+      "name": "ｾﾝﾄﾛｺﾞﾙﾄﾞｽ",
+      "variant": "100mm 1本",
+      "grams": "",
+      "priceYen": 3960,
+      "country": "ｷｭｰﾊﾞ"
+    }
+  ]
+}

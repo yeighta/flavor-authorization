@@ -1,0 +1,26 @@
+{
+  "date": "2023-07-24",
+  "kind": "shinki",
+  "filename": "20230724_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230724_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾄﾞﾛﾝ",
+      "name": "1964 ﾌﾟﾘﾝｼﾍﾟ",
+      "variant": "115mm 1本",
+      "grams": "",
+      "priceYen": 3500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾄﾞﾛﾝ",
+      "name": "3000",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

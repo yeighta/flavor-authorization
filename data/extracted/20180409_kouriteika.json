@@ -1,0 +1,53 @@
+{
+  "date": "2018-04-09",
+  "kind": "shinki",
+  "filename": "20180409_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101000000id_/https://www.mof.go.jp/policy/tab_salt/topics/20180409_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｯｷｰ･ｽﾄﾗｲｸ",
+      "name": "ｴｷｽﾊﾟｰﾄｶｯﾄ･6 10本入り",
+      "variant": "FK 10本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 200,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｯｷｰ･ｽﾄﾗｲｸ",
+      "name": "ｴｷｽﾊﾟｰﾄｶｯﾄ･10 10本入り",
+      "variant": "FK 10本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 200,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾗｯｷｰ･ｽﾄﾗｲｸ",
+      "name": "ｴｷｽﾊﾟｰﾄｶｯﾄ･14 10本入り",
+      "variant": "FK 10本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 200,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｸﾞﾗﾝｸﾘｭ ﾛﾌﾞｽﾄ 702",
+      "variant": "133mm 1本",
+      "grams": "",
+      "priceYen": 4400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｼｮｰﾄﾊﾟｰﾌｪｸﾄ 702",
+      "variant": "124mm 1本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    }
+  ]
+}

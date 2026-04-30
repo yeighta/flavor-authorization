@@ -1,0 +1,53 @@
+{
+  "date": "2022-10-03",
+  "kind": "shinki",
+  "filename": "20221003_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20221003_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ｾﾝﾃｨｱ",
+      "name": "ｱｲｼｰ･ﾊﾟｰﾌﾟﾙ",
+      "variant": "F45 20ｽﾃｨｯｸ ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 530,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾃﾘｱ",
+      "name": "ｳｫｰﾑ･ﾚｷﾞｭﾗｰ",
+      "variant": "F45 20ｽﾃｨｯｸ ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 580,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Montecristo",
+      "name": "Mini Classic",
+      "variant": "73mm 20本",
+      "grams": "",
+      "priceYen": 3850,
+      "country": "ｽﾍﾟｲﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Perdomo",
+      "name": "Reserve 10th Anniversary Champagne Epicure",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Perdomo",
+      "name": "Reserve 10th Anniversary Maduro Epicure",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

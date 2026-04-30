@@ -1,0 +1,26 @@
+{
+  "date": "2021-03-22",
+  "kind": "shinki",
+  "filename": "20210322_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210322_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾈｵ",
+      "name": "ﾊﾟｲﾅｯﾌﾟﾙ･ﾍﾞﾘｰ･ﾐｯｸｽ･ｽﾃｨｯｸ･glo hyper用",
+      "variant": "20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾈｵ",
+      "name": "ﾒﾛﾝ･ｼﾄﾘｯｸ･ﾐｯｸｽ･ｽﾃｨｯｸ･glo hyper用",
+      "variant": "20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    }
+  ]
+}

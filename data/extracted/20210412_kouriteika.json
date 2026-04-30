@@ -1,0 +1,458 @@
+{
+  "date": "2021-04-12",
+  "kind": "shinki",
+  "filename": "20210412_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210412_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸｰﾙ･ﾙｰﾌﾟﾄﾞ",
+      "name": "ｷﾝｸﾞ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸｰﾙ･ﾙｰﾌﾟﾄﾞ",
+      "name": "ﾌﾟﾗｽ･ｷﾝｸﾞ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱﾙﾄｳｰﾛ ﾌｴﾝﾃ",
+      "name": "ｵｰﾊﾟｽ X ﾌｴﾝﾃﾌｴﾝﾃ",
+      "variant": "143mm 1本",
+      "grams": "",
+      "priceYen": 3700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱﾙﾄｳｰﾛ ﾌｴﾝﾃ",
+      "name": "ｵｰﾊﾟｽ X 20TH POTD",
+      "variant": "162mm 1本",
+      "grams": "",
+      "priceYen": 6600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CIGARO",
+      "name": "GOLD",
+      "variant": "110mm 1本",
+      "grams": "",
+      "priceYen": 220,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CIGARO",
+      "name": "SILVER",
+      "variant": "110mm 1本",
+      "grams": "",
+      "priceYen": 220,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CIGARO",
+      "name": "GOLD 10'S",
+      "variant": "110mm 10本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CIGARO",
+      "name": "SILVER 10'S",
+      "variant": "110mm 10本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NIRVANA",
+      "name": "Bugly Fitch",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NIRVANA",
+      "name": "Frog In A Blender",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NIRVANA",
+      "name": "It's Kind Of Small Gabe",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NIRVANA",
+      "name": "Le Matrix",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NIRVANA",
+      "name": "Raspberried Alive",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾄｰﾝ",
+      "name": "ｱﾒﾘｶﾝﾁｪﾘｰ",
+      "variant": "F 100mm 20本 ｿﾌﾄﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 630,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾄｰﾝ",
+      "name": "ｸﾗｼｯｸﾊﾞﾆﾗ",
+      "variant": "F 100mm 20本 ｿﾌﾄﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 630,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾄｰﾝ",
+      "name": "ﾜｲﾙﾄﾞｽﾄﾛﾍﾞﾘｰ",
+      "variant": "F 100mm 20本 ｿﾌﾄﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 630,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸｽﾄｰﾝ",
+      "name": "ﾚｯﾄﾞﾜｲﾝ",
+      "variant": "F 100mm 20本 ｿﾌﾄﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 630,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾎﾞﾘﾊﾞｰ",
+      "name": "ﾍﾞﾘｺｿｽ ﾌｨﾉｽ･ﾚｾﾞﾙﾊﾞ 2016",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 6000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H.ｱｯﾌﾟﾏﾝ",
+      "name": "ｺﾉｽｰﾙ No.2",
+      "variant": "134mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾗ･ﾌﾛｰﾙ･ﾃﾞ･ｶﾉ",
+      "name": "ｴﾚﾋﾄﾞｽ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1200,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾎﾟｰﾙ･ﾗﾗﾅｰｶﾞ",
+      "name": "ｶﾞﾗﾈｽ",
+      "variant": "120mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｻﾝｸﾘｽﾄﾊﾞﾙ",
+      "name": "20 ｱﾆﾍﾞﾙｻﾘｵ",
+      "variant": "162mm 1本",
+      "grams": "",
+      "priceYen": 5500,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｻﾝｸﾘｽﾄﾊﾞﾙ",
+      "name": "ﾊﾘﾏｳ ﾏﾗﾔ RE2020",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 4500,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾄﾘﾆﾀﾞｯﾄﾞ",
+      "name": "ｶｼﾙﾀﾞ 2019",
+      "variant": "185mm 1本",
+      "grams": "",
+      "priceYen": 12000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾄﾘﾆﾀﾞｯﾄﾞ",
+      "name": "ﾛﾌﾞｽﾄ ｴｸｽﾄﾗ TR 2020",
+      "variant": "155mm 1本",
+      "grams": "",
+      "priceYen": 25000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AGED ROLL",
+      "name": "",
+      "variant": "110mm 1本",
+      "grams": "",
+      "priceYen": 1300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "TWO APPLE",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "VANILLA",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "BLACK CURRANT",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "BLUEBERRY LIME LYCHEE",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "BROWNIE CHERRY",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "CAPPUCCINO",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "CASABLANCA",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "CHERRY",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "CHOCOLATE",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "JASMINE",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "MAGIC SMOKE",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "MELON",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "MILK",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "MINT",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "POMEGRANDE YOGURT",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "STRAWBERRY",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "CINNAMON",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "COCONUT",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "CUBA DREAM",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "DEAD SEA",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "GREEN MIX",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "GUAVA",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "HONEY",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "SWEET NIGHT",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    }
+  ]
+}

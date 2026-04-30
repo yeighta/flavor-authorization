@@ -1,0 +1,35 @@
+{
+  "date": "2020-03-24",
+  "kind": "shinki",
+  "filename": "20200324_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20200324_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ｼｶﾞｰ･ｳﾙﾄﾗﾗｲﾄ･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 360,
+      "country": "日本"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ｼｶﾞｰ･ﾒﾝｿｰﾙ･ﾗｲﾄ･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 360,
+      "country": "日本"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ｼｶﾞｰ･ﾒﾝｿｰﾙ･ｳﾙﾄﾗﾗｲﾄ･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 360,
+      "country": "日本"
+    }
+  ]
+}

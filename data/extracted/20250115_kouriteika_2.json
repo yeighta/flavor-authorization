@@ -1,0 +1,89 @@
+{
+  "date": "2025-01-15",
+  "kind": "shinki",
+  "filename": "20250115_kouriteika_2.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250115_kouriteika_2.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "C・DX",
+      "name": "CIGAR NATURAL",
+      "variant": "118mm 1本",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "C・DX",
+      "name": "CIGAR MADURO",
+      "variant": "118mm 1本",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "フロール・デ・コパン",
+      "name": "2025イヤーオブザスネイク",
+      "variant": "164mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ブエナヴィスタ・インコグニート",
+      "name": "ロブスト",
+      "variant": "125mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ブエナヴィスタ・インコグニート",
+      "name": "トロ",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ブエナヴィスタ・インコグニート",
+      "name": "チャーチル",
+      "variant": "172mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "サボール・HVAロサード",
+      "name": "ロブスト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 850,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "サボール・HVAロサード",
+      "name": "トロ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 1100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "サボール・HVAロサード",
+      "name": "グランロブスト",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

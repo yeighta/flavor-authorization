@@ -1,0 +1,44 @@
+{
+  "date": "2024-09-06",
+  "kind": "shinki",
+  "filename": "20240906_kouriteika_3.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240906_kouriteika_3.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ベントレー",
+      "name": "ブラック",
+      "variant": "20本 F85mm ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 700,
+      "country": "ﾙｸｾﾝﾌﾞﾙｸ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ベントレー",
+      "name": "ゴールド",
+      "variant": "20本 F85mm ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 700,
+      "country": "ﾙｸｾﾝﾌﾞﾙｸ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ベントレー",
+      "name": "メンソール",
+      "variant": "20本 F85mm ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 700,
+      "country": "ﾙｸｾﾝﾌﾞﾙｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チェ",
+      "name": "シャグ・バージニア",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 680,
+      "country": "ﾙｸｾﾝﾌﾞﾙｸ"
+    }
+  ]
+}

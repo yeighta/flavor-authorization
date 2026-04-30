@@ -1,0 +1,53 @@
+{
+  "date": "2025-03-13",
+  "kind": "shinki",
+  "filename": "20250313_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250313_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ヴィカ",
+      "name": "スヴェンソン ブラック",
+      "variant": "缶",
+      "grams": "13.0g",
+      "priceYen": 700,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヴィカ",
+      "name": "スヴェンソン フローズンミント",
+      "variant": "缶",
+      "grams": "8.0g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヴィカ",
+      "name": "スヴェンソン ブルーベリーアイス",
+      "variant": "缶",
+      "grams": "6.0g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "オールド ホルボーン",
+      "name": "オリジナル 25g",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 800,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "オールド ホルボーン",
+      "name": "イエロー 25g",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 800,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    }
+  ]
+}

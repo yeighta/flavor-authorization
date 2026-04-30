@@ -1,0 +1,35 @@
+{
+  "date": "2019-06-27",
+  "kind": "shinki",
+  "filename": "20190627_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20190627_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾏｰﾙﾎﾞﾛ",
+      "name": "ﾋｰﾄｽﾃｨｯｸ･ﾄﾛﾋﾟｶﾙ･ﾒﾝｿｰﾙ",
+      "variant": "20本",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾋｰﾂ",
+      "name": "ﾌﾛｽﾄ･ｸﾞﾘｰﾝ",
+      "variant": "20本",
+      "grams": "",
+      "priceYen": 470,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾋｰﾂ",
+      "name": "ｸｰﾙ･ｼﾞｪｲﾄﾞ",
+      "variant": "20本",
+      "grams": "",
+      "priceYen": 470,
+      "country": "ｲﾀﾘｱ"
+    }
+  ]
+}

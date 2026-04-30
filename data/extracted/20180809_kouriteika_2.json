@@ -1,0 +1,26 @@
+{
+  "date": "2018-08-09",
+  "kind": "shinki",
+  "filename": "20180809_kouriteika_2.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20180809_kouriteika_2.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "",
+      "name": "ｾﾞﾛｽﾀｲﾙ･ｽﾇｰｽ･ﾊﾞﾆﾗ",
+      "variant": "缶",
+      "grams": "6.8g",
+      "priceYen": 490,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "",
+      "name": "ｾﾞﾛｽﾀｲﾙ･ｽﾇｰｽ･ｸｰﾙﾐﾝﾄ",
+      "variant": "缶",
+      "grams": "6.8g",
+      "priceYen": 490,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    }
+  ]
+}

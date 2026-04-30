@@ -1,0 +1,26 @@
+{
+  "date": "2025-05-13",
+  "kind": "shinki",
+  "filename": "20250513_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250513_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "ブリリアント・マスカット・hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "ブリリアント・ワイルド・ベリー・hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 500,
+      "country": "大韓民国"
+    }
+  ]
+}

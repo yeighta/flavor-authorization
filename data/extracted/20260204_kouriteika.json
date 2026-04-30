@@ -1,0 +1,98 @@
+{
+  "date": "2026-02-04",
+  "kind": "shinki",
+  "filename": "20260204_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260204_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casdagli Cigars",
+      "name": "Traditional Line Robusto",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casdagli Cigars",
+      "name": "Traditional Line Grand Cafe Maduro",
+      "variant": "185mm 1本",
+      "grams": "",
+      "priceYen": 2950,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casdagli Cigars",
+      "name": "Cabinet Selection Rosetta Maduro",
+      "variant": "100mm 1本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casdagli Cigars",
+      "name": "Cabinet Selection Rosetta Romano",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 2300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casdagli Cigars",
+      "name": "DoTW Dahman",
+      "variant": "180mm 1本",
+      "grams": "",
+      "priceYen": 3600,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casdagli Cigars",
+      "name": "Cypher 3311 Boniface",
+      "variant": "125mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casdagli Cigars",
+      "name": "Traditional Line 25 Aniversario",
+      "variant": "190mm 1本",
+      "grams": "",
+      "priceYen": 6000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tokyo Shisha",
+      "name": "Gold Line Ice Lime",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Black Line Ice Lime",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Tangiers",
+      "name": "Noir Bacon",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ｱﾒﾘｶ合衆国"
+    }
+  ]
+}

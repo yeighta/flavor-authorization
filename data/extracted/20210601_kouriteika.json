@@ -1,0 +1,71 @@
+{
+  "date": "2021-06-01",
+  "kind": "shinki",
+  "filename": "20210601_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210601_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌｫﾙﾃ",
+      "name": "ﾌﾟﾚﾐｱﾑ16ｸﾗｼｯｸ",
+      "variant": "FK 16本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌｫﾙﾃ",
+      "name": "ﾌﾟﾚﾐｱﾑ16ﾒﾝｿｰﾙ",
+      "variant": "FK 16本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JBR",
+      "name": "ｸﾞﾚｰﾌﾟ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 780,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｱﾙｶﾎﾟﾈ",
+      "name": "ﾍﾞﾘｰ",
+      "variant": "かぎたばこ ﾌﾟﾗｽﾃｨｯｸｹｰｽ",
+      "grams": "6.0g",
+      "priceYen": 490,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｱﾙｶﾎﾟﾈ",
+      "name": "ｺｰﾋｰ",
+      "variant": "かぎたばこ ﾌﾟﾗｽﾃｨｯｸｹｰｽ",
+      "grams": "6.0g",
+      "priceYen": 490,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｿﾌﾞﾗﾆｰ",
+      "name": "ｶｸﾃﾙ",
+      "variant": "20本 箱",
+      "grams": "",
+      "priceYen": 850,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｿﾌﾞﾗﾆｰ",
+      "name": "ﾌﾞﾗｯｸ･ﾛｼｱﾝ",
+      "variant": "20本 箱",
+      "grams": "",
+      "priceYen": 850,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    }
+  ]
+}

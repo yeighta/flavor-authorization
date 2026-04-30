@@ -1,0 +1,134 @@
+{
+  "date": "2025-04-30",
+  "kind": "henkou",
+  "filename": "20250430_kouriteikahenkou_2.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250430_kouriteikahenkou_2.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "トレジャラー",
+      "name": "プレミアム・ブラック",
+      "variant": "F90mm 20本 ｱﾙﾐ缶",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "英国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "トレジャラー",
+      "name": "プレミアム・ゴールド",
+      "variant": "F90mm 20本 ｱﾙﾐ缶",
+      "grams": "",
+      "priceYen": 3800,
+      "country": "英国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "トレジャラー",
+      "name": "ラグジュアリー・ブラック",
+      "variant": "FK90mm 20本 ﾎﾞｯｸｽ",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "英国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "トレジャラー",
+      "name": "エグゼクティブ ブラック",
+      "variant": "FK84mm 20本 ﾎﾞｯｸｽ",
+      "grams": "",
+      "priceYen": 680,
+      "country": "英国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Duarte",
+      "name": "Clasico Intermedia Short",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Duarte",
+      "name": "Clasico Intermedia Corona",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 1600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Duarte",
+      "name": "Clasico Intermedia Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Duarte",
+      "name": "Clasico Intermedia Cazador",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Duarte",
+      "name": "Clasico Intermedia Ancho",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Duarte",
+      "name": "Clasico Intermedia Churchill",
+      "variant": "180mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Duarte",
+      "name": "Clasico Golden Ancho",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Duarte",
+      "name": "Clasico Golden Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Duarte",
+      "name": "Clasico Golden Cazador",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Duarte",
+      "name": "Clasico Golden Short",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

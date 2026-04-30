@@ -1,0 +1,62 @@
+{
+  "date": "2024-06-27",
+  "kind": "shinki",
+  "filename": "20240627_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240627_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "リッチ・プルーム・エックス・プルーム・エス用",
+      "variant": "20本",
+      "grams": "5.2g",
+      "priceYen": 500,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "ディープ・レギュラー・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.0g",
+      "priceYen": 500,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "アロマリッチ・レギュラー・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.0g",
+      "priceYen": 500,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ルーシー",
+      "name": "ミント",
+      "variant": "プラスチックケース",
+      "grams": "5.0g",
+      "priceYen": 450,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ルーシー",
+      "name": "アップルアイス",
+      "variant": "プラスチックケース",
+      "grams": "5.0g",
+      "priceYen": 450,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ルーシー",
+      "name": "マンゴー",
+      "variant": "プラスチックケース",
+      "grams": "5.0g",
+      "priceYen": 450,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    }
+  ]
+}

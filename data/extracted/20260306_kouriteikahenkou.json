@@ -1,0 +1,1079 @@
+{
+  "date": "2026-03-06",
+  "kind": "henkou",
+  "filename": "20260306_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260306_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "アヴォ",
+      "name": "シンクロ ニカラグア フォガッタ ロブスト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "アヴォ",
+      "name": "シンクロ ニカラグア フォガッタ トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "アヴォ",
+      "name": "シンクロ ニカラグア フォガッタ トロ チュボス",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "アヴォ",
+      "name": "シンクロ ニカラグア フォガッタ スペシャル トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 4100,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "アヴォ",
+      "name": "クラシック プリトス",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "コネチカット ロブスト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "コネチカット ロブスト チュボス",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "コネチカット トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "コロホ ゴルド",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3450,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "コロホ ロブスト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "コロホ ロブスト チュボス",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "コロホ トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "コネチカット マチトス",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 800,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "コロホ マチトス",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 800,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "エクアドル ゴルド",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3450,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "エクアドル ロブスト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "エクアドル ロブスト チュボス",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "エクアドル トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "ニカラグア ロブスト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "ニカラグア トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "ニカラグア グランチャーチル",
+      "variant": "177mm 1本",
+      "grams": "",
+      "priceYen": 3100,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クザーノ",
+      "name": "BD ペティパナテラ",
+      "variant": "121mm 1本",
+      "grams": "",
+      "priceYen": 650,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クザーノ",
+      "name": "BD ペティコロナ",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 750,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クザーノ",
+      "name": "BD コロナ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クザーノ",
+      "name": "BD ショートロブスト",
+      "variant": "108mm 1本",
+      "grams": "",
+      "priceYen": 900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クザーノ",
+      "name": "BD ロブスト",
+      "variant": "124mm 1本",
+      "grams": "",
+      "priceYen": 1050,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クザーノ",
+      "name": "ホンジュラス ハーフコロナ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1050,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クザーノ",
+      "name": "ホンジュラス ロブスト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クザーノ",
+      "name": "ホンジュラス トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1750,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クザーノ",
+      "name": "ホンジュラス チャーチル",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 1750,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "スペシャル\u003c\u003cT\u003e\u003e",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 6300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "スペシャル\u003c\u003cR\u003e\u003e",
+      "variant": "124mm 1本",
+      "grams": "",
+      "priceYen": 5700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "スペシャル\u003c\u003cR\u003e\u003e チュボス",
+      "variant": "124mm 1本",
+      "grams": "",
+      "priceYen": 5800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ショートパーフェクト",
+      "variant": "124mm 1本",
+      "grams": "",
+      "priceYen": 5000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "エントレアクト",
+      "variant": "89mm 1本",
+      "grams": "",
+      "priceYen": 3200,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "アニベルサリオ NO.3 チュボス",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 7900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "グランクリュ NO.2",
+      "variant": "142mm 1本",
+      "grams": "",
+      "priceYen": 5000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "グランクリュ NO.3",
+      "variant": "129mm 1本",
+      "grams": "",
+      "priceYen": 4500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "グランクリュ NO.5",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 3600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "グランクリュ ロブスト",
+      "variant": "133mm 1本",
+      "grams": "",
+      "priceYen": 5700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "グランクリュ トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 6400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ロブスト ミレニアムブレンド",
+      "variant": "133mm 1本",
+      "grams": "",
+      "priceYen": 6000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ロブスト チュボス ミレニアムブレンド",
+      "variant": "133mm 1本",
+      "grams": "",
+      "priceYen": 6100,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ペティコロナ ミレニアムブレンド",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ピラミデ ミレニアムブレンド",
+      "variant": "156mm 1本",
+      "grams": "",
+      "priceYen": 6800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ショートロブスト ミレニアムブレンド",
+      "variant": "108mm 1本",
+      "grams": "",
+      "priceYen": 4800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "トロ ミレニアムブレンド",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 7100,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ニカラグア ロブスト ボックスプレス",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 4800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ニカラグア トロ ボックスプレス",
+      "variant": "154mm 1本",
+      "grams": "",
+      "priceYen": 6000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ニカラグア ディアデマ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 7200,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ニカラグア ロブスト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 5100,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ニカラグア ロブスト チュボス",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 5200,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ニカラグア ショートコロナ",
+      "variant": "95mm 1本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ニカラグア トロ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 6200,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ロイヤルリリース ロブスト",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 20100,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ロイヤルリリース サロモネス",
+      "variant": "210mm 1本",
+      "grams": "",
+      "priceYen": 24500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "エクスクイジトス",
+      "variant": "95mm 1本",
+      "grams": "",
+      "priceYen": 900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "NO.2",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 5200,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "NO.2 チュボス",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 5300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "アンバサドリス",
+      "variant": "115mm 1本",
+      "grams": "",
+      "priceYen": 2650,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "1000",
+      "variant": "117mm 1本",
+      "grams": "",
+      "priceYen": 3100,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "2000",
+      "variant": "129mm 1本",
+      "grams": "",
+      "priceYen": 4400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "2000 チュボス",
+      "variant": "129mm 1本",
+      "grams": "",
+      "priceYen": 4500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "6000",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 5300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "シグネチャー トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 6100,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "シグネチャー ペティコロナ",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 3450,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ウィンストンチャーチル アリストクラット チャーチル",
+      "variant": "175mm 1本",
+      "grams": "",
+      "priceYen": 7700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ウィンストンチャーチル アーティスト ペティコロナ",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 3900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ウィンストンチャーチル ステイツマン ロブスト",
+      "variant": "133mm 1本",
+      "grams": "",
+      "priceYen": 6800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ウィンストンチャーチル コマンダー トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 8000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ウィンストンチャーチル レイトアワー ロブスト",
+      "variant": "125mm 1本",
+      "grams": "",
+      "priceYen": 7500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ウィンストンチャーチル レイトアワー チャーチル",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 8400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ウィンストンチャーチル レイトアワー トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 8700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ウィンストンチャーチル トラベラー ペリコ",
+      "variant": "115mm 1本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ウィンストンチャーチル コントロール ペティパナテラ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ウィンストンチャーチル レイトアワー ペティパナテラ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 3800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ヤマサ ペティチャーチル",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 3800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ヤマサ ピラミデス",
+      "variant": "156mm 1本",
+      "grams": "",
+      "priceYen": 7800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ヤマサ ロブスト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 6700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ヤマサ ロブスト チュボス",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 6800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ヤマサ トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 7900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "エスクリオ グランパーフェクト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 6100,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "エスクリオ グラントロ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 6500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "エスクリオ ペティロブスト",
+      "variant": "83mm 1本",
+      "grams": "",
+      "priceYen": 3500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "エスクリオ ロブスト",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 5300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "エスクリオ ロブスト チュボス",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 5400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダビドフ",
+      "name": "エスクリオ コロナゴルダ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 5000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ダビドフ",
+      "name": "パイプ タバコ ブラジル",
+      "variant": "パウチ",
+      "grams": "50.0g",
+      "priceYen": 4050,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ダビドフ",
+      "name": "パイプ タバコ アルゼンチン",
+      "variant": "パウチ",
+      "grams": "50.0g",
+      "priceYen": 4050,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ダビドフ",
+      "name": "パイプ タバコ マラウイ",
+      "variant": "パウチ",
+      "grams": "50.0g",
+      "priceYen": 4050,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ダビドフ",
+      "name": "レッド ミクスチュア",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 4150,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ダビドフ",
+      "name": "グリーン ミクスチュア",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 4150,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ブルー ミクスチュア",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 4150,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ダニッシュ ミクスチュア",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 6250,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ダビドフ",
+      "name": "イングリッシュ ミクスチュア",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 6250,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ダビドフ",
+      "name": "パイプ タバコ フレイク メダリオン",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 6600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ダビドフ",
+      "name": "ロイヤルティ",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 6250,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ダビドフ",
+      "name": "スコティッシュ ミクスチュア",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 6250,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "グリフィン",
+      "name": "500",
+      "variant": "128mm 1本",
+      "grams": "",
+      "priceYen": 2050,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "グリフィン",
+      "name": "300 チュボス",
+      "variant": "159mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "グリフィン",
+      "name": "ロブスト チュボス",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2450,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "グリフィン",
+      "name": "トロ",
+      "variant": "117mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "グリフィン",
+      "name": "プリトス",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 690,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "グリフィン",
+      "name": "グリフィノス",
+      "variant": "85mm 20本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "プライベートストック",
+      "name": "ミディアムフィラー NO.2 チュボス",
+      "variant": "159mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジノ プラチナム",
+      "name": "バレル チュボス",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 7300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジノ プラチナム",
+      "name": "グランドマスター",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジノ プラチナム",
+      "name": "グランドマスター チュボス",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジノ プラチナム",
+      "name": "チャビー",
+      "variant": "125mm 1本",
+      "grams": "",
+      "priceYen": 3450,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジノ プラチナム",
+      "name": "XS 1's",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジノ プラチナム",
+      "name": "XS",
+      "variant": "102mm 10本",
+      "grams": "",
+      "priceYen": 8000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジノ",
+      "name": "ニカラグア ショートトルペド",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 2300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジノ",
+      "name": "ニカラグア ロブスト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2650,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジノ",
+      "name": "ニカラグア トロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2950,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジノ",
+      "name": "ニカラグア ゴルド",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3450,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジノ",
+      "name": "ニカラグア ハーフコロナ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 2050,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジノ",
+      "name": "ニカラグア ショート プリトス",
+      "variant": "80mm 1本",
+      "grams": "",
+      "priceYen": 350,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジノ",
+      "name": "ミニシガリロ レッド",
+      "variant": "80mm 20本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジノ",
+      "name": "ミニシガリロ ニカラグア",
+      "variant": "80mm 20本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    }
+  ]
+}

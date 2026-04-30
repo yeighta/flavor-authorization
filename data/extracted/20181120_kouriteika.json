@@ -1,0 +1,170 @@
+{
+  "date": "2018-11-20",
+  "kind": "shinki",
+  "filename": "20181120_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20181120_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ｵﾘｼﾞﾅﾙ",
+      "variant": "F85mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ｶｶｵ",
+      "variant": "F85mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ﾐﾝﾄﾊﾞﾆﾗ",
+      "variant": "F85mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ﾓｶﾊﾞﾆﾗ",
+      "variant": "F85mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷｰｽ",
+      "name": "ｽﾘﾑ･ﾌﾞﾗﾝﾃﾞｰ",
+      "variant": "F80mm 20本",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ﾙｰﾏﾆｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷｰｽ",
+      "name": "ｽﾘﾑ･抹茶ﾗﾃ",
+      "variant": "F80mm 20本",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ﾙｰﾏﾆｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｱｰｸ･ﾛｰﾔﾙ",
+      "name": "ﾌﾞﾗｯｸ･ｺｺﾅッツ",
+      "variant": "FK84mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｱｰｸ･ﾛｰﾔﾙ",
+      "name": "ﾌﾞﾗｯｸ･ﾁｮｺﾚｰﾄ",
+      "variant": "FK84mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾄﾚｼﾞｬﾗｰ",
+      "name": "ﾌﾟﾚﾐｱﾑ･ｺﾞｰﾙﾄﾞ",
+      "variant": "FK90mm 20本 ｱﾙﾐ缶",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "英国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾄﾚｼﾞｬﾗｰ",
+      "name": "ﾌﾟﾚﾐｱﾑ･ｼﾙﾊﾞｰ",
+      "variant": "FK90mm 20本 ｱﾙﾐ缶",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "英国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｴｸｽｸﾙｰｼﾌﾞ ｼﾞｬﾊﾟﾝ 2018",
+      "variant": "139mm 1本",
+      "grams": "",
+      "priceYen": 7000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｲﾔｰ ｵﾌﾞ ｻﾞ ﾋﾟｯｸﾞ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 9500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱｳﾞｫ",
+      "name": "22 '30Yrs'",
+      "variant": "149mm 1本",
+      "grams": "",
+      "priceYen": 4800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱｳﾞｫ",
+      "name": "LE05 '30Yrs'",
+      "variant": "137mm 1本",
+      "grams": "",
+      "priceYen": 4900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "1962",
+      "name": "dark Side",
+      "variant": "151mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "1962",
+      "name": "wild Side",
+      "variant": "153mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Rudies",
+      "name": "Torpedo",
+      "variant": "151mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Rudies",
+      "name": "Toro",
+      "variant": "155mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

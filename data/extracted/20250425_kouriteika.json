@@ -1,0 +1,611 @@
+{
+  "date": "2025-04-25",
+  "kind": "shinki",
+  "filename": "20250425_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250425_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ヴィカ",
+      "name": "スヴェンソン スーパーマッシブ",
+      "variant": "13.0g 缶",
+      "grams": "13.0g",
+      "priceYen": 800,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "エッセンツェ",
+      "name": "スモーキータブー",
+      "variant": "10本 缶",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾊﾝｶﾞﾘｰ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "エッセンツェ",
+      "name": "キャベンディッシュファイヤー",
+      "variant": "10本 缶",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾊﾝｶﾞﾘｰ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "エッセンツェ",
+      "name": "インディアンサマー",
+      "variant": "10本 缶",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾊﾝｶﾞﾘｰ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "エッセンツェ",
+      "name": "ガイア・チャータル",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾊﾝｶﾞﾘｰ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "エッセンツェ",
+      "name": "トラディション・ショートパナテラ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾊﾝｶﾞﾘｰ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "黄鶴楼",
+      "name": "Four Seasons",
+      "variant": "FSK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 770,
+      "country": "中華人民共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Aniversario Robusto Corojo",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Aniversario Lancero Corojo Inter",
+      "variant": "191mm 1本",
+      "grams": "",
+      "priceYen": 2450,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Aniversario Robusto Maduro BP",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Aniversario Maduro Toro BP",
+      "variant": "159mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Aniversario Connecticut Robusto BP",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Aniversario Connecticut Toro BP",
+      "variant": "159mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "La Validacion Corojo Gran Robusto BP",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1850,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "La Validacion Corojo Toro BP",
+      "variant": "159mm 1本",
+      "grams": "",
+      "priceYen": 1980,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "La Validacion Corojo Gran Toro BP",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "La Validacion Maduro Gran Robusto BP",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1980,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "La Validacion Maduro Gran Toro",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "La Validacion Connecticut Gran Robusto BP",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1850,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "La Validacion Connecticut Toro BP",
+      "variant": "159mm 1本",
+      "grams": "",
+      "priceYen": 1980,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "La Validacion Connecticut Gran Toro",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "La Validacion Habano Gran Robusto BP",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1850,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "La Validacion Habano Toro BP",
+      "variant": "159mm 1本",
+      "grams": "",
+      "priceYen": 1980,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "La Validacion Habano Gran Toro",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Arsenio Robusto",
+      "variant": "133mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Arsenio Toro",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Arsenio Corona",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Supreme Leaf",
+      "name": "Euro Toro",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Supreme Leaf",
+      "name": "Inter Robusto",
+      "variant": "133mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Signature Selection Corona Gorda",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Signature Selection Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1980,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Signature Selection Toro",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2150,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Signature Selection Maduro Corona Gorda",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Signature Selection Maduro Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Signature Selection Maduro Toro",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2250,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Rare Leaf Reserve Corojo Robusto",
+      "variant": "133mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Rare Leaf Reserve Corojo Toro",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2350,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Rare Leaf Reserve Corojo Lonsdale",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Rare Leaf Reserve Maduro Robusto",
+      "variant": "133mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Rare Leaf Reserve Maduro Toro",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Aganorsa Leaf",
+      "name": "Rare Leaf Reserve Maduro Torpedo",
+      "variant": "159mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Guardian of the Farm",
+      "name": "Apollo Inter",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Guardian of the Farm",
+      "name": "JJ Inter",
+      "variant": "133mm 1本",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Guardian of the Farm",
+      "name": "Campeon",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Guardian of the Farm",
+      "name": "Night Watch Orpheus",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Guardian of the Farm",
+      "name": "Night Watch JJ BP",
+      "variant": "133mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Guardian of the Farm",
+      "name": "Night Watch Campeon",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2250,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Guardian of the Farm",
+      "name": "Night Watch Rambo",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 1850,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Guardian of the Farm",
+      "name": "Cerberus Toro Inter",
+      "variant": "159mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Guardian of the Farm",
+      "name": "Cerberus Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Guardian of the Farm",
+      "name": "Cerberus Lonsdale Inter",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "JFR",
+      "name": "Corojo Robusto Inter",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 1450,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "JFR",
+      "name": "Corojo Titan",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "JFR",
+      "name": "Corojo Junior",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 1200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "JFR",
+      "name": "Maduro Super Toro",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 1750,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "JFR",
+      "name": "Connecticut Robusto Inter",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 1450,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "JFR",
+      "name": "Connecticut Super Toro",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "JFR",
+      "name": "Lunatic Perfecto El Loco",
+      "variant": "121mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "JFR",
+      "name": "Lunatic Maduro",
+      "variant": "203mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "JFR",
+      "name": "Lunatic Torch Imagine Inter",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "リミテッドエディション 2025",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 6500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DARKSIDE",
+      "name": "VIRGIN PEACH 2.0",
+      "variant": "100.0g 箱",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Duarte",
+      "name": "Clasico Intermedio Toro",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Duarte",
+      "name": "Clasico Intermedio Grande Escoba",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Duarte",
+      "name": "Reserva Privada Fuerte Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Duarte",
+      "name": "Reserva Privada Fuerte Piramide52",
+      "variant": "156mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Duarte",
+      "name": "Reserva Privada Fuerte Toro Grande60",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

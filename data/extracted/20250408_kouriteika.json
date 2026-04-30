@@ -1,0 +1,188 @@
+{
+  "date": "2025-04-08",
+  "kind": "shinki",
+  "filename": "20250408_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250408_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "コヒ゜セニョリタス",
+      "name": "10",
+      "variant": "104mm 10本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "コヒ゜セニョリタス",
+      "name": "1",
+      "variant": "104mm 1本",
+      "grams": "",
+      "priceYen": 250,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ",
+      "name": "KOLA",
+      "variant": "ﾊﾟｯｸ",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "DARK WADER",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "CHOCOCREAM",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "PINK FLIGHT",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "TANGERINE SODA",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DOZAJ BLACK",
+      "name": "CANE MINT",
+      "variant": "ﾌﾟﾗｽﾁｯｸｹｰｽ",
+      "grams": "100.0g",
+      "priceYen": 4000,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "ブラジリアン スピリット",
+      "name": "バージニアブレンド",
+      "variant": "ﾊﾟｳﾁﾊﾟｯｸ",
+      "grams": "20.0g",
+      "priceYen": 480,
+      "country": "ﾌﾞﾗｼﾞﾙ"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "ブラジリアン スピリット",
+      "name": "アメリカンブレンド",
+      "variant": "ﾊﾟｳﾁﾊﾟｯｸ",
+      "grams": "20.0g",
+      "priceYen": 480,
+      "country": "ﾌﾞﾗｼﾞﾙ"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "ブラジリアン スピリット",
+      "name": "ダークファイヤード",
+      "variant": "ﾊﾟｳﾁﾊﾟｯｸ",
+      "grams": "20.0g",
+      "priceYen": 480,
+      "country": "ﾌﾞﾗｼﾞﾙ"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "ブラジリアン スピリット",
+      "name": "クラシック",
+      "variant": "ﾊﾟｳﾁﾊﾟｯｸ",
+      "grams": "20.0g",
+      "priceYen": 480,
+      "country": "ﾌﾞﾗｼﾞﾙ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "スタンレー",
+      "name": "ダブル・バニラ缶(100)",
+      "variant": "ﾍﾟｰﾊﾟｰ缶",
+      "grams": "100.0g",
+      "priceYen": 2800,
+      "country": "ﾍﾞﾙｷﾞｰ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ビリガー",
+      "name": "レッドチューブ",
+      "variant": "170mm 1本",
+      "grams": "",
+      "priceYen": 700,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ビリガー",
+      "name": "ブラックチューブ",
+      "variant": "170mm 1本",
+      "grams": "",
+      "priceYen": 700,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ビリガー",
+      "name": "ブルーチューブ",
+      "variant": "170mm 1本",
+      "grams": "",
+      "priceYen": 700,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ビリガー",
+      "name": "ゴールドチューブ",
+      "variant": "170mm 1本",
+      "grams": "",
+      "priceYen": 700,
+      "country": "ｽｲｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クオーラム",
+      "name": "ロブスト・マデューロ",
+      "variant": "121mm 1本",
+      "grams": "",
+      "priceYen": 800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クオーラム",
+      "name": "トロ・マデューロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 850,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クオーラム",
+      "name": "ダブルゴルド・マデューロ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

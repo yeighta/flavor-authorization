@@ -1,0 +1,26 @@
+{
+  "name": "flavor-authorization-frontend",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "node scripts/sync-data.mjs && next dev",
+    "build": "node scripts/sync-data.mjs && next build",
+    "start": "next start",
+    "lint": "next lint",
+    "sync-data": "node scripts/sync-data.mjs"
+  },
+  "dependencies": {
+    "next": "^15.1.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "@types/react": "^19.0.6",
+    "@types/react-dom": "^19.0.3",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.7.3"
+  }
+}

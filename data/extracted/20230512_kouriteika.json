@@ -1,0 +1,296 @@
+{
+  "date": "2023-05-12",
+  "kind": "shinki",
+  "filename": "20230512_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230512_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾄﾞﾝ ﾄｰﾏｽ",
+      "name": "ﾌﾞﾗｼﾞﾙ ﾛﾌﾞｽﾄ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 980,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾄﾞﾝ ﾄｰﾏｽ",
+      "name": "ﾌﾞﾗｼﾞﾙ ﾛｽﾁｬｲﾙﾄﾞ",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 930,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺｲｰﾊﾞ",
+      "name": "ｼｮｰﾄ ﾋｭﾐﾄﾞｰﾙ88 2023ED",
+      "variant": "82mm 88本",
+      "grams": "",
+      "priceYen": 45000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛﾍﾞﾙﾄ･P･ﾃﾞｭﾗﾝ",
+      "name": "ﾊﾞﾗｺｱ ﾛﾌﾞｽﾄ",
+      "variant": "123mm 1本",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AMAN TOKYO",
+      "name": "SHORT PIRAMIDES",
+      "variant": "110mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "AMAN TOKYO",
+      "name": "ROBUSTO Ⅱ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "FRESCURA",
+      "name": "MAGIA",
+      "variant": "115mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CORTOS",
+      "name": "",
+      "variant": "92mm 1本",
+      "grams": "",
+      "priceYen": 300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Don Pepin Garcia",
+      "name": "Original Lanceros",
+      "variant": "190mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ｱﾒﾘｶ合衆国,ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "My Father",
+      "name": "Le Bijou 1922 Petit Robusto",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾄﾞﾛﾝ",
+      "name": "1926 No.47",
+      "variant": "138mm 1本",
+      "grams": "",
+      "priceYen": 5600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾄﾞﾛﾝ",
+      "name": "1926 No.90 ﾁｭｰﾌﾞ",
+      "variant": "142mm 1本",
+      "grams": "",
+      "priceYen": 8100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾄﾞﾛﾝ",
+      "name": "50th ｱﾆﾊﾞｰｻﾘｰ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 13800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾄﾞﾛﾝ",
+      "name": "1964 ｿﾍﾞﾗﾉ ｽｸｴｱﾁｭｰﾌﾞ",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 6500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊﾟﾄﾞﾛﾝ",
+      "name": "1964 ﾌﾟﾚｼﾞﾃﾞﾝﾃ ｽｸｴｱﾁｭｰﾌﾞ",
+      "variant": "154mm 1本",
+      "grams": "",
+      "priceYen": 6700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Sin Compromiso",
+      "name": "Selección No.7",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 4800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Sin Compromiso",
+      "name": "Selección No.5",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 4400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Sin Compromiso",
+      "name": "Selección No.2",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 4300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Sin Compromiso",
+      "name": "Selección Intrépido",
+      "variant": "144mm 1本",
+      "grams": "",
+      "priceYen": 3800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Sin Compromiso",
+      "name": "Selección Varita Mágica",
+      "variant": "180mm 1本",
+      "grams": "",
+      "priceYen": 3900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Sobremesa",
+      "name": "Brulee Gordo",
+      "variant": "159mm 1本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Sobremesa",
+      "name": "Brulee Toro",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Sobremesa",
+      "name": "Brulee Robusto",
+      "variant": "135mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Sobremesa",
+      "name": "Elegante en Cedros",
+      "variant": "180mm 1本",
+      "grams": "",
+      "priceYen": 3100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Sobremesa",
+      "name": "Gran Imperiales",
+      "variant": "180mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Sobremesa",
+      "name": "Short Churchill",
+      "variant": "122mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Sobremesa",
+      "name": "El Americano",
+      "variant": "153mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Sobremesa",
+      "name": "Robusto Largo",
+      "variant": "134mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Sobremesa",
+      "name": "Cervantes Fino",
+      "variant": "158mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "H.O.T.",
+      "name": "ﾚｯﾄﾞ",
+      "variant": "1本",
+      "grams": "1.0g",
+      "priceYen": 520,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "H.O.T.",
+      "name": "ﾌﾞﾙｰ",
+      "variant": "1本",
+      "grams": "1.0g",
+      "priceYen": 520,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "H.O.T.",
+      "name": "ﾒﾝｿｰﾙ",
+      "variant": "1本",
+      "grams": "1.0g",
+      "priceYen": 520,
+      "country": "ｱﾒﾘｶ合衆国"
+    }
+  ]
+}

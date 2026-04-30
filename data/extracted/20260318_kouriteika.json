@@ -1,0 +1,26 @@
+{
+  "date": "2026-03-18",
+  "kind": "shinki",
+  "filename": "20260318_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260318_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラッキーズ",
+      "name": "10・ボックス",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ラッキーズ",
+      "name": "6・ボックス",
+      "variant": "FK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    }
+  ]
+}

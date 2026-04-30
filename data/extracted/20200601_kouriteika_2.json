@@ -1,0 +1,26 @@
+{
+  "date": "2020-06-01",
+  "kind": "shinki",
+  "filename": "20200601_kouriteika_2.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20200601_kouriteika_2.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ﾒﾝｿｰﾙ･ﾚｯﾄﾞ･ﾌﾟﾙｰﾑ･ｴｽ用",
+      "variant": "20本",
+      "grams": "",
+      "priceYen": 460,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｷｬﾒﾙ",
+      "name": "ﾒﾝｿｰﾙ･ｲｴﾛｰ･ﾌﾟﾙｰﾑ･ｴｽ用",
+      "variant": "20本",
+      "grams": "",
+      "priceYen": 460,
+      "country": "日本"
+    }
+  ]
+}

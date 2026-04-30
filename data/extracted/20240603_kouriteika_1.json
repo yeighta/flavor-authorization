@@ -1,0 +1,80 @@
+{
+  "date": "2024-06-03",
+  "kind": "shinki",
+  "filename": "20240603_kouriteika_1.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240603_kouriteika_1.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｲﾔｰ ｵﾌﾞ ｺﾚｸｼｮﾝｽﾞ",
+      "variant": "各種96本 箱",
+      "grams": "",
+      "priceYen": 3215000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "MI QUERIDA",
+      "name": "BLUE ANCHO CORTO",
+      "variant": "125mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "MI QUERIDA",
+      "name": "RED NO.648",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "MI QUERIDA",
+      "name": "BLUE ANCHO LARGO",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "MI QUERIDA",
+      "name": "BLUE FINO LARGO",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "MI QUERIDA",
+      "name": "RED NO.552",
+      "variant": "125mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "MI QUERIDA",
+      "name": "RED NO.652",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Sobremesa",
+      "name": "Brulee Blue Grand Corona",
+      "variant": "156mm 1本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2023-06-07",
+  "kind": "shinki",
+  "filename": "20230607_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230607_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "キャメル",
+      "name": "クラフト・メンソール・1・100's・スリム",
+      "variant": "FSK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 430,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "キャメル",
+      "name": "クラフト・メンソール・ベリーカプセル・5・100's・スリム",
+      "variant": "FSK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 430,
+      "country": "日本"
+    }
+  ]
+}

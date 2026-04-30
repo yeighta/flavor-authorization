@@ -1,0 +1,665 @@
+{
+  "date": "2025-08-28",
+  "kind": "shinki",
+  "filename": "20250828_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250828_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Base",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 2400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Basil",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 2400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Caramel",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 2400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Cherry",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 2400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Honey",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 2400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Lavender",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 2400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Lychee",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 2400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Mango",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 2400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Passion Fruit",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 2400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Salami",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 2400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Wild Strawberry",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 2400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Base",
+      "variant": "",
+      "grams": "60.0g",
+      "priceYen": 4500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Basil",
+      "variant": "",
+      "grams": "60.0g",
+      "priceYen": 4500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Caramel",
+      "variant": "",
+      "grams": "60.0g",
+      "priceYen": 4500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Cherry",
+      "variant": "",
+      "grams": "60.0g",
+      "priceYen": 4500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Honey",
+      "variant": "",
+      "grams": "60.0g",
+      "priceYen": 4500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Lavender",
+      "variant": "",
+      "grams": "60.0g",
+      "priceYen": 4500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "BONCHE",
+      "name": "Wild Strawberry",
+      "variant": "",
+      "grams": "60.0g",
+      "priceYen": 4500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Viola",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Strawberry",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Pink Grapefruit",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Mango Pineapple",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Wood",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Flower Perfume",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Marmelade",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Gynness",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Elderberry Wine",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Black Berry",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Green Apple",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Viola",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Strawberry",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Pink Grapefruit",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Mango Pineapple",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Marmelade",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Gynness",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Elderberry Wine",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Black Berry",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Green Apple",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Classic Coco Like",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Classic Coffee",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Classic Halloween Pumpkin",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Classic Coco Like",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4200,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Classic Coffee",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4200,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Classic Halloween Pumpkin",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4200,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black SNICKERS",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Black VALENTINE's",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "SUPER LEMON",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4500,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "MARIJUANA",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4500,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "GIN AIR",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4500,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "LINDEN BLOSSOM",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4500,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "SOUR CASSIS",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4500,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "WHITE SANGRIA",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "BRIOCHE RUM",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "GOLDEN RASPBERRY",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "MALIBU CREAM",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "CHRISTMAS WINE",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "SPICY STRAWBERRY",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "BERRY SORBET",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "LIMITED",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 1790,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "CIGAR No Aroma",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4800,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "CIGAR Lavender",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4800,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "CIGAR Raspberry Basil",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4800,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "CIGAR Ginger Cookies",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4800,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "CIGAR Single Malt Whiskey",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4800,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "CIGAR Nuts",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4800,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "CIGAR White Wine",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4800,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "CIGAR No Aroma",
+      "variant": "",
+      "grams": "20.0g",
+      "priceYen": 980,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "CIGAR Lavender",
+      "variant": "",
+      "grams": "20.0g",
+      "priceYen": 980,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "CIGAR Raspberry Basil",
+      "variant": "",
+      "grams": "20.0g",
+      "priceYen": 980,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "CIGAR Ginger Cookies",
+      "variant": "",
+      "grams": "20.0g",
+      "priceYen": 980,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "CIGAR Single Malt Whiskey",
+      "variant": "",
+      "grams": "20.0g",
+      "priceYen": 980,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "CIGAR Nuts",
+      "variant": "",
+      "grams": "20.0g",
+      "priceYen": 980,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "JENT",
+      "name": "CIGAR White Wine",
+      "variant": "",
+      "grams": "20.0g",
+      "priceYen": 980,
+      "country": "ﾛｼｱ ﾓﾙﾄﾞﾊﾞ"
+    }
+  ]
+}

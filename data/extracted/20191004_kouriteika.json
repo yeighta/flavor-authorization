@@ -1,0 +1,350 @@
+{
+  "date": "2019-10-04",
+  "kind": "shinki",
+  "filename": "20191004_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20191004_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H.ﾛﾊﾞｲﾅ",
+      "name": "白帯 ﾄﾛ",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾓﾝﾃﾊﾟｽｸｱﾙ",
+      "name": "ｲﾝﾍﾟﾗﾄﾞｰﾙ",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾌﾞﾗｼﾞﾙ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾟﾗｾﾝｼｱ",
+      "name": "ｱﾙﾏ ﾃﾞﾙ ﾌｴｺﾞ ｶﾝﾃﾞﾝﾃ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾟﾗｾﾝｼｱ",
+      "name": "ｱﾙﾏ ﾃﾞﾙ ﾌｴｺﾞ ﾌﾗﾏ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾟﾗｾﾝｼｱ",
+      "name": "ｱﾙﾏ ﾃﾞﾙ ﾌｴｺﾞ ｺﾝｾﾌﾟｼｵﾝ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ﾛｲﾔﾙ ﾄﾛ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 1620,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ﾌﾟﾗﾁﾅ ﾄﾛ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 1860,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "15周年 ﾄﾛ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "15周年 ﾄﾙﾋﾟｰﾄﾞ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1540,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ｴｯｼﾞ ｺﾈﾁｶｯﾄ ﾄﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1250,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ｳﾞｨﾝﾃｰｼﾞ1999 ﾛﾌﾞｽﾄ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 1410,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ｻﾝｸﾞﾛｳﾝ ｼﾞｭﾆｱ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ｳﾞｨﾝﾃｰｼﾞ2003 ｼﾞｭﾆｱ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "ｳﾞｨﾝﾃｰｼﾞ1992 ｼﾞｭﾆｱ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 600,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V 552 Melanio Maduro Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1940,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V 652 Melanio Maduro Torpedo",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 2760,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie G Special G",
+      "variant": "95mm 1本",
+      "grams": "",
+      "priceYen": 850,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞｶﾞﾌｨﾅ",
+      "name": "ｸﾞﾗﾝ ﾚｾﾞﾙﾊﾞ 2019",
+      "variant": "146mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞｶﾞﾌｨﾅ",
+      "name": "F2 ﾋﾟﾛﾃｨｺ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾍﾞｶﾞﾌｨﾅ",
+      "name": "ﾆｶﾗｸﾞｱ ｵﾒﾃﾍﾟ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱｳﾞｫ",
+      "name": "ﾘｰｼﾞｮﾅﾙ ｳｴｽﾄ ｴﾃﾞｨｼｮﾝ",
+      "variant": "139mm 1本",
+      "grams": "",
+      "priceYen": 3600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱｳﾞｫ",
+      "name": "ﾘｰｼﾞｮﾅﾙ ｲｰｽﾄ ｴﾃﾞｨｼｮﾝ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾁｬｯﾌﾟﾏﾝ",
+      "name": "ｽｰﾊﾟｰｽﾘﾑ･ｺｰﾋｰ",
+      "variant": "100mm 20本",
+      "grams": "",
+      "priceYen": 380,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾁｬｯﾌﾟﾏﾝ",
+      "name": "ｽｰﾊﾟｰｽﾘﾑ･ﾒﾝｿｰﾙ",
+      "variant": "100mm 20本",
+      "grams": "",
+      "priceYen": 380,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾈｵ",
+      "name": "ﾒﾛｰ･ﾌﾞﾚﾝﾄﾞ･ﾎﾟｯﾄﾞ･N",
+      "variant": "3個",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾈｵ",
+      "name": "ｸﾘｽﾌﾟ･ﾒﾝｿｰﾙ･ﾎﾟｯﾄﾞ",
+      "variant": "3個",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾈｵ",
+      "name": "ｱｲｽ･ﾌﾞﾙｰﾍﾞﾘｰ･ﾎﾟｯﾄﾞ",
+      "variant": "3個",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾈｵ",
+      "name": "ｸﾘｱ･ﾐﾝﾄ･ﾎﾟｯﾄﾞ",
+      "variant": "3個",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾈｵ",
+      "name": "ｾﾞｽﾃｨｰ･ｱｯﾌﾟﾙ･ﾎﾟｯﾄﾞ",
+      "variant": "3個",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国 ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾈｵ",
+      "name": "ﾄﾞﾙﾁｪ･ﾃｨﾗﾐｽ･ﾎﾟｯﾄﾞ",
+      "variant": "3個",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国 ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾈｵ",
+      "name": "ｼﾙｷｰ･ﾌﾞﾚﾝﾄﾞ･ﾎﾟｯﾄﾞ",
+      "variant": "3個",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾈｵ",
+      "name": "ｴﾚｸﾄﾘｯｸ･ﾁｪﾘｰ･ﾎﾟｯﾄﾞ",
+      "variant": "3個",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾈｵ",
+      "name": "ﾄﾛﾋﾟｶﾙ･ﾌﾙｰﾂ･ﾎﾟｯﾄﾞ",
+      "variant": "3個",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ﾈｵ",
+      "name": "ｺｺﾅｯﾂ･ﾊﾟﾝﾅｺｯﾀ･ﾎﾟｯﾄﾞ",
+      "variant": "3個",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊｰﾍﾞｽﾄ",
+      "name": "ｽｰﾊﾟｰｽﾘﾑ･ｸﾗｯｼｭｱｲｽ･ﾒﾝｿｰﾙ",
+      "variant": "100mm 20本",
+      "grams": "",
+      "priceYen": 360,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾊｰﾍﾞｽﾄ",
+      "name": "ｽｰﾊﾟｰｽﾘﾑ･ｸﾗｯｼｭｱｲｽ･ﾌﾞﾙｰﾍﾞﾘｰﾒﾝｿｰﾙ",
+      "variant": "100mm 20本",
+      "grams": "",
+      "priceYen": 360,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ｱｰｸﾃｨｯｸ･ﾒﾝｿｰﾙ",
+      "variant": "F85mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 490,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ｵﾘｼﾞﾅﾙ･ｼｬｸﾞ ｺｺﾅｯﾂﾐﾙｸ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "40.0g",
+      "priceYen": 990,
+      "country": "ｵﾗﾝﾀﾞ"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "date": "2025-09-12",
+  "kind": "shinki",
+  "filename": "20250912_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250912_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "アイシー・レッド",
+      "variant": "F45 20スティック ハードパック",
+      "grams": "5.5g",
+      "priceYen": 530,
+      "country": "ﾙｰﾏﾆｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "アイシー・レッド",
+      "variant": "F45 20スティック ハードパック",
+      "grams": "5.5g",
+      "priceYen": 530,
+      "country": "ｷﾞﾘｼｬ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "アイシー・レッド",
+      "variant": "F45 20スティック ハードパック",
+      "grams": "5.5g",
+      "priceYen": 530,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "アイシー・レッド",
+      "variant": "F45 20スティック ハードパック",
+      "grams": "5.5g",
+      "priceYen": 530,
+      "country": "大韓民国"
+    }
+  ]
+}

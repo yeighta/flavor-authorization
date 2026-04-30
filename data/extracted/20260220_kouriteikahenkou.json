@@ -1,0 +1,89 @@
+{
+  "date": "2026-02-20",
+  "kind": "henkou",
+  "filename": "20260220_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260220_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BdR",
+      "name": "プレミアム ロブスト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2350,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BdR",
+      "name": "プレミアム コロナ",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 2250,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BdR",
+      "name": "ゴールド ロブスト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BdR",
+      "name": "ゴールド ペルフェクト",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2650,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BdR",
+      "name": "1787 レインフォレスト ロブスト イメンソ",
+      "variant": "100mm 1本",
+      "grams": "",
+      "priceYen": 2150,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BdR",
+      "name": "1787 レインフォレスト ロングロブスト",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2550,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BdR",
+      "name": "1787 レインフォレスト ロブスト",
+      "variant": "90mm 1本",
+      "grams": "",
+      "priceYen": 1950,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BdR",
+      "name": "1787 リベルタ",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 3350,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BdR",
+      "name": "1787 レインフォレスト ピッコロ",
+      "variant": "75mm 1本",
+      "grams": "",
+      "priceYen": 1200,
+      "country": "ｺｽﾀﾘｶ"
+    }
+  ]
+}

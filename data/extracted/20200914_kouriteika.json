@@ -1,0 +1,134 @@
+{
+  "date": "2020-09-14",
+  "kind": "shinki",
+  "filename": "20200914_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20200914_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "フォルテ",
+      "name": "16・オリジナル",
+      "variant": "F85mm 16本",
+      "grams": "",
+      "priceYen": 290,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "フォルテ",
+      "name": "16・ライト",
+      "variant": "F85mm 16本",
+      "grams": "",
+      "priceYen": 290,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "フォルテ",
+      "name": "16・メンソール",
+      "variant": "F85mm 16本",
+      "grams": "",
+      "priceYen": 290,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Black Line Dubai Apple",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Black Line Moroccan Tea",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Melonmania",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Orange My Guava",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure hookah tobacco",
+      "name": "Gold Line Tomahawk",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジェット",
+      "name": "メンソール・KS ボックス",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 360,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジェット",
+      "name": "メンソールライト・KS ボックス",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 360,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダブルハピネス",
+      "name": "ライト・KS ボックス",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 360,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ダブルハピネス",
+      "name": "メンソール・KS ボックス",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 360,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロック",
+      "name": "ブルー",
+      "variant": "FSK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 380,
+      "country": "中華人民共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロック",
+      "name": "メンソール カプセル",
+      "variant": "FSK 20本 ハードパック",
+      "grams": "",
+      "priceYen": 380,
+      "country": "中華人民共和国"
+    }
+  ]
+}

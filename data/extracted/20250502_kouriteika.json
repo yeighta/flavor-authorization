@@ -1,0 +1,80 @@
+{
+  "date": "2025-05-02",
+  "kind": "shinki",
+  "filename": "20250502_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250502_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ジン・ミニ",
+      "name": "スペアミント・ロー",
+      "variant": "12ﾊﾟｳﾁ 缶",
+      "grams": "4.8g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ジン・ミニ",
+      "name": "クール・ミント・ロー",
+      "variant": "12ﾊﾟｳﾁ 缶",
+      "grams": "4.8g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ジン・ミニ",
+      "name": "アップル・ミント・ロー",
+      "variant": "12ﾊﾟｳﾁ 缶",
+      "grams": "4.8g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ジン・ミニ",
+      "name": "ピーチ・ロー",
+      "variant": "12ﾊﾟｳﾁ 缶",
+      "grams": "4.8g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ジン・ミニ",
+      "name": "スペアミント・ミディアム",
+      "variant": "12ﾊﾟｳﾁ 缶",
+      "grams": "4.8g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ジン・ミニ",
+      "name": "クール・ミント・ミディアム",
+      "variant": "12ﾊﾟｳﾁ 缶",
+      "grams": "4.8g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ジン・ミニ",
+      "name": "アップル・ミント・ミディアム",
+      "variant": "12ﾊﾟｳﾁ 缶",
+      "grams": "4.8g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ジン・ミニ",
+      "name": "ピーチ・ミディアム",
+      "variant": "12ﾊﾟｳﾁ 缶",
+      "grams": "4.8g",
+      "priceYen": 500,
+      "country": "ｽｳｪｰﾃﾞﾝ"
+    }
+  ]
+}

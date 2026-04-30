@@ -1,0 +1,647 @@
+{
+  "date": "2021-10-20",
+  "kind": "shinki",
+  "filename": "20211020_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20211020_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Undercrown",
+      "name": "Maduro Corona Doble",
+      "variant": "",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Undercrown",
+      "name": "Shade Corona Doble",
+      "variant": "",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Undercrown",
+      "name": "Sun Grown Gordito",
+      "variant": "",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Herrera Esteli",
+      "name": "Brazilian Maduro Toro Especial",
+      "variant": "",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Herrera Esteli",
+      "name": "Norteno Robusto Grande",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Tabak Especial",
+      "name": "Negra Belicoso",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1450,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Tabak Especial",
+      "name": "Negra Corona",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1250,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "RAW",
+      "name": "ｸﾗｼｯｸ 100",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3550,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "Cigar",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "Lemon Pie",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "Mesmerise",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "Sunbeam",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "Wonder Flower",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "Cucumber Chill",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "Lemon",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "Paan",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "Watermelon",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "Grape fruit Chill",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Social Smoke",
+      "name": "Mirage",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3600,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "FUMARI",
+      "name": "Strawberry Jam",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "FUMARI",
+      "name": "Cinnamon Latte",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "FUMARI",
+      "name": "Raspberry Swirl",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "LAYALINA",
+      "name": "Molasses Mint Cream",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1400,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "LAYALINA",
+      "name": "Molasses Ocean Heaven",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1400,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "LAYALINA",
+      "name": "Molasses Love Mia Mia",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1400,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "GOLDEN LAYALINA",
+      "name": "Molasses Love n' more",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1700,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Debaj",
+      "name": "Ice Black Grape Flavor",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Debaj",
+      "name": "Raspberry Flavor",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Double Apple Strong Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Grape Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Orange Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Black Grape Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Strawberry Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Kiwi Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Mint Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Eskimo Watermelon Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Biscuit Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Eskimo Lemon Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Viva Latam Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Free Spartacus Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Thanks Engels Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Pancho Villa Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Te Extrano Fidel Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Kak Dela Trshkv Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Ola Zapata Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Mandela's 27 Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Eskimo PineApple Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Eskimo Candy Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Me Cantare Kassia Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Fosbury 1968 Flavored",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Ola Zapata Flavored",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Mandela's 27 Flavored",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Te Extrano Fidel Flavored",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Free Spartacus Flavored",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Thanks Engels Flavored",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Fosbury 1968 Flavored",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Kak Dela Trshkv Flavored",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Black Grape Flavored",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Double Apple Strong Flavored",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Eskimo Lemon Flavored",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Kiwi Flavored",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Mango Flavored",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Orange Flavored",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Strawberry Flavored",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Mint Flavored",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Grape Flavored",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Eskimo Watermelon Flavored",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Pancho Villa Flavored",
+      "variant": "",
+      "grams": "250.0g",
+      "priceYen": 8750,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "The Shuffle Flavored",
+      "variant": "",
+      "grams": "25.0g",
+      "priceYen": 875,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Sting Like Bee Flavored",
+      "variant": "",
+      "grams": "25.0g",
+      "priceYen": 875,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "REVOSHI TOBACCO",
+      "name": "Float Like Butterfly Flavored",
+      "variant": "",
+      "grams": "25.0g",
+      "priceYen": 875,
+      "country": "ﾄﾙｺ"
+    }
+  ]
+}

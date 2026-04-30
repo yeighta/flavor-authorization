@@ -1,0 +1,224 @@
+{
+  "date": "2023-11-09",
+  "kind": "henkou",
+  "filename": "20231109_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20231109_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾜｰﾌﾟﾄ",
+      "name": "ﾁﾝﾁｬﾚ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾜｰﾌﾟﾄ",
+      "name": "ｸﾗｳﾄﾞﾎｯﾊﾟｰ 485",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾜｰﾌﾟﾄ",
+      "name": "ｺﾝﾊﾟﾆｵﾝ ﾛｽﾁｬｲﾙﾄﾞ",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 3350,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾜｰﾌﾟﾄ",
+      "name": "ﾄﾞﾝ ﾚｲﾅﾙﾄﾞ ﾚｶﾞﾛｽ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 4700,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾜｰﾌﾟﾄ",
+      "name": "ﾌﾛｰﾙ ﾃﾞﾙ ｳﾞｧﾚ ｸﾘｽﾀﾚｽ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾜｰﾌﾟﾄ",
+      "name": "ﾗ ｱｼｴﾝﾀﾞ ﾌｧｰｽﾄ ｸﾞﾛｳｽ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 2850,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾜｰﾌﾟﾄ",
+      "name": "ﾗ ｱｼｴﾝﾀﾞ ｸﾞﾗﾝﾛﾌﾞｽﾄ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾜｰﾌﾟﾄ",
+      "name": "ﾏｴｽﾄﾛ ﾃﾞﾙ ﾃｨｴﾝﾎﾟ 5712",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 3200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾜｰﾌﾟﾄ",
+      "name": "ﾗ ｱｼｴﾝﾀﾞ ｽﾍﾟﾘｵﾚｽ",
+      "variant": "143mm 1本",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾜｰﾌﾟﾄ",
+      "name": "ﾗ ｺﾙﾒﾅ No.44",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 5000,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾜｰﾌﾟﾄ",
+      "name": "ﾆｺﾃｨｰﾅ",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾜｰﾌﾟﾄ",
+      "name": "ﾏｴｽﾄﾛ ﾃﾞﾙ ﾃｨｴﾝﾎﾟ 5205",
+      "variant": "162mm 1本",
+      "grams": "",
+      "priceYen": 3150,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾜｰﾌﾟﾄ",
+      "name": "ｺﾙﾄ X46",
+      "variant": "114mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷﾞﾙﾊﾞｰﾄ･ﾄﾞ･ﾓﾝｻﾙﾊﾞｰﾄ",
+      "name": "ｸﾗｼｯｸ ﾍﾟﾙﾗ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷﾞﾙﾊﾞｰﾄ･ﾄﾞ･ﾓﾝｻﾙﾊﾞｰﾄ",
+      "name": "ｸﾗｼｯｸ ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1950,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷﾞﾙﾊﾞｰﾄ･ﾄﾞ･ﾓﾝｻﾙﾊﾞｰﾄ",
+      "name": "ｸﾗｼｯｸ ﾁｬﾝｷｰ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷﾞﾙﾊﾞｰﾄ･ﾄﾞ･ﾓﾝｻﾙﾊﾞｰﾄ",
+      "name": "ﾚﾎﾞﾘｭｰｼｮﾝ ﾍﾟﾙﾗ",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷﾞﾙﾊﾞｰﾄ･ﾄﾞ･ﾓﾝｻﾙﾊﾞｰﾄ",
+      "name": "ﾚﾎﾞﾘｭｰｼｮﾝ ﾛﾌﾞｽﾄ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｷﾞﾙﾊﾞｰﾄ･ﾄﾞ･ﾓﾝｻﾙﾊﾞｰﾄ",
+      "name": "ｱﾆﾊﾞｻﾘ",
+      "variant": "146mm 1本",
+      "grams": "",
+      "priceYen": 3650,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾟﾗｾﾝｼｱ",
+      "name": "ｺｾﾁｬ146ﾗ･ﾑｼﾞｶ",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2450,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾟﾗｾﾝｼｱ",
+      "name": "ｺｾﾁｬ146ﾗ･ﾍﾟｶﾞ",
+      "variant": "134mm 1本",
+      "grams": "",
+      "priceYen": 2650,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾟﾗｾﾝｼｱ",
+      "name": "ｺｾﾁｬ146ｻﾝ･ﾙｲ",
+      "variant": "159mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾟﾗｾﾝｼｱ",
+      "name": "ｺｾﾁｬ146ｻﾝ･ｱｸﾞｽﾃｨﾝ",
+      "variant": "146mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾌﾟﾗｾﾝｼｱ",
+      "name": "ｺｾﾁｬ146ﾓﾝﾃ･ｶﾙﾛ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

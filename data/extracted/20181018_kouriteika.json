@@ -1,0 +1,197 @@
+{
+  "date": "2018-10-18",
+  "kind": "shinki",
+  "filename": "20181018_kouriteika.pdf",
+  "url": "https://web.archive.org/web/20220101id_/https://www.mof.go.jp/policy/tab_salt/topics/20181018_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｶﾞﾝﾄﾞｩﾝ･ｱﾛﾏ",
+      "name": "ｵﾘｼﾞﾅﾙ",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 800,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｶﾞﾝﾄﾞｩﾝ･ｱﾛﾏ",
+      "name": "ｸﾛｰﾌﾞ",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 800,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｶﾞﾝﾄﾞｩﾝ･ｱﾛﾏ",
+      "name": "ｽﾄﾚｰﾄ",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 800,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｳｴｽﾄ",
+      "name": "ﾒﾝｿｰﾙﾎﾜｲﾄ100",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 400,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾊﾟﾋﾟﾖﾝ",
+      "name": "ｵﾘｼﾞﾅﾙ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "40.0g",
+      "priceYen": 970,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾊﾟﾋﾟﾖﾝ",
+      "name": "ﾊｰﾌｽﾜﾚ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "40.0g",
+      "priceYen": 970,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾊﾟﾋﾟﾖﾝ",
+      "name": "ﾒﾝｿｰﾙ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "40.0g",
+      "priceYen": 970,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾊﾟﾋﾟﾖﾝ",
+      "name": "ｸﾛｰﾌﾞ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "40.0g",
+      "priceYen": 970,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾊﾟﾋﾟﾖﾝ",
+      "name": "ﾊﾞｰｼﾞﾆｱ ｽﾍﾟｼｬﾙ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "40.0g",
+      "priceYen": 970,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾊﾞｲｵﾘﾝ",
+      "variant": "ｿﾌﾄﾊﾟｯｸ",
+      "grams": "40.0g",
+      "priceYen": 1000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾊﾞｲｵﾘﾝ",
+      "name": "DFC",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 1000,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾗｼﾞｬ ﾍﾞｽｷ",
+      "variant": "ｿﾌﾄﾊﾟｯｸ",
+      "grams": "30.0g",
+      "priceYen": 870,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "",
+      "name": "ｺﾋﾟ",
+      "variant": "86mm 10本",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺﾋﾟ",
+      "name": "ｳｯﾃﾞｨ",
+      "variant": "86mm 10本",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺﾋﾟ",
+      "name": "ｸﾗｼｯｸ",
+      "variant": "86mm 10本",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺﾋﾟ",
+      "name": "ﾊﾞﾆﾗ",
+      "variant": "86mm 10本",
+      "grams": "",
+      "priceYen": 620,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺﾋﾟ",
+      "name": "ｱﾛﾏ",
+      "variant": "86mm 10本",
+      "grams": "",
+      "priceYen": 620,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｺﾋﾟ",
+      "name": "ｸﾛｰﾌﾞ",
+      "variant": "86mm 10本",
+      "grams": "",
+      "priceYen": 620,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "",
+      "name": "ｼﾞｬﾊﾞﾉNo.1",
+      "variant": "122mm 1本",
+      "grams": "",
+      "priceYen": 510,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "",
+      "name": "ｼﾞｬﾊﾞﾉNo.3",
+      "variant": "125mm 1本",
+      "grams": "",
+      "priceYen": 1210,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "",
+      "name": "ｼﾞｬﾊﾞﾉNo.5",
+      "variant": "115mm 1本",
+      "grams": "",
+      "priceYen": 710,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    }
+  ]
+}

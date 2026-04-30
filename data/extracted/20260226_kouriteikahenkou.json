@@ -1,0 +1,620 @@
+{
+  "date": "2026-02-26",
+  "kind": "henkou",
+  "filename": "20260226_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260226_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "ディープ・レギュラー・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "サクラ・レギュラー・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "ブラック・メンソール・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "コールド・メンソール・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "フレッシュ・ミント・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "グリーン・ミント・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "ベリー・クリスタル・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "トロピカル・ベリー・クリスタル・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "トロピカル・バナナ・クリスタル・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "ハチミツ・レモン・クリスタル・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "トロピカル・ライム・クリスタル・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "エボ",
+      "name": "カカオ・ミント・クリスタル・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 580,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "ディープ・レギュラー・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "スムース・レギュラー・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "アロマ・リッチ・レギュラー・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "ブラック・コールド・メンソール・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "シャープ・コールド・メンソール・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "コールド・メンソール・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "ミックス・ミント・メンソール・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "ベリー・オプション・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "シトラス・オプション・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "マスカット・オプション・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "アップル・オプション・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "ペアー・オプション・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "リッチ・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 530,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "スムース・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 530,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "メンソール・コールド・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 530,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "メンソール・フレッシュ・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 530,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "メンソール・ベリー・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 530,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "メンソール・マスカット・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 530,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "ベリー・オプション・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 530,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "プレミアムゴールド・レギュラー・ウィズ用",
+      "variant": "5本",
+      "grams": "2.6g",
+      "priceYen": 620,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "プレミアムゴールド・フローズン・ウィズ用",
+      "variant": "5本",
+      "grams": "2.6g",
+      "priceYen": 620,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "プレミアムゴールド・メンソール・ウィズ用",
+      "variant": "5本",
+      "grams": "2.6g",
+      "priceYen": 620,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "ゴールド・レッド・ミント・ウィズ用",
+      "variant": "5本",
+      "grams": "2.6g",
+      "priceYen": 620,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "ゴールド・パープル・ミント・ウィズ用",
+      "variant": "5本",
+      "grams": "2.6g",
+      "priceYen": 620,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "プレミアムゴールド・シルク・レギュラー・ウィズ用",
+      "variant": "5本",
+      "grams": "3.0g",
+      "priceYen": 620,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "ディープ・レギュラー・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.0g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "スムース・レギュラー・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.0g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "アロマ・リッチ・レギュラー・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.0g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "ブラック・コールド・メンソール・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "4.7g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "シャープ・コールド・メンソール・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.2g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "コールド・メンソール・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.2g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "ミックス・ミント・メンソール・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "4.9g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "パープル・オプション・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.4g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "イエロー・オプション・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.4g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "マスカットグリーン・オプション・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.4g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "レッド・オプション・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.4g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "ベイズ・オプション・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "4.7g",
+      "priceYen": 550,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "リッチ・プルーム・エックス・プルーム・エス用",
+      "variant": "20本",
+      "grams": "5.2g",
+      "priceYen": 530,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "スムース・プルーム・エックス・プルーム・エス用",
+      "variant": "20本",
+      "grams": "5.1g",
+      "priceYen": 530,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "メンソール・コールド・プルーム・エックス・プルーム・エス用",
+      "variant": "20本",
+      "grams": "5.3g",
+      "priceYen": 530,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "メンソール・フレッシュ・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.2g",
+      "priceYen": 530,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "メンソール・パープル・プルーム・エックス・プルーム・エス用",
+      "variant": "20本",
+      "grams": "5.3g",
+      "priceYen": 530,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "メンソール・マスカットグリーン・プルーム・エックス・プルーム・エス用",
+      "variant": "20本",
+      "grams": "5.4g",
+      "priceYen": 530,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "パープル・オプション・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.4g",
+      "priceYen": 530,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "コールド・メンソール・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.2g",
+      "priceYen": 550,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "シャープ・コールド・メンソール・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.2g",
+      "priceYen": 550,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "スムース・レギュラー・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.0g",
+      "priceYen": 550,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "ディープ・レギュラー・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.0g",
+      "priceYen": 550,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "アロマ・リッチ・レギュラー・プルーム・エックス用",
+      "variant": "20本",
+      "grams": "5.0g",
+      "priceYen": 550,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "ディープ・レギュラー・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 550,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "スムース・レギュラー・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 550,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "リッチ・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 530,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "メンソール・コールド・プルーム・エックス・プルーム・エス用",
+      "variant": "20本",
+      "grams": "5.3g",
+      "priceYen": 530,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "メンソール・パープル・プルーム・エックス・プルーム・エス用",
+      "variant": "20本",
+      "grams": "5.3g",
+      "priceYen": 530,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "メンソール・マスカットグリーン・プルーム・エックス・プルーム・エス用",
+      "variant": "20本",
+      "grams": "5.4g",
+      "priceYen": 530,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "キャメル",
+      "name": "リッチ・プルーム・エックス・プルーム・エス用",
+      "variant": "20本",
+      "grams": "5.2g",
+      "priceYen": 530,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    }
+  ]
+}

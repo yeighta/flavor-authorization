@@ -1,0 +1,611 @@
+{
+  "date": "2026-01-26",
+  "kind": "henkou",
+  "filename": "20260126_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260126_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Acid",
+      "name": "Blondie",
+      "variant": "100.6mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Bolivar",
+      "name": "Cofradia Palmita",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CAO",
+      "name": "gold honey petit corona",
+      "variant": "101.6mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CAO",
+      "name": "bella vanilla petit corona",
+      "variant": "101.6mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CAO",
+      "name": "moontrance petit corona",
+      "variant": "101.6mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CAO",
+      "name": "earth nectar petit corona",
+      "variant": "101.6mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CAO",
+      "name": "eileen's dream petit corona",
+      "variant": "101.6mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CAO",
+      "name": "cherrybomb petit corona",
+      "variant": "101.6mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Cohiba",
+      "name": "Black Corona",
+      "variant": "139.7mm 1本",
+      "grams": "",
+      "priceYen": 9000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Cohiba",
+      "name": "Corona",
+      "variant": "130.2mm 1本",
+      "grams": "",
+      "priceYen": 8000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Cohiba",
+      "name": "Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 9800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Cohiba",
+      "name": "Pequeno Tin",
+      "variant": "106.4mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Cuba Libre",
+      "name": "Club Corona",
+      "variant": "139.7mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Gloria Cubana",
+      "name": "maduro Corona Gorda",
+      "variant": "152.4mm 1本",
+      "grams": "",
+      "priceYen": 4200,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Gloria Cubana",
+      "name": "natural Corona Gorda",
+      "variant": "152.4mm 1本",
+      "grams": "",
+      "priceYen": 4200,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Gloria Cubana",
+      "name": "natural Gloria",
+      "variant": "139.7mm 1本",
+      "grams": "",
+      "priceYen": 3800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Gloria Cubana",
+      "name": "Gloria Petite Tin",
+      "variant": "111.1mm 1本",
+      "grams": "",
+      "priceYen": 1400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Montecristo",
+      "name": "White Montecristo Court",
+      "variant": "139.7mm 1本",
+      "grams": "",
+      "priceYen": 7000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Montecristo",
+      "name": "Platinum Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 7800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Montecristo",
+      "name": "Memories",
+      "variant": "101.6mm 1本",
+      "grams": "",
+      "priceYen": 1600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie O maduro Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie O natural Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V Double Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie O No.4",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie G Robusto",
+      "variant": "114.3mm 1本",
+      "grams": "",
+      "priceYen": 2900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie G Maduro Robusto",
+      "variant": "114.3mm 1本",
+      "grams": "",
+      "priceYen": 2900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "master blends 3 Liga Maestra Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 4500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Partagas",
+      "name": "Black Classic",
+      "variant": "133.3mm 1本",
+      "grams": "",
+      "priceYen": 5000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Perdomo",
+      "name": "ESV 1991 Regente Natural",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Perdomo",
+      "name": "ESV 1991 Regente Maduro",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Punch",
+      "name": "Maduro London Club",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Punch",
+      "name": "Maduro Pita",
+      "variant": "155.6mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Punch",
+      "name": "Natural London Club",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Punch",
+      "name": "Natural Pita",
+      "variant": "155.6mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Rocky Patel",
+      "name": "Sun Grown Petit Corona",
+      "variant": "114.3mm 1本",
+      "grams": "",
+      "priceYen": 1950,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Rocky Patel",
+      "name": "Sun Grown Robusto",
+      "variant": "139.7mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Romeo y Julieta",
+      "name": "Res. Maduro #4",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Romeo y Julieta",
+      "name": "1875 Bully",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Romeo y Julieta",
+      "name": "1875 Cedro Deluxe #2",
+      "variant": "139.7mm 1本",
+      "grams": "",
+      "priceYen": 3800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Romeo y Julieta",
+      "name": "Viejo",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Romeo y Julieta",
+      "name": "Vintage Corona",
+      "variant": "139.7mm 1本",
+      "grams": "",
+      "priceYen": 5500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Romeo y Julieta",
+      "name": "1875 Julietas",
+      "variant": "123.8mm 1本",
+      "grams": "",
+      "priceYen": 1300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie O Tin",
+      "variant": "100.2mm 1本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Cohiba",
+      "name": "Black Robustos Crystal",
+      "variant": "139.7mm 1本",
+      "grams": "",
+      "priceYen": 10800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Cohiba",
+      "name": "miniture",
+      "variant": "95mm 1本",
+      "grams": "",
+      "priceYen": 1100,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Cohiba",
+      "name": "Pequeno Tin Black",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Partagas",
+      "name": "Puritos Tin",
+      "variant": "107.9mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Punch",
+      "name": "Slim Panatellas Tin",
+      "variant": "117.5mm 1本",
+      "grams": "",
+      "priceYen": 1100,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Gloria Cubana",
+      "name": "Gloria Petite Maduro Tin",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Romeo y Julieta",
+      "name": "1875 Romeos",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Romeo y Julieta",
+      "name": "Reserva real",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Bolivar",
+      "name": "Robusto Crystal",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CAO",
+      "name": "Cameroon Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 4600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CAO",
+      "name": "bella vanilla tin",
+      "variant": "100mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "H. Upmann",
+      "name": "Vintage Cameroon Corona",
+      "variant": "135mm 1本",
+      "grams": "",
+      "priceYen": 3200,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Montecristo",
+      "name": "No. 2 (Dominican)",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 8000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Montecristo",
+      "name": "No. 4 Box-Pressed",
+      "variant": "100mm 1本",
+      "grams": "",
+      "priceYen": 3500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Montecristo",
+      "name": "Dark No. 444",
+      "variant": "105mm 1本",
+      "grams": "",
+      "priceYen": 3600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Montecristo",
+      "name": "White Prontos Petites",
+      "variant": "101.6mm 1本",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "My Father",
+      "name": "Le Bijou 1922 Torpedo",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 6000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Rocky Patel",
+      "name": "Vintage 1990 Petit Corona",
+      "variant": "114.3mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Rocky Patel",
+      "name": "Vintage 1990 Toro",
+      "variant": "165.1mm 1本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Rocky Patel",
+      "name": "Vintage 1992 Petit Corona",
+      "variant": "114.3mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Rocky Patel",
+      "name": "Vintage 1992 Toro",
+      "variant": "165.1mm 1本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Saint Luis Rey",
+      "name": "Reserva Especial Toro",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 4700,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Partagas",
+      "name": "Black Label Prontos",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Punch",
+      "name": "Bolos",
+      "variant": "106.4mm 1本",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    }
+  ]
+}

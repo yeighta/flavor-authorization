@@ -1,0 +1,89 @@
+{
+  "date": "2025-12-16",
+  "kind": "shinki",
+  "filename": "20251216_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20251216_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EIROA",
+      "name": "20 YEARS CORONA PRENSADO",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EIROA",
+      "name": "20 YEARS ROBUSTO PRENSADO",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 4200,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EIROA",
+      "name": "CLASSIC CORONA PRENSADO",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EIROA",
+      "name": "CLASSIC ROBUSTO",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3800,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EIROA",
+      "name": "CBT MADURO CORONA PRENSADO",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EIROA",
+      "name": "CBT MADURO ROBUSTO",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3800,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CLE",
+      "name": "COROJO CORONA",
+      "variant": "146mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CLE",
+      "name": "COROJO ROBUSTO",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Ginza",
+      "name": "Sapphire Robusto",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

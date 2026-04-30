@@ -1,0 +1,62 @@
+{
+  "date": "2023-05-19",
+  "kind": "shinki",
+  "filename": "20230519_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230519_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ﾃﾘｱ",
+      "name": "ﾌﾞﾗｯｸ･ﾙﾋﾞｰ･ﾒﾝｿｰﾙ",
+      "variant": "F45 20ｽﾃｨｯｸ ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 580,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｮｲｽ",
+      "name": "ｷｰﾙﾛﾜｲﾔﾙ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾁｮｲｽ",
+      "name": "ﾙﾊﾞｰﾌﾞ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾌｫﾝ･ｸﾗｰﾚﾝ",
+      "name": "ﾘﾐﾃｯﾄﾞｴﾃﾞｨｼｮﾝ",
+      "variant": "缶",
+      "grams": "150.0g",
+      "priceYen": 4800,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "SHIKHAR",
+      "name": "FILTER KHAINI",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "4.2g",
+      "priceYen": 100,
+      "country": "ｲﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "SUPER LIKE",
+      "name": "TOBACCO",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "20.0g",
+      "priceYen": 300,
+      "country": "ﾈﾊﾟｰﾙ"
+    }
+  ]
+}
