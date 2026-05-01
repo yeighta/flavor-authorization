@@ -1,0 +1,44 @@
+{
+  "date": "2026-04-30",
+  "kind": "shinki",
+  "filename": "20260430_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260430_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ブレンズ",
+      "name": "バランスト・クラシックス",
+      "variant": "F45 20スティック ハードパック",
+      "grams": "3.2g",
+      "priceYen": 570,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ブレンズ",
+      "name": "リッチ・クラシックス",
+      "variant": "F45 20スティック ハードパック",
+      "grams": "3.2g",
+      "priceYen": 570,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ブレンズ",
+      "name": "ブルーベリー",
+      "variant": "F45 20スティック ハードパック",
+      "grams": "3.4g",
+      "priceYen": 570,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ブレンズ",
+      "name": "アイシー・フレッシュ",
+      "variant": "F45 20スティック ハードパック",
+      "grams": "3.4g",
+      "priceYen": 570,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    }
+  ]
+}
