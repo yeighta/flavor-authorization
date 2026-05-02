@@ -16,16 +16,16 @@
   {
     "date": "2018-05-01",
     "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20180501_kouritaika_2.pdf",
-    "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20180501_kouritaika_2.pdf",
-    "filename": "20180501_kouritaika_2.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20180501_kouriteika_1.pdf",
+    "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20180501_kouriteika_1.pdf",
+    "filename": "20180501_kouriteika_1.pdf"
   },
   {
     "date": "2018-05-01",
     "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20180501_kouriteika_1.pdf",
-    "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20180501_kouriteika_1.pdf",
-    "filename": "20180501_kouriteika_1.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20180501_kouritaika_2.pdf",
+    "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20180501_kouritaika_2.pdf",
+    "filename": "20180501_kouritaika_2.pdf"
   },
   {
     "date": "2018-05-31",
@@ -72,23 +72,16 @@
   {
     "date": "2018-08-07",
     "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20180807_kouriteika_1.pdf",
-    "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20180807_kouriteika_1.pdf",
-    "filename": "20180807_kouriteika_1.pdf"
-  },
-  {
-    "date": "2018-08-07",
-    "kind": "shinki",
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20180807_kouriteika_2.pdf",
     "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20180807_kouriteika_2.pdf",
     "filename": "20180807_kouriteika_2.pdf"
   },
   {
-    "date": "2018-08-09",
+    "date": "2018-08-07",
     "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20180809_kouriteika_1.pdf",
-    "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20180809_kouriteika_1.pdf",
-    "filename": "20180809_kouriteika_1.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20180807_kouriteika_1.pdf",
+    "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20180807_kouriteika_1.pdf",
+    "filename": "20180807_kouriteika_1.pdf"
   },
   {
     "date": "2018-08-09",
@@ -98,11 +91,11 @@
     "filename": "20180809_kouriteika_2.pdf"
   },
   {
-    "date": "2018-08-27",
+    "date": "2018-08-09",
     "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20180827_kouriteika_3.pdf",
-    "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20180827_kouriteika_3.pdf",
-    "filename": "20180827_kouriteika_3.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20180809_kouriteika_1.pdf",
+    "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20180809_kouriteika_1.pdf",
+    "filename": "20180809_kouriteika_1.pdf"
   },
   {
     "date": "2018-08-27",
@@ -117,6 +110,13 @@
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20180827_kouriteika_1.pdf",
     "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20180827_kouriteika_1.pdf",
     "filename": "20180827_kouriteika_1.pdf"
+  },
+  {
+    "date": "2018-08-27",
+    "kind": "shinki",
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20180827_kouriteika_3.pdf",
+    "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20180827_kouriteika_3.pdf",
+    "filename": "20180827_kouriteika_3.pdf"
   },
   {
     "date": "2018-09-05",
@@ -170,6 +170,13 @@
   {
     "date": "2018-10-01",
     "kind": "shinki",
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20181001_kouriteika_1.pdf",
+    "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20181001_kouriteika_1.pdf",
+    "filename": "20181001_kouriteika_1.pdf"
+  },
+  {
+    "date": "2018-10-01",
+    "kind": "shinki",
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20181001_kouriteika_2.pdf",
     "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20181001_kouriteika_2.pdf",
     "filename": "20181001_kouriteika_2.pdf"
@@ -180,13 +187,6 @@
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20181001_kouriteika_3.pdf",
     "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20181001_kouriteika_3.pdf",
     "filename": "20181001_kouriteika_3.pdf"
-  },
-  {
-    "date": "2018-10-01",
-    "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20181001_kouriteika_1.pdf",
-    "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20181001_kouriteika_1.pdf",
-    "filename": "20181001_kouriteika_1.pdf"
   },
   {
     "date": "2018-10-10",
@@ -303,6 +303,13 @@
   {
     "date": "2019-03-25",
     "kind": "shinki",
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20190325_kouriteika_2.pdf",
+    "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20190325_kouriteika_2.pdf",
+    "filename": "20190325_kouriteika_2.pdf"
+  },
+  {
+    "date": "2019-03-25",
+    "kind": "shinki",
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20190325_kouriteika_1.pdf",
     "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20190325_kouriteika_1.pdf",
     "filename": "20190325_kouriteika_1.pdf"
@@ -313,13 +320,6 @@
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20190325_kouriteika_3.pdf",
     "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20190325_kouriteika_3.pdf",
     "filename": "20190325_kouriteika_3.pdf"
-  },
-  {
-    "date": "2019-03-25",
-    "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20190325_kouriteika_2.pdf",
-    "waybackUrl": "https://web.archive.org/web/20220101/https://www.mof.go.jp/policy/tab_salt/topics/20190325_kouriteika_2.pdf",
-    "filename": "20190325_kouriteika_2.pdf"
   },
   {
     "date": "2019-03-26",
@@ -380,16 +380,16 @@
   {
     "date": "2019-06-12",
     "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20190612_kouriteika_1.pdf",
-    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20190612_kouriteika_1.pdf",
-    "filename": "20190612_kouriteika_1.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20190612_kouriteika_2.pdf",
+    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20190612_kouriteika_2.pdf",
+    "filename": "20190612_kouriteika_2.pdf"
   },
   {
     "date": "2019-06-12",
     "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20190612_kouriteika_2.pdf",
-    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20190612_kouriteika_2.pdf",
-    "filename": "20190612_kouriteika_2.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20190612_kouriteika_1.pdf",
+    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20190612_kouriteika_1.pdf",
+    "filename": "20190612_kouriteika_1.pdf"
   },
   {
     "date": "2019-06-17",
@@ -415,16 +415,16 @@
   {
     "date": "2019-06-28",
     "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20190628_kouriteika_2.pdf",
-    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20190628_kouriteika_2.pdf",
-    "filename": "20190628_kouriteika_2.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20190628_kouriteika_1.pdf",
+    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20190628_kouriteika_1.pdf",
+    "filename": "20190628_kouriteika_1.pdf"
   },
   {
     "date": "2019-06-28",
     "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20190628_kouriteika_1.pdf",
-    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20190628_kouriteika_1.pdf",
-    "filename": "20190628_kouriteika_1.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20190628_kouriteika_2.pdf",
+    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20190628_kouriteika_2.pdf",
+    "filename": "20190628_kouriteika_2.pdf"
   },
   {
     "date": "2019-07-24",
@@ -485,16 +485,16 @@
   {
     "date": "2019-09-18",
     "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20190918_kouriteika_1.pdf",
-    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20190918_kouriteika_1.pdf",
-    "filename": "20190918_kouriteika_1.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20190918_kouriteika_2.pdf",
+    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20190918_kouriteika_2.pdf",
+    "filename": "20190918_kouriteika_2.pdf"
   },
   {
     "date": "2019-09-18",
     "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20190918_kouriteika_2.pdf",
-    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20190918_kouriteika_2.pdf",
-    "filename": "20190918_kouriteika_2.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20190918_kouriteika_1.pdf",
+    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20190918_kouriteika_1.pdf",
+    "filename": "20190918_kouriteika_1.pdf"
   },
   {
     "date": "2019-10-03",
@@ -744,16 +744,16 @@
   {
     "date": "2020-06-29",
     "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20200629_kouriteika_2.pdf",
-    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20200629_kouriteika_2.pdf",
-    "filename": "20200629_kouriteika_2.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20200629_kouriteika.pdf",
+    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20200629_kouriteika.pdf",
+    "filename": "20200629_kouriteika.pdf"
   },
   {
     "date": "2020-06-29",
     "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20200629_kouriteika.pdf",
-    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20200629_kouriteika.pdf",
-    "filename": "20200629_kouriteika.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20200629_kouriteika_2.pdf",
+    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20200629_kouriteika_2.pdf",
+    "filename": "20200629_kouriteika_2.pdf"
   },
   {
     "date": "2020-07-20",
@@ -820,17 +820,17 @@
   },
   {
     "date": "2020-09-14",
-    "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20200914_kouriteika.pdf",
-    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20200914_kouriteika.pdf",
-    "filename": "20200914_kouriteika.pdf"
-  },
-  {
-    "date": "2020-09-14",
     "kind": "henkou",
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20200914_kouriteikahenkou.pdf",
     "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20200914_kouriteikahenkou.pdf",
     "filename": "20200914_kouriteikahenkou.pdf"
+  },
+  {
+    "date": "2020-09-14",
+    "kind": "shinki",
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20200914_kouriteika.pdf",
+    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20200914_kouriteika.pdf",
+    "filename": "20200914_kouriteika.pdf"
   },
   {
     "date": "2020-09-17",
@@ -1583,17 +1583,17 @@
   },
   {
     "date": "2022-09-14",
-    "kind": "henkou",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20220914_kouriteikahenkou.pdf",
-    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20220914_kouriteikahenkou.pdf",
-    "filename": "20220914_kouriteikahenkou.pdf"
-  },
-  {
-    "date": "2022-09-14",
     "kind": "shinki",
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20220914_kouriteika.pdf",
     "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20220914_kouriteika.pdf",
     "filename": "20220914_kouriteika.pdf"
+  },
+  {
+    "date": "2022-09-14",
+    "kind": "henkou",
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20220914_kouriteikahenkou.pdf",
+    "waybackUrl": "https://web.archive.org/web/20230101/https://www.mof.go.jp/policy/tab_salt/topics/20220914_kouriteikahenkou.pdf",
+    "filename": "20220914_kouriteikahenkou.pdf"
   },
   {
     "date": "2022-09-21",
@@ -1818,15 +1818,15 @@
   },
   {
     "date": "2023-09-08",
-    "kind": "henkou",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230908_kouriteikahenkou.pdf",
-    "filename": "20230908_kouriteikahenkou.pdf"
-  },
-  {
-    "date": "2023-09-08",
     "kind": "shinki",
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230908_kouriteika.pdf",
     "filename": "20230908_kouriteika.pdf"
+  },
+  {
+    "date": "2023-09-08",
+    "kind": "henkou",
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230908_kouriteikahenkou.pdf",
+    "filename": "20230908_kouriteikahenkou.pdf"
   },
   {
     "date": "2023-09-15",
@@ -1902,15 +1902,15 @@
   },
   {
     "date": "2023-11-21",
-    "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20231121_kouriteika.pdf",
-    "filename": "20231121_kouriteika.pdf"
-  },
-  {
-    "date": "2023-11-21",
     "kind": "henkou",
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20231121_kouriteikahenkou.pdf",
     "filename": "20231121_kouriteikahenkou.pdf"
+  },
+  {
+    "date": "2023-11-21",
+    "kind": "shinki",
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20231121_kouriteika.pdf",
+    "filename": "20231121_kouriteika.pdf"
   },
   {
     "date": "2023-12-05",
@@ -1969,14 +1969,14 @@
   {
     "date": "2024-01-18",
     "kind": "henkou",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240118_kouriteikahenkou_1.pdf",
-    "filename": "20240118_kouriteikahenkou_1.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240118_kouriteikahenkou_2.pdf",
+    "filename": "20240118_kouriteikahenkou_2.pdf"
   },
   {
     "date": "2024-01-18",
     "kind": "henkou",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240118_kouriteikahenkou_2.pdf",
-    "filename": "20240118_kouriteikahenkou_2.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240118_kouriteikahenkou_1.pdf",
+    "filename": "20240118_kouriteikahenkou_1.pdf"
   },
   {
     "date": "2024-01-22",
@@ -2184,15 +2184,15 @@
   },
   {
     "date": "2024-06-07",
-    "kind": "henkou",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240607_kouriteikahenkou.pdf",
-    "filename": "20240607_kouriteikahenkou.pdf"
-  },
-  {
-    "date": "2024-06-07",
     "kind": "shinki",
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240607_kouriteika.pdf",
     "filename": "20240607_kouriteika.pdf"
+  },
+  {
+    "date": "2024-06-07",
+    "kind": "henkou",
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240607_kouriteikahenkou.pdf",
+    "filename": "20240607_kouriteikahenkou.pdf"
   },
   {
     "date": "2024-06-17",
@@ -2227,14 +2227,14 @@
   {
     "date": "2024-06-28",
     "kind": "henkou",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240628_kouriteikahenkou_2.pdf",
-    "filename": "20240628_kouriteikahenkou_2.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240628_kouriteikahenkou_1.pdf",
+    "filename": "20240628_kouriteikahenkou_1.pdf"
   },
   {
     "date": "2024-06-28",
     "kind": "henkou",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240628_kouriteikahenkou_1.pdf",
-    "filename": "20240628_kouriteikahenkou_1.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240628_kouriteikahenkou_2.pdf",
+    "filename": "20240628_kouriteikahenkou_2.pdf"
   },
   {
     "date": "2024-07-09",
@@ -2275,20 +2275,14 @@
   {
     "date": "2024-08-30",
     "kind": "henkou",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240830_kouriteikahenkou_1.pdf",
-    "filename": "20240830_kouriteikahenkou_1.pdf"
-  },
-  {
-    "date": "2024-08-30",
-    "kind": "henkou",
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240830_kouriteikahenkou_2.pdf",
     "filename": "20240830_kouriteikahenkou_2.pdf"
   },
   {
-    "date": "2024-09-03",
+    "date": "2024-08-30",
     "kind": "henkou",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240903_kouriteikahenkou.pdf",
-    "filename": "20240903_kouriteikahenkou.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240830_kouriteikahenkou_1.pdf",
+    "filename": "20240830_kouriteikahenkou_1.pdf"
   },
   {
     "date": "2024-09-03",
@@ -2297,10 +2291,10 @@
     "filename": "20240903_kouriteika.pdf"
   },
   {
-    "date": "2024-09-06",
-    "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240906_kouriteika_3.pdf",
-    "filename": "20240906_kouriteika_3.pdf"
+    "date": "2024-09-03",
+    "kind": "henkou",
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240903_kouriteikahenkou.pdf",
+    "filename": "20240903_kouriteikahenkou.pdf"
   },
   {
     "date": "2024-09-06",
@@ -2311,8 +2305,8 @@
   {
     "date": "2024-09-06",
     "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240906_kouriteika_4.pdf",
-    "filename": "20240906_kouriteika_4.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240906_kouriteika_3.pdf",
+    "filename": "20240906_kouriteika_3.pdf"
   },
   {
     "date": "2024-09-06",
@@ -2321,16 +2315,22 @@
     "filename": "20240906_kouriteika_2.pdf"
   },
   {
-    "date": "2024-09-24",
+    "date": "2024-09-06",
     "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_1.pdf",
-    "filename": "20240924_kouriteika_1.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240906_kouriteika_4.pdf",
+    "filename": "20240906_kouriteika_4.pdf"
   },
   {
     "date": "2024-09-24",
     "kind": "shinki",
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf",
     "filename": "20240924_kouriteika_2.pdf"
+  },
+  {
+    "date": "2024-09-24",
+    "kind": "shinki",
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_1.pdf",
+    "filename": "20240924_kouriteika_1.pdf"
   },
   {
     "date": "2024-10-02",
@@ -2538,15 +2538,15 @@
   },
   {
     "date": "2025-04-08",
-    "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250408_kouriteika.pdf",
-    "filename": "20250408_kouriteika.pdf"
-  },
-  {
-    "date": "2025-04-08",
     "kind": "henkou",
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250408_kouriteikahenkou.pdf",
     "filename": "20250408_kouriteikahenkou.pdf"
+  },
+  {
+    "date": "2025-04-08",
+    "kind": "shinki",
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250408_kouriteika.pdf",
+    "filename": "20250408_kouriteika.pdf"
   },
   {
     "date": "2025-04-21",
@@ -2598,15 +2598,15 @@
   },
   {
     "date": "2025-05-14",
-    "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250514_kouriteika.pdf",
-    "filename": "20250514_kouriteika.pdf"
-  },
-  {
-    "date": "2025-05-14",
     "kind": "henkou",
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250514_kouriteikahenkou.pdf",
     "filename": "20250514_kouriteikahenkou.pdf"
+  },
+  {
+    "date": "2025-05-14",
+    "kind": "shinki",
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250514_kouriteika.pdf",
+    "filename": "20250514_kouriteika.pdf"
   },
   {
     "date": "2025-05-21",
@@ -2641,14 +2641,14 @@
   {
     "date": "2025-06-25",
     "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250625_kouriteika_2.pdf",
-    "filename": "20250625_kouriteika_2.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250625_kouriteika_1.pdf",
+    "filename": "20250625_kouriteika_1.pdf"
   },
   {
     "date": "2025-06-25",
     "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250625_kouriteika_1.pdf",
-    "filename": "20250625_kouriteika_1.pdf"
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20250625_kouriteika_2.pdf",
+    "filename": "20250625_kouriteika_2.pdf"
   },
   {
     "date": "2025-06-26",
@@ -2922,27 +2922,27 @@
   },
   {
     "date": "2026-02-20",
-    "kind": "henkou",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260220_kouriteikahenkou.pdf",
-    "filename": "20260220_kouriteikahenkou.pdf"
-  },
-  {
-    "date": "2026-02-20",
     "kind": "shinki",
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260220_kouriteika.pdf",
     "filename": "20260220_kouriteika.pdf"
   },
   {
-    "date": "2026-02-26",
-    "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260226_kouriteika.pdf",
-    "filename": "20260226_kouriteika.pdf"
+    "date": "2026-02-20",
+    "kind": "henkou",
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260220_kouriteikahenkou.pdf",
+    "filename": "20260220_kouriteikahenkou.pdf"
   },
   {
     "date": "2026-02-26",
     "kind": "henkou",
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260226_kouriteikahenkou.pdf",
     "filename": "20260226_kouriteikahenkou.pdf"
+  },
+  {
+    "date": "2026-02-26",
+    "kind": "shinki",
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260226_kouriteika.pdf",
+    "filename": "20260226_kouriteika.pdf"
   },
   {
     "date": "2026-02-27",
@@ -2976,15 +2976,15 @@
   },
   {
     "date": "2026-03-19",
-    "kind": "henkou",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260319_kouriteikahenkou.pdf",
-    "filename": "20260319_kouriteikahenkou.pdf"
-  },
-  {
-    "date": "2026-03-19",
     "kind": "shinki",
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260319_kouriteika.pdf",
     "filename": "20260319_kouriteika.pdf"
+  },
+  {
+    "date": "2026-03-19",
+    "kind": "henkou",
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260319_kouriteikahenkou.pdf",
+    "filename": "20260319_kouriteikahenkou.pdf"
   },
   {
     "date": "2026-03-24",
@@ -3000,15 +3000,15 @@
   },
   {
     "date": "2026-03-30",
-    "kind": "shinki",
-    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260330_kouriteika.pdf",
-    "filename": "20260330_kouriteika.pdf"
-  },
-  {
-    "date": "2026-03-30",
     "kind": "henkou",
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260330_kouriteikahenkou.pdf",
     "filename": "20260330_kouriteikahenkou.pdf"
+  },
+  {
+    "date": "2026-03-30",
+    "kind": "shinki",
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260330_kouriteika.pdf",
+    "filename": "20260330_kouriteika.pdf"
   },
   {
     "date": "2026-04-08",
