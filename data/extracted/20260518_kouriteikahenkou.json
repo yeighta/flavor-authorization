@@ -1,0 +1,107 @@
+{
+  "date": "2026-05-18",
+  "kind": "henkou",
+  "filename": "20260518_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260518_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ペペ",
+      "name": "リッチグリーン",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 840,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ペペ",
+      "name": "イージーグリーン",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 840,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ペペ",
+      "name": "ダークグリーン",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 840,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ペペ",
+      "name": "オーガニック・シャグ",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 900,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ペペ",
+      "name": "リッチグリーン缶(100g)",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 2720,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ペペ",
+      "name": "イージーグリーン缶(100g)",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 2720,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ペペ",
+      "name": "ダークグリーン缶(100g)",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 2720,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ペペ",
+      "name": "オーガニック缶(100g)",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 2930,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ハーベスト・シャグ",
+      "name": "バニラ",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ハーベスト・シャグ",
+      "name": "チェリー",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ハーベスト・シャグ",
+      "name": "ミント",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 830,
+      "country": "ﾄﾞｲﾂ"
+    }
+  ]
+}
