@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-20",
+  "kind": "henkou",
+  "filename": "20260520_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260520_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Laguito",
+      "name": "No. 6",
+      "variant": "166mm 1本",
+      "grams": "",
+      "priceYen": 18000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Must Have",
+      "name": "Kiwi Smoothie",
+      "variant": "箱",
+      "grams": "125.0g",
+      "priceYen": 5600,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Must Have",
+      "name": "Red Bomb",
+      "variant": "箱",
+      "grams": "125.0g",
+      "priceYen": 5600,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Must Have",
+      "name": "Milky Rice",
+      "variant": "箱",
+      "grams": "125.0g",
+      "priceYen": 5600,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Must Have",
+      "name": "Tropic Juice",
+      "variant": "箱",
+      "grams": "125.0g",
+      "priceYen": 5600,
+      "country": "ﾛｼｱ"
+    }
+  ]
+}
