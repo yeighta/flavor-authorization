@@ -81,7 +81,14 @@ func (c *Collector) CollectAll(ctx context.Context, waybackYears []string) ([]mo
 	for _, r := range seen {
 		out = append(out, r)
 	}
-	sort.Slice(out, func(i, j int) bool { return out[i].Date < out[j].Date })
+	// Sort by (Date, Filename) so the output JSON is fully deterministic.
+	// Date alone is not unique when a single day has multiple PDFs.
+	sort.Slice(out, func(i, j int) bool {
+		if out[i].Date != out[j].Date {
+			return out[i].Date < out[j].Date
+		}
+		return out[i].Filename < out[j].Filename
+	})
 	return out, nil
 }
 

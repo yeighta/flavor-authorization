@@ -203,7 +203,15 @@ func mergeProducts(cacheDir, outPath, aliasesPath, manufacturersPath string) err
 		all = append(all, cached{PDF: c})
 	}
 	// Process older first; later writes override (latest price wins).
-	sort.Slice(all, func(i, j int) bool { return all[i].PDF.Date < all[j].PDF.Date })
+	// Tie-break on Filename so when multiple PDFs share a date, the surviving
+	// SourceURL is deterministic across runs (otherwise products.json flips
+	// between runs and creates phantom diffs).
+	sort.Slice(all, func(i, j int) bool {
+		if all[i].PDF.Date != all[j].PDF.Date {
+			return all[i].PDF.Date < all[j].PDF.Date
+		}
+		return all[i].PDF.Filename < all[j].PDF.Filename
+	})
 
 	merged := map[string]model.Product{}
 	dropped := 0
@@ -264,15 +272,10 @@ func mergeProducts(cacheDir, outPath, aliasesPath, manufacturersPath string) err
 	for _, p := range merged {
 		out = append(out, p)
 	}
-	sort.Slice(out, func(i, j int) bool {
-		if out[i].Category != out[j].Category {
-			return out[i].Category < out[j].Category
-		}
-		if out[i].Manufacturer != out[j].Manufacturer {
-			return out[i].Manufacturer < out[j].Manufacturer
-		}
-		return out[i].Name < out[j].Name
-	})
+	// Sort by full Key() so output ordering is deterministic across runs.
+	// Previously only (Category, Manufacturer, Name) was used, leaving Variant
+	// and Grams as non-deterministic tie-breakers.
+	sort.Slice(out, func(i, j int) bool { return out[i].Key() < out[j].Key() })
 	return writeJSON(outPath, out)
 }
 
