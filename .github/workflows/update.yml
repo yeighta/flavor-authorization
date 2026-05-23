@@ -47,20 +47,46 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: go run ./cmd/classify
 
-      # main 直接 push を ruleset で禁止しているため、データブランチ → PR → 即時マージで反映する。
-      - name: Commit, open PR, and merge
-        id: pr
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # 差分を検出し、後続ステップ（PR / Discord）で使う新規分の JSON を /tmp に保存しておく。
+      # データブランチを切る前に作業ツリー（new） vs HEAD（old）で算出するのがポイント。
+      - name: Stage data and compute diff
+        id: stage
         run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add data/
           if git diff --cached --quiet; then
             echo "no data changes"
             echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+          git show HEAD:data/products.json > /tmp/old_products.json 2>/dev/null || echo '[]' > /tmp/old_products.json
+          git show HEAD:data/manufacturers.json > /tmp/old_manufacturers.json 2>/dev/null || echo '{}' > /tmp/old_manufacturers.json
+
+          # 新規商品: (manufacturer|name|variant) をキーに old に無いものを抽出。
+          jq -s '
+            def to_map: map({key: ([.manufacturer, .name, .variant] | join("|")), value: .}) | from_entries;
+            (.[1] | to_map) as $n
+            | (.[0] | to_map) as $o
+            | $n | to_entries | map(select(.key as $k | $o | has($k) | not)) | map(.value)
+          ' /tmp/old_products.json data/products.json > /tmp/new_products.json
+
+          # 新規メーカー: entries の key が old に無いものを抽出。
+          jq -s '
+            (.[1].entries // {}) as $n
+            | (.[0].entries // {}) as $o
+            | $n | to_entries | map(select(.key as $k | $o | has($k) | not)) | from_entries
+          ' /tmp/old_manufacturers.json data/manufacturers.json > /tmp/new_manufacturers.json
+
+      # main 直接 push を ruleset で禁止しているため、データブランチ → PR → 即時マージで反映する。
+      - name: Open PR and merge
+        if: steps.stage.outputs.changed == 'true'
+        id: pr
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
           TS=$(date -u +%Y%m%dT%H%M%SZ)
           BRANCH="data-update/${TS}"
           git checkout -b "$BRANCH"
@@ -72,12 +98,50 @@ jobs:
             --title "data: scheduled refresh (${TS})" \
             --body "Automated tobacco DB refresh.")
           gh pr merge "$PR_URL" --merge --delete-branch
-          echo "changed=true" >> "$GITHUB_OUTPUT"
+          echo "pr_url=$PR_URL" >> "$GITHUB_OUTPUT"
 
       # GITHUB_TOKEN によるマージ commit は他ワークフローを連鎖発火させないため、
       # データ更新があった場合のみ deploy.yml を明示的に dispatch する。
       - name: Trigger frontend deploy
-        if: steps.pr.outputs.changed == 'true'
+        if: steps.stage.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: gh workflow run deploy.yml --ref ${{ github.ref_name }}
+
+      # 新規商品/メーカーの先頭 5 件を整形 JSON で Discord に通知する。
+      # DISCORD_WEBHOOK_URL secret が未設定なら通知をスキップ（ワークフローは成功扱い）。
+      - name: Notify Discord
+        if: steps.stage.outputs.changed == 'true'
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          PR_URL: ${{ steps.pr.outputs.pr_url }}
+        run: |
+          if [ -z "$DISCORD_WEBHOOK_URL" ]; then
+            echo "DISCORD_WEBHOOK_URL not set; skipping notification"
+            exit 0
+          fi
+
+          export NEW_PROD_COUNT=$(jq 'length' /tmp/new_products.json)
+          export NEW_MFR_COUNT=$(jq 'keys | length' /tmp/new_manufacturers.json)
+          export PROD_SAMPLE=$(jq '.[0:5]' /tmp/new_products.json)
+          export MFR_SAMPLE=$(jq 'to_entries | .[0:5] | from_entries' /tmp/new_manufacturers.json)
+
+          # テンプレートを envsubst で展開。置換対象を明示することで
+          # JSON 中に偶然 $foo が含まれても誤展開されないようにする。
+          DESC=$(envsubst '$NEW_PROD_COUNT $NEW_MFR_COUNT $PROD_SAMPLE $MFR_SAMPLE' \
+            < .github/templates/discord-update.txt)
+          # Discord embed description は 4096 文字上限。安全側で 4000 に切る。
+          DESC=$(printf '%s' "$DESC" | head -c 4000)
+
+          jq -nc \
+            --arg desc "$DESC" \
+            --arg url "$PR_URL" \
+            '{embeds: [{
+              title: "認可たばこDB 更新",
+              url: $url,
+              description: $desc,
+              color: 3066993
+            }]}' > /tmp/discord_payload.json
+
+          curl -sS -H "Content-Type: application/json" \
+            -X POST -d @/tmp/discord_payload.json "$DISCORD_WEBHOOK_URL"

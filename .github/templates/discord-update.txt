@@ -1,0 +1,9 @@
+**新規商品**: ${NEW_PROD_COUNT}件
+```json
+${PROD_SAMPLE}
+```
+
+**新規メーカー**: ${NEW_MFR_COUNT}件
+```json
+${MFR_SAMPLE}
+```
