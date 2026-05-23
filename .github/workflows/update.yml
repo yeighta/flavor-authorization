@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: update-db
@@ -46,15 +47,26 @@ jobs:
         run: go run ./cmd/classify
 
       - name: Commit data updates
+        id: commit
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add data/
           if git diff --cached --quiet; then
             echo "no data changes"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git commit -m "data: scheduled refresh ($(date -u +%Y-%m-%dT%H:%MZ))"
           # Pull --rebase before pushing to handle concurrent runs gracefully.
           git pull --rebase --autostash origin ${{ github.ref_name }}
           git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      # GITHUB_TOKEN による push は他ワークフローを連鎖発火させないため、
+      # データ更新があった場合のみ deploy.yml を明示的に dispatch する。
+      - name: Trigger frontend deploy
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run deploy.yml --ref ${{ github.ref_name }}
