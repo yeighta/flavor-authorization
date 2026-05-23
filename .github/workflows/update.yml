@@ -100,14 +100,7 @@ jobs:
           gh pr merge "$PR_URL" --merge --delete-branch
           echo "pr_url=$PR_URL" >> "$GITHUB_OUTPUT"
 
-      # GITHUB_TOKEN によるマージ commit は他ワークフローを連鎖発火させないため、
-      # データ更新があった場合のみ deploy.yml を明示的に dispatch する。
-      - name: Trigger frontend deploy
-        if: steps.stage.outputs.changed == 'true'
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh workflow run deploy.yml --ref ${{ github.ref_name }}
-
+      # Discord 通知を deploy より前に置く: deploy 発火が失敗しても通知は届くようにする。
       # 新規商品/メーカーの先頭 5 件を整形 JSON で Discord に通知する。
       # DISCORD_WEBHOOK_URL secret が未設定なら通知をスキップ（ワークフローは成功扱い）。
       - name: Notify Discord
@@ -145,3 +138,22 @@ jobs:
 
           curl -sS -H "Content-Type: application/json" \
             -X POST -d @/tmp/discord_payload.json "$DISCORD_WEBHOOK_URL"
+
+      # GITHUB_TOKEN によるマージ commit は他ワークフローを連鎖発火させないため、
+      # データ更新があった場合のみ deploy.yml を明示的に dispatch する。
+      # 過去に dispatches API が HTTP 500 を返した実績があるため 3 回までリトライする。
+      - name: Trigger frontend deploy
+        if: steps.stage.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          for i in 1 2 3; do
+            if gh workflow run deploy.yml --ref ${{ github.ref_name }}; then
+              echo "dispatch ok"
+              exit 0
+            fi
+            echo "dispatch failed (attempt $i), retrying in 10s..."
+            sleep 10
+          done
+          echo "dispatch failed after 3 attempts"
+          exit 1
