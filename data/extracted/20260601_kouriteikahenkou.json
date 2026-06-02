@@ -1,0 +1,557 @@
+{
+  "date": "2026-06-01",
+  "kind": "henkou",
+  "filename": "20260601_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260601_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ミロ",
+      "name": "ゴールド・コロニタス",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ミロ",
+      "name": "シルバー・コロニタス",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ミロ",
+      "name": "ホワイト・コロニタス",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 450,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ミロ",
+      "name": "ロブスト",
+      "variant": "135mm 1本",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ミロ",
+      "name": "ショート・ロブスト",
+      "variant": "103mm 1本",
+      "grams": "",
+      "priceYen": 800,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "アンバーリーフ",
+      "name": "オーガニックブレンド 25g",
+      "variant": "パウチ",
+      "grams": "25.0g",
+      "priceYen": 750,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "アンバーリーフ",
+      "name": "25g",
+      "variant": "パウチ",
+      "grams": "25.0g",
+      "priceYen": 730,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "アンバーリーフ",
+      "name": "ブロンド 25g",
+      "variant": "パウチ",
+      "grams": "25.0g",
+      "priceYen": 730,
+      "country": "ﾎﾟｰﾗﾝﾄﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ラ・オーロラ",
+      "name": "107 15min Break",
+      "variant": "90mm 1本",
+      "grams": "",
+      "priceYen": 900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ラ・オーロラ",
+      "name": "107 グランド・ロブスト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ラ・オーロラ",
+      "name": "コロホ ロブスト",
+      "variant": "125mm 1本",
+      "grams": "",
+      "priceYen": 1200,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ギレルモ・レオン",
+      "name": "ロブスト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ギレルモ・レオン",
+      "name": "コロナゴルダ",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "オーロラ",
+      "name": "ロブスト",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 1300,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "オーロラ",
+      "name": "プレフェリドス・プラチナム",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "オーロラ",
+      "name": "プレフェリドス・ルビー",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "オーロラ",
+      "name": "プレフェリドス・ゴールド",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "オーロラ",
+      "name": "プレフェリドス・サファイア",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "オーロラ",
+      "name": "プレフェリドス・エメラルド",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 3600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "トスカネロ",
+      "name": "ナチュラーレ",
+      "variant": "78mm 1本",
+      "grams": "",
+      "priceYen": 250,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "トスカネロ",
+      "name": "アロマ・フォンダンテ",
+      "variant": "78mm 1本",
+      "grams": "",
+      "priceYen": 250,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "トスカネロ",
+      "name": "アロマ・アニス",
+      "variant": "78mm 1本",
+      "grams": "",
+      "priceYen": 250,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "トスカネロ",
+      "name": "アロマ・カフェ",
+      "variant": "78mm 1本",
+      "grams": "",
+      "priceYen": 250,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "トスカネロ",
+      "name": "アロマ・グラッパ",
+      "variant": "78mm 1本",
+      "grams": "",
+      "priceYen": 250,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "トスカネロ",
+      "name": "アロマ・バニラ",
+      "variant": "78mm 1本",
+      "grams": "",
+      "priceYen": 250,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "マックバレン",
+      "name": "ヴァニラ クリーム",
+      "variant": "パウチ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "マックバレン",
+      "name": "ミックスチュア",
+      "variant": "パウチ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "マックバレン",
+      "name": "ヴァージニア・No.1",
+      "variant": "パウチ",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "セブンシーズ",
+      "name": "ゴールド ブレンド",
+      "variant": "パウチ",
+      "grams": "40.0g",
+      "priceYen": 1300,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "セブンシーズ",
+      "name": "レギュラー ブレンド",
+      "variant": "パウチ",
+      "grams": "40.0g",
+      "priceYen": 1300,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "セブンシーズ",
+      "name": "ロイヤル ブレンド",
+      "variant": "パウチ",
+      "grams": "40.0g",
+      "priceYen": 1300,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "セブンシーズ",
+      "name": "チェリー ブレンド",
+      "variant": "パウチ",
+      "grams": "40.0g",
+      "priceYen": 1300,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "カピート・メローライト II (40)",
+      "name": "",
+      "variant": "パウチ",
+      "grams": "40.0g",
+      "priceYen": 1400,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "シルクロード (40)",
+      "name": "",
+      "variant": "パウチ",
+      "grams": "40.0g",
+      "priceYen": 1400,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "プロムナード (40)",
+      "name": "",
+      "variant": "パウチ",
+      "grams": "40.0g",
+      "priceYen": 1400,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "桃山 (40)",
+      "name": "",
+      "variant": "パウチ",
+      "grams": "40.0g",
+      "priceYen": 1400,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ロックン・チェア II (40)",
+      "name": "",
+      "variant": "パウチ",
+      "grams": "40.0g",
+      "priceYen": 1400,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "飛鳥",
+      "name": "",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3700,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "桃山100 II",
+      "name": "",
+      "variant": "缶",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チョイス",
+      "name": "ダブルグレープ",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チョイス",
+      "name": "キールロワイヤル",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チョイス",
+      "name": "ルバーブ",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チョイス",
+      "name": "ラムコーヒー",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チョイス",
+      "name": "ダブルメンソール",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チョイス",
+      "name": "ドルチェ・キャラメルバニラ",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チョイス",
+      "name": "マンゴー",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チョイス",
+      "name": "レモンチェロ",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チョイス",
+      "name": "オリジナル",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チョイス",
+      "name": "クールミント",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チョイス",
+      "name": "アップル",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チョイス",
+      "name": "アロマティック",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チョイス",
+      "name": "グレープ",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チョイス",
+      "name": "ダークチョコレート",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チョイス",
+      "name": "ダブル アップル",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チョイス",
+      "name": "ダブル チェリー",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チョイス",
+      "name": "カフェ",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "チョイス",
+      "name": "ダブルバニラ",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "マックバレン",
+      "name": "アメリカン ブレンド",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "マックバレン",
+      "name": "ヴァージニア ブレンド",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "マックバレン",
+      "name": "ハーフスワレ ブレンド",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "マックバレン",
+      "name": "ピュア ブレンド",
+      "variant": "パウチ",
+      "grams": "30.0g",
+      "priceYen": 850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    }
+  ]
+}
