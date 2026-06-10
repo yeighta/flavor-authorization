@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-09",
+  "kind": "shinki",
+  "filename": "20260609_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260609_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "レギュラー",
+      "variant": "フレーバー・ウィズ 用 10本",
+      "grams": "5.3g",
+      "priceYen": 1200,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "メンソール",
+      "variant": "フレーバー・ウィズ 用 10本",
+      "grams": "5.2g",
+      "priceYen": 1200,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "フローズン",
+      "variant": "フレーバー・ウィズ 用 10本",
+      "grams": "5.2g",
+      "priceYen": 1200,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "レッド・ミント",
+      "variant": "フレーバー・ウィズ 用 10本",
+      "grams": "5.2g",
+      "priceYen": 1200,
+      "country": "日本"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "メビウス",
+      "name": "パープル・ミント",
+      "variant": "フレーバー・ウィズ 用 10本",
+      "grams": "5.2g",
+      "priceYen": 1200,
+      "country": "日本"
+    }
+  ]
+}
