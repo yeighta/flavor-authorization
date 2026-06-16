@@ -1,0 +1,53 @@
+{
+  "date": "2026-06-15",
+  "kind": "shinki",
+  "filename": "20260615_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260615_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ヴィアルト",
+      "name": "ブライト・ピーチ・クリック",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.3g",
+      "priceYen": 580,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "FUMARI",
+      "name": "Peach N Ice",
+      "variant": "パウチ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "FUMARI",
+      "name": "Orange",
+      "variant": "パウチ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "FUMARI",
+      "name": "Pink",
+      "variant": "パウチ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "FUMARI",
+      "name": "Gummi Bear",
+      "variant": "パウチ",
+      "grams": "100.0g",
+      "priceYen": 3400,
+      "country": "ｱﾒﾘｶ合衆国"
+    }
+  ]
+}
