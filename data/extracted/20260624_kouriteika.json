@@ -1,0 +1,539 @@
+{
+  "date": "2026-06-24",
+  "kind": "shinki",
+  "filename": "20260624_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260624_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Porcelain Toro",
+      "variant": "152.4mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "BLTC",
+      "name": "Santa Muerte Barrio Santo Corona Gorda",
+      "variant": "139.7mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Juan Lopez",
+      "name": "Bésame Mucho ER2025MX",
+      "variant": "164mm 1本",
+      "grams": "",
+      "priceYen": 22000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "アークローヤル",
+      "name": "パラダイスティーアイス",
+      "variant": "シャグ パウチ",
+      "grams": "30.0g",
+      "priceYen": 840,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "アークローヤル",
+      "name": "トロピカルアイス",
+      "variant": "シャグ パウチ",
+      "grams": "30.0g",
+      "priceYen": 840,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "アークローヤル",
+      "name": "キャラメルマキアート",
+      "variant": "シャグ パウチ",
+      "grams": "30.0g",
+      "priceYen": 840,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "アークローヤル",
+      "name": "フルアロマ",
+      "variant": "パイプ パウチ",
+      "grams": "40.0g",
+      "priceYen": 1500,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "アークローヤル",
+      "name": "チェリー",
+      "variant": "パイプ パウチ",
+      "grams": "40.0g",
+      "priceYen": 1500,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "アークローヤル",
+      "name": "オリジナル",
+      "variant": "パイプ パウチ",
+      "grams": "40.0g",
+      "priceYen": 1500,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "アークローヤル",
+      "name": "バニラ",
+      "variant": "パイプ パウチ",
+      "grams": "40.0g",
+      "priceYen": 1500,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "アークローヤル",
+      "name": "アロマティック",
+      "variant": "パイプ パウチ",
+      "grams": "40.0g",
+      "priceYen": 1500,
+      "country": "ｳﾙｸﾞｱｲ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Gerardo Ramos",
+      "name": "No. 2",
+      "variant": "156mm 1本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Gerardo Ramos",
+      "name": "No. 3",
+      "variant": "143mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Gerardo Ramos",
+      "name": "No. 4",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Gerardo Ramos",
+      "name": "No. 5",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Gerardo Ramos",
+      "name": "Lancero No. 1",
+      "variant": "191mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Gerardo Ramos",
+      "name": "Lancero No. 2",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Gerardo Ramos",
+      "name": "Corona Gorda",
+      "variant": "143mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Gerardo Ramos",
+      "name": "Churchill",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Gerardo Ramos",
+      "name": "Perfect",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 3100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Gerardo Ramos",
+      "name": "Robusto",
+      "variant": "111mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Gerardo Ramos",
+      "name": "Segundo Petit Corona",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Gerardo Ramos",
+      "name": "Segundo Robusto",
+      "variant": "111mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Heaven's Door",
+      "name": "No. 2",
+      "variant": "156mm 1本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Heaven's Door",
+      "name": "No. 3",
+      "variant": "143mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Heaven's Door",
+      "name": "No. 4",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Heaven's Door",
+      "name": "No. 5",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Heaven's Door",
+      "name": "Lancero No. 1",
+      "variant": "191mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Heaven's Door",
+      "name": "Lancero No. 2",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Heaven's Door",
+      "name": "Corona Gorda",
+      "variant": "143mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Heaven's Door",
+      "name": "Churchill",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Heaven's Door",
+      "name": "Perfect",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 3100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Heaven's Door",
+      "name": "Robusto",
+      "variant": "111mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Heaven's Door",
+      "name": "Segundo Petit Corona",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Heaven's Door",
+      "name": "Segundo Robusto",
+      "variant": "111mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Flor Latina",
+      "name": "No. 2",
+      "variant": "156mm 1本",
+      "grams": "",
+      "priceYen": 3400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Flor Latina",
+      "name": "No. 3",
+      "variant": "143mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Flor Latina",
+      "name": "No. 4",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 1800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Flor Latina",
+      "name": "No. 5",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Flor Latina",
+      "name": "Lancero No. 1",
+      "variant": "191mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Flor Latina",
+      "name": "Lancero No. 2",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Flor Latina",
+      "name": "Corona Gorda",
+      "variant": "143mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Flor Latina",
+      "name": "Churchill",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Flor Latina",
+      "name": "Perfect",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 3100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Flor Latina",
+      "name": "Robusto",
+      "variant": "111mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Flor Latina",
+      "name": "Segundo Petit Corona",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 1500,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "La Flor Latina",
+      "name": "Segundo Robusto",
+      "variant": "111mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Carmen",
+      "name": "No. 2",
+      "variant": "156mm 1本",
+      "grams": "",
+      "priceYen": 2900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Carmen",
+      "name": "No. 3",
+      "variant": "143mm 1本",
+      "grams": "",
+      "priceYen": 1700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Carmen",
+      "name": "No. 4",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 1600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Carmen",
+      "name": "No. 5",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 1400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Carmen",
+      "name": "Lancero No. 1",
+      "variant": "191mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Carmen",
+      "name": "Lancero No. 2",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Carmen",
+      "name": "Corona Gorda",
+      "variant": "143mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Carmen",
+      "name": "Churchill",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Carmen",
+      "name": "Perfect",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2600,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Carmen",
+      "name": "Robusto",
+      "variant": "111mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CadaDia",
+      "name": "Petit Corona",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "CadaDia",
+      "name": "Robusto",
+      "variant": "111mm 1本",
+      "grams": "",
+      "priceYen": 900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}
