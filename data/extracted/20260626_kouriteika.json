@@ -1,0 +1,26 @@
+{
+  "date": "2026-06-26",
+  "kind": "shinki",
+  "filename": "20260626_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260626_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "アレック ブラッドリー",
+      "name": "フィルシィー フーリガン",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "アレック ブラッドリー",
+      "name": "シャムロック",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2900,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    }
+  ]
+}
