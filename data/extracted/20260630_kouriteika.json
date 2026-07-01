@@ -1,0 +1,26 @@
+{
+  "date": "2026-06-30",
+  "kind": "shinki",
+  "filename": "20260630_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260630_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "ブラック・ミント・パール",
+      "variant": "F45 20ｽﾃｨｯｸ ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "5.7g",
+      "priceYen": 620,
+      "country": "ﾙｰﾏﾆｱ ｷﾞﾘｼｬ 大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "ゴールデン・ブリーズ・パール",
+      "variant": "F45 20ｽﾃｨｯｸ ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "5.7g",
+      "priceYen": 620,
+      "country": "ﾙｰﾏﾆｱ ｷﾞﾘｼｬ 大韓民国"
+    }
+  ]
+}
