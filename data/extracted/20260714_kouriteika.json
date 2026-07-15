@@ -1,0 +1,98 @@
+{
+  "date": "2026-07-14",
+  "kind": "shinki",
+  "filename": "20260714_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260714_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ルーシー",
+      "name": "ミント ツードット",
+      "variant": "プラスチックケース",
+      "grams": "5.0g",
+      "priceYen": 450,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ルーシー",
+      "name": "アップルアイス ツードット",
+      "variant": "プラスチックケース",
+      "grams": "5.0g",
+      "priceYen": 450,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ルーシー",
+      "name": "マンゴー ツードット",
+      "variant": "プラスチックケース",
+      "grams": "5.0g",
+      "priceYen": 450,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジェットスター・ギガメンソール",
+      "name": "フローズンブルー",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジェットスター・ギガメンソール",
+      "name": "クールグリーン",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "ダークスター ショートスター",
+      "variant": "102mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "エメラルド ロブスト",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 2700,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "エメラルド トロ",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロッキーパテル",
+      "name": "エメラルド シクスティ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "カマーチョ",
+      "name": "リミテッドエディション 2026",
+      "variant": "155mm 1本",
+      "grams": "",
+      "priceYen": 5500,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    }
+  ]
+}
