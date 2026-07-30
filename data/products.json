@@ -9811,6 +9811,18 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "Bang Bang",
+    "name": "Double Apple Special",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1780,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2026-07-29",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260729_kouriteika.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Bang Bang",
     "name": "Double Apple",
     "variant": "箱",
     "grams": "50.0g",
