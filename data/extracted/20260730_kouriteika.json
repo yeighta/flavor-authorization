@@ -1,0 +1,89 @@
+{
+  "date": "2026-07-30",
+  "kind": "shinki",
+  "filename": "20260730_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260730_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EGM",
+      "name": "ペティエンカントス",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 2550,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EGM",
+      "name": "ディアデマス",
+      "variant": "233mm 1本",
+      "grams": "",
+      "priceYen": 7400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EGM",
+      "name": "エンピリアン ヘラルドス",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 9800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EGM",
+      "name": "エンピリアン パライソス",
+      "variant": "170mm 1本",
+      "grams": "",
+      "priceYen": 10800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EGM",
+      "name": "エンピリアン プラクセデス",
+      "variant": "145mm 1本",
+      "grams": "",
+      "priceYen": 11600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EGM",
+      "name": "ニンファス",
+      "variant": "178mm 1本",
+      "grams": "",
+      "priceYen": 2800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EGM",
+      "name": "マドゥロ リオス",
+      "variant": "153mm 1本",
+      "grams": "",
+      "priceYen": 4900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EGM",
+      "name": "マドゥロ フロリドス",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 5400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "EGM",
+      "name": "マドゥロ マキシモス",
+      "variant": "132mm 1本",
+      "grams": "",
+      "priceYen": 5700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    }
+  ]
+}
