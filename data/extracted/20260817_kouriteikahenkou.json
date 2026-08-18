@@ -1,0 +1,413 @@
+{
+  "date": "2026-08-17",
+  "kind": "henkou",
+  "filename": "20260817_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260817_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ケント・トゥルー",
+      "name": "タバコ glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 550,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ケント・トゥルー",
+      "name": "メンソール glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 550,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ケント・トゥルー",
+      "name": "リッチ タバコ glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 550,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ケント・トゥルー",
+      "name": "リッチ メンソール glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 550,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ケント・トゥルー",
+      "name": "ベリー・ブースト glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 550,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "マイルド タバコ glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 570,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "スムース タバコ glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 570,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "クラシック タバコ glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 570,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "フレッシュ・メンソール glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 570,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "クラシック・タバコ・hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 570,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "フリーズ・メンソール・スティック glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 570,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "マックス・メンソール スティック glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 570,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "ブリリアント・ベリー スティック glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 570,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "トロピカル・スワール スティック glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 570,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "アークティック メンソール glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 570,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "アイスド メンソール glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 570,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "チルド メンソール glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 570,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "ブリリアント ベリー hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 570,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "ブリリアント トロピカル hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 570,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "ブリリアント レッドフルーツ hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 570,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "ブリリアント マスカット hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 570,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ネオ",
+      "name": "ブリリアント ワイルドベリー hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 570,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ラッキー・ストライク",
+      "name": "メンソール glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ラッキー・ストライク",
+      "name": "ダーク タバコ glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ラッキー・ストライク",
+      "name": "リッチ タバコ glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ラッキー・ストライク",
+      "name": "ダーク メンソール glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ラッキー・ストライク",
+      "name": "ダーク イエロー・メンソール glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ラッキー・ストライク",
+      "name": "スムース・タバコ glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ラッキー・ストライク",
+      "name": "ベリー メンソール ブースト glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ラッキー・ストライク",
+      "name": "トロピカル メンソール ブースト glo hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ラッキー・ストライク",
+      "name": "ベリー スイッチ hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ラッキー・ストライク",
+      "name": "トロピカル スイッチ hyper用",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.4g",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヴァルト",
+      "name": "ダーク タバコ",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 600,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヴァルト",
+      "name": "バランスト タバコ",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 600,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヴァルト",
+      "name": "クラシック タバコ",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 600,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヴァルト",
+      "name": "ラウンデッド タバコ",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.2g",
+      "priceYen": 600,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヴァルト",
+      "name": "ブライト・チェリー クリック",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.3g",
+      "priceYen": 600,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヴァルト",
+      "name": "アイスド・メンソール クリック",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.3g",
+      "priceYen": 600,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヴァルト",
+      "name": "メンソール クリック",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.3g",
+      "priceYen": 600,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヴァルト",
+      "name": "ミント クリック",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.3g",
+      "priceYen": 600,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヴァルト",
+      "name": "ベリー クリック",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.3g",
+      "priceYen": 600,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヴァルト",
+      "name": "アイスド・ベリー クリック",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.3g",
+      "priceYen": 600,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヴァルト",
+      "name": "メロン クリック",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.3g",
+      "priceYen": 600,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヴァルト",
+      "name": "レッドフルーツ クリック",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.3g",
+      "priceYen": 600,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ヴァルト",
+      "name": "ブライト・ピーチ クリック",
+      "variant": "フィルター付 20本 ハードパック",
+      "grams": "5.3g",
+      "priceYen": 600,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    }
+  ]
+}
