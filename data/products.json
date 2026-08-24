@@ -28819,6 +28819,39 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "NASH",
+    "name": "シガーライン キャロット",
+    "grams": "30.0g",
+    "priceYen": 2800,
+    "country": "ロシア",
+    "updatedDate": "2026-08-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260821_kouriteika.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "NASH",
+    "name": "シガーライン ジン",
+    "grams": "30.0g",
+    "priceYen": 2800,
+    "country": "ロシア",
+    "updatedDate": "2026-08-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260821_kouriteika.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "NASH",
+    "name": "シガーライン ブラックペッパー",
+    "grams": "30.0g",
+    "priceYen": 2800,
+    "country": "ロシア",
+    "updatedDate": "2026-08-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260821_kouriteika.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "NASH",
     "name": "シダーベリーパイナップル",
     "variant": "箱",
     "grams": "40.0g",
@@ -29007,6 +29040,28 @@
     "updatedDate": "2025-10-08",
     "source": "shinki",
     "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20251008_kouriteika.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "NASH",
+    "name": "ホワイトライン レディシークレット",
+    "grams": "40.0g",
+    "priceYen": 2400,
+    "country": "ロシア",
+    "updatedDate": "2026-08-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260821_kouriteika.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "NASH",
+    "name": "ホワイトライン ロータスビスコス",
+    "grams": "40.0g",
+    "priceYen": 2400,
+    "country": "ロシア",
+    "updatedDate": "2026-08-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260821_kouriteika.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -37958,6 +38013,17 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "TUMBAKI",
+    "name": "Baked Peach",
+    "grams": "50.0g",
+    "priceYen": 1800,
+    "country": "トルコ",
+    "updatedDate": "2026-08-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260821_kouriteika.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "TUMBAKI",
     "name": "Bubble Balls",
     "variant": "箱",
     "grams": "50.0g",
@@ -37966,6 +38032,17 @@
     "updatedDate": "2023-12-22",
     "source": "shinki",
     "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20231222_kouriteika.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "TUMBAKI",
+    "name": "Cappuccino Italiano",
+    "grams": "50.0g",
+    "priceYen": 1800,
+    "country": "トルコ",
+    "updatedDate": "2026-08-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260821_kouriteika.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -38062,6 +38139,28 @@
     "updatedDate": "2023-12-22",
     "source": "shinki",
     "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20231222_kouriteika.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "TUMBAKI",
+    "name": "Purple Effect",
+    "grams": "50.0g",
+    "priceYen": 1800,
+    "country": "トルコ",
+    "updatedDate": "2026-08-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260821_kouriteika.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "TUMBAKI",
+    "name": "Raspberry Punch",
+    "grams": "50.0g",
+    "priceYen": 1800,
+    "country": "トルコ",
+    "updatedDate": "2026-08-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260821_kouriteika.pdf"
   },
   {
     "category": "パイプたばこ",

@@ -1,0 +1,152 @@
+{
+  "date": "2026-08-21",
+  "kind": "shinki",
+  "filename": "20260821_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260821_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ﾎﾜｲﾄﾗｲﾝ ﾚﾃﾞｨｼｰｸﾚｯﾄ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 2400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ﾎﾜｲﾄﾗｲﾝ ﾛｰﾀｽﾋﾞｽｺｽ",
+      "variant": "",
+      "grams": "40.0g",
+      "priceYen": 2400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ｼｶﾞｰﾗｲﾝ ﾌﾞﾗｯｸﾍﾟｯﾊﾟｰ",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 2800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ｼｶﾞｰﾗｲﾝ ｼﾞﾝ",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 2800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "NASH",
+      "name": "ｼｶﾞｰﾗｲﾝ ｷｬﾛｯﾄ",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 2800,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "L.A.",
+      "name": "ﾒﾝｿｰﾙ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｶｰｻ･ﾄｳﾗﾝﾄ",
+      "name": "ｵﾘｼﾞﾝ ﾛﾌﾞｽﾄ ･ｶﾘﾌﾞ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1400,
+      "country": "ﾒｷｼｺ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｶｰｻ･ﾄｳﾗﾝﾄ",
+      "name": "ｵﾘｼﾞﾝ ﾛﾌﾞｽﾄ ･ﾏｲｱﾐ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1400,
+      "country": "ﾒｷｼｺ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｶｰｻ･ﾄｳﾗﾝﾄ",
+      "name": "ｵﾘｼﾞﾝ ﾛﾌﾞｽﾄ ･ﾆｶﾗｸﾞｱ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1400,
+      "country": "ﾒｷｼｺ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｶｰｻ･ﾄｳﾗﾝﾄ",
+      "name": "ｵﾘｼﾞﾝ ﾛﾌﾞｽﾄ ･ｻﾝ ｱﾝﾄﾞﾚｽ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1400,
+      "country": "ﾒｷｼｺ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｶｰｻ･ﾄｳﾗﾝﾄ",
+      "name": "1880 ﾛｻｰﾄﾞ ･ﾛﾌﾞｽﾄ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1600,
+      "country": "ﾒｷｼｺ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｶｰｻ･ﾄｳﾗﾝﾄ",
+      "name": "1880 ﾛｻｰﾄﾞ ･ｺﾞﾙﾃﾞｨｰﾄ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1550,
+      "country": "ﾒｷｼｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TUMBAKI",
+      "name": "BAKED PEACH",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TUMBAKI",
+      "name": "CAPPUCCINO ITALIANO",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TUMBAKI",
+      "name": "RASPBERRY PUNCH",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "TUMBAKI",
+      "name": "PURPLE EFFECT",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 1800,
+      "country": "ﾄﾙｺ"
+    }
+  ]
+}
