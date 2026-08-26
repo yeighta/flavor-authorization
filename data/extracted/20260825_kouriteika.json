@@ -1,0 +1,62 @@
+{
+  "date": "2026-08-25",
+  "kind": "shinki",
+  "filename": "20260825_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260825_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ユッピー",
+      "name": "ミント",
+      "variant": "缶",
+      "grams": "7.5g",
+      "priceYen": 350,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ユッピー",
+      "name": "アイシーミント",
+      "variant": "缶",
+      "grams": "7.5g",
+      "priceYen": 350,
+      "country": "ﾗｵｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "アルフォンソ・デ・ラ・トーレ",
+      "name": "ラ・エスパダ",
+      "variant": "124mm 1本",
+      "grams": "",
+      "priceYen": 4200,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジェイムズ J. フォックス",
+      "name": "セレクション No.1",
+      "variant": "101mm 1本",
+      "grams": "",
+      "priceYen": 3800,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジェイムズ J. フォックス",
+      "name": "セレクション No.4",
+      "variant": "142mm 1本",
+      "grams": "",
+      "priceYen": 4400,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ジェイムズ J. フォックス",
+      "name": "セレクション No.7",
+      "variant": "139mm 1本",
+      "grams": "",
+      "priceYen": 4800,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    }
+  ]
+}

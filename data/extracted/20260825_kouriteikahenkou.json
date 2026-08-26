@@ -1,0 +1,89 @@
+{
+  "date": "2026-08-25",
+  "kind": "henkou",
+  "filename": "20260825_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260825_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ラールセン",
+      "name": "シグナチュア",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 5300,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ピーターソン",
+      "name": "デラックス ネイビー ロールズ",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 3450,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "オーリック",
+      "name": "ゴールデンスライスド",
+      "variant": "",
+      "grams": "50.0g",
+      "priceYen": 2350,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ヘンリーウインターマンズ",
+      "name": "ハーフ コロナ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1170,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ノーベル プティ",
+      "name": "スマトラ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ノーベル プティ",
+      "name": "ピュア カリビアンフィラー(ハバナフィラー)",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ノーベル プティ",
+      "name": "ドミニカン",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1850,
+      "country": "ﾃﾞﾝﾏｰｸ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ラ エストレラ ポラー",
+      "name": "ロスチャイルド",
+      "variant": "",
+      "grams": "",
+      "priceYen": 780,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ラ エストレラ ポラー",
+      "name": "ギガンテ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1330,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    }
+  ]
+}
