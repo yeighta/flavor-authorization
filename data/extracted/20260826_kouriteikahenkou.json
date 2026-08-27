@@ -1,0 +1,476 @@
+{
+  "date": "2026-08-26",
+  "kind": "henkou",
+  "filename": "20260826_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260826_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ミックス",
+      "name": "アイス",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 590,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ミックス",
+      "name": "ミックス",
+      "variant": "",
+      "grams": "5.5g",
+      "priceYen": 590,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ミックス",
+      "name": "アイス・プラス",
+      "variant": "",
+      "grams": "5.5g",
+      "priceYen": 590,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ミックス",
+      "name": "ベルベット",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 590,
+      "country": "大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "リッチ",
+      "variant": "",
+      "grams": "5.3g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "レギュラー バランスド",
+      "variant": "",
+      "grams": "5.3g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "スムース",
+      "variant": "",
+      "grams": "5.3g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "ウォーム",
+      "variant": "",
+      "grams": "5.3g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "ルビー",
+      "variant": "",
+      "grams": "5.3g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "クリア",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "メンソール",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "ミント",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "ブラック パープル",
+      "variant": "",
+      "grams": "5.5g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "ブラック イエロー",
+      "variant": "",
+      "grams": "5.5g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "ブラック ルビー",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "ブラック サンシャイン",
+      "variant": "",
+      "grams": "5.5g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "ブラック フューシャ",
+      "variant": "",
+      "grams": "5.5g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "イエロー",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "フュージョン",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "パープル",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "トロピカル",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "ブライト",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "パール サン",
+      "variant": "",
+      "grams": "5.7g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "パール オアシス",
+      "variant": "",
+      "grams": "5.7g",
+      "priceYen": 640,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "リビエラ",
+      "variant": "",
+      "grams": "5.6g",
+      "priceYen": 640,
+      "country": "ｷﾞﾘｼｬ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "シャイン",
+      "variant": "",
+      "grams": "5.6g",
+      "priceYen": 640,
+      "country": "ｷﾞﾘｼｬ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "ベルベット",
+      "variant": "",
+      "grams": "5.6g",
+      "priceYen": 640,
+      "country": "ｷﾞﾘｼｬ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "ステラー",
+      "variant": "",
+      "grams": "5.7g",
+      "priceYen": 640,
+      "country": "ｷﾞﾘｼｬ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "ブロッサム",
+      "variant": "",
+      "grams": "5.7g",
+      "priceYen": 640,
+      "country": "ｷﾞﾘｼｬ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "ブラック・ミント",
+      "variant": "",
+      "grams": "5.7g",
+      "priceYen": 640,
+      "country": "ｷﾞﾘｼｬ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "テリア",
+      "name": "ゴールデン・ブリーズ",
+      "variant": "",
+      "grams": "5.7g",
+      "priceYen": 640,
+      "country": "ｷﾞﾘｼｬ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "バランスト イエロー",
+      "variant": "",
+      "grams": "5.3g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "バランスト ゴールド",
+      "variant": "",
+      "grams": "5.3g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "シトラス・グリーン",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "クリア・シルバー",
+      "variant": "",
+      "grams": "5.3g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "クール・ジェイド",
+      "variant": "",
+      "grams": "5.3g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "ディープ・ブロンズ",
+      "variant": "",
+      "grams": "5.3g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "フレッシュ コーラル",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "フレッシュ エメラルド",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "フレッシュ パープル",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "フロスト・グリーン",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "アイシー ブラック",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "アイシー パープル",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "ジューシー・レッド",
+      "variant": "",
+      "grams": "5.5g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "ピュア・ティーク",
+      "variant": "",
+      "grams": "5.3g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "スムース ゴールド",
+      "variant": "",
+      "grams": "5.3g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "スムース バイオレット",
+      "variant": "",
+      "grams": "5.3g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "トロピカル・イエロー",
+      "variant": "",
+      "grams": "5.4g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "アイシー・レッド",
+      "variant": "",
+      "grams": "5.5g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "パープル・カプセル",
+      "variant": "",
+      "grams": "5.7g",
+      "priceYen": 590,
+      "country": "ｷﾞﾘｼｬ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "コバルト・ブルー",
+      "variant": "",
+      "grams": "5.3g",
+      "priceYen": 590,
+      "country": "ｲﾀﾘｱ"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "センティア",
+      "name": "パッション・フルーツ・カプセル",
+      "variant": "",
+      "grams": "5.7g",
+      "priceYen": 590,
+      "country": "ｷﾞﾘｼｬ"
+    }
+  ]
+}
