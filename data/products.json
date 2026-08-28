@@ -28699,6 +28699,17 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "NASH",
+    "name": "アロエストロベリー",
+    "grams": "40.0g",
+    "priceYen": 2400,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "NASH",
     "name": "アロエストロベリー",
     "variant": "箱",
     "grams": "40.0g",
@@ -28759,6 +28770,17 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "NASH",
+    "name": "グレープフルーツ",
+    "grams": "40.0g",
+    "priceYen": 2400,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "NASH",
     "name": "グルート",
     "variant": "箱",
     "grams": "40.0g",
@@ -28815,6 +28837,17 @@
     "updatedDate": "2025-10-08",
     "source": "shinki",
     "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20251008_kouriteika.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "NASH",
+    "name": "コーラキャラメル",
+    "grams": "40.0g",
+    "priceYen": 2400,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -28884,6 +28917,17 @@
     "updatedDate": "2025-10-08",
     "source": "shinki",
     "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20251008_kouriteika.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "NASH",
+    "name": "パッションフルーツ",
+    "grams": "40.0g",
+    "priceYen": 2400,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -29066,6 +29110,17 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "NASH",
+    "name": "マンゴー",
+    "grams": "40.0g",
+    "priceYen": 2400,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "NASH",
     "name": "マンゴー",
     "variant": "箱",
     "grams": "40.0g",
@@ -29086,6 +29141,17 @@
     "updatedDate": "2025-10-08",
     "source": "shinki",
     "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20251008_kouriteika.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "NASH",
+    "name": "ラストサムライ",
+    "grams": "40.0g",
+    "priceYen": 2400,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
