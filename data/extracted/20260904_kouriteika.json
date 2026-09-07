@@ -1,0 +1,638 @@
+{
+  "date": "2026-09-04",
+  "kind": "shinki",
+  "filename": "20260904_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260904_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Base",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Black Currant",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Black Ji",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Blackberry Wine",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Blueberry Yogurt",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Catmint",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Champagne",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Cherry Jelly",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Cola",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Cooler",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Elderberry",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Guinness",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Jasmine Pear",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Kiwi",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Love Is",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Melon",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Orange Blossom",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Orange Tic Tac",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Passion Fruit",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Peonies",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Pine",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Pink Skittles",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Pomegranate Mors",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Raspberry",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Red",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Rose Grapefruit",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Skittles",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Sour Berries",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Sour Pineapple",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Tropic Soda",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Ultima",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Vanilla Berries",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Violet Zephyr",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Watermelon Halls",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Yuzu",
+      "variant": "",
+      "grams": "30.0g",
+      "priceYen": 1500,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Base",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Black Currant",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Black Ji",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Blackberry Wine",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Blueberry Yogurt",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Catmint",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Champagne",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Cherry Jelly",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Cola",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Cooler",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Elderberry",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Guinness",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Jasmine Pear",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Kiwi",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Love Is",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Melon",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Orange Blossom",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Orange Tic Tac",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Passion Fruit",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Peonies",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Pine",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Pink Skittles",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Pomegranate Mors",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Raspberry",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Red",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Rose Grapefruit",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Skittles",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Sour Berries",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Sour Pineapple",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Tropic Soda",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Ultima",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Vanilla Berries",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Violet Zephyr",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Watermelon Halls",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEUS",
+      "name": "Yuzu",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 4400,
+      "country": "ﾛｼｱ"
+    }
+  ]
+}
