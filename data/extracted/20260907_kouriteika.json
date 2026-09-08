@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-07",
+  "kind": "shinki",
+  "filename": "20260907_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260907_kouriteika.pdf",
+  "products": [
+    {
+      "category": "加熱式たばこ",
+      "manufacturer": "メビウス",
+      "name": "トロピカル・オプション・プルーム用",
+      "variant": "20本",
+      "grams": "4.0g",
+      "priceYen": 590,
+      "country": "日本"
+    },
+    {
+      "category": "加熱式たばこ",
+      "manufacturer": "エボ",
+      "name": "カカオ・ミント・クリスタル・22・プルーム用",
+      "variant": "22本",
+      "grams": "4.4g",
+      "priceYen": 620,
+      "country": "日本"
+    },
+    {
+      "category": "加熱式たばこ",
+      "manufacturer": "エボ",
+      "name": "オータム・プレミアム・レギュラー・プルーム用",
+      "variant": "22本",
+      "grams": "4.4g",
+      "priceYen": 620,
+      "country": "日本"
+    },
+    {
+      "category": "加熱式たばこ",
+      "manufacturer": "メビウス",
+      "name": "オータム・プレミアム・レギュラー・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 590,
+      "country": "日本"
+    },
+    {
+      "category": "加熱式たばこ",
+      "manufacturer": "キャメル",
+      "name": "オータム・プレミアム・レギュラー・プルーム用",
+      "variant": "20本",
+      "grams": "4.4g",
+      "priceYen": 570,
+      "country": "日本"
+    }
+  ]
+}
