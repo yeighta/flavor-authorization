@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-08",
+  "kind": "henkou",
+  "filename": "20260908_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260908_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "IT'S A BOY",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾛｯｷｰﾊﾟﾃﾙ",
+      "name": "IT'S A GIRL",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}
