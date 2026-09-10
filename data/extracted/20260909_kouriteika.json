@@ -1,0 +1,134 @@
+{
+  "date": "2026-09-09",
+  "kind": "shinki",
+  "filename": "20260909_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260909_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "MAMBO",
+      "name": "ROBUSTO MADURO",
+      "variant": "",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Flor de Oliva 550",
+      "name": "Robusto",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1210,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Flor de Oliva 550",
+      "name": "Maduro Robusto",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1320,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva Serie",
+      "name": "G 450 Robusto Round",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1540,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva Serie",
+      "name": "G 438 Petit Corona",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1210,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva Serie",
+      "name": "O 438 Petit Corona",
+      "variant": "",
+      "grams": "",
+      "priceYen": 1320,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva Serie",
+      "name": "V Melanio 135 Aniversario 2026",
+      "variant": "",
+      "grams": "",
+      "priceYen": 3520,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｼﾞｮﾝｴｲﾙｽﾞﾍﾞﾘｰ",
+      "name": "ｳｲﾝﾀｰｴﾃﾞｨｼｮﾝ",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 6000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺｯﾌﾟ･ﾘﾐﾃｯﾄﾞ ｴﾃﾞｨｼｮﾝ",
+      "name": "AHOY",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 6000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｺｯﾌﾟ･ﾘﾐﾃｯﾄﾞ ｴﾃﾞｨｼｮﾝ",
+      "name": "A CABANA",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 6000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｻﾋﾞﾈﾘ",
+      "name": "150th ANNIVERSARY",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 6000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ｿﾗｰﾆ",
+      "name": "ｳﾞｧｰｼﾞﾆｱﾌﾚｲｸ633",
+      "variant": "",
+      "grams": "100.0g",
+      "priceYen": 6000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾃﾞｨｰｼﾞｪｰ",
+      "name": "ﾐｯｸｽ ｻｲｺﾞﾝ ｱｲｼｰﾌﾞﾙｰ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 550,
+      "country": "ﾍﾞﾄﾅﾑ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾃﾞｨｰｼﾞｪｰ",
+      "name": "ﾐｯｸｽ ｻｲｺﾞﾝ ｱｲｼｰﾋﾟﾝｸ",
+      "variant": "",
+      "grams": "",
+      "priceYen": 550,
+      "country": "ﾍﾞﾄﾅﾑ"
+    }
+  ]
+}
