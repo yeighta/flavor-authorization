@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-14",
+  "kind": "shinki",
+  "filename": "20260914_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260914_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ベロ",
+      "name": "マンゴー・アイス・ミディアム",
+      "variant": "15個 缶",
+      "grams": "",
+      "priceYen": 380,
+      "country": "ﾊﾟｷｽﾀﾝ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "エル・ガウチョ・スクエア",
+      "name": "ファンタスティコ・ブルー",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "エル・ガウチョ・スクエア",
+      "name": "プレミアム・レッド",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 2500,
+      "country": "ｲﾝﾄﾞﾈｼｱ"
+    }
+  ]
+}
