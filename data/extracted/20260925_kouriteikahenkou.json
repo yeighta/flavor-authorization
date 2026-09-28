@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-25",
+  "kind": "henkou",
+  "filename": "20260925_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260925_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "H.O.T.",
+      "name": "レッド",
+      "variant": "1本",
+      "grams": "1.0g",
+      "priceYen": 570,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "H.O.T.",
+      "name": "ブルー",
+      "variant": "1本",
+      "grams": "1.0g",
+      "priceYen": 570,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "H.O.T.",
+      "name": "メンソール",
+      "variant": "1本",
+      "grams": "1.0g",
+      "priceYen": 570,
+      "country": "ｱﾒﾘｶ合衆国"
+    }
+  ]
+}
