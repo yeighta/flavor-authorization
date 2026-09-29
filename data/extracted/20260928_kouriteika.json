@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-28",
+  "kind": "shinki",
+  "filename": "20260928_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260928_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ｱﾑｽﾃﾙﾀﾞﾑ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 950,
+      "country": "ﾌﾞﾗｼﾞﾙ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "",
+      "name": "ﾏﾗｼﾞｮ",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "25.0g",
+      "priceYen": 850,
+      "country": "ﾌﾞﾗｼﾞﾙ"
+    }
+  ]
+}
