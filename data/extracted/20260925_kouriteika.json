@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-25",
+  "kind": "shinki",
+  "filename": "20260925_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260925_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｴｯｾ",
+      "name": "ﾁｪﾝｼﾞ ﾀﾞﾌﾞﾙ ﾍﾞﾘｰｿｰﾀﾞ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｴｯｾ",
+      "name": "ﾁｪﾝｼﾞ ﾀﾞﾌﾞﾙ ﾄﾛﾋﾟｶﾙ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "大韓民国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "LOTUS",
+      "name": "MADURO 52",
+      "variant": "140mm 1本",
+      "grams": "",
+      "priceYen": 5700,
+      "country": "ﾍﾞﾄﾅﾑ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Dunbarton Tobacco \u0026 Trust",
+      "name": "10TH JUBILEE",
+      "variant": "143mm 1本",
+      "grams": "",
+      "priceYen": 5000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}

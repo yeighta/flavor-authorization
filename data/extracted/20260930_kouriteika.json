@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-30",
+  "kind": "shinki",
+  "filename": "20260930_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20260930_kouriteika.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "OFFICIAL BOOTLEG SELECTION",
+      "name": "Lonsdale",
+      "variant": "170mm 1本",
+      "grams": "",
+      "priceYen": 7300,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "OFFICIAL BOOTLEG SELECTION",
+      "name": "Torpedo",
+      "variant": "156mm 1本",
+      "grams": "",
+      "priceYen": 7600,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "OFFICIAL BOOTLEG SELECTION",
+      "name": "Double Corona",
+      "variant": "194mm 1本",
+      "grams": "",
+      "priceYen": 8600,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "OFFICIAL BOOTLEG SELECTION",
+      "name": "Lancero",
+      "variant": "192mm 1本",
+      "grams": "",
+      "priceYen": 8300,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    }
+  ]
+}
