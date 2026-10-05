@@ -4,7 +4,7 @@
 
 - データソース: <https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html>
 - 収録範囲: 2018年4月以降に新規認可・価格改定された水タバコ製品
-- 公開先: <https://flavor-authorization.pages.dev>（Cloudflare Pages、デプロイ後）
+- 公開先: <https://flavor-authorization.y8a.jp>（Cloudflare Pages。`flavor-authorization.pages.dev` にも配信）
 
 ## アーキテクチャ
 
@@ -115,7 +115,7 @@ X の 4 つのシークレットは、リポジトリ直下の `.env.x`（gitign
 ### 3. 初回デプロイ
 - main へ push すると `.github/workflows/deploy.yml` が走ります
 - Actions タブでログ確認、Secret 漏れなら失敗します
-- 成功すると `https://flavor-authorization.pages.dev` で公開されます
+- 成功すると `https://flavor-authorization.y8a.jp`（独自ドメイン）と `https://flavor-authorization.pages.dev` で公開されます
 
 ### 4. 自動更新 CD
 - `.github/workflows/update.yml` が毎時 17 分に発火
