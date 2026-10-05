@@ -12,6 +12,7 @@ import (
 	"io"
 	"log"
 	"net/http"
+	"net/url"
 	"os"
 	"sort"
 	"strings"
@@ -287,7 +288,7 @@ func tweetText(d diff, siteURL string) string {
 		}
 		line("🆕 新規", len(d.Added), added, nAdded)
 		line(priceTitle(d.PriceChanges), len(d.PriceChanges), changed, nChanged)
-		b.WriteString("\n" + siteURL)
+		b.WriteString("\n" + linkFor(d, siteURL))
 		return b.String()
 	}
 
@@ -382,4 +383,35 @@ func priceTitle(cs []priceChange) string {
 		return "💴 値下げ"
 	}
 	return fmt.Sprintf("💴 価格改定（値上げ%d・値下げ%d）", up, down)
+}
+
+// linkFor points the post at the site already filtered to what changed: the brand
+// when a single brand was updated (?brand=BALLI), otherwise the notice date
+// (?date=2026-10-02), which lists exactly the products in that notice.
+func linkFor(d diff, siteURL string) string {
+	brands := map[string]bool{}
+	latest := ""
+	note := func(p model.Product) {
+		brands[p.Manufacturer] = true
+		if p.UpdatedDate > latest {
+			latest = p.UpdatedDate
+		}
+	}
+	for _, p := range d.Added {
+		note(p)
+	}
+	for _, c := range d.PriceChanges {
+		note(c.New)
+	}
+	q := url.Values{}
+	if len(brands) == 1 {
+		for b := range brands {
+			q.Set("brand", b)
+		}
+	} else if latest != "" {
+		q.Set("date", latest)
+	} else {
+		return siteURL
+	}
+	return strings.TrimRight(siteURL, "/") + "/?" + q.Encode()
 }
