@@ -1,17 +1,14 @@
 // Package normalizer collapses spelling variants of the same brand into a
-// canonical name, using Gemini for fuzzy matching.
+// canonical name, using an LLM for fuzzy matching.
 package normalizer
 
 import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"os"
 
-	"google.golang.org/genai"
+	"github.com/yeighta/flavor-authorization/internal/llm"
 )
-
-const DefaultModel = "gemini-3-flash-preview"
 
 // Cluster is a group of manufacturer names that the LLM judges to be
 // variants of the same brand.
@@ -48,71 +45,59 @@ clusters 配列に、2件以上の名前を含むクラスタのみを返す（�
 各クラスタ内には全ての別名表記を含める。
 `
 
-func responseSchema() *genai.Schema {
-	cluster := &genai.Schema{
-		Type: genai.TypeObject,
-		Properties: map[string]*genai.Schema{
-			"names": {Type: genai.TypeArray, Items: &genai.Schema{Type: genai.TypeString}},
+func responseSchema() map[string]any {
+	cluster := map[string]any{
+		"type": "object",
+		"properties": map[string]any{
+			"names": map[string]any{"type": "array", "items": map[string]any{"type": "string"}},
 		},
-		Required: []string{"names"},
+		"required":             []string{"names"},
+		"additionalProperties": false,
 	}
-	return &genai.Schema{
-		Type: genai.TypeObject,
-		Properties: map[string]*genai.Schema{
-			"clusters": {Type: genai.TypeArray, Items: cluster},
+	return map[string]any{
+		"type": "object",
+		"properties": map[string]any{
+			"clusters": map[string]any{"type": "array", "items": cluster},
 		},
-		Required: []string{"clusters"},
+		"required":             []string{"clusters"},
+		"additionalProperties": false,
 	}
 }
 
 type Client struct {
-	c     *genai.Client
-	Model string
+	llm *llm.Client
 }
 
-func NewClient(ctx context.Context) (*Client, error) {
-	apiKey := os.Getenv("GEMINI_API_KEY")
-	if apiKey == "" {
-		return nil, fmt.Errorf("GEMINI_API_KEY env var is not set")
-	}
-	c, err := genai.NewClient(ctx, &genai.ClientConfig{
-		APIKey:  apiKey,
-		Backend: genai.BackendGeminiAPI,
-	})
+func NewClient() (*Client, error) {
+	c, err := llm.NewClient("")
 	if err != nil {
 		return nil, err
 	}
-	return &Client{c: c, Model: DefaultModel}, nil
+	return &Client{llm: c}, nil
 }
 
-// Cluster sends the samples to Gemini and returns groups of variant names.
+// Cluster sends the samples to the LLM and returns groups of variant names.
 func (c *Client) Cluster(ctx context.Context, samples []Sample) ([]Cluster, error) {
 	body, err := json.MarshalIndent(samples, "", "  ")
 	if err != nil {
 		return nil, err
 	}
-	contents := []*genai.Content{{
-		Role: "user",
-		Parts: []*genai.Part{
-			{Text: promptText},
-			{Text: "# 入力\n```json\n" + string(body) + "\n```"},
+	res, err := c.llm.Complete(ctx, llm.Request{
+		Messages: []llm.Message{
+			{Role: "system", Content: promptText},
+			{Role: "user", Content: "# 入力\n```json\n" + string(body) + "\n```"},
 		},
-	}}
-	cfg := &genai.GenerateContentConfig{
-		ResponseMIMEType: "application/json",
-		ResponseSchema:   responseSchema(),
-		Temperature:      genai.Ptr[float32](0),
-		ThinkingConfig:   &genai.ThinkingConfig{ThinkingBudget: genai.Ptr[int32](0)},
-		MaxOutputTokens:  32768,
-	}
-	res, err := c.c.Models.GenerateContent(ctx, c.Model, contents, cfg)
+		Schema:     responseSchema(),
+		SchemaName: "clusters",
+		MaxTokens:  32768,
+	})
 	if err != nil {
-		return nil, fmt.Errorf("gemini cluster: %w", err)
+		return nil, fmt.Errorf("cluster: %w", err)
 	}
 	var parsed struct {
 		Clusters []Cluster `json:"clusters"`
 	}
-	if err := json.Unmarshal([]byte(res.Text()), &parsed); err != nil {
+	if err := json.Unmarshal([]byte(llm.ExtractJSON(res)), &parsed); err != nil {
 		return nil, fmt.Errorf("parse cluster json: %w", err)
 	}
 	return parsed.Clusters, nil
@@ -125,9 +110,9 @@ type AliasMap struct {
 }
 
 // PickCanonical returns the canonical name for a cluster:
-//   1. The variant with the most product rows wins.
-//   2. Tie-break: shortest name.
-//   3. Tie-break: alphabetical.
+//  1. The variant with the most product rows wins.
+//  2. Tie-break: shortest name.
+//  3. Tie-break: alphabetical.
 func PickCanonical(cluster []string, counts map[string]int) string {
 	best := cluster[0]
 	for _, n := range cluster[1:] {

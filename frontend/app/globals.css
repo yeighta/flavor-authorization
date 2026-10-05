@@ -2,10 +2,112 @@
 @tailwind components;
 @tailwind utilities;
 
+/*
+ * Palette: hookah glass and smoke. A cool lilac-grey ground, aubergine ink,
+ * and one hot-coal ember reserved for price increases. Flavor family hues
+ * are information (they encode the family), never decoration.
+ */
 :root {
-  color-scheme: light dark;
+  --smoke: 240 237 245; /* page */
+  --glass: 250 249 252; /* raised surfaces */
+  --ink: 43 24 56; /* text */
+  --haze: 110 100 121; /* secondary text */
+  --veil: 216 210 224; /* rules, outlines */
+  --ember: 214 72 24; /* price up */
+  --cool: 31 132 116; /* price down */
+
+  --f-mint: 23 150 130;
+  --f-citrus: 196 146 0;
+  --f-berry: 190 45 104;
+  --f-tropical: 224 120 20;
+  --f-orchard: 98 150 40;
+  --f-dessert: 150 96 64;
+  --f-botanical: 120 88 200;
+  --f-other: 150 140 160;
+
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --smoke: 24 17 30;
+    --glass: 34 26 42;
+    --ink: 238 232 243;
+    --haze: 166 154 178;
+    --veil: 62 51 73;
+    --ember: 255 120 72;
+    --cool: 80 200 175;
+
+    --f-mint: 70 205 180;
+    --f-citrus: 236 196 60;
+    --f-berry: 240 100 150;
+    --f-tropical: 255 160 70;
+    --f-orchard: 150 205 90;
+    --f-dessert: 210 160 120;
+    --f-botanical: 170 145 245;
+    --f-other: 150 140 160;
+
+    color-scheme: dark;
+  }
+}
+
+html {
+  background: rgb(var(--smoke));
+  color: rgb(var(--ink));
+  -webkit-text-size-adjust: 100%;
+  scroll-padding-top: 7rem;
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Hiragino Sans', 'Yu Gothic', sans-serif;
+  background: rgb(var(--smoke));
+  /* Break Japanese at phrase boundaries where supported (Chrome 119+), not mid-word. */
+  word-break: auto-phrase;
+  font-feature-settings: 'palt';
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: rgb(var(--ink));
+  color: rgb(var(--smoke));
+}
+
+:focus-visible {
+  outline: 2px solid rgb(var(--ink));
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@keyframes sheet-in {
+  from {
+    transform: translateX(2.5rem);
+    opacity: 0;
+  }
+  to {
+    transform: none;
+    opacity: 1;
+  }
+}
+
+@keyframes veil-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* The native clear button can't be themed; the search field renders its own. */
+input[type='search']::-webkit-search-cancel-button {
+  appearance: none;
 }

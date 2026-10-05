@@ -1,5 +1,5 @@
 // classify reads data/products.json, gathers unique パイプたばこ manufacturers,
-// asks Gemini to classify each as kiseru/shisha/unknown, and writes
+// asks the LLM to classify each as kiseru/shisha/unknown, and writes
 // data/manufacturers.json. Existing entries are preserved (manual edits win)
 // unless --refresh is passed.
 package main
@@ -64,7 +64,7 @@ func main() {
 
 	ctx, cancel := context.WithTimeout(context.Background(), 30*time.Minute)
 	defer cancel()
-	c, err := classifier.NewClient(ctx)
+	c, err := classifier.NewClient()
 	if err != nil {
 		log.Fatalf("client: %v", err)
 	}
