@@ -44,3 +44,7 @@ eval-out/
 
 # X API credentials for scripts/set-x-secrets.sh
 .env.x
+.env.x.*
+*.swp
+*.swo
+*~
