@@ -100,6 +100,8 @@ cd frontend && pnpm dev
 | `DISCORD_WEBHOOK_URL` | Discord 通知（任意） | チャンネル設定 → 連携サービス → ウェブフック |
 | `X_API_KEY` / `X_API_SECRET` | X 自動投稿（任意） | <https://developer.x.com> の App → Keys and tokens → Consumer Keys |
 | `X_ACCESS_TOKEN` / `X_ACCESS_TOKEN_SECRET` | X 自動投稿（任意） | 同 Authentication Tokens（App の権限を **Read and write** にしてから発行） |
+
+X への投稿は 1 回の更新につき 1 件（URL 付きのため X API で 1 件 $0.20）。新しく公表された PDF の分だけを告知するので、同じ内容が再投稿されることはありません。Secrets 登録後の動作確認は Actions → "Test X post" を手動実行すると、直近の公表を 1 件だけ投稿します。
 | `CLOUDFLARE_API_TOKEN` | Pages デプロイ | Cloudflare ダッシュボード "My Profile" → "API Tokens" → "Create Token" → "Edit Cloudflare Workers" テンプレで作成 |
 | `CLOUDFLARE_ACCOUNT_ID` | Pages デプロイ | Cloudflare ダッシュボード右サイドの "Account ID" |
 
