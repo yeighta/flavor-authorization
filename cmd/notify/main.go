@@ -385,9 +385,9 @@ func priceTitle(cs []priceChange) string {
 	return fmt.Sprintf("💴 価格改定（値上げ%d・値下げ%d）", up, down)
 }
 
-// linkFor points the post at the site already filtered to what changed: the brand
-// when a single brand was updated (?brand=BALLI), otherwise the notice date
-// (?date=2026-10-02), which lists exactly the products in that notice.
+// linkFor points the post at the site already filtered to what changed: the notice
+// date (?date=2026-10-02) lists exactly the products in that notice, narrowed to
+// the brand when a single brand was updated (?brand=BALLI&date=2026-10-02).
 func linkFor(d diff, siteURL string) string {
 	brands := map[string]bool{}
 	latest := ""
@@ -403,15 +403,15 @@ func linkFor(d diff, siteURL string) string {
 	for _, c := range d.PriceChanges {
 		note(c.New)
 	}
-	q := url.Values{}
-	if len(brands) == 1 {
-		for b := range brands {
-			q.Set("brand", b)
-		}
-	} else if latest != "" {
-		q.Set("date", latest)
-	} else {
+	if latest == "" {
 		return siteURL
 	}
-	return strings.TrimRight(siteURL, "/") + "/?" + q.Encode()
+	// Built by hand to keep brand before date; url.Values.Encode sorts keys.
+	query := "date=" + url.QueryEscape(latest)
+	if len(brands) == 1 {
+		for b := range brands {
+			query = "brand=" + url.QueryEscape(b) + "&" + query
+		}
+	}
+	return strings.TrimRight(siteURL, "/") + "/?" + query
 }

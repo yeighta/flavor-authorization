@@ -41,3 +41,6 @@ frontend/public/data/
 *.pdf
 eval-out/
 *.tsbuildinfo
+
+# X API credentials for scripts/set-x-secrets.sh
+.env.x
