@@ -19,15 +19,23 @@ const sans = Zen_Kaku_Gothic_New({
   preload: false,
 });
 
+const title = '認可たばこデータベース';
 const description =
-  '財務省が小売定価を認可した水たばこ（シーシャ）のフレーバーを、ブランド・価格・値上げ値下げの履歴とともに引ける台帳。2018年4月以降の公表PDFから作成。';
+  '財務省が小売定価を認可した水たばこ（シーシャ）のフレーバーを、ブランド・価格・値上げ値下げの履歴とともに引けるデータベース。2018年4月以降の公表PDFから作成。';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://flavor-authorization.y8a.jp'),
-  title: 'シーシャ認可台帳',
+  title,
   description,
-  openGraph: { title: 'シーシャ認可台帳', description, type: 'website', locale: 'ja_JP' },
-  twitter: { card: 'summary', title: 'シーシャ認可台帳', description },
+  openGraph: {
+    title,
+    description,
+    type: 'website',
+    locale: 'ja_JP',
+    siteName: title,
+    images: [{ url: '/og.png', width: 1200, height: 630, alt: title }],
+  },
+  twitter: { card: 'summary_large_image', title, description, images: ['/og.png'] },
 };
 
 export const viewport: Viewport = {
