@@ -30,3 +30,21 @@ func TestComputeDiffAnnouncesOnlyNewNotices(t *testing.T) {
 		t.Errorf("second run announced %+v", again)
 	}
 }
+
+func TestLinkFor(t *testing.T) {
+	site := "https://flavor-authorization.pages.dev"
+	one := diff{PriceChanges: []priceChange{{New: p("Apple", 1500, "2026-10-02")}}}
+	if got, want := linkFor(one, site), site+"/?brand=BALLI"; got != want {
+		t.Errorf("single brand: %s, want %s", got, want)
+	}
+	other := p("Mint", 1800, "2026-10-02")
+	other.Manufacturer = "Al Fakher"
+	many := diff{Added: []model.Product{other}, PriceChanges: one.PriceChanges}
+	if got, want := linkFor(many, site), site+"/?date=2026-10-02"; got != want {
+		t.Errorf("many brands: %s, want %s", got, want)
+	}
+	other.Manufacturer = "Bang Bang"
+	if got, want := linkFor(diff{Added: []model.Product{other}}, site), site+"/?brand=Bang+Bang"; got != want {
+		t.Errorf("brand with space: %s, want %s", got, want)
+	}
+}

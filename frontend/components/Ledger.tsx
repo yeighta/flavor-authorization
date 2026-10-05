@@ -78,9 +78,22 @@ function Browser({ catalog }: { catalog: Catalog }) {
   const [query, setQuery] = useState('');
   const deferredQuery = useDeferredValue(query);
   const [families, setFamilies] = useState<Set<Family>>(new Set());
+  // Brand and notice date live in the URL (?brand=BALLI, ?date=2026-10-02) so a
+  // filtered view can be shared, e.g. from the X announcement of an update.
+  const [brand, setBrand] = useState(() => brandFromURL(catalog));
   const [grams, setGrams] = useState('');
   const [country, setCountry] = useState('');
-  const [release, setRelease] = useState<string | null>(null);
+  const [release, setRelease] = useState<string | null>(() => dateFromURL(catalog));
+
+  useEffect(() => {
+    const params = new URLSearchParams(location.search);
+    for (const [k, v] of [['brand', brand], ['date', release ?? '']] as const) {
+      if (v) params.set(k, v);
+      else params.delete(k);
+    }
+    const qs = params.toString();
+    history.replaceState(history.state, '', location.pathname + (qs ? `?${qs}` : '') + location.hash);
+  }, [brand, release]);
   const [sort, setSort] = useState<{ key: SortKey; dir: SortDir }>({ key: 'brand', dir: 'asc' });
   const [openId, setOpenId] = useState<string | null>(null);
   const returnFocus = useRef<HTMLElement | null>(null);
@@ -135,9 +148,10 @@ function Browser({ catalog }: { catalog: Catalog }) {
           (families.size === 0 || families.has(f.family)) &&
           (!grams || String(gramsValue(f.grams)) === grams) &&
           (!country || f.country === country) &&
+          (!brand || f.brand === brand) &&
           (!releaseSet || releaseSet.has(f.id)),
       ),
-    [catalog, terms, families, grams, country, releaseSet],
+    [catalog, terms, families, grams, country, brand, releaseSet],
   );
 
   const rows = useMemo(() => sortRows(visible, sort.key, sort.dir), [visible, sort]);
@@ -152,19 +166,25 @@ function Browser({ catalog }: { catalog: Catalog }) {
 
   const gramOptions = useMemo(() => countBy(catalog.flavors, (f) => String(gramsValue(f.grams))), [catalog]);
   const countryOptions = useMemo(() => countBy(catalog.flavors, (f) => f.country), [catalog]);
+  const brandOptions = useMemo(
+    () => catalog.brands.map((b) => [b.name, b.flavors.length] as [string, number]),
+    [catalog],
+  );
 
-  const filtering = q !== '' || families.size > 0 || grams !== '' || country !== '' || release !== null;
+  const filtering = q !== '' || families.size > 0 || brand !== '' || grams !== '' || country !== '' || release !== null;
   const reset = () => {
     setQuery('');
     setFamilies(new Set());
     setGrams('');
     setCountry('');
     setRelease(null);
+    setBrand('');
   };
 
   const controls = (
     <>
       <Select label="容量" value={grams} onChange={setGrams} options={gramOptions} format={(v) => `${v}g`} />
+      <Select label="ブランド" value={brand} onChange={setBrand} options={brandOptions} />
       <Select label="製造国" value={country} onChange={setCountry} options={countryOptions} />
     </>
   );
@@ -290,7 +310,7 @@ function Browser({ catalog }: { catalog: Catalog }) {
           siblings={siblings}
           onClose={close}
           onBrand={(b) => {
-            setQuery(b);
+            setBrand(b);
             close();
             document.getElementById('index')?.scrollIntoView();
           }}
@@ -298,6 +318,18 @@ function Browser({ catalog }: { catalog: Catalog }) {
       )}
     </>
   );
+}
+
+function brandFromURL(catalog: Catalog): string {
+  const want = new URLSearchParams(location.search).get('brand')?.trim().toLowerCase();
+  if (!want) return '';
+  // Tolerate case differences in hand-typed links (?brand=balli).
+  return catalog.brands.find((b) => b.name.toLowerCase() === want)?.name ?? '';
+}
+
+function dateFromURL(catalog: Catalog): string | null {
+  const want = new URLSearchParams(location.search).get('date');
+  return want && catalog.releases.some((r) => r.date === want) ? want : null;
 }
 
 function sortRows(rows: Flavor[], key: SortKey, dir: SortDir): Flavor[] {
