@@ -46,14 +46,25 @@ func main() {
 	newMfrs := flag.String("new-manufacturers", "data/manufacturers.json", "current manufacturers.json")
 	prURL := flag.String("pr-url", "", "PR URL linked from the Discord embed")
 	dryRun := flag.Bool("dry-run", false, "print messages instead of sending")
+	latest := flag.Bool("latest", false, "announce the most recent notice in -new-products (rebuilt from price history) instead of diffing; for test posts")
+	channels := flag.String("channels", "discord,x", "comma-separated channels to send to")
 	flag.Parse()
 
 	_ = godotenv.Load()
+	enabled := map[string]bool{}
+	for _, c := range strings.Split(*channels, ",") {
+		enabled[strings.TrimSpace(c)] = true
+	}
 
-	d := computeDiff(
-		loadProducts(*oldProducts), loadProducts(*newProducts),
-		loadManufacturers(*oldMfrs), loadManufacturers(*newMfrs),
-	)
+	var d diff
+	if *latest {
+		d = latestNotice(loadProducts(*newProducts))
+	} else {
+		d = computeDiff(
+			loadProducts(*oldProducts), loadProducts(*newProducts),
+			loadManufacturers(*oldMfrs), loadManufacturers(*newMfrs),
+		)
+	}
 	log.Printf("diff: added=%d priceChanges=%d manufacturers=%d", len(d.Added), len(d.PriceChanges), len(d.Manufacturers))
 	if d.empty() {
 		log.Printf("nothing to announce")
@@ -70,7 +81,9 @@ func main() {
 	failed := false
 
 	discordDesc := discordDescription(d)
-	if *dryRun {
+	if !enabled["discord"] {
+		// skipped by -channels
+	} else if *dryRun {
 		fmt.Printf("=== Discord ===\n%s\n\n", discordDesc)
 	} else if hook := os.Getenv("DISCORD_WEBHOOK_URL"); hook == "" {
 		log.Printf("DISCORD_WEBHOOK_URL not set; skipping Discord")
@@ -82,7 +95,7 @@ func main() {
 	}
 
 	// Manufacturer-only changes aren't interesting to followers.
-	if len(d.Added) > 0 || len(d.PriceChanges) > 0 {
+	if enabled["x"] && (len(d.Added) > 0 || len(d.PriceChanges) > 0) {
 		tweet := tweetText(d, siteURL)
 		creds := xpost.CredentialsFromEnv()
 		if *dryRun {
@@ -102,13 +115,50 @@ func main() {
 	}
 }
 
+// computeDiff reports what the newly published PDFs changed. Only rows dated after
+// the newest date already in the old DB are eligible, so each 財務省 notice is
+// announced exactly once: re-merges that only reshuffle existing rows (a brand
+// newly classified as shisha, an alias change that renames a manufacturer) can
+// never re-announce old products as new.
+// latestNotice rebuilds what the newest 財務省 notice in the DB announced, using
+// each product's price history for the previous price.
+func latestNotice(ps []model.Product) diff {
+	latest := ""
+	for _, p := range ps {
+		if p.UpdatedDate > latest {
+			latest = p.UpdatedDate
+		}
+	}
+	var d diff
+	for _, p := range ps {
+		if p.UpdatedDate != latest {
+			continue
+		}
+		if n := len(p.History); n > 1 {
+			prev := p
+			prev.PriceYen = p.History[n-2].PriceYen
+			d.PriceChanges = append(d.PriceChanges, priceChange{Old: prev, New: p})
+		} else {
+			d.Added = append(d.Added, p)
+		}
+	}
+	return d
+}
+
 func computeDiff(oldP, newP []model.Product, oldM, newM map[string]classifier.Classification) diff {
 	oldByKey := make(map[string]model.Product, len(oldP))
+	oldLatest := ""
 	for _, p := range oldP {
 		oldByKey[p.Key()] = p
+		if p.UpdatedDate > oldLatest {
+			oldLatest = p.UpdatedDate
+		}
 	}
 	var d diff
 	for _, p := range newP {
+		if p.UpdatedDate <= oldLatest {
+			continue
+		}
 		prev, ok := oldByKey[p.Key()]
 		switch {
 		case !ok:
@@ -236,7 +286,7 @@ func tweetText(d diff, siteURL string) string {
 			b.WriteString("\n")
 		}
 		line("🆕 新規", len(d.Added), added, nAdded)
-		line("💴 価格改定", len(d.PriceChanges), changed, nChanged)
+		line(priceTitle(d.PriceChanges), len(d.PriceChanges), changed, nChanged)
 		b.WriteString("\n" + siteURL)
 		return b.String()
 	}
@@ -313,4 +363,23 @@ func loadManufacturers(path string) map[string]classifier.Classification {
 		log.Fatalf("decode %s: %v", path, err)
 	}
 	return m.Entries
+}
+
+// priceTitle says which way prices moved, e.g. "💴 値下げ" or "💴 価格改定（値上げ3・値下げ2）".
+func priceTitle(cs []priceChange) string {
+	up, down := 0, 0
+	for _, c := range cs {
+		if c.New.PriceYen > c.Old.PriceYen {
+			up++
+		} else {
+			down++
+		}
+	}
+	switch {
+	case down == 0:
+		return "💴 値上げ"
+	case up == 0:
+		return "💴 値下げ"
+	}
+	return fmt.Sprintf("💴 価格改定（値上げ%d・値下げ%d）", up, down)
 }
