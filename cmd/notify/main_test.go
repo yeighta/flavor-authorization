@@ -32,7 +32,7 @@ func TestComputeDiffAnnouncesOnlyNewNotices(t *testing.T) {
 }
 
 func TestLinkFor(t *testing.T) {
-	site := "https://flavor-authorization.pages.dev"
+	site := "https://flavor-authorization.y8a.jp"
 	one := diff{PriceChanges: []priceChange{{New: p("Apple", 1500, "2026-10-02")}}}
 	if got, want := linkFor(one, site), site+"/?brand=BALLI&date=2026-10-02"; got != want {
 		t.Errorf("single brand: %s, want %s", got, want)

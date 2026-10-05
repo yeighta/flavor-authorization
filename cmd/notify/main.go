@@ -74,7 +74,7 @@ func main() {
 
 	siteURL := os.Getenv("SITE_URL")
 	if siteURL == "" {
-		siteURL = "https://flavor-authorization.pages.dev"
+		siteURL = "https://flavor-authorization.y8a.jp"
 	}
 	ctx, cancel := context.WithTimeout(context.Background(), 2*time.Minute)
 	defer cancel()
