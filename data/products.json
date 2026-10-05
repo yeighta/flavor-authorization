@@ -8287,6 +8287,17 @@
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Absolute 0",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Absolute 0",
     "variant": "箱",
     "grams": "50.0g",
     "priceYen": 1600,
@@ -8300,11 +8311,33 @@
     "manufacturer": "BALLI",
     "name": "African Queen",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Apple",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Apple",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -8335,11 +8368,33 @@
     "manufacturer": "BALLI",
     "name": "Bagdadi",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Bella Ciao",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Bella Ciao",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -8370,11 +8425,22 @@
     "manufacturer": "BALLI",
     "name": "Biscuit",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Blueberry",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -8387,6 +8453,17 @@
     "updatedDate": "2022-02-17",
     "source": "shinki",
     "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220217_kouriteika.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Blumix",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -8405,22 +8482,33 @@
     "manufacturer": "BALLI",
     "name": "Bubble Gum",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Cappuccino",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Carnaval",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -8439,55 +8527,66 @@
     "manufacturer": "BALLI",
     "name": "Cola Lemon",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Cola Orange",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Cola",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Dewaj",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Dragon Blue",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Eros",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -8506,88 +8605,99 @@
     "manufacturer": "BALLI",
     "name": "Everest",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Fresh Gum Mint",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Fresh",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Grape Mint",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Grapeberry",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Grape",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Gum Cinnamon",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Gum",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Hawana",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -8605,6 +8715,17 @@
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Ibiza Night",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Ibiza Night",
     "variant": "箱",
     "grams": "50.0g",
     "priceYen": 1600,
@@ -8612,6 +8733,17 @@
     "updatedDate": "2022-02-17",
     "source": "shinki",
     "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220217_kouriteika.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Ice Cream Pistachio",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -8629,6 +8761,17 @@
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Ice Cream",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Ice Cream",
     "variant": "箱",
     "grams": "50.0g",
     "priceYen": 1600,
@@ -8641,6 +8784,17 @@
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Lady",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Lady",
     "variant": "箱",
     "grams": "50.0g",
     "priceYen": 1600,
@@ -8648,6 +8802,17 @@
     "updatedDate": "2022-02-17",
     "source": "shinki",
     "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220217_kouriteika.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Lemon Chill",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -8666,33 +8831,55 @@
     "manufacturer": "BALLI",
     "name": "Lemon Mint",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Lemon",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Lol",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Love 21",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Love 21",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -8722,6 +8909,17 @@
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Mai Tai Ice",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Mai Tai Ice",
     "variant": "箱",
     "grams": "50.0g",
     "priceYen": 1600,
@@ -8735,11 +8933,22 @@
     "manufacturer": "BALLI",
     "name": "Mango Peach Ice",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Mango Tango",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -8758,44 +8967,55 @@
     "manufacturer": "BALLI",
     "name": "Matador",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Melon",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Mint",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Moskow",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Narkoz",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -8814,11 +9034,33 @@
     "manufacturer": "BALLI",
     "name": "Nirvana",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Okey",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Okey",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -8848,6 +9090,17 @@
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Orange Cream",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Orange Cream",
     "variant": "箱",
     "grams": "50.0g",
     "priceYen": 1600,
@@ -8861,55 +9114,77 @@
     "manufacturer": "BALLI",
     "name": "Orange Mango",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Orange Mint Ice",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Orange",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Peach",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Pineapple Ice",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Pink",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Pink",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -8934,6 +9209,28 @@
     "updatedDate": "2022-02-17",
     "source": "shinki",
     "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220217_kouriteika.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Quantum",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Quantum",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -8964,11 +9261,22 @@
     "manufacturer": "BALLI",
     "name": "Raspberry Ice",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Ratana",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -8987,55 +9295,77 @@
     "manufacturer": "BALLI",
     "name": "Rossa Bella",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Spiced Peach",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Strawberry",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Tropical",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Turkish Gum",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Tweety",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Tweety",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
@@ -9065,6 +9395,17 @@
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Two Apple",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "BALLI",
+    "name": "Two Apple",
     "variant": "箱",
     "grams": "50.0g",
     "priceYen": 1600,
@@ -9078,22 +9419,22 @@
     "manufacturer": "BALLI",
     "name": "Watermelon Chill",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
     "manufacturer": "BALLI",
     "name": "Wildberry Chill",
     "grams": "50.0g",
-    "priceYen": 1600,
+    "priceYen": 1500,
     "country": "トルコ",
-    "updatedDate": "2023-04-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230424_kouriteika.pdf"
+    "updatedDate": "2026-10-02",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
   },
   {
     "category": "パイプたばこ",
