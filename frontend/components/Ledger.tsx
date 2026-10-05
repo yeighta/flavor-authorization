@@ -5,6 +5,7 @@ import { buildCatalog, formatDate, formatGrams, gramsValue, yen, type Catalog, t
 import { FAMILIES, type Family } from '@/lib/flavor';
 import type { Product } from '@/lib/types';
 import { FlavorSheet } from './FlavorSheet';
+import { Mark } from './Mark';
 
 type SortKey = 'brand' | 'name' | 'price' | 'updated';
 type SortDir = 'asc' | 'desc';
@@ -65,11 +66,19 @@ export function Ledger() {
 
 function Masthead({ latest }: { latest?: string }) {
   return (
-    <header className="mx-auto flex max-w-[78rem] items-baseline justify-between gap-4 px-4 pb-8 pt-6 sm:px-8 sm:pb-10">
-      <a href="/" className="text-[0.95rem] font-bold tracking-[0.02em]">
-        シーシャ認可台帳
+    <header className="mx-auto flex max-w-[78rem] items-center justify-between gap-4 px-4 pb-8 pt-6 sm:px-8 sm:pb-10">
+      <a href="/" className="flex items-center gap-2.5 whitespace-nowrap text-[1.05rem] font-bold tracking-[0.02em]">
+        <Mark className="h-8 w-8 shrink-0" />
+        認可たばこデータベース
       </a>
-      <p className="text-right text-xs text-haze">{latest ? <>最新の公表 {formatDate(latest)}</> : ' '}</p>
+      <p className="whitespace-nowrap text-right text-xs text-haze">
+        {latest && (
+          <>
+            <span className="hidden sm:inline">最新の公表 {formatDate(latest)}</span>
+            <span className="tabular-nums sm:hidden">{latest.replaceAll('-', '.')} 更新</span>
+          </>
+        )}
+      </p>
     </header>
   );
 }
