@@ -39,3 +39,5 @@ frontend/public/data/
 
 # Local PDF cache (downloaded via /tmp; never tracked)
 *.pdf
+eval-out/
+*.tsbuildinfo

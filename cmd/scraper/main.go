@@ -1,4 +1,5 @@
-// scraper downloads PDFs listed in data/pdf-urls.json, runs each through Gemini,
+// scraper downloads PDFs listed in data/pdf-urls.json, runs each through a
+// multimodal LLM (OpenRouter),
 // caches the per-PDF result under data/extracted/, then merges everything into
 // data/products.json. Idempotent: PDFs already in the cache are skipped.
 package main
@@ -8,15 +9,16 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"io"
 	"log"
 	"os"
 	"path/filepath"
+	"regexp"
 	"sort"
 	"strings"
 	"time"
 
 	"github.com/joho/godotenv"
+	"golang.org/x/text/unicode/norm"
 	"golang.org/x/text/width"
 
 	"github.com/yeighta/flavor-authorization/internal/classifier"
@@ -33,7 +35,7 @@ func main() {
 	aliasesPath := flag.String("aliases", "data/manufacturer-aliases.json", "manufacturer alias map (optional)")
 	manufacturersPath := flag.String("manufacturers", "data/manufacturers.json", "manufacturer classification map (optional, used to drop kiseru)")
 	limit := flag.Int("limit", 0, "max PDFs to process (0 = all). Useful for incremental runs.")
-	rps := flag.Float64("rps", 0.2, "max gemini requests per second (Flash free tier is 15/min ≈ 0.25/s)")
+	rps := flag.Float64("rps", 0.2, "max LLM requests per second")
 	skipExtract := flag.Bool("skip-extract", false, "skip extraction; only re-merge cache → products.json")
 	flag.Parse()
 
@@ -55,8 +57,9 @@ func main() {
 
 		client, err := extractor.NewClient(ctx)
 		if err != nil {
-			log.Fatalf("gemini client: %v", err)
+			log.Fatalf("llm client: %v", err)
 		}
+		log.Printf("extractor model: %s", client.Model())
 		fetcher := pdf.NewFetcher()
 
 		interval := time.Duration(float64(time.Second) / *rps)
@@ -77,7 +80,7 @@ func main() {
 			<-ticker.C
 			t0 := time.Now()
 			log.Printf("[%d/%d] %s %s", i+1, len(refs), ref.Date, ref.Filename)
-			// 3 attempts × ~120s gemini deadline + retry backoffs ≈ up to 6 min worst case.
+			// 3 attempts × LLM deadline + retry backoffs ≈ up to 6 min worst case.
 			perPDFCtx, perPDFCancel := context.WithTimeout(ctx, 6*time.Minute)
 			err := processOne(perPDFCtx, client, fetcher, ref, cachePath)
 			perPDFCancel()
@@ -90,6 +93,7 @@ func main() {
 			processed++
 		}
 		log.Printf("done. processed=%d skipped=%d failed=%d", processed, skipped, failed)
+		log.Printf("llm cost: $%.4f", client.Cost())
 	}
 
 	if err := mergeProducts(*cacheDir, *productsPath, *aliasesPath, *manufacturersPath); err != nil {
@@ -130,11 +134,7 @@ func processOne(ctx context.Context, client *extractor.Client, fetcher *pdf.Fetc
 		return fmt.Errorf("fetch: %w", err)
 	}
 
-	bytes, err := os.ReadFile(pdfPath)
-	if err != nil {
-		return err
-	}
-	products, err := client.ExtractPDF(ctx, bytes)
+	products, err := client.ExtractPDF(ctx, pdfPath)
 	if err != nil {
 		return err
 	}
@@ -164,7 +164,10 @@ func writeJSON(path string, v any) error {
 	return os.Rename(tmp, path)
 }
 
-// mergeProducts walks the cache dir, applies "latest PDF wins" merge rule, and writes products.json.
+// mergeProducts walks the cache dir, applies the "latest PDF wins" merge rule, and writes products.json.
+// When a later PDF (typically a 価格改定) hits an existing Key(), only price / date / source are
+// updated; the display fields from the earlier row are kept so the product doesn't flip names or
+// lose its variant just because the henkou PDF printed them differently.
 // If aliasesPath exists, manufacturer names are canonicalized before deduplication.
 // If manufacturersPath exists, パイプたばこ rows whose manufacturer is classified as kiseru
 // are dropped entirely (the site is shisha-focused).
@@ -253,13 +256,18 @@ func mergeProducts(cacheDir, outPath, aliasesPath, manufacturersPath string) err
 				Category:     cat,
 				Manufacturer: manufacturer,
 				Name:         normalizeProductName(ep.Name),
-				Variant:      strings.TrimSpace(ep.Variant),
+				Variant:      normalizeVariant(ep.Variant),
 				Grams:        strings.TrimSpace(ep.Grams),
 				PriceYen:     ep.PriceYen,
 				Country:      normalizeCountry(ep.Country),
 				UpdatedDate:  c.PDF.Date,
 				Source:       c.PDF.Kind,
 				SourceURL:    c.PDF.URL,
+			}
+			if prev, ok := merged[p.Key()]; ok {
+				p = updatePrice(prev, p)
+			} else {
+				p.History = []model.PricePoint{pricePoint(p)}
 			}
 			merged[p.Key()] = p
 		}
@@ -272,6 +280,7 @@ func mergeProducts(cacheDir, outPath, aliasesPath, manufacturersPath string) err
 	for _, p := range merged {
 		out = append(out, p)
 	}
+	unifyDisplayNames(out)
 	// Sort by full Key() so output ordering is deterministic across runs.
 	// Previously only (Category, Manufacturer, Name) was used, leaving Variant
 	// and Grams as non-deterministic tie-breakers.
@@ -279,28 +288,38 @@ func mergeProducts(cacheDir, outPath, aliasesPath, manufacturersPath string) err
 	return writeJSON(outPath, out)
 }
 
-// silence io import lint (kept for future streaming use)
-var _ = io.Discard
-
 // normalizeCountry trims whitespace and widens half-width katakana / ASCII
 // digits & symbols to their full-width forms. Source PDFs use 半角カナ
 // (ﾄﾙｺ, ｱﾗﾌﾞ首長国連邦); the public DB normalizes to full-width (トルコ,
 // アラブ首長国連邦) so display and filter values are stable.
 func normalizeCountry(s string) string {
-	return strings.TrimSpace(width.Widen.String(s))
+	s = norm.NFC.String(width.Widen.String(strings.TrimSpace(s)))
+	// Stray underscores and ideographic spaces come from table cell wrapping,
+	// e.g. "アメリカ合衆＿国", "ロシア　モルドバ".
+	s = strings.ReplaceAll(s, "＿", "")
+	return strings.Join(strings.FieldsFunc(s, func(r rune) bool { return r == ' ' || r == 0x3000 }), "・")
 }
 
-// normalizeProductName widens half-width katakana to full-width and applies
-// Title Case to all-uppercase ASCII words of length ≥ 4 (so "DOUBLE APPLE"
-// → "Double Apple" but short tokens like "JT", "USA" are preserved).
-// ASCII letters that get incidentally widened by width.Widen are narrowed
-// back so we don't end up with full-width Latin characters.
+// normalizeProductName cleans the text (see normalizeText) and applies English
+// title case (see titleCaseEnglishWords).
 func normalizeProductName(s string) string {
+	return titleCaseEnglishWords(spacedPossessive.ReplaceAllString(normalizeText(s), "$1'$2"))
+}
+
+// spacedPossessive repairs "Barista ' s Choice" (the PDF kerns the apostrophe apart).
+var spacedPossessive = regexp.MustCompile(`([A-Za-z])\s*'\s+([sS])\b`)
+
+// normalizeText widens half-width katakana, narrows full-width ASCII back so we
+// don't end up with full-width Latin characters, unifies curly apostrophes and
+// collapses whitespace.
+func normalizeText(s string) string {
 	s = strings.TrimSpace(s)
 	if s == "" {
 		return s
 	}
-	s = width.Widen.String(s)
+	s = strings.NewReplacer("’", "'", "‘", "'").Replace(s)
+	// Widen splits ﾌﾞ into フ + U+3099; NFC recomposes it to ブ.
+	s = norm.NFC.String(width.Widen.String(s))
 	var b strings.Builder
 	b.Grow(len(s))
 	for _, r := range s {
@@ -309,85 +328,119 @@ func normalizeProductName(s string) string {
 		// Covers letters, digits, punctuation (' " - . , : ; ! ? etc.).
 		case r >= 0xFF01 && r <= 0xFF5E:
 			b.WriteRune(r - 0xFEE0)
-		// Ideographic space → ASCII space.
-		case r == 0x3000:
-			b.WriteRune(' ')
+		// Ideographic space and runs of spaces (left by line wrapping) → one ASCII space.
+		case r == 0x3000 || r == ' ':
+			if !strings.HasSuffix(b.String(), " ") {
+				b.WriteRune(' ')
+			}
 		default:
 			b.WriteRune(r)
 		}
 	}
-	return titleCaseEnglishWords(b.String())
+	return strings.TrimSpace(b.String())
 }
 
-// titleCaseEnglishWords converts pure-ASCII all-uppercase words (length ≥ 4)
-// to Title Case. Mixed-case words and short uppercase tokens (likely acronyms)
-// are left untouched.
+var leadingGrams = regexp.MustCompile(`^\d+(\.\d+)?\s*g\s*`)
+
+// normalizeVariant cleans 製品の区分. Some PDFs print the pack size in this column
+// too ("100.0g 箱"); grams already has its own field, so it is dropped here.
+func normalizeVariant(s string) string {
+	return strings.TrimSpace(leadingGrams.ReplaceAllString(normalizeText(s), ""))
+}
+
+// titleCaseEnglishWords normalizes the casing of ASCII words to English title
+// case, because the same flavor is printed as "ALOHA NIGHTS", "Aloha nights" and
+// "Aloha Nights" across PDFs. Short function words stay lowercase ("Cherry with
+// Mint"), intentional mixed case is kept ("McLaren"), and short all-caps tokens
+// are treated as acronyms ("JT", "USA") unless the whole name is in capitals.
 func titleCaseEnglishWords(s string) string {
+	allCaps := strings.ToUpper(s) == s
 	out := make([]byte, 0, len(s))
+	first := true
 	for i := 0; i < len(s); {
-		// Find the next ASCII word boundary; non-ASCII or non-letter chars pass through.
 		j := i
-		for j < len(s) {
-			c := s[j]
-			if !isWordByte(c) {
-				break
-			}
+		for j < len(s) && isWordByte(s[j]) {
 			j++
 		}
-		if j > i {
-			word := s[i:j]
-			if shouldTitleCase(word) {
-				out = append(out, byte(toUpper(word[0])))
-				for k := 1; k < len(word); k++ {
-					out = append(out, byte(toLower(word[k])))
-				}
-			} else {
-				out = append(out, word...)
-			}
-			i = j
+		if j == i {
+			out = append(out, s[i])
+			i++
 			continue
 		}
-		out = append(out, s[i])
-		i++
+		out = append(out, caseWord(s[i:j], first, allCaps)...)
+		first = false
+		i = j
 	}
 	return string(out)
 }
 
-func isWordByte(c byte) bool {
-	return (c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z') || (c >= '0' && c <= '9') || c == '\''
+var smallWords = map[string]bool{
+	"a": true, "an": true, "and": true, "at": true, "by": true, "de": true, "del": true, "du": true,
+	"for": true, "in": true, "la": true, "le": true, "of": true, "on": true, "or": true, "the": true,
+	"to": true, "with": true,
 }
 
-func shouldTitleCase(w string) bool {
-	hasUpper := false
-	for i := 0; i < len(w); i++ {
-		c := w[i]
-		switch {
-		case c >= 'A' && c <= 'Z':
-			hasUpper = true
-		case c >= 'a' && c <= 'z':
-			// Already has lowercase — leave the word as is.
-			return false
-		case c >= '0' && c <= '9' || c == '\'':
-			// Allowed.
-		default:
-			return false
+// shortWords are 2–3 letter words that PDFs print in capitals but that are not
+// acronyms, so "Elite Edition ICE Mint" becomes "Elite Edition Ice Mint".
+var shortWords = map[string]bool{
+	"ace": true, "air": true, "big": true, "box": true, "da": true, "day": true, "fig": true, "gin": true,
+	"gum": true, "hot": true, "ice": true, "joy": true, "key": true, "mix": true, "new": true, "nut": true,
+	"old": true, "one": true, "pie": true, "red": true, "rum": true, "sex": true, "six": true, "sky": true,
+	"sun": true, "tea": true, "ten": true, "top": true, "two": true, "zen": true,
+}
+
+func caseWord(w string, first, allCaps bool) string {
+	// Case the stem of possessives and contractions on its own: "VALENTINE's" → "Valentine's".
+	if i := strings.IndexByte(w, '\''); i > 0 {
+		return caseWord(w[:i], first, allCaps) + strings.ToLower(w[i:])
+	}
+	lower := strings.ToLower(w)
+	if !hasLetter(w) {
+		return w
+	}
+	if !first && smallWords[lower] {
+		return lower
+	}
+	switch {
+	case w == strings.ToUpper(w):
+		// ALL CAPS: title-case real words, keep short acronyms unless everything is shouting.
+		if len(w) >= 4 || allCaps || shortWords[lower] {
+			return capitalize(lower)
+		}
+		return w
+	case w == lower:
+		return capitalize(lower)
+	case w == capitalize(lower):
+		return w
+	default:
+		// Deliberate mixed case such as "McLaren" or "iPhone".
+		return w
+	}
+}
+
+func capitalize(w string) string {
+	for k := 0; k < len(w); k++ {
+		if w[k] >= 'a' && w[k] <= 'z' {
+			return w[:k] + string(w[k]-32) + w[k+1:]
+		}
+		if w[k] >= 'A' && w[k] <= 'Z' {
+			return w
 		}
 	}
-	return hasUpper
+	return w
 }
 
-func toUpper(c byte) byte {
-	if c >= 'a' && c <= 'z' {
-		return c - 32
+func hasLetter(w string) bool {
+	for k := 0; k < len(w); k++ {
+		if (w[k] >= 'a' && w[k] <= 'z') || (w[k] >= 'A' && w[k] <= 'Z') {
+			return true
+		}
 	}
-	return c
+	return false
 }
 
-func toLower(c byte) byte {
-	if c >= 'A' && c <= 'Z' {
-		return c + 32
-	}
-	return c
+func isWordByte(c byte) bool {
+	return (c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z') || (c >= '0' && c <= '9') || c == '\'' || c >= 0x80
 }
 
 // loadClassifications reads the optional manufacturer classification map. Returns empty if missing.
@@ -428,7 +481,7 @@ func loadAliases(path string) map[string]string {
 
 // normalizeCategory canonicalizes the LLM's free-text category labels
 // to the official 製造たばこの区分 set. Tolerates OCR/transcription drift like
-// "パイたばこ" or "パイサたばこ" when Gemini misread the rotated header.
+// "パイたばこ" or "パイサたばこ" when the LLM misread the rotated header.
 func normalizeCategory(c model.Category) model.Category {
 	s := strings.TrimSpace(string(c))
 	switch s {
@@ -442,4 +495,61 @@ func normalizeCategory(c model.Category) model.Category {
 		return model.CategoryKizami
 	}
 	return model.Category(s)
+}
+
+// updatePrice applies a later sighting of the same product onto the existing record:
+// price and provenance move forward, descriptive fields stay unless they were empty.
+func updatePrice(prev, next model.Product) model.Product {
+	out := prev
+	// priceYen 0 means the extractor couldn't read it; don't clobber a known price.
+	if next.PriceYen != 0 {
+		if next.PriceYen != prev.PriceYen {
+			out.History = append(append([]model.PricePoint(nil), prev.History...), pricePoint(next))
+		}
+		out.PriceYen = next.PriceYen
+	}
+	out.UpdatedDate = next.UpdatedDate
+	out.Source = next.Source
+	out.SourceURL = next.SourceURL
+	if out.Variant == "" {
+		out.Variant = next.Variant
+	}
+	if out.Country == "" {
+		out.Country = next.Country
+	}
+	if out.Grams == "" {
+		out.Grams = next.Grams
+	}
+	return out
+}
+
+func pricePoint(p model.Product) model.PricePoint {
+	return model.PricePoint{Date: p.UpdatedDate, PriceYen: p.PriceYen, Source: p.Source, SourceURL: p.SourceURL}
+}
+
+// unifyDisplayNames gives every pack size of the same flavor one spelling.
+// Sizes are separate products (their Key includes grams), so "Water melon with
+// Mint" 50g and "Watermelon with Mint" 250g would otherwise both be shown.
+// The spelling from the earliest authorization wins.
+func unifyDisplayNames(ps []model.Product) {
+	type pick struct {
+		name, date string
+	}
+	best := map[string]pick{}
+	group := func(p model.Product) string {
+		return model.Product{Category: p.Category, Manufacturer: p.Manufacturer, Name: p.Name}.Key()
+	}
+	for _, p := range ps {
+		date := p.UpdatedDate
+		if len(p.History) > 0 {
+			date = p.History[0].Date
+		}
+		g := group(p)
+		if b, ok := best[g]; !ok || date < b.date || (date == b.date && p.Name < b.name) {
+			best[g] = pick{p.Name, date}
+		}
+	}
+	for i := range ps {
+		ps[i].Name = best[group(ps[i])].name
+	}
 }

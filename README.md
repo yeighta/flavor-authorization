@@ -11,9 +11,10 @@
 ```
 GitHub Actions (cron 1h)
   └─ cmd/collect-urls   財務省ページ + Wayback Machine から PDF URL 一覧を生成
-  └─ cmd/scraper        各 PDF を Gemini 3 Flash に投げて構造化 JSON 化（キャッシュ）
-  └─ cmd/classify       メーカー名を Google 検索 grounding 付きで kiseru/shisha 分類
-  └─ data/* を commit
+  └─ cmd/scraper        各 PDF を OpenRouter のマルチモーダル LLM（既定 GPT-6 Luna、PDF をそのまま入力）で構造化 JSON 化（キャッシュ）
+  └─ cmd/classify       メーカー名を OpenRouter web 検索付きで kiseru/shisha 分類
+  └─ data/* を commit（PR 経由）
+  └─ cmd/notify         新規商品・価格改定を Discord / X に通知
        ↓
   GitHub Actions (deploy)
   └─ Next.js static export → Cloudflare Pages
@@ -27,12 +28,13 @@ GitHub Actions (cron 1h)
 - Go 1.26+
 - Node.js 20+
 - pnpm
-- Gemini API Key（<https://aistudio.google.com/apikey>）
+- poppler-utils（`pdftoppm`。画像入力モデルでページを PNG 化するため）
+- OpenRouter API Key（<https://openrouter.ai/keys>）
 
 ### セットアップ
 ```bash
 cp .env.example .env
-# .env に GEMINI_API_KEY=... を記入
+# .env に OPENROUTER_API_KEY=... を記入（抽出モデルは EXTRACT_MODEL、分類・集約モデルは OPENROUTER_MODEL で変更可）
 
 # Go 側依存解決
 go mod download
@@ -43,7 +45,7 @@ cd frontend && pnpm install
 
 ### 主要コマンド
 ```bash
-# 全 PDF を再スクレイプ（フェッチ→Gemini→data/extracted/*.json）
+# 未キャッシュの PDF をスクレイプ（フェッチ→LLM→data/extracted/*.json）
 go run ./cmd/scraper
 
 # 既存キャッシュを products.json にマージのみ（API 呼ばない）
@@ -56,10 +58,22 @@ go run ./cmd/classify -refresh   # 全件再分類（locked は除く）
 # メーカー名表記揺れの集約（エイリアスマップ生成）
 go run ./cmd/normalize-manufacturers
 
+# 抽出モデルの比較（既存キャッシュ＝Gemini 3 Flash の結果を基準に再現率・表記一致率・価格一致率・費用を出す）
+go run ./cmd/eval-extract -models openai/gpt-6-luna,deepseek/deepseek-v4.1-flash
+
+# 通知のプレビュー（送信しない）
+go run ./cmd/notify -old-products old.json -dry-run
+
 # フロント開発サーバ
 cd frontend && pnpm dev
 # http://localhost:3000
 ```
+
+### 重複排除と価格改定
+
+`products.json` の同一性キーは「区分・メーカー・名称・容量」です（`internal/model/types.go` の `Key()`）。名称・メーカーは大文字小文字・記号を無視し、容量は数値比較（`50g` = `50.0g`）します。製品の区分（箱/缶）は価格改定 PDF で省略されることが多いためキーに含めません。
+
+後の PDF（主に価格改定）が既存キーに一致した場合は、価格・更新日・出典のみ更新し、名称や区分などの表示は最初の認可時のものを維持します。
 
 ### 手動オーバーライド
 
@@ -82,7 +96,10 @@ cd frontend && pnpm dev
 
 | Secret | 用途 | 取得元 |
 |---|---|---|
-| `GEMINI_API_KEY` | スクレイパ＋分類 | <https://aistudio.google.com/apikey> |
+| `OPENROUTER_API_KEY` | スクレイパ＋分類 | <https://openrouter.ai/keys> |
+| `DISCORD_WEBHOOK_URL` | Discord 通知（任意） | チャンネル設定 → 連携サービス → ウェブフック |
+| `X_API_KEY` / `X_API_SECRET` | X 自動投稿（任意） | <https://developer.x.com> の App → Keys and tokens → Consumer Keys |
+| `X_ACCESS_TOKEN` / `X_ACCESS_TOKEN_SECRET` | X 自動投稿（任意） | 同 Authentication Tokens（App の権限を **Read and write** にしてから発行） |
 | `CLOUDFLARE_API_TOKEN` | Pages デプロイ | Cloudflare ダッシュボード "My Profile" → "API Tokens" → "Create Token" → "Edit Cloudflare Workers" テンプレで作成 |
 | `CLOUDFLARE_ACCOUNT_ID` | Pages デプロイ | Cloudflare ダッシュボード右サイドの "Account ID" |
 

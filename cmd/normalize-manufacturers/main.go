@@ -1,5 +1,5 @@
 // normalize-manufacturers reads the merged products DB, clusters spelling
-// variants of pipe-tobacco manufacturer names via Gemini, and writes
+// variants of pipe-tobacco manufacturer names via the LLM, and writes
 // data/manufacturer-aliases.json. Re-running merge afterwards collapses the
 // variants in products.json.
 package main
@@ -39,7 +39,7 @@ func main() {
 	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Minute)
 	defer cancel()
 
-	c, err := normalizer.NewClient(ctx)
+	c, err := normalizer.NewClient()
 	if err != nil {
 		log.Fatalf("client: %v", err)
 	}

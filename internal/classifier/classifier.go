@@ -1,26 +1,21 @@
-// Package classifier uses Gemini to classify pipe-tobacco manufacturers
-// as kiseru (キセル/通常パイプ) or shisha (水タバコ).
+// Package classifier uses an LLM (with web search) to classify pipe-tobacco
+// manufacturers as kiseru (キセル/通常パイプ) or shisha (水タバコ).
 package classifier
 
 import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"os"
-	"strings"
 
-	"google.golang.org/genai"
-
+	"github.com/yeighta/flavor-authorization/internal/llm"
 	"github.com/yeighta/flavor-authorization/internal/model"
 )
-
-const DefaultModel = "gemini-3-flash-preview"
 
 // Classification carries one manufacturer's verdict.
 type Classification struct {
 	Manufacturer string         `json:"manufacturer"`
-	Type         model.PipeType `json:"type"`               // kiseru | shisha | unknown
-	Confidence   string         `json:"confidence"`         // high | medium | low
+	Type         model.PipeType `json:"type"`       // kiseru | shisha | unknown
+	Confidence   string         `json:"confidence"` // high | medium | low
 	Reason       string         `json:"reason,omitempty"`
 	// Locked entries are preserved across `classify --refresh`; set this
 	// to protect manual judgments that disagree with the LLM verdict.
@@ -41,7 +36,7 @@ type Sample struct {
 
 const promptText = `あなたは日本のたばこ市場（特にパイプたばこ）に詳しい専門家です。
 入力は財務省で「パイプたばこ」として認可されているメーカーのリストです。
-必要に応じて Google 検索を使い、各メーカーの公式サイト・販売店・SNS等から
+必要に応じて Web 検索結果を参照し、各メーカーの公式サイト・販売店・SNS等から
 事実を確認した上で、以下の3種類に分類してください。
 
 # 分類カテゴリ
@@ -76,90 +71,67 @@ const promptText = `あなたは日本のたばこ市場（特にパイプたば
 }
 `
 
-// Client wraps the Gen AI client.
-type Client struct {
-	c     *genai.Client
-	Model string
+func schema() map[string]any {
+	item := map[string]any{
+		"type": "object",
+		"properties": map[string]any{
+			"manufacturer": map[string]any{"type": "string"},
+			"type":         map[string]any{"type": "string", "enum": []string{"shisha", "kiseru", "unknown"}},
+			"confidence":   map[string]any{"type": "string", "enum": []string{"high", "medium", "low"}},
+			"reason":       map[string]any{"type": "string"},
+		},
+		"required":             []string{"manufacturer", "type", "confidence", "reason"},
+		"additionalProperties": false,
+	}
+	return map[string]any{
+		"type": "object",
+		"properties": map[string]any{
+			"classifications": map[string]any{"type": "array", "items": item},
+		},
+		"required":             []string{"classifications"},
+		"additionalProperties": false,
+	}
 }
 
-func NewClient(ctx context.Context) (*Client, error) {
-	apiKey := os.Getenv("GEMINI_API_KEY")
-	if apiKey == "" {
-		return nil, fmt.Errorf("GEMINI_API_KEY env var is not set")
-	}
-	c, err := genai.NewClient(ctx, &genai.ClientConfig{
-		APIKey:  apiKey,
-		Backend: genai.BackendGeminiAPI,
-	})
+// Client wraps the LLM client.
+type Client struct {
+	llm *llm.Client
+}
+
+func NewClient() (*Client, error) {
+	c, err := llm.NewClient("")
 	if err != nil {
 		return nil, err
 	}
-	return &Client{c: c, Model: DefaultModel}, nil
+	return &Client{llm: c}, nil
 }
 
-// Classify sends a batch of manufacturer samples to Gemini and returns classifications.
+// Classify sends a batch of manufacturer samples to the LLM and returns classifications.
 func (c *Client) Classify(ctx context.Context, samples []Sample) ([]Classification, error) {
 	body, err := json.MarshalIndent(samples, "", "  ")
 	if err != nil {
 		return nil, err
 	}
-	contents := []*genai.Content{{
-		Role: "user",
-		Parts: []*genai.Part{
-			{Text: promptText},
-			{Text: "# 入力\n```json\n" + string(body) + "\n```"},
+	res, err := c.llm.Complete(ctx, llm.Request{
+		Messages: []llm.Message{
+			{Role: "system", Content: promptText},
+			{Role: "user", Content: "# 入力\n```json\n" + string(body) + "\n```"},
 		},
-	}}
-	cfg := &genai.GenerateContentConfig{
-		// Google Search grounding is mutually exclusive with ResponseSchema/ResponseMIMEType=json.
-		// We instruct the model to emit raw JSON in the prompt and parse defensively.
-		Tools:          []*genai.Tool{{GoogleSearch: &genai.GoogleSearch{}}},
-		Temperature:    genai.Ptr[float32](0),
-		ThinkingConfig: &genai.ThinkingConfig{ThinkingBudget: genai.Ptr[int32](0)},
-	}
-	res, err := c.c.Models.GenerateContent(ctx, c.Model, contents, cfg)
+		Schema:     schema(),
+		SchemaName: "classifications",
+		MaxTokens:  16384,
+		// OpenRouter's web plugin stands in for Gemini's Google Search grounding.
+		WebSearch: true,
+	})
 	if err != nil {
-		return nil, fmt.Errorf("gemini classify: %w", err)
+		return nil, fmt.Errorf("classify: %w", err)
 	}
-	raw := extractJSON(res.Text())
+	raw := llm.ExtractJSON(res)
 	var parsed struct {
 		Classifications []Classification `json:"classifications"`
 	}
 	if err := json.Unmarshal([]byte(raw), &parsed); err != nil {
-		return nil, fmt.Errorf("parse classify json: %w (raw head: %s)", err, head(raw, 200))
+		return nil, fmt.Errorf("parse classify json: %w (raw head: %.200s)", err, raw)
 	}
 	return parsed.Classifications, nil
-}
-
-// extractJSON unwraps the LLM's JSON response from common decorations
-// (markdown code fences, leading/trailing commentary). Falls back to the
-// largest brace-balanced substring if simpler unwrapping fails.
-func extractJSON(s string) string {
-	s = strings.TrimSpace(s)
-	// Strip ```json ... ``` or ``` ... ```
-	if strings.HasPrefix(s, "```") {
-		s = strings.TrimPrefix(s, "```json")
-		s = strings.TrimPrefix(s, "```")
-		s = strings.TrimSpace(s)
-		if i := strings.LastIndex(s, "```"); i >= 0 {
-			s = s[:i]
-		}
-		s = strings.TrimSpace(s)
-	}
-	// If still wrapped in commentary, find the outermost {...}.
-	if !strings.HasPrefix(s, "{") {
-		first := strings.Index(s, "{")
-		last := strings.LastIndex(s, "}")
-		if first >= 0 && last > first {
-			s = s[first : last+1]
-		}
-	}
-	return s
-}
-
-func head(s string, n int) string {
-	if len(s) <= n {
-		return s
-	}
-	return s[:n] + "…"
 }

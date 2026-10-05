@@ -1,5 +1,11 @@
 package model
 
+import (
+	"strconv"
+	"strings"
+	"unicode"
+)
+
 // Kind is the PDF type.
 type Kind string
 
@@ -71,11 +77,47 @@ type Product struct {
 	UpdatedDate  string   `json:"updatedDate"`         // YYYY-MM-DD (出典PDF日)
 	Source       Kind     `json:"source"`              // 出典PDF種別
 	SourceURL    string   `json:"sourceUrl"`           // 出典PDF URL
+	// History lists each price this product has been authorized at, oldest first.
+	// A new point is added only when the price changes.
+	History []PricePoint `json:"history,omitempty"`
 }
 
-// Key is the dedupe identifier across PDFs. Same SKU across multiple PDFs (e.g., a product
-// initially appearing in shinki, later re-appearing in henkou with new price) collapses
-// to a single record; the latest PDF wins.
+// PricePoint is one authorized price and the PDF that announced it.
+type PricePoint struct {
+	Date      string `json:"date"`
+	PriceYen  int    `json:"priceYen"`
+	Source    Kind   `json:"source"`
+	SourceURL string `json:"sourceUrl"`
+}
+
+// Key is the dedupe identifier across PDFs. The same SKU across multiple PDFs
+// (e.g. first appearing in shinki, later re-appearing in henkou with a new price)
+// collapses to a single record.
+//
+// Variant (箱/缶/…) is deliberately excluded: 価格改定 PDFs often omit it or word
+// it differently, which used to split one product into two rows. Name and
+// manufacturer are compared case- and punctuation-insensitively ("Gum mastic" ==
+// "Gum Mastic"), and grams numerically ("50g" == "50.0g").
 func (p Product) Key() string {
-	return string(p.Category) + "|" + p.Manufacturer + "|" + p.Name + "|" + p.Variant + "|" + p.Grams
+	return string(p.Category) + "|" + foldKey(p.Manufacturer) + "|" + foldKey(p.Name) + "|" + gramsKey(p.Grams)
+}
+
+// foldKey lowercases and keeps only letters and digits.
+func foldKey(s string) string {
+	var b strings.Builder
+	for _, r := range strings.ToLower(s) {
+		if unicode.IsLetter(r) || unicode.IsDigit(r) {
+			b.WriteRune(r)
+		}
+	}
+	return b.String()
+}
+
+// gramsKey normalizes "50.0g" / "50g" / "50 g" to "50". Unparseable values fall back to foldKey.
+func gramsKey(s string) string {
+	num := strings.TrimSpace(strings.TrimSuffix(strings.TrimSpace(strings.ToLower(s)), "g"))
+	if f, err := strconv.ParseFloat(num, 64); err == nil {
+		return strconv.FormatFloat(f, 'f', -1, 64)
+	}
+	return foldKey(s)
 }
