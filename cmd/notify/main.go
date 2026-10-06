@@ -14,6 +14,7 @@ import (
 	"net/http"
 	"net/url"
 	"os"
+	"path"
 	"sort"
 	"strings"
 	"time"
@@ -116,11 +117,12 @@ func main() {
 	}
 }
 
-// computeDiff reports what the newly published PDFs changed. Only rows dated after
-// the newest date already in the old DB are eligible, so each 財務省 notice is
-// announced exactly once: re-merges that only reshuffle existing rows (a brand
-// newly classified as shisha, an alias change that renames a manufacturer) can
-// never re-announce old products as new.
+// computeDiff reports what the newly published PDFs changed. A row is eligible only
+// when its latest price comes from a PDF the old DB had never seen, dated on or
+// after the newest date in the old DB. So each 財務省 notice is announced exactly
+// once, including a second PDF from the same day that lands in a later run, while
+// re-merges that reshuffle existing rows (a brand newly classified as shisha, an
+// alias rename) and backfilled older PDFs never re-announce old products.
 // latestNotice rebuilds what the newest 財務省 notice in the DB announced, using
 // each product's price history for the previous price.
 func latestNotice(ps []model.Product) diff {
@@ -149,15 +151,20 @@ func latestNotice(ps []model.Product) diff {
 func computeDiff(oldP, newP []model.Product, oldM, newM map[string]classifier.Classification) diff {
 	oldByKey := make(map[string]model.Product, len(oldP))
 	oldLatest := ""
+	seenPDFs := map[string]bool{}
 	for _, p := range oldP {
 		oldByKey[p.Key()] = p
 		if p.UpdatedDate > oldLatest {
 			oldLatest = p.UpdatedDate
 		}
+		seenPDFs[pdfName(p.SourceURL)] = true
+		for _, h := range p.History {
+			seenPDFs[pdfName(h.SourceURL)] = true
+		}
 	}
 	var d diff
 	for _, p := range newP {
-		if p.UpdatedDate <= oldLatest {
+		if p.UpdatedDate < oldLatest || seenPDFs[pdfName(p.SourceURL)] {
 			continue
 		}
 		prev, ok := oldByKey[p.Key()]
@@ -414,4 +421,10 @@ func linkFor(d diff, siteURL string) string {
 		}
 	}
 	return strings.TrimRight(siteURL, "/") + "/?" + query
+}
+
+// pdfName identifies a notice PDF by file name, so the live and Wayback URLs of
+// the same PDF count as one.
+func pdfName(u string) string {
+	return path.Base(u)
 }
