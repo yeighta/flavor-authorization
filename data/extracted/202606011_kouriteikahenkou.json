@@ -1,0 +1,350 @@
+{
+  "date": "2026-06-01",
+  "kind": "henkou",
+  "filename": "202606011_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/202606011_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "コイーバ",
+      "name": "クラブ",
+      "variant": "10’s 97mm 10本",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "コイーバ",
+      "name": "クラブ",
+      "variant": "97mm 20本",
+      "grams": "",
+      "priceYen": 5500,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "コイーバ",
+      "name": "クラブ ホワイト",
+      "variant": "10’s 97mm 10本",
+      "grams": "",
+      "priceYen": 2750,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "コイーバ",
+      "name": "クラブ ホワイト",
+      "variant": "97mm 20本",
+      "grams": "",
+      "priceYen": 5500,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "コイーバ",
+      "name": "ミニシガリロ",
+      "variant": "10’s 83mm 10本",
+      "grams": "",
+      "priceYen": 2310,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "コイーバ",
+      "name": "ミニシガリロ",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 4620,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "コイーバ",
+      "name": "ミニシガリロ ホワイト",
+      "variant": "10’s 83mm 10本",
+      "grams": "",
+      "priceYen": 2310,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "コイーバ",
+      "name": "ミニシガリロ ホワイト",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 4620,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "コイーバ",
+      "name": "ショート",
+      "variant": "82mm 1本",
+      "grams": "",
+      "priceYen": 407,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "コイーバ",
+      "name": "ワイド ショート",
+      "variant": "100mm 1本",
+      "grams": "",
+      "priceYen": 935,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クアンタナメラ",
+      "name": "クリスタレス",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 990,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クアンタナメラ",
+      "name": "デジモス",
+      "variant": "134mm 1本",
+      "grams": "",
+      "priceYen": 660,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クアンタナメラ",
+      "name": "ミニシガリロ",
+      "variant": "81mm 20本",
+      "grams": "",
+      "priceYen": 1870,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "クアンタナメラ",
+      "name": "プリトス",
+      "variant": "106mm 1本",
+      "grams": "",
+      "priceYen": 440,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ホセ・L・ピエドラ",
+      "name": "ミニシガリロ",
+      "variant": "78mm 20本",
+      "grams": "",
+      "priceYen": 2310,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "モンテクリスト",
+      "name": "クラブ",
+      "variant": "10’s 97mm 10本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "モンテクリスト",
+      "name": "クラブ",
+      "variant": "97mm 20本",
+      "grams": "",
+      "priceYen": 4400,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "モンテクリスト",
+      "name": "ミニシガリロ",
+      "variant": "10’s 83mm 10本",
+      "grams": "",
+      "priceYen": 1760,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "モンテクリスト",
+      "name": "ミニシガリロ",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 3520,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "モンテクリスト",
+      "name": "ミニシガリロ",
+      "variant": "50’s 83mm 1本",
+      "grams": "",
+      "priceYen": 187,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "モンテクリスト",
+      "name": "オープンクラブ",
+      "variant": "10’s 97mm 10本",
+      "grams": "",
+      "priceYen": 2200,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "モンテクリスト",
+      "name": "オープンクラブ",
+      "variant": "97mm 20本",
+      "grams": "",
+      "priceYen": 4400,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "モンテクリスト",
+      "name": "オープン ミニシガリロ",
+      "variant": "10’s 83mm 10本",
+      "grams": "",
+      "priceYen": 1760,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "モンテクリスト",
+      "name": "オープン ミニシガリロ",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 3520,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "モンテクリスト",
+      "name": "ショート",
+      "variant": "83mm 1本",
+      "grams": "",
+      "priceYen": 330,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "パルタガス",
+      "name": "チュ",
+      "variant": "106mm 1本",
+      "grams": "",
+      "priceYen": 462,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "パルタガス",
+      "name": "クラブ",
+      "variant": "97mm 1本",
+      "grams": "",
+      "priceYen": 187,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "パルタガス",
+      "name": "ミニシガリロ",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 3080,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "パルタガス",
+      "name": "セリークラブ",
+      "variant": "10’s 97mm 10本",
+      "grams": "",
+      "priceYen": 1980,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "パルタガス",
+      "name": "セリークラブ",
+      "variant": "97mm 20本",
+      "grams": "",
+      "priceYen": 3960,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "パルタガス",
+      "name": "セリー ミニシガリロ",
+      "variant": "10’s 83mm 10本",
+      "grams": "",
+      "priceYen": 1650,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "パルタガス",
+      "name": "セリー ミニシガリロ",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロメオ・Y・ジュリエッタ",
+      "name": "クラブ",
+      "variant": "97mm 20本",
+      "grams": "",
+      "priceYen": 4070,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロメオ・Y・ジュリエッタ",
+      "name": "ミニシガリロ",
+      "variant": "10’s 83mm 10本",
+      "grams": "",
+      "priceYen": 1760,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロメオ・Y・ジュリエッタ",
+      "name": "ミニシガリロ",
+      "variant": "83mm 20本",
+      "grams": "",
+      "priceYen": 3520,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロメオ・Y・ジュリエッタ",
+      "name": "ミニシガリロ",
+      "variant": "50’s 83mm 50本",
+      "grams": "",
+      "priceYen": 8800,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ロメオ・Y・ジュリエッタ",
+      "name": "プリトス",
+      "variant": "107mm 1本",
+      "grams": "",
+      "priceYen": 484,
+      "country": "キューバ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "トリニダッド",
+      "name": "ショート",
+      "variant": "82mm 1本",
+      "grams": "",
+      "priceYen": 374,
+      "country": "キューバ"
+    }
+  ]
+}

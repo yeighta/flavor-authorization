@@ -1,0 +1,53 @@
+{
+  "date": "2023-10-10",
+  "kind": "shinki",
+  "filename": "20231010_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/20231010_kouriteika.pdf",
+  "products": [
+    {
+      "category": "その他",
+      "manufacturer": "ｱｸｼｱ",
+      "name": "ﾘｯﾁ･ﾀﾊﾞｺ",
+      "variant": "F45 20ｽﾃｨｯｸ ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ﾙｰﾏﾆｱ, 大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｱｸｼｱ",
+      "name": "ｽﾑｰｽ･ﾀﾊﾞｺ",
+      "variant": "F45 20ｽﾃｨｯｸ ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ﾙｰﾏﾆｱ, 大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｱｸｼｱ",
+      "name": "ｸﾘｱ･ﾀﾊﾞｺ",
+      "variant": "F45 20ｽﾃｨｯｸ ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ﾙｰﾏﾆｱ, 大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｱｸｼｱ",
+      "name": "ﾀﾞｰｸ･ｸﾞﾘｰﾝ",
+      "variant": "F45 20ｽﾃｨｯｸ ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ﾙｰﾏﾆｱ, 大韓民国"
+    },
+    {
+      "category": "その他",
+      "manufacturer": "ｱｸｼｱ",
+      "name": "ﾊﾟｰﾌﾟﾙ･ｱﾛﾏ",
+      "variant": "F45 20ｽﾃｨｯｸ ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 480,
+      "country": "ﾙｰﾏﾆｱ, 大韓民国"
+    }
+  ]
+}

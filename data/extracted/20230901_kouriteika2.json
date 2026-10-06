@@ -1,0 +1,530 @@
+{
+  "date": "2023-09-01",
+  "kind": "shinki",
+  "filename": "20230901_kouriteika2.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20230901_kouriteika2.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ﾌﾞﾗｯｸﾃﾞﾋﾞﾙ",
+      "name": "ﾋﾟﾝｸﾊﾞﾆﾗ",
+      "variant": "F85mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 560,
+      "country": "ｵﾗﾝﾀﾞ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸﾗﾌﾞﾏｽﾀｰ",
+      "name": "ｽｰﾍﾟﾘｱ･ｽﾏﾄﾗ",
+      "variant": "75mm 20本 缶",
+      "grams": "",
+      "priceYen": 1300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｸﾗﾌﾞﾏｽﾀｰ",
+      "name": "ｽｰﾍﾟﾘｱ･ﾌﾞﾗｼﾞﾙ",
+      "variant": "75mm 20本 缶",
+      "grams": "",
+      "priceYen": 1300,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ｱｳﾞｫ",
+      "name": "ｼｰｽﾞﾝｽﾞ ﾘﾐﾃｯﾄﾞｴﾃﾞｨｼｮﾝ 2023 ｻﾏｰ",
+      "variant": "168mm 1本",
+      "grams": "",
+      "priceYen": 6600,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ﾆｶﾗｸﾞｱ ﾛﾌﾞｽﾄ ｱﾝｶｯﾄ LE 2023",
+      "variant": "127mm 1本",
+      "grams": "",
+      "priceYen": 4500,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ﾆｶﾗｸﾞｱ ﾄﾛ ｱﾝｶｯﾄ LE 2023",
+      "variant": "165mm 1本",
+      "grams": "",
+      "priceYen": 5800,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ﾔﾏｻ ﾍﾟﾃｨﾁｬｰﾁﾙ ｱﾝｶｯﾄ LE 2023",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 3900,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ﾔﾏｻ ﾛﾌﾞｽﾄ ｱﾝｶｯﾄ LE 2023",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 6400,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾋﾞﾄﾞﾌ",
+      "name": "ｴｽｸﾘｵ ﾍﾟﾃｨﾛﾌﾞｽﾄ ｱﾝｶｯﾄ LE 2023",
+      "variant": "108mm 1本",
+      "grams": "",
+      "priceYen": 4700,
+      "country": "ﾄﾞﾐﾆｶ共和国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Fakher",
+      "name": "Diamond Dust",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Fakher",
+      "name": "Dream Scape",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Al Fakher",
+      "name": "Harvest Moon",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1350,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Shisha Kartel",
+      "name": "Bullets or Benjamins",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Shisha Kartel",
+      "name": "Capo Dei Capi",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Shisha Kartel",
+      "name": "Guilty Gang",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Shisha Kartel",
+      "name": "Krazee Kombo",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Shisha Kartel",
+      "name": "Money Madness",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Shisha Kartel",
+      "name": "Sexy Sheba",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1600,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Azure",
+      "name": "Lemon Sage Gold Line",
+      "variant": "ﾊﾟｳﾁ",
+      "grams": "100.0g",
+      "priceYen": 3500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "Trifecta",
+      "name": "Dark Pineapple",
+      "variant": "ﾌﾟﾗｹｰｽ",
+      "grams": "250.0g",
+      "priceYen": 8250,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "LIRRA",
+      "name": "ROYAL TEA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1650,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEBAJ",
+      "name": "MILK",
+      "variant": "箱",
+      "grams": "1000.0g",
+      "priceYen": 33000,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEBAJ",
+      "name": "ICE SPICY COLA",
+      "variant": "箱",
+      "grams": "1000.0g",
+      "priceYen": 33000,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEBAJ",
+      "name": "SEA MINT",
+      "variant": "箱",
+      "grams": "1000.0g",
+      "priceYen": 33000,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEBAJ",
+      "name": "CARDAMON",
+      "variant": "箱",
+      "grams": "1000.0g",
+      "priceYen": 33000,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEBAJ",
+      "name": "PAN RASNA",
+      "variant": "箱",
+      "grams": "1000.0g",
+      "priceYen": 33000,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEBAJ",
+      "name": "GUAVA",
+      "variant": "箱",
+      "grams": "1000.0g",
+      "priceYen": 33000,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEBAJ",
+      "name": "TWO LEMON",
+      "variant": "箱",
+      "grams": "1000.0g",
+      "priceYen": 33000,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEBAJ",
+      "name": "BRAZILIANA",
+      "variant": "箱",
+      "grams": "1000.0g",
+      "priceYen": 33000,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "DEBAJ",
+      "name": "CARDAMON MILK",
+      "variant": "箱",
+      "grams": "1000.0g",
+      "priceYen": 33000,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Banana Chocolate",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Apricot",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Pineapple",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Orange",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Orange Chocolate",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Arctic",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Bubble Gum",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Banana",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Banana Strawberry",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Barberry",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Vanilla",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Waffle",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Grapes",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Strawberry",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Mint",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Thai",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Chocolate",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Garnet Cherry",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Citrus Fizz",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Feijoa",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Raspberries",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Kivi Fresh",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Berry Black",
+      "variant": "箱",
+      "grams": "40.0g",
+      "priceYen": 1700,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Citrus Fizz",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4200,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Feijoa",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4200,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Raspberries",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4200,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Kivi Fresh",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4200,
+      "country": "ﾛｼｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SEBERO",
+      "name": "Berry Black",
+      "variant": "箱",
+      "grams": "100.0g",
+      "priceYen": 4200,
+      "country": "ﾛｼｱ"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "date": "2021-06-11",
+  "kind": "shinki",
+  "filename": "20210611_kouriteika2.pdf",
+  "url": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210611_kouriteika2.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "",
+      "name": "ﾗｯｷｰ･ｽﾄﾗｲｸ･ﾌﾞﾗｯｸ･ｼﾘｰｽﾞ･ﾒﾝｿｰﾙ･8",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 430,
+      "country": "ｼﾝｶﾞﾎﾟｰﾙ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "",
+      "name": "ﾗｯｷｰ･ｽﾄﾗｲｸ･ﾌﾞﾗｯｸ･ｼﾘｰｽﾞ･ﾒﾝｿｰﾙ･5",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 430,
+      "country": "ｼﾝｶﾞﾎﾟｰﾙ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Oliva",
+      "name": "Serie V Melanio Toro Grande LE 2020",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "",
+      "name": "ｺｲｰﾊﾞ･ｼｮｰﾄ ﾋｭﾐﾄﾞｰﾙ88 2021ED",
+      "variant": "82mm 88本",
+      "grams": "",
+      "priceYen": 30000,
+      "country": "ｷｭｰﾊﾞ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "",
+      "name": "ｼｶﾞﾛｰﾈ･ｽｰﾊﾟｰｽﾘﾑ･ﾌﾞﾗｯｸ",
+      "variant": "FK 100mm ﾎﾞｯｸｽ 20本",
+      "grams": "",
+      "priceYen": 700,
+      "country": "ｱﾙﾒﾆｱ"
+    }
+  ]
+}
