@@ -7,7 +7,9 @@ import (
 	"fmt"
 	"io"
 	"net/http"
+	"net/url"
 	"os"
+	"path"
 	"regexp"
 	"sort"
 	"strings"
@@ -18,14 +20,19 @@ import (
 
 const (
 	IndexURL      = "https://www.mof.go.jp/policy/tab_salt/topics/kouriteika.html"
-	IndexBase     = "https://www.mof.go.jp/policy/tab_salt/topics/"
 	WaybackPrefix = "https://web.archive.org/web/"
 	UserAgent     = "flavor-authorization-bot/0.1 (+https://github.com/yeighta/flavor-authorization)"
 )
 
-// pdfRe matches both shinki and henkou file names.
-// Some 2018 files have suffixes like _1, _2 and a typo "kouritaika".
-var pdfRe = regexp.MustCompile(`(\d{8})_kourit[ae]ika(?:henkou)?(?:_\d+)?\.pdf`)
+// pdfRe matches both shinki and henkou file names. Observed variants: suffixes
+// "_1" / "1" (20230901_kouriteika1.pdf), the typo "kouritaika", and a 9-digit
+// date typo (202606011_kouriteikahenkou.pdf, whose first 8 digits are the date).
+var pdfRe = regexp.MustCompile(`(\d{8,9})_kourit[ae]ika(?:henkou)?_?\d*\.pdf`)
+
+// hrefRe captures every link target that points at one of those PDFs. Links on
+// the index are relative and not all in the same directory ("./x.pdf" next to
+// the index, "../x.pdf" one level up), so they must be resolved, not assumed.
+var hrefRe = regexp.MustCompile(`href="([^"]*\d{8,9}_kourit[ae]ika[^"]*\.pdf)"`)
 
 // Collector orchestrates URL discovery.
 type Collector struct {
@@ -42,11 +49,10 @@ func (c *Collector) CollectAll(ctx context.Context, waybackYears []string) ([]mo
 	seen := map[string]model.PDFRef{}
 
 	// 1. Live index
-	if filenames, err := c.fetchPDFFilenames(ctx, IndexURL); err == nil {
-		for _, f := range filenames {
-			ref, ok := buildRef(f, IndexBase+f, "")
-			if ok {
-				seen[f] = ref
+	if links, err := c.fetchPDFLinks(ctx, IndexURL); err == nil {
+		for _, u := range links {
+			if ref, ok := buildRef(u, ""); ok {
+				seen[ref.Filename] = ref
 			}
 		}
 	} else {
@@ -56,23 +62,24 @@ func (c *Collector) CollectAll(ctx context.Context, waybackYears []string) ([]mo
 	// 2. Wayback snapshots
 	for _, y := range waybackYears {
 		snapURL := WaybackPrefix + y + "/" + IndexURL
-		filenames, err := c.fetchPDFFilenames(ctx, snapURL)
+		links, err := c.fetchPDFLinks(ctx, snapURL)
 		if err != nil {
 			fmt.Fprintf(os.Stderr, "warn: wayback %s: %v\n", y, err)
 			continue
 		}
-		for _, f := range filenames {
-			if existing, ok := seen[f]; ok {
+		for _, u := range links {
+			orig := unwrapWayback(u)
+			wb := WaybackPrefix + y + "/" + orig
+			if existing, ok := seen[path.Base(orig)]; ok {
 				if existing.WaybackURL == "" {
-					existing.WaybackURL = WaybackPrefix + y + "/" + IndexBase + f
-					seen[f] = existing
+					existing.WaybackURL = wb
+					seen[existing.Filename] = existing
 				}
 				continue
 			}
 			// Not in live index → primary URL likely 404, use Wayback as primary fallback.
-			ref, ok := buildRef(f, IndexBase+f, WaybackPrefix+y+"/"+IndexBase+f)
-			if ok {
-				seen[f] = ref
+			if ref, ok := buildRef(orig, wb); ok {
+				seen[ref.Filename] = ref
 			}
 		}
 	}
@@ -92,8 +99,9 @@ func (c *Collector) CollectAll(ctx context.Context, waybackYears []string) ([]mo
 	return out, nil
 }
 
-func (c *Collector) fetchPDFFilenames(ctx context.Context, url string) ([]string, error) {
-	req, err := http.NewRequestWithContext(ctx, http.MethodGet, url, nil)
+// fetchPDFLinks returns the absolute URLs of every kouriteika PDF linked from page.
+func (c *Collector) fetchPDFLinks(ctx context.Context, page string) ([]string, error) {
+	req, err := http.NewRequestWithContext(ctx, http.MethodGet, page, nil)
 	if err != nil {
 		return nil, err
 	}
@@ -110,27 +118,49 @@ func (c *Collector) fetchPDFFilenames(ctx context.Context, url string) ([]string
 	if err != nil {
 		return nil, err
 	}
-	matches := pdfRe.FindAllString(string(body), -1)
+	return extractPDFLinks(page, string(body))
+}
+
+func extractPDFLinks(page, html string) ([]string, error) {
+	base, err := url.Parse(page)
+	if err != nil {
+		return nil, err
+	}
 	uniq := map[string]struct{}{}
-	for _, m := range matches {
-		uniq[m] = struct{}{}
+	for _, m := range hrefRe.FindAllStringSubmatch(html, -1) {
+		ref, err := url.Parse(m[1])
+		if err != nil {
+			continue
+		}
+		uniq[base.ResolveReference(ref).String()] = struct{}{}
 	}
 	out := make([]string, 0, len(uniq))
 	for k := range uniq {
 		out = append(out, k)
 	}
+	sort.Strings(out)
 	return out, nil
 }
 
-func buildRef(filename, primaryURL, waybackURL string) (model.PDFRef, bool) {
+// unwrapWayback turns a Wayback-rewritten link
+// (https://web.archive.org/web/2023.../https://www.mof.go.jp/...) back into the original URL.
+func unwrapWayback(u string) string {
+	if i := strings.Index(u, "/https://"); i >= 0 && strings.HasPrefix(u, WaybackPrefix) {
+		return u[i+1:]
+	}
+	if i := strings.Index(u, "/http://"); i >= 0 && strings.HasPrefix(u, WaybackPrefix) {
+		return "https://" + u[i+len("/http://"):]
+	}
+	return u
+}
+
+func buildRef(primaryURL, waybackURL string) (model.PDFRef, bool) {
+	filename := path.Base(primaryURL)
 	m := pdfRe.FindStringSubmatch(filename)
 	if len(m) < 2 {
 		return model.PDFRef{}, false
 	}
-	rawDate := m[1] // YYYYMMDD
-	if len(rawDate) != 8 {
-		return model.PDFRef{}, false
-	}
+	rawDate := m[1][:8] // YYYYMMDD (a 9-digit typo keeps its first 8 digits)
 	date := rawDate[0:4] + "-" + rawDate[4:6] + "-" + rawDate[6:8]
 
 	kind := model.KindShinki
