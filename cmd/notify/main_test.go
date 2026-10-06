@@ -1,13 +1,22 @@
 package main
 
 import (
+	"strings"
 	"testing"
 
 	"github.com/yeighta/flavor-authorization/internal/model"
 )
 
 func p(name string, price int, date string) model.Product {
-	return model.Product{Category: model.CategoryPipe, Manufacturer: "BALLI", Name: name, Grams: "50.0g", PriceYen: price, UpdatedDate: date}
+	return pFrom(name, price, date, "https://www.mof.go.jp/policy/tab_salt/topics/"+strings.ReplaceAll(date, "-", "")+"_kouriteika.pdf")
+}
+
+func pFrom(name string, price int, date, src string) model.Product {
+	return model.Product{
+		Category: model.CategoryPipe, Manufacturer: "BALLI", Name: name, Grams: "50.0g",
+		PriceYen: price, UpdatedDate: date, SourceURL: src,
+		History: []model.PricePoint{{Date: date, PriceYen: price, SourceURL: src}},
+	}
 }
 
 func TestComputeDiffAnnouncesOnlyNewNotices(t *testing.T) {
@@ -46,5 +55,32 @@ func TestLinkFor(t *testing.T) {
 	other.Manufacturer = "Bang Bang"
 	if got, want := linkFor(diff{Added: []model.Product{other}}, site), site+"/?brand=Bang+Bang&date=2026-10-02"; got != want {
 		t.Errorf("brand with space: %s, want %s", got, want)
+	}
+}
+
+func TestComputeDiffSameDayPDFInLaterRun(t *testing.T) {
+	const day = "2026-10-02"
+	shinki := "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteika.pdf"
+	henkou := "https://www.mof.go.jp/policy/tab_salt/topics/20261002_kouriteikahenkou.pdf"
+	// Run 1 already merged the same-day shinki PDF.
+	old := []model.Product{pFrom("Mint", 1500, day, shinki), pFrom("Apple", 1600, "2022-02-17", "https://example/20220217_kouriteika.pdf")}
+	// Run 2 picks up the henkou PDF published later that day.
+	cur := []model.Product{pFrom("Mint", 1500, day, shinki), pFrom("Apple", 1500, day, henkou)}
+	d := computeDiff(old, cur, nil, nil)
+	if len(d.Added) != 0 || len(d.PriceChanges) != 1 || d.PriceChanges[0].New.Name != "Apple" {
+		t.Errorf("got added=%v changes=%v, want only the Apple revision", d.Added, d.PriceChanges)
+	}
+	// The shinki rows from run 1 are not announced again.
+	if again := computeDiff(cur, cur, nil, nil); !again.empty() {
+		t.Errorf("rerun announced %+v", again)
+	}
+}
+
+func TestComputeDiffSkipsBackfilledOlderPDF(t *testing.T) {
+	old := []model.Product{p("Mint", 1500, "2026-10-02")}
+	// A PDF from 2025 found only now (e.g. a fixed link) must not be announced.
+	cur := []model.Product{p("Mint", 1500, "2026-10-02"), p("Rose", 1700, "2025-08-26")}
+	if d := computeDiff(old, cur, nil, nil); !d.empty() {
+		t.Errorf("backfill announced %+v", d)
 	}
 }
