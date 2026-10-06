@@ -1,0 +1,26 @@
+{
+  "date": "2024-06-17",
+  "kind": "henkou",
+  "filename": "20240617_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/20240617_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Media Rueda Segundo",
+      "name": "Petit Corona",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 1400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Media Rueda Segundo",
+      "name": "Robusto",
+      "variant": "111mm 1本",
+      "grams": "",
+      "priceYen": 2100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    }
+  ]
+}
