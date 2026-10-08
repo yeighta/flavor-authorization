@@ -4,9 +4,5 @@
   "type": "module",
   "scripts": {
     "test": "node --experimental-strip-types --no-warnings test/check.test.ts"
-  },
-  "devDependencies": {
-    "@cloudflare/workers-types": "^4.20260101.0",
-    "wrangler": "^4.0.0"
   }
 }
