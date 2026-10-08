@@ -2,8 +2,9 @@ name: Update tobacco DB
 
 on:
   schedule:
-    # Hourly on the 17th minute (avoid the top-of-hour stampede on free runners).
-    - cron: '17 * * * *'
+    # Fallback only. New PDFs normally start this workflow within ~10 minutes via
+    # the Cloudflare Worker in watcher/ (workflow_dispatch); GitHub cron can lag hours.
+    - cron: '17 */6 * * *'
   workflow_dispatch:
 
 permissions:

@@ -75,6 +75,18 @@ cd frontend && pnpm dev
 
 後の PDF（主に価格改定）が既存キーに一致した場合は、価格・更新日・出典のみ更新し、名称や区分などの表示は最初の認可時のものを維持します。
 
+### イベント駆動の更新
+
+`watcher/` の Cloudflare Worker が 10 分ごとに財務省の一覧ページを確認し、`data/pdf-urls.json` にない PDF が載ったときだけ `update.yml` を起動します（実行中・直近 20 分以内に実行済みなら起動しません）。GitHub の定期実行は遅延が大きいため、6 時間ごとの保険としてだけ残しています。
+
+Worker が GitHub Actions を起動するためのトークンを `WATCHER_GITHUB_TOKEN` に登録してから、Actions の "Deploy watcher" を実行します。
+
+1. GitHub → Settings → Developer settings → Fine-grained personal access tokens → Generate new token
+   - Repository access: Only select repositories → `yeighta/flavor-authorization`
+   - Permissions: **Actions: Read and write**（他は不要）
+2. `gh secret set WATCHER_GITHUB_TOKEN -R yeighta/flavor-authorization`
+3. Actions → "Deploy watcher" → Run workflow
+
 ### 手動オーバーライド
 
 メーカー分類の手動修正は `data/manufacturers.json` を直接編集します。`"locked": true` を付けると `classify --refresh` で上書きされません。
