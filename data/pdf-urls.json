@@ -3399,5 +3399,17 @@
     "kind": "shinki",
     "url": "https://www.mof.go.jp/policy/tab_salt/topics/20261006_kouriteika.pdf",
     "filename": "20261006_kouriteika.pdf"
+  },
+  {
+    "date": "2026-10-07",
+    "kind": "shinki",
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "filename": "20261007_kouriteika.pdf"
+  },
+  {
+    "date": "2026-10-07",
+    "kind": "henkou",
+    "url": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteikahenkou.pdf",
+    "filename": "20261007_kouriteikahenkou.pdf"
   }
 ]

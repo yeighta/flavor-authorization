@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-07",
+  "kind": "henkou",
+  "filename": "20261007_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casdagli Cigars",
+      "name": "Traditional Line Grand Cafe",
+      "variant": "185mm 1本",
+      "grams": "",
+      "priceYen": 2900,
+      "country": "ﾄﾞﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casdagli Cigars",
+      "name": "Traditional Line Grand Cafe Maduro",
+      "variant": "185mm 1本",
+      "grams": "",
+      "priceYen": 3350,
+      "country": "ﾄﾞﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casdagli Cigars",
+      "name": "Traditional Line Cotton Tail",
+      "variant": "120mm 1本",
+      "grams": "",
+      "priceYen": 3100,
+      "country": "ﾄﾞﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casdagli Cigars",
+      "name": "VC Lonsdale",
+      "variant": "170mm 1本",
+      "grams": "",
+      "priceYen": 4000,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casdagli Cigars",
+      "name": "Jure",
+      "variant": "130mm 1本",
+      "grams": "",
+      "priceYen": 3550,
+      "country": "ｺｽﾀﾘｶ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casdagli Cigars",
+      "name": "Brother Of Sabre Vater Figurado",
+      "variant": "155mm 1本",
+      "grams": "",
+      "priceYen": 3000,
+      "country": "ﾄﾞﾆｶ共和国"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "Casdagli Cigars",
+      "name": "DoTW Pony Express",
+      "variant": "150mm 1本",
+      "grams": "",
+      "priceYen": 3450,
+      "country": "ｺｽﾀﾘｶ"
+    }
+  ]
+}

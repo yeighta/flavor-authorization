@@ -62576,6 +62576,106 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "SERBETLI",
+    "name": "Baked Fruit",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 1500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Banana Milkshake",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Banana",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Biscuit",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Blueberry",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 1500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
     "name": "Blue Curacao",
     "variant": "箱",
     "grams": "50.0g",
@@ -62610,6 +62710,226 @@
         "priceYen": 9500,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20251202_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Bubble Fruit",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 1500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Cappuccino",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Cardamon",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Cherry",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Coconut",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Cola",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Dark Sweet Ice Cactus Mint",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Earl Grey",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Fresh Mist",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Fresh Pineapple",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Golden Grape",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
       }
     ]
   },
@@ -62656,6 +62976,146 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "SERBETLI",
+    "name": "Grenadine",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Guava",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Ice Acai Raspberry",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Ice Acai Raspberry",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 1500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Ice Bodrum Tangerine",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Ice Citrus Mango",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 1500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Ice Cola Melon",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
     "name": "Ice Green Apple",
     "variant": "箱",
     "grams": "50.0g",
@@ -62676,6 +63136,26 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "SERBETLI",
+    "name": "Ice Guava Cactus",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
     "name": "Ice Lemon Mint",
     "variant": "箱",
     "grams": "50.0g",
@@ -62690,6 +63170,246 @@
         "priceYen": 2000,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20251202_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Ice Lychee Blueberry",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Ice Orange",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 1500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Ice Pear",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Ice Strawberry Melon",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 1500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Ice Watermelon",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 1500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Ice",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Istanbul Nights",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 1500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Jasmine",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Kiwi",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Lemon Mint",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Lemon Muffin",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Lemon",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
       }
     ]
   },
@@ -62736,6 +63456,46 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "SERBETLI",
+    "name": "Lime Tea",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Love 66",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
     "name": "Marbella",
     "variant": "缶",
     "grams": "250.0g",
@@ -62756,6 +63516,166 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "SERBETLI",
+    "name": "Marbella",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 1500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Melon Fusion Gum",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Melon Milk",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Melon",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Milk Honey",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Milk",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Mint",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Passionfruit",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
     "name": "Pistachio Ice Cream",
     "variant": "缶",
     "grams": "250.0g",
@@ -62770,6 +63690,186 @@
         "priceYen": 9500,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20251202_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Rose",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Six-Seven",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Six-Seven",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 1500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Soft Mint",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Strawberry Cake",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Turkish Baklava",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Turkish Coffee Milk",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Vanilla",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SERBETLI",
+    "name": "Yoghurt",
+    "variant": "箱",
+    "grams": "250.0g",
+    "priceYen": 7500,
+    "country": "トルコ",
+    "updatedDate": "2026-10-07",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-07",
+        "priceYen": 7500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261007_kouriteika.pdf"
       }
     ]
   },
