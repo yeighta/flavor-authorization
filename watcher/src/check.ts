@@ -14,7 +14,8 @@ const RECENT_RUN_MS = 20 * 60 * 1000;
 export interface Config {
   repo: string; // "owner/name"
   workflow: string; // "update.yml"
-  token: string; // fine-grained PAT with Actions: read & write
+  /** Resolved only when there is something to dispatch; needs Actions: read & write. */
+  token: () => Promise<string>;
 }
 
 export type Fetch = (input: string, init?: RequestInit) => Promise<Response>;
@@ -48,12 +49,13 @@ export async function check(cfg: Config, fetchFn: Fetch, now = Date.now()): Prom
   const fresh = onPage.filter((n) => !knownNames.has(n));
   if (fresh.length === 0) return { fresh, action: 'none' };
 
+  const token = await cfg.token();
   const gh = (path: string, init?: RequestInit) =>
     fetchFn(`https://api.github.com/repos/${cfg.repo}${path}`, {
       ...init,
       headers: {
         Accept: 'application/vnd.github+json',
-        Authorization: `Bearer ${cfg.token}`,
+        Authorization: `Bearer ${token}`,
         'User-Agent': USER_AGENT,
         'X-GitHub-Api-Version': '2022-11-28',
         ...(init?.body ? { 'Content-Type': 'application/json' } : {}),

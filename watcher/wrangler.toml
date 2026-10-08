@@ -11,4 +11,4 @@ crons = ["*/10 * * * *"]
 REPO = "yeighta/flavor-authorization"
 WORKFLOW = "update.yml"
 
-# GITHUB_TOKEN is a secret, uploaded by .github/workflows/watcher.yml.
+# GITHUB_APP_ID / GITHUB_APP_PRIVATE_KEY are secrets, uploaded by .github/workflows/watcher.yml.

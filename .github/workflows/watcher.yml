@@ -28,14 +28,16 @@ jobs:
         working-directory: watcher
         run: node --experimental-strip-types --no-warnings test/check.test.ts
 
-      # WATCHER_GITHUB_TOKEN: fine-grained PAT for this repo with Actions: Read and write.
-      - name: Check token
+      # GitHub App "flavor-authorization-watcher" (Actions: read & write), installed on this repo.
+      # WATCHER_APP_PRIVATE_KEY must be the PKCS#8 PEM (BEGIN PRIVATE KEY).
+      - name: Check app credentials
         id: token
         env:
-          WATCHER_GITHUB_TOKEN: ${{ secrets.WATCHER_GITHUB_TOKEN }}
+          WATCHER_APP_ID: ${{ secrets.WATCHER_APP_ID }}
+          WATCHER_APP_PRIVATE_KEY: ${{ secrets.WATCHER_APP_PRIVATE_KEY }}
         run: |
-          if [ -z "$WATCHER_GITHUB_TOKEN" ]; then
-            echo "::warning::WATCHER_GITHUB_TOKEN is not set; skipping deploy. See README (イベント駆動の更新)."
+          if [ -z "$WATCHER_APP_ID" ] || [ -z "$WATCHER_APP_PRIVATE_KEY" ]; then
+            echo "::warning::WATCHER_APP_ID / WATCHER_APP_PRIVATE_KEY are not set; skipping deploy. See README (イベント駆動の更新)."
             echo "present=false" >> "$GITHUB_OUTPUT"
           else
             echo "present=true" >> "$GITHUB_OUTPUT"
@@ -45,11 +47,13 @@ jobs:
         if: steps.token.outputs.present == 'true'
         uses: cloudflare/wrangler-action@v3
         env:
-          GITHUB_TOKEN: ${{ secrets.WATCHER_GITHUB_TOKEN }}
+          GITHUB_APP_ID: ${{ secrets.WATCHER_APP_ID }}
+          GITHUB_APP_PRIVATE_KEY: ${{ secrets.WATCHER_APP_PRIVATE_KEY }}
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           wranglerVersion: '4'
           workingDirectory: watcher
           secrets: |
-            GITHUB_TOKEN
+            GITHUB_APP_ID
+            GITHUB_APP_PRIVATE_KEY
