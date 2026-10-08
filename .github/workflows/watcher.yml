@@ -1,0 +1,55 @@
+name: Deploy watcher
+
+# Deploys the Cloudflare Worker that checks the 財務省 index every 10 minutes
+# and starts update.yml as soon as a new PDF is linked.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'watcher/**'
+      - '.github/workflows/watcher.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Test
+        working-directory: watcher
+        run: node --experimental-strip-types --no-warnings test/check.test.ts
+
+      # WATCHER_GITHUB_TOKEN: fine-grained PAT for this repo with Actions: Read and write.
+      - name: Check token
+        id: token
+        env:
+          WATCHER_GITHUB_TOKEN: ${{ secrets.WATCHER_GITHUB_TOKEN }}
+        run: |
+          if [ -z "$WATCHER_GITHUB_TOKEN" ]; then
+            echo "::warning::WATCHER_GITHUB_TOKEN is not set; skipping deploy. See README (イベント駆動の更新)."
+            echo "present=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "present=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Deploy to Cloudflare Workers
+        if: steps.token.outputs.present == 'true'
+        uses: cloudflare/wrangler-action@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.WATCHER_GITHUB_TOKEN }}
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          wranglerVersion: '4'
+          workingDirectory: watcher
+          secrets: |
+            GITHUB_TOKEN

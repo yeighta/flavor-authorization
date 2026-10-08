@@ -1,0 +1,14 @@
+name = "flavor-authorization-watcher"
+main = "src/index.ts"
+compatibility_date = "2026-10-01"
+# No public URL: the Worker only runs on its schedule.
+workers_dev = false
+
+[triggers]
+crons = ["*/10 * * * *"]
+
+[vars]
+REPO = "yeighta/flavor-authorization"
+WORKFLOW = "update.yml"
+
+# GITHUB_TOKEN is a secret, uploaded by .github/workflows/watcher.yml.
