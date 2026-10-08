@@ -14,7 +14,8 @@ assert.deepEqual(pdfNames(page), [
   '20261007_kouriteika.pdf',
 ]);
 
-const cfg = { repo: 'o/r', workflow: 'update.yml', token: 't' };
+let tokenCalls = 0;
+const cfg = { repo: 'o/r', workflow: 'update.yml', token: async () => (tokenCalls++, 't') };
 const now = Date.parse('2026-10-08T03:00:00Z');
 
 function stub(known: string[], run: { status: string; created_at: string } | null) {
@@ -36,6 +37,7 @@ const all = pdfNames(page);
   const { f, calls } = stub(all, null);
   assert.deepEqual(await check(cfg, f, now), { fresh: [], action: 'none' });
   assert.equal(calls.length, 2);
+  assert.equal(tokenCalls, 0, 'no token is minted when nothing is new');
 }
 // New PDF and no recent run → dispatch.
 {

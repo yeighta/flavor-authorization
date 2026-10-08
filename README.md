@@ -79,13 +79,11 @@ cd frontend && pnpm dev
 
 `watcher/` の Cloudflare Worker が 10 分ごとに財務省の一覧ページを確認し、`data/pdf-urls.json` にない PDF が載ったときだけ `update.yml` を起動します（実行中・直近 20 分以内に実行済みなら起動しません）。GitHub の定期実行は遅延が大きいため、6 時間ごとの保険としてだけ残しています。
 
-Worker が GitHub Actions を起動するためのトークンを `WATCHER_GITHUB_TOKEN` に登録してから、Actions の "Deploy watcher" を実行します。
+Worker は GitHub App「flavor-authorization-watcher」（権限は Actions の読み書きのみ、このリポジトリにだけインストール）として GitHub Actions を起動します。実行のたびに 1 時間有効のトークンを発行するので、期限切れの管理は不要です。
 
-1. GitHub → Settings → Developer settings → Fine-grained personal access tokens → Generate new token
-   - Repository access: Only select repositories → `yeighta/flavor-authorization`
-   - Permissions: **Actions: Read and write**（他は不要）
-2. `gh secret set WATCHER_GITHUB_TOKEN -R yeighta/flavor-authorization`
-3. Actions → "Deploy watcher" → Run workflow
+- Secrets: `WATCHER_APP_ID`（App ID）と `WATCHER_APP_PRIVATE_KEY`（秘密鍵。PKCS#8 形式 = `openssl pkcs8 -topk8 -nocrypt -in key.pem` で変換したもの）
+- 反映: Actions → "Deploy watcher"（`watcher/` を変更して main に push しても自動で走ります）
+- 鍵を作り直すとき: GitHub → Settings → Developer settings → GitHub Apps → flavor-authorization-watcher → Private keys
 
 ### 手動オーバーライド
 
