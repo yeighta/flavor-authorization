@@ -1,0 +1,323 @@
+{
+  "date": "2026-10-16",
+  "kind": "shinki",
+  "filename": "20261016_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20261016_kouriteika.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "GRAPE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "MINT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "MELON",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "LEMON",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "FRESH MIST",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "COLA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "ICE BODRUM TANGERINE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "MILK",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "ICE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "CAPPUCCINO",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "LEMON MINT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "EARL GREY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "LOVE 66",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "LEMON MUFFIN",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "TURKISH BAKLAVA",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "ROSE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "SOFT MINT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "DARK SWEET ICE CACTUS",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "",
+      "name": "ﾋﾟｰﾙ ﾗｲﾑｺｰﾗ ｽｰﾊﾟｰｽﾘﾑ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 570,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "",
+      "name": "CONFIDENCIAAL HIMITSU REGIONAL EDITION JAPAN",
+      "variant": "124mm 1本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾎﾝｼﾞｭﾗｽ"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｵﾔ･ｽﾘﾑ",
+      "name": "･ｴｸｽﾄﾘｰﾑ･ﾒﾝｿｰﾙﾗｯｼｭ",
+      "variant": "F99mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 590,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｵﾔ･ｽﾘﾑ",
+      "name": "･ﾘﾓﾝﾁｪｯﾛ･ﾒﾝｿｰﾙ",
+      "variant": "F99mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 590,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "ｵﾔ･ｽﾘﾑ",
+      "name": "･ﾒﾛﾝ･ﾒﾝｿｰﾙ",
+      "variant": "F99mm 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 590,
+      "country": "ｱﾗﾌﾞ首長国連邦"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "ｼﾞﾝ",
+      "name": "･ｽﾍﾟｱﾐﾝﾄ",
+      "variant": "15ﾊﾟｳﾁ 缶",
+      "grams": "6.0g",
+      "priceYen": 500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "ｼﾞﾝ",
+      "name": "･ｸｰﾙ･ﾐﾝﾄ",
+      "variant": "15ﾊﾟｳﾁ 缶",
+      "grams": "6.0g",
+      "priceYen": 500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "ｼﾞﾝ",
+      "name": "･ｱｯﾌﾟﾙ･ﾐﾝﾄ",
+      "variant": "15ﾊﾟｳﾁ 缶",
+      "grams": "6.0g",
+      "priceYen": 500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "ｼﾞﾝ",
+      "name": "･ﾋﾟｰﾁ",
+      "variant": "15ﾊﾟｳﾁ 缶",
+      "grams": "6.0g",
+      "priceYen": 500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "ｼﾞﾝ",
+      "name": "･ｽﾍﾟｱﾐﾝﾄ",
+      "variant": "15ﾊﾟｳﾁ 缶",
+      "grams": "6.0g",
+      "priceYen": 500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "ｼﾞﾝ",
+      "name": "･ｸｰﾙ･ﾐﾝﾄ",
+      "variant": "15ﾊﾟｳﾁ 缶",
+      "grams": "6.0g",
+      "priceYen": 500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "ｼﾞﾝ",
+      "name": "･ｱｯﾌﾟﾙ･ﾐﾝﾄ",
+      "variant": "15ﾊﾟｳﾁ 缶",
+      "grams": "6.0g",
+      "priceYen": 500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "ｼﾞﾝ",
+      "name": "･ﾋﾟｰﾁ",
+      "variant": "15ﾊﾟｳﾁ 缶",
+      "grams": "6.0g",
+      "priceYen": 500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "ｼﾞﾝ",
+      "name": "･ｽﾍﾟｱﾐﾝﾄ",
+      "variant": "15ﾊﾟｳﾁ 缶",
+      "grams": "6.0g",
+      "priceYen": 500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "ｼﾞﾝ",
+      "name": "･ｸｰﾙ･ﾐﾝﾄ",
+      "variant": "15ﾊﾟｳﾁ 缶",
+      "grams": "6.0g",
+      "priceYen": 500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "ｼﾞﾝ",
+      "name": "･ｱｯﾌﾟﾙ･ﾐﾝﾄ",
+      "variant": "15ﾊﾟｳﾁ 缶",
+      "grams": "6.0g",
+      "priceYen": 500,
+      "country": "ｱﾒﾘｶ合衆国"
+    },
+    {
+      "category": "刻みたばこ",
+      "manufacturer": "ｼﾞﾝ",
+      "name": "･ﾋﾟｰﾁ",
+      "variant": "15ﾊﾟｳﾁ 缶",
+      "grams": "6.0g",
+      "priceYen": 500,
+      "country": "ｱﾒﾘｶ合衆国"
+    }
+  ]
+}
