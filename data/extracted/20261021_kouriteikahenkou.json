@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-21",
+  "kind": "henkou",
+  "filename": "20261021_kouriteikahenkou.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteikahenkou.pdf",
+  "products": [
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "BLUE CURACAO",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "LIME SPICE PEACH",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "ICE GREEN APPLE",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "ICE LEMON MINT",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "LIME LYCHEE BLUEBERRY",
+      "variant": "箱",
+      "grams": "50.0g",
+      "priceYen": 1500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "PISTACHIO ICE CREAM",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "GRAPE",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "BUBBLE FRUIT",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "GREEN MIX",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "SERBETLI",
+      "name": "MARBELLA",
+      "variant": "缶",
+      "grams": "250.0g",
+      "priceYen": 7500,
+      "country": "ﾄﾙｺ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾆｴﾙ･ﾏｰｼｬﾙ",
+      "name": "･ｺﾞｰﾙﾄﾞｼｶﾞｰ･ﾄﾙﾍﾟﾄﾞ",
+      "variant": "158mm 1本",
+      "grams": "",
+      "priceYen": 60000,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾆｴﾙ･ﾏｰｼｬﾙ",
+      "name": "･DM2･ﾚｯﾄﾞﾚｰﾍﾞﾙ ･ﾄﾙﾍﾟﾄﾞ",
+      "variant": "158mm 1本",
+      "grams": "",
+      "priceYen": 3300,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾆｴﾙ･ﾏｰｼｬﾙ",
+      "name": "･DM2･ﾚｯﾄﾞﾚｰﾍﾞﾙ ･ﾛﾌﾞｽﾄ",
+      "variant": "139mm 1本",
+      "grams": "",
+      "priceYen": 3100,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾆｴﾙ･ﾏｰｼｬﾙ",
+      "name": "･DM2･ﾚｯﾄﾞﾚｰﾍﾞﾙ ･ﾍﾟﾃｨｺﾛﾅ",
+      "variant": "120mm 1本",
+      "grams": "",
+      "priceYen": 2400,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "葉巻たばこ",
+      "manufacturer": "ﾀﾞﾆｴﾙ･ﾏｰｼｬﾙ",
+      "name": "･DM2･ﾚｯﾄﾞﾚｰﾍﾞﾙ ･ｷﾞｶﾞﾝﾃ",
+      "variant": "152mm 1本",
+      "grams": "",
+      "priceYen": 3900,
+      "country": "ﾆｶﾗｸﾞｱ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾛｰﾗﾝﾄﾞ",
+      "name": "AD",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 3000,
+      "country": "ﾄﾞｲﾂ"
+    },
+    {
+      "category": "パイプたばこ",
+      "manufacturer": "ﾛｰﾗﾝﾄﾞ",
+      "name": "BD",
+      "variant": "缶",
+      "grams": "50.0g",
+      "priceYen": 3000,
+      "country": "ﾄﾞｲﾂ"
+    }
+  ]
+}
