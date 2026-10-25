@@ -1,4 +1,5 @@
-// classify reads data/products.json, gathers unique パイプたばこ manufacturers,
+// classify reads the per-PDF extraction cache (data/extracted), gathers unique
+// パイプたばこ manufacturers (after alias canonicalization),
 // asks the LLM to classify each as kiseru/shisha/unknown, and writes
 // data/manufacturers.json. Existing entries are preserved (manual edits win)
 // unless --refresh is passed.
@@ -11,6 +12,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"path/filepath"
 	"sort"
 	"strings"
 	"time"
@@ -22,7 +24,11 @@ import (
 )
 
 func main() {
-	productsPath := flag.String("products", "data/products.json", "input products DB")
+	// Read the raw extraction cache, not data/products.json: the merged DB only
+	// contains manufacturers already classified as shisha, so a brand that first
+	// appears in a new PDF would never be seen here and never be published.
+	cacheDir := flag.String("cache", "data/extracted", "per-PDF extraction cache")
+	aliasesPath := flag.String("aliases", "data/manufacturer-aliases.json", "manufacturer alias map (optional)")
 	outPath := flag.String("out", "data/manufacturers.json", "manufacturer classification output")
 	refresh := flag.Bool("refresh", false, "re-classify even manufacturers that already have an entry")
 	batch := flag.Int("batch", 30, "number of manufacturers per LLM request")
@@ -31,9 +37,9 @@ func main() {
 
 	_ = godotenv.Load()
 
-	products, err := loadProducts(*productsPath)
+	products, err := loadExtracted(*cacheDir, loadAliases(*aliasesPath))
 	if err != nil {
-		log.Fatalf("load products: %v", err)
+		log.Fatalf("load extraction cache: %v", err)
 	}
 
 	samples := buildSamples(products, *maxSamples)
@@ -93,14 +99,50 @@ func main() {
 	log.Printf("done. wrote %d entries to %s", len(existing.Entries), *outPath)
 }
 
-func loadProducts(path string) ([]model.Product, error) {
-	f, err := os.Open(path)
+// loadExtracted flattens every cached PDF into pipe-tobacco rows, with manufacturer
+// names mapped to their canonical alias (the key data/manufacturers.json uses).
+func loadExtracted(dir string, aliases map[string]string) ([]model.Product, error) {
+	files, err := filepath.Glob(filepath.Join(dir, "*.json"))
 	if err != nil {
 		return nil, err
 	}
-	defer f.Close()
-	var ps []model.Product
-	return ps, json.NewDecoder(f).Decode(&ps)
+	var out []model.Product
+	for _, f := range files {
+		b, err := os.ReadFile(f)
+		if err != nil {
+			return nil, err
+		}
+		var e model.ExtractedPDF
+		if err := json.Unmarshal(b, &e); err != nil {
+			return nil, fmt.Errorf("%s: %w", f, err)
+		}
+		for _, p := range e.Products {
+			// Tolerate OCR drift in the rotated header ("パイたばこ", "パイブたばこ").
+			if !strings.Contains(string(p.Category), "パイ") {
+				continue
+			}
+			m := strings.TrimSpace(p.Manufacturer)
+			if c, ok := aliases[m]; ok {
+				m = c
+			}
+			out = append(out, model.Product{Category: model.CategoryPipe, Manufacturer: m, Name: p.Name, Country: p.Country})
+		}
+	}
+	return out, nil
+}
+
+func loadAliases(path string) map[string]string {
+	var m struct {
+		Aliases map[string]string `json:"aliases"`
+	}
+	b, err := os.ReadFile(path)
+	if err != nil {
+		return map[string]string{}
+	}
+	if err := json.Unmarshal(b, &m); err != nil || m.Aliases == nil {
+		return map[string]string{}
+	}
+	return m.Aliases
 }
 
 func buildSamples(products []model.Product, maxNames int) []classifier.Sample {
