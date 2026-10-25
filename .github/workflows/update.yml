@@ -54,6 +54,11 @@ jobs:
           OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
         run: go run ./cmd/classify
 
+      # Re-merge so manufacturers classified just now (e.g. a brand first seen in
+      # today's PDF) are published in this run rather than the next one.
+      - name: Rebuild products.json with new classifications
+        run: go run ./cmd/scraper -skip-extract
+
       # 差分の有無を判定し、通知用に HEAD（old）のスナップショットを /tmp に保存しておく。
       # データブランチを切る前に取得するのがポイント（差分計算は cmd/notify が行う）。
       - name: Stage data and snapshot previous DB

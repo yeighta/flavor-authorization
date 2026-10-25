@@ -168,11 +168,11 @@
       "confidence": "high",
       "reason": "マレーシア製で、エナジードリンクやカクテル名など、東南アジア系シーシャフレーバーの特徴と一致するため。"
     },
-    "D\u0026R": {
-      "manufacturer": "D\u0026R",
+    "D&R": {
+      "manufacturer": "D&R",
       "type": "kiseru",
       "confidence": "high",
-      "reason": "米国Daughters \u0026 Ryan社の略称であり、Three Sails等の伝統的なパイプ・手巻き用たばこを製造しているため。"
+      "reason": "米国Daughters & Ryan社の略称であり、Three Sails等の伝統的なパイプ・手巻き用たばこを製造しているため。"
     },
     "DAIM": {
       "manufacturer": "DAIM",
@@ -203,6 +203,12 @@
       "type": "shisha",
       "confidence": "high",
       "reason": "ロシア産で、ブラックベリーやフラワーパフュームといったシーシャ特有のフレーバー展開が見られるため。"
+    },
+    "DOGMA": {
+      "manufacturer": "DOGMA",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ロシアのメーカーで、製品名がフルーツやスイーツ系フレーバー（BASHKIR HONEY, RASPBERRY COMPOT, LEMON DROPS等）であり、シーシャブランドとして知られる。"
     },
     "DOZAJ": {
       "manufacturer": "DOZAJ",
@@ -282,6 +288,12 @@
       "confidence": "high",
       "reason": "UAE産のシーシャブランドで、Molasses（糖蜜）の表記とブルーヘブン等の名称から判断。"
     },
+    "GOLDEN LAYALINA Molasses": {
+      "manufacturer": "GOLDEN LAYALINA Molasses",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "UAEのメーカーで、製品名にフルーツ・カクテル系フレーバー（Apple Cinnamon, Appletini, Banana Daiquiri等）が並び、シーシャ用モラセスとして販売されている。"
+    },
     "Hookafina": {
       "manufacturer": "Hookafina",
       "type": "shisha",
@@ -318,6 +330,12 @@
       "confidence": "high",
       "reason": "UAE産で、ダブルレモンやカクテルといったシーシャの標準的なフレーバー名であるため。"
     },
+    "KISMET": {
+      "manufacturer": "KISMET",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "ドイツのメーカーで、製品名がBLACK VIOLET, BLACK HAZELNUT, COFFEE CARDAMOM等、シーシャ向けフレーバー構成。KISMETはシーシャブランドとして知られる。"
+    },
     "KRAKEN": {
       "manufacturer": "KRAKEN",
       "type": "shisha",
@@ -329,6 +347,12 @@
       "type": "shisha",
       "confidence": "high",
       "reason": "UAE産の老舗シーシャブランドであり、Molasses（糖蜜）ベースの製品名が並んでいるため。"
+    },
+    "LAYALINA Molasses": {
+      "manufacturer": "LAYALINA Molasses",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "UAEのメーカーで、製品名が1001 NIGHTS, APPLE BAHRAINI, BLUEBERRY等、シーシャ用モラセスとして広く流通。"
     },
     "LIRRA": {
       "manufacturer": "LIRRA",
@@ -426,14 +450,14 @@
       "confidence": "high",
       "reason": "スペイン産のシーシャブランドで、ポップな製品名がシーシャ市場向けであるため。"
     },
-    "P\u0026S": {
-      "manufacturer": "P\u0026S",
+    "P&S": {
+      "manufacturer": "P&S",
       "type": "kiseru",
       "confidence": "high",
       "reason": "ドイツ産で「ミクスチャー」という伝統的なパイプたばこの用語を使用しているため。"
     },
-    "P\u0026S 34": {
-      "manufacturer": "P\u0026S 34",
+    "P&S 34": {
+      "manufacturer": "P&S 34",
       "type": "kiseru",
       "confidence": "high",
       "reason": "ドイツ産で「ミクスチャー」という伝統的なパイプたばこの用語を使用しているため。"
@@ -630,11 +654,29 @@
       "confidence": "high",
       "reason": "日本のシーシャ専門店がプロデュースするブランドであり、フレーバー名もシーシャ用であるため。"
     },
+    "Tokyo Shisha, Gold Line": {
+      "manufacturer": "Tokyo Shisha, Gold Line",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "アメリカのメーカーで、ブランド名に「Shisha」と明記。製品名もAlaskan Ice, Blueberry Muffin, Candy等、シーシャフレーバー。"
+    },
     "Tombacco": {
       "manufacturer": "Tombacco",
       "type": "shisha",
       "confidence": "high",
       "reason": "インドネシア製で、アロエベラやカルダモンなどのフレーバー展開はシーシャ特有であるため。"
+    },
+    "Tombacco Blackline": {
+      "manufacturer": "Tombacco Blackline",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "インドネシアのメーカーで、製品名がCITRUS MIX, STRAWBERRY DREAM, LEMON PIE等、シーシャフレーバー。Tombaccoはシーシャブランド。"
+    },
+    "Tombacco Whiteline": {
+      "manufacturer": "Tombacco Whiteline",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "インドネシアのメーカーで、製品名がMANGO, PINEAPPLE, WATERMELON等、シーシャフレーバー。Tombaccoはシーシャブランド。"
     },
     "Trifecta": {
       "manufacturer": "Trifecta",
@@ -682,7 +724,7 @@
       "manufacturer": "White Elephant",
       "type": "kiseru",
       "confidence": "high",
-      "reason": "ドイツのKohlhase \u0026 Kopp社が手掛ける伝統的なパイプたばこブランドであるため。"
+      "reason": "ドイツのKohlhase & Kopp社が手掛ける伝統的なパイプたばこブランドであるため。"
     },
     "Zodiac": {
       "manufacturer": "Zodiac",
@@ -727,6 +769,12 @@
       "confidence": "medium",
       "reason": "ドイツ製であり、伝統的なパイプたばこブランドの名称として知られています。"
     },
+    "アンバーリーフ": {
+      "manufacturer": "アンバーリーフ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ポーランドのメーカーで、製品名が「オーガニックブレンド」「ブロンド」等、パイプたばこ/刻みたばこの名称。"
+    },
     "アークローヤル": {
       "manufacturer": "アークローヤル",
       "type": "kiseru",
@@ -763,6 +811,12 @@
       "confidence": "medium",
       "reason": "ドイツ製であり、伝統的なパイプたばこのラインナップに含まれます。"
     },
+    "オーリック": {
+      "manufacturer": "オーリック",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマークのメーカーで、製品名「ゴールデンスライスド」はパイプたばこの定番名称。オーリックはパイプたばこブランドとして有名。"
+    },
     "オールド ホルボーン": {
       "manufacturer": "オールド ホルボーン",
       "type": "kiseru",
@@ -774,6 +828,12 @@
       "type": "kiseru",
       "confidence": "high",
       "reason": "ドイツ製のラタキア等を使用した伝統的なパイプたばこです。"
+    },
+    "カピート・メローライト II (40)": {
+      "manufacturer": "カピート・メローライト II (40)",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマークのメーカーで、製品名が空欄だが「カピート」はパイプたばこブランド。"
     },
     "カロライナローズ": {
       "manufacturer": "カロライナローズ",
@@ -895,6 +955,12 @@
       "confidence": "high",
       "reason": "フランスの有名パイプメーカーによるドイツ製のパイプ用たばこシリーズです。"
     },
+    "シルクロード (40)": {
+      "manufacturer": "シルクロード (40)",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマークのメーカーで、製品名が空欄だが「シルクロード」はパイプたばこブランド。"
+    },
     "ジャーマイン": {
       "manufacturer": "ジャーマイン",
       "type": "kiseru",
@@ -1003,6 +1069,13 @@
       "confidence": "high",
       "reason": "ドイツ製のパイプたばこ銘柄です。"
     },
+    "チョイス": {
+      "manufacturer": "チョイス",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "manual override: デンマーク製 30g パウチの香り付きパイプたばこ（アロマティック、オリジナル等）。シーシャではない",
+      "locked": true
+    },
     "ティム": {
       "manufacturer": "ティム",
       "type": "kiseru",
@@ -1058,6 +1131,12 @@
       "confidence": "high",
       "reason": "ドイツ製のパイプたばこで、ロンドンの地名を冠した伝統的なシリーズです。"
     },
+    "ハーベスト・シャグ": {
+      "manufacturer": "ハーベスト・シャグ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツのメーカーで、製品名がバニラ、チェリー、ミントとシンプルで、パイプたばこ/刻みたばこ。"
+    },
     "バルカン ブレンド": {
       "manufacturer": "バルカン ブレンド",
       "type": "kiseru",
@@ -1099,6 +1178,12 @@
       "type": "kiseru",
       "confidence": "high",
       "reason": "ラタキアやオリエントなど、伝統的なパイプたばこのブレンド用葉材の名称が並んでいます。"
+    },
+    "ピーターソン": {
+      "manufacturer": "ピーターソン",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマークのメーカーで、製品名「デラックス ネイビー ロールズ」はパイプたばこの定番。ピーターソンは世界的パイプたばこブランド。"
     },
     "ファウエン": {
       "manufacturer": "ファウエン",
@@ -1166,6 +1251,19 @@
       "confidence": "high",
       "reason": "ドイツ（現在はマックバレン傘下）の伝統的なパイプたばこメーカーです。"
     },
+    "プロムナード (40)": {
+      "manufacturer": "プロムナード (40)",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマークのメーカーで、製品名が空欄だが「プロムナード」はパイプたばこブランド。"
+    },
+    "ベロ": {
+      "manufacturer": "ベロ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "manual override: VELO のニコチンパウチ（15個缶、ミディアム/インテンス等の強度表記）。シーシャではない",
+      "locked": true
+    },
     "ペペ": {
       "manufacturer": "ペペ",
       "type": "kiseru",
@@ -1220,11 +1318,23 @@
       "confidence": "high",
       "reason": "スコットランド発祥の非常に高名な伝統的パイプたばこブランドです。"
     },
+    "ラールセン": {
+      "manufacturer": "ラールセン",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマークのメーカーで、製品名「シグナチュア」はパイプたばこ。ラールセンはパイプたばこブランドとして有名。"
+    },
     "レッドフィールド": {
       "manufacturer": "レッドフィールド",
       "type": "kiseru",
       "confidence": "high",
       "reason": "ベルギー産の低価格帯シャグ（手巻き・パイプ用）ブランドです。"
+    },
+    "ロックン・チェア II (40)": {
+      "manufacturer": "ロックン・チェア II (40)",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマークのメーカーで、製品名が空欄だが「ロックン・チェア」はパイプたばこブランド。"
     },
     "ロバートマッコーネル": {
       "manufacturer": "ロバートマッコーネル",
@@ -1255,6 +1365,18 @@
       "type": "kiseru",
       "confidence": "high",
       "reason": "日本を代表する伝統的なパイプたばこブランド（現在はデンマーク製造）です。"
+    },
+    "桃山 (40)": {
+      "manufacturer": "桃山 (40)",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマークのメーカーだが、製品名「桃山」は日本の刻みたばこブランド。JTの「桃山」として知られる。"
+    },
+    "桃山100 II": {
+      "manufacturer": "桃山100 II",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "デンマークのメーカーだが、製品名「桃山」は日本の刻みたばこブランド。"
     },
     "飛鳥": {
       "manufacturer": "飛鳥",
@@ -1332,7 +1454,7 @@
       "manufacturer": "ｲｴｽ･ｺｳﾉｳｨｯﾁ",
       "type": "kiseru",
       "confidence": "high",
-      "reason": "ドイツのKohlhase \u0026 Kopp社による高級パイプたばこシリーズです。"
+      "reason": "ドイツのKohlhase & Kopp社による高級パイプたばこシリーズです。"
     },
     "ｲﾑｺ": {
       "manufacturer": "ｲﾑｺ",
@@ -1542,19 +1664,25 @@
       "manufacturer": "ｺールﾊｽ",
       "type": "kiseru",
       "confidence": "high",
-      "reason": "ドイツの老舗Kohlhase \u0026 Kopp社による高級パイプたばこです。"
+      "reason": "ドイツの老舗Kohlhase & Kopp社による高級パイプたばこです。"
+    },
+    "ｺｯﾌﾟ･ﾘﾐﾃｯﾄﾞ ｴﾃﾞｨｼｮﾝ": {
+      "manufacturer": "ｺｯﾌﾟ･ﾘﾐﾃｯﾄﾞ ｴﾃﾞｨｼｮﾝ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツのメーカーで、製品名「AHOY」「A CABANA」はパイプたばこのブレンド名。コップはパイプたばこブランド。"
     },
     "ｺｰﾈﾙﾃﾞｨｰﾙ": {
       "manufacturer": "ｺｰﾈﾙﾃﾞｨｰﾙ",
       "type": "kiseru",
       "confidence": "high",
-      "reason": "米国Cornell \u0026 Diehl社は伝統的なパイプたばこ製造の代表格です。"
+      "reason": "米国Cornell & Diehl社は伝統的なパイプたばこ製造の代表格です。"
     },
     "ｺｰﾙﾊｽ": {
       "manufacturer": "ｺｰﾙﾊｽ",
       "type": "kiseru",
       "confidence": "high",
-      "reason": "Kohlhase \u0026 Kopp社の表記揺れであり、伝統的なパイプたばこです。"
+      "reason": "Kohlhase & Kopp社の表記揺れであり、伝統的なパイプたばこです。"
     },
     "ｺﾍﾟﾝﾊｰｹﾞﾝ": {
       "manufacturer": "ｺﾍﾟﾝﾊｰｹﾞﾝ",
@@ -1729,6 +1857,12 @@
       "type": "kiseru",
       "confidence": "high",
       "reason": "ドイツの高級パイプたばこブランド（John Aylesbury）であるため。"
+    },
+    "ｼﾞｮﾝｴｲﾙｽﾞﾍﾞﾘｰ": {
+      "manufacturer": "ｼﾞｮﾝｴｲﾙｽﾞﾍﾞﾘｰ",
+      "type": "kiseru",
+      "confidence": "high",
+      "reason": "ドイツのメーカーで、製品名「ｳｲﾝﾀｰｴﾃﾞｨｼｮﾝ」はパイプたばこの季節限定ブレンド。ジョンエイルズベリーはパイプたばこブランド。"
     },
     "ｼﾞｰｴﾙﾋﾟｰｽ": {
       "manufacturer": "ｼﾞｰｴﾙﾋﾟｰｽ",
@@ -2016,7 +2150,7 @@
       "manufacturer": "ﾊﾞｰｽﾃﾞｰﾌﾞﾚﾝﾄﾞ",
       "type": "kiseru",
       "confidence": "high",
-      "reason": "ドイツのKohlhase \u0026 Kopp社等が手掛ける伝統的なパイプ用アロマティックたばこであるため。"
+      "reason": "ドイツのKohlhase & Kopp社等が手掛ける伝統的なパイプ用アロマティックたばこであるため。"
     },
     "ﾊﾞｲｵﾘﾝ": {
       "manufacturer": "ﾊﾞｲｵﾘﾝ",
@@ -2467,7 +2601,7 @@
       "manufacturer": "ﾗｲﾅｰ",
       "type": "kiseru",
       "confidence": "high",
-      "reason": "Reiner is a high-end pipe tobacco brand produced by Kohlhase \u0026 Kopp in Germany."
+      "reason": "Reiner is a high-end pipe tobacco brand produced by Kohlhase & Kopp in Germany."
     },
     "ﾗｼﾞｬ": {
       "manufacturer": "ﾗｼﾞｬ",

@@ -29720,6 +29720,566 @@
   },
   {
     "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Apple Punch",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Bashkir Honey",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7900,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "priceYen": 7900,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Black Orchid",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7900,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "priceYen": 7900,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Carmen Cubita",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-10-19",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-19",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Chinese Pear",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Crimean Lavender",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7900,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "priceYen": 7900,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Criollo 98",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-10-19",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-19",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Ct Broadleaf",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-10-19",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-19",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Cubita Columbia",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Guerlinade for Him",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7900,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "priceYen": 7900,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Gummi Bears",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Habano 92",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-10-19",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-19",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Habano Garcia",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Habano V-a",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-10-19",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-19",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Javana",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-10-19",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-19",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "K-T Broadleaf",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Lemon Drops",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Mata Fina",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Olor Carbonell",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Pa Broadleaf Ligero",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-10-19",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-19",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Pa Broadleaf Seko",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-10-19",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-19",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Piloto Cubano",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Play",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7900,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "priceYen": 7900,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Pure Dogma",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Raspberry Compot",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Sakura",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-08-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-08-27",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260827_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "San Andres",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-10-19",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-19",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "DOGMA",
+    "name": "Villanueva Hs",
+    "variant": "瓶",
+    "grams": "80.0g",
+    "priceYen": 7700,
+    "country": "ロシア",
+    "updatedDate": "2026-10-19",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-19",
+        "priceYen": 7700,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261019_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
     "manufacturer": "Doobacco",
     "name": "Apple Sambuca",
     "variant": "缶",
@@ -41123,6 +41683,1006 @@
   },
   {
     "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "After Glow",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Apple Cinnamon",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Appletini",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Bahama Breeze",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Banana Daiquiri",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Blueberry Grape",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Blueberry",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Blue Mist",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Bts",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "BubbleGum",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Cafe Cream",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "California Dream",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Candy Apple",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Cherry Amaretto",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Chicago Special",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Chocolate Cocoa",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Chocolate Strawberry",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Cognac",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Double Apple",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Dreamcycle",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Fruit Medley",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Fruit Punch",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Fun @ the Beach",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "HoneyBerry",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Irish Cream",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Juicy Watermelon",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Key Lime",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Mango Salsa",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Mango Tango",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Melon",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Paradise Island",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Peach",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Pom Bellini",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Raspberry Cream",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Rose Garden",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Rum Punch",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Sour Apple",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Spearmint",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Strawberry Daiquiri",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Strawberry",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Sweet Peach",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Tequila Sunrise",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Triple Berry",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Tropical Orange Mix",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Vanilla Latte",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Watermelon Mint",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "White Grape Mint",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "White Grape",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Wildberry Mint",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "GOLDEN LAYALINA Molasses",
+    "name": "Wildberry",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1700,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1700,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
     "manufacturer": "Hookafina",
     "name": "Blueberry Lemonade",
     "variant": "パウチ",
@@ -45350,6 +46910,500 @@
   },
   {
     "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Apple",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Bisquit",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Cane",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Flowers",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Forrest",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Ginger",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Hazelnut",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Hibiscus",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Jasmine",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Lavender",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Lemonade",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Majesty",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Paan",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Perfume",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Rose",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Sandalwood",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Tea",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Vanilla",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Black Violet",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Coffee Cardamom",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Elixir",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Elysium",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Lemon-Rose",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Orienttee Al Kashmir Edition",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Peach Blossom",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "KISMET",
+    "name": "Veritas",
+    "grams": "200g",
+    "priceYen": 9500,
+    "country": "ドイツ",
+    "updatedDate": "2026-07-24",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-07-24",
+        "priceYen": 9500,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260724_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
     "manufacturer": "KRAKEN",
     "name": "Black Corn",
     "grams": "100.0g",
@@ -45592,6 +47646,1186 @@
         "priceYen": 8800,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260115_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "1001 Nights",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Aloha",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Apple Bahraini",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Apricot",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Banana",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Blackberry",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Black Grape",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Blueberry Mint",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Blueberry",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Bubble Gum",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Cappuccino",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Cherry Cola",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Cherry",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Chocolate Mint",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Coconut",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Cola",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Cranberry Grape",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Desert Dream",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Double Apple Mint",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Double Apple",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Eskandarani",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Florida",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Grape Lemon",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Grape Mint",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Grape",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Guava Lemon",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Guava Mint",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Guava Orange",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Guava",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Gum Mint",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Gum",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Jasmine",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Kiwi Strawberry",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Kiwi",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Layalina Fruit Special",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Lemon Mint",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Lemon",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Mandarin",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Mango",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Margarita",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Melon",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Mint",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Mixed Fruits",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Orange Mint",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Orange",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Passion Fruit",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Passion Melon",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Peach",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Pinacolada",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Pineapple",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Pomegranate",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Power Booster",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Raspberry Lemon",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Raspberry",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Rose Mint",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Rose",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Strawberry",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Vanilla",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "LAYALINA Molasses",
+    "name": "Watermelon",
+    "variant": "缶",
+    "grams": "50.0g",
+    "priceYen": 1400,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 1400,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou2.pdf"
       }
     ]
   },
@@ -74223,6 +77457,926 @@
   },
   {
     "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Alaskan Ice",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Apple Cider",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Barista's Choice",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Bermuda Mint",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Berrymania",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Blueberry Muffin",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "California Blue",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Candy",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Carolina Peach",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Chai Masala",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Cherry Muffin",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Chocolate Cake",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Chocolate Mint",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Cinnamon Cookie",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Cocomania",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Cool Cucumber",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Cosmos",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Dubai Apple",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Green Tea",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Grow a Pear",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Lemongrass",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Lemon Muffin",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Lime",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Limoncello",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Lychee",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Mango Cheesecake",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Melonmania",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "MexiCola",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Napa Grape",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Orange My Guava",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Pep Cream",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Pina Colada",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Rio Mint",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Root Beer",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Royal Mango",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Royal Queen",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Royal Raspberry",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Spiced Berry",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Strawberry Guava",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Strawberry Passion",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Tropical Paradise",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Twisted Teabag",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Viva la Horchata",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "White Gummi Bear",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Winter Berries",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tokyo Shisha, Gold Line",
+    "name": "Winter Rose",
+    "variant": "パウチ",
+    "grams": "100.0g",
+    "priceYen": 3500,
+    "country": "アメリカ合衆国",
+    "updatedDate": "2021-09-15",
+    "source": "henkou",
+    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf",
+    "history": [
+      {
+        "date": "2021-09-15",
+        "priceYen": 3500,
+        "source": "henkou",
+        "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210915_kouriteikahenkou1.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
     "manufacturer": "Tokyo Shisha",
     "name": "Gold Line Banana Hazelnut",
     "variant": "パウチ",
@@ -75629,6 +79783,966 @@
         "priceYen": 3500,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220222_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Blackline",
+    "name": "African Queen",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 2000,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 2000,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Blackline",
+    "name": "Citrus Mix",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 2000,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 2000,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Blackline",
+    "name": "Fruit Cocktail",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 2000,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 2000,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Blackline",
+    "name": "Ice",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 2000,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 2000,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Blackline",
+    "name": "Kola Candy",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 2000,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 2000,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Blackline",
+    "name": "Lemon Pie",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 2000,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 2000,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Blackline",
+    "name": "Peach Iced Tea",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 2000,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 2000,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Blackline",
+    "name": "Raspberry",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 2000,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 2000,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Blackline",
+    "name": "Spicy Lime",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 2000,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 2000,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Blackline",
+    "name": "Strawberry Dream",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 2000,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 2000,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Blackline",
+    "name": "Strawberry Lychee",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 2000,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 2000,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Blackline",
+    "name": "Tropical Juice",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 2000,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 2000,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "69",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "86",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "After Eight",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Aloha Nani!",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Apple",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Banana",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Blackcurrant",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Blueberry Muffin",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Blueberry",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Bubble Gum",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Caramel",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Cholo",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Cinnamon Roll",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Double Apple",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Frosty Green",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Geisha",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Go Jack Go!",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Grapefruit",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Guava",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Lychee",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Mango",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Melon",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Mi Amor",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Mint",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Oolong Tea",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Orange",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Passion Fruit",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Peach",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Pineapple",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Punk Man",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Red Sparrow",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Sakura Lemon",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Sheikh Money",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Soul of Java",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Strawberry",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Watermelon",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-21",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-21",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
       }
     ]
   },
