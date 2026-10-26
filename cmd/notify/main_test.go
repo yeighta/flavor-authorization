@@ -4,6 +4,7 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/yeighta/flavor-authorization/internal/classifier"
 	"github.com/yeighta/flavor-authorization/internal/model"
 )
 
@@ -82,5 +83,18 @@ func TestComputeDiffSkipsBackfilledOlderPDF(t *testing.T) {
 	cur := []model.Product{p("Mint", 1500, "2026-10-02"), p("Rose", 1700, "2025-08-26")}
 	if d := computeDiff(old, cur, nil, nil); !d.empty() {
 		t.Errorf("backfill announced %+v", d)
+	}
+}
+
+func TestComputeDiffManufacturersShishaOnly(t *testing.T) {
+	shisha := classifier.Classification{Type: model.PipeTypeShisha}
+	kiseru := classifier.Classification{Type: model.PipeTypeKiseru}
+	oldM := map[string]classifier.Classification{"Known": shisha, "Flip": kiseru}
+	newM := map[string]classifier.Classification{
+		"Known": shisha, "Flip": shisha, "DOGMA": shisha, "Pipe": kiseru,
+	}
+	d := computeDiff(nil, nil, oldM, newM)
+	if got := strings.Join(d.Manufacturers, ","); got != "DOGMA,Flip" {
+		t.Errorf("manufacturers = %q, want DOGMA,Flip", got)
 	}
 }

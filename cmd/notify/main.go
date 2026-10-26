@@ -175,8 +175,10 @@ func computeDiff(oldP, newP []model.Product, oldM, newM map[string]classifier.Cl
 			d.PriceChanges = append(d.PriceChanges, priceChange{Old: prev, New: p})
 		}
 	}
-	for name := range newM {
-		if _, ok := oldM[name]; !ok {
+	// Only shisha makers reach the site, so only they are news. A maker that
+	// was reclassified to shisha counts as new because it just appeared.
+	for name, c := range newM {
+		if c.Type == model.PipeTypeShisha && oldM[name].Type != model.PipeTypeShisha {
 			d.Manufacturers = append(d.Manufacturers, name)
 		}
 	}
