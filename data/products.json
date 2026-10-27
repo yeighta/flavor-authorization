@@ -56024,6 +56024,86 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "NASH",
+    "name": "ノーアロマ T13",
+    "variant": "箱",
+    "grams": "30.0g",
+    "priceYen": 3000,
+    "country": "ロシア",
+    "updatedDate": "2026-10-26",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261026_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-26",
+        "priceYen": 3000,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261026_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "NASH",
+    "name": "ノーアロマ クビータ・コロンビア",
+    "variant": "箱",
+    "grams": "30.0g",
+    "priceYen": 3000,
+    "country": "ロシア",
+    "updatedDate": "2026-10-26",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261026_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-26",
+        "priceYen": 3000,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261026_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "NASH",
+    "name": "ノーアロマ コロホ",
+    "variant": "箱",
+    "grams": "30.0g",
+    "priceYen": 3000,
+    "country": "ロシア",
+    "updatedDate": "2026-10-26",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261026_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-26",
+        "priceYen": 3000,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261026_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "NASH",
+    "name": "ノーアロマ ピロート・クバーノ",
+    "variant": "箱",
+    "grams": "30.0g",
+    "priceYen": 3000,
+    "country": "ロシア",
+    "updatedDate": "2026-10-26",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261026_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-26",
+        "priceYen": 3000,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261026_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "NASH",
     "name": "ハニートロピカルフルーツ",
     "variant": "箱",
     "grams": "120.0g",
