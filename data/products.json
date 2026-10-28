@@ -52365,6 +52365,26 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "MEZZA",
+    "name": "Smokey Bacon",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 3900,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 3900,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "MEZZA",
     "name": "Summer Jam",
     "variant": "箱",
     "grams": "100.0g",
@@ -52419,6 +52439,26 @@
         "priceYen": 3900,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20260226_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "MEZZA",
+    "name": "Tokyo Matcha Wafer",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 3900,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 3900,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
       }
     ]
   },
@@ -80209,6 +80249,26 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "Tombacco Whiteline",
+    "name": "Aroma Lime",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
     "name": "Banana",
     "variant": "箱",
     "grams": "50.0g",
@@ -80223,6 +80283,26 @@
         "priceYen": 1630,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Biscuit",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
       }
     ]
   },
@@ -80329,6 +80409,66 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "Tombacco Whiteline",
+    "name": "Cardamom",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Chai",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Choco Brownies",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
     "name": "Cholo",
     "variant": "箱",
     "grams": "50.0g",
@@ -80369,6 +80509,46 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "Tombacco Whiteline",
+    "name": "Coconut",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Coffee",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
     "name": "Double Apple",
     "variant": "箱",
     "grams": "50.0g",
@@ -80383,6 +80563,46 @@
         "priceYen": 1630,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Earlgrey",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Fine Ginger",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
       }
     ]
   },
@@ -80489,6 +80709,86 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "Tombacco Whiteline",
+    "name": "Honey",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Jasmine",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Kola",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "La France",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
     "name": "Lychee",
     "variant": "箱",
     "grams": "50.0g",
@@ -80569,6 +80869,26 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "Tombacco Whiteline",
+    "name": "Milk",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
     "name": "Mint",
     "variant": "箱",
     "grams": "50.0g",
@@ -80583,6 +80903,66 @@
         "priceYen": 1630,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Mojito",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Muscat",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Needles",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
       }
     ]
   },
@@ -80689,6 +81069,26 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "Tombacco Whiteline",
+    "name": "Pistachio",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
     "name": "Punk Man",
     "variant": "箱",
     "grams": "50.0g",
@@ -80709,6 +81109,26 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "Tombacco Whiteline",
+    "name": "Raspberry",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
     "name": "Red Sparrow",
     "variant": "箱",
     "grams": "50.0g",
@@ -80723,6 +81143,26 @@
         "priceYen": 1630,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Rose",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
       }
     ]
   },
@@ -80809,6 +81249,66 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "Tombacco Whiteline",
+    "name": "Sweet Caramel",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Tokyo Matcha Wafer",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Vanilla",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
     "name": "Watermelon",
     "variant": "箱",
     "grams": "50.0g",
@@ -80823,6 +81323,26 @@
         "priceYen": 1630,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261021_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Tombacco Whiteline",
+    "name": "Yogurt",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1630,
+    "country": "インドネシア",
+    "updatedDate": "2026-10-27",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-10-27",
+        "priceYen": 1630,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261027_kouriteika.pdf"
       }
     ]
   },
