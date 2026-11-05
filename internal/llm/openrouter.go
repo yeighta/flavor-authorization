@@ -104,7 +104,12 @@ type chatRequest struct {
 type chatResponse struct {
 	Choices []struct {
 		Message struct {
-			Content string `json:"content"`
+			Content     string `json:"content"`
+			Annotations []struct {
+				URLCitation struct {
+					URL string `json:"url"`
+				} `json:"url_citation"`
+			} `json:"annotations"`
 		} `json:"message"`
 		FinishReason string `json:"finish_reason"`
 	} `json:"choices"`
@@ -120,6 +125,13 @@ type chatResponse struct {
 // Complete sends the request and returns the assistant's text. Transient failures
 // (429/5xx/network/truncated output) are retried with backoff.
 func (c *Client) Complete(ctx context.Context, r Request) (string, error) {
+	text, _, err := c.CompleteCited(ctx, r)
+	return text, err
+}
+
+// CompleteCited is Complete plus the URLs the web plugin actually returned
+// (url_citation annotations), so callers can tell grounded answers from guesses.
+func (c *Client) CompleteCited(ctx context.Context, r Request) (string, []string, error) {
 	body := chatRequest{
 		Model:       c.Model,
 		Messages:    r.Messages,
@@ -152,16 +164,16 @@ func (c *Client) Complete(ctx context.Context, r Request) (string, error) {
 	}
 	payload, err := json.Marshal(body)
 	if err != nil {
-		return "", err
+		return "", nil, err
 	}
 
 	const maxAttempts = 3
 	backoffs := []time.Duration{5 * time.Second, 20 * time.Second}
 	var lastErr error
 	for attempt := 1; attempt <= maxAttempts; attempt++ {
-		text, retry, err := c.do(ctx, payload)
+		text, cites, retry, err := c.do(ctx, payload)
 		if err == nil {
-			return text, nil
+			return text, cites, nil
 		}
 		lastErr = err
 		if !retry || attempt == maxAttempts {
@@ -172,16 +184,16 @@ func (c *Client) Complete(ctx context.Context, r Request) (string, error) {
 		select {
 		case <-time.After(wait):
 		case <-ctx.Done():
-			return "", ctx.Err()
+			return "", nil, ctx.Err()
 		}
 	}
-	return "", lastErr
+	return "", nil, lastErr
 }
 
-func (c *Client) do(ctx context.Context, payload []byte) (text string, retry bool, err error) {
+func (c *Client) do(ctx context.Context, payload []byte) (text string, cites []string, retry bool, err error) {
 	req, err := http.NewRequestWithContext(ctx, http.MethodPost, Endpoint, bytes.NewReader(payload))
 	if err != nil {
-		return "", false, err
+		return "", nil, false, err
 	}
 	req.Header.Set("Authorization", "Bearer "+c.APIKey)
 	req.Header.Set("Content-Type", "application/json")
@@ -190,33 +202,40 @@ func (c *Client) do(ctx context.Context, payload []byte) (text string, retry boo
 
 	res, err := c.HTTP.Do(req)
 	if err != nil {
-		return "", true, err
+		return "", nil, true, err
 	}
 	defer res.Body.Close()
 	raw, err := io.ReadAll(res.Body)
 	if err != nil {
-		return "", true, err
+		return "", nil, true, err
 	}
 	if res.StatusCode != http.StatusOK {
 		retry := res.StatusCode == 429 || res.StatusCode >= 500
-		return "", retry, fmt.Errorf("HTTP %d: %s", res.StatusCode, head(string(raw), 300))
+		return "", nil, retry, fmt.Errorf("HTTP %d: %s", res.StatusCode, head(string(raw), 300))
 	}
 	var parsed chatResponse
 	if err := json.Unmarshal(raw, &parsed); err != nil {
-		return "", true, fmt.Errorf("decode response: %w", err)
+		return "", nil, true, fmt.Errorf("decode response: %w", err)
 	}
 	if parsed.Error != nil {
-		return "", true, fmt.Errorf("upstream error %v: %s", parsed.Error.Code, parsed.Error.Message)
+		return "", nil, true, fmt.Errorf("upstream error %v: %s", parsed.Error.Code, parsed.Error.Message)
 	}
 	if len(parsed.Choices) == 0 {
-		return "", true, fmt.Errorf("no choices in response")
+		return "", nil, true, fmt.Errorf("no choices in response")
 	}
 	ch := parsed.Choices[0]
 	if ch.Message.Content == "" || (ch.FinishReason != "" && ch.FinishReason != "stop") {
-		return "", true, fmt.Errorf("bad response (finish=%q, content=%dB)", ch.FinishReason, len(ch.Message.Content))
+		return "", nil, true, fmt.Errorf("bad response (finish=%q, content=%dB)", ch.FinishReason, len(ch.Message.Content))
 	}
 	c.Cost += parsed.Usage.Cost
-	return ch.Message.Content, false, nil
+	seen := map[string]bool{}
+	for _, a := range ch.Message.Annotations {
+		if u := a.URLCitation.URL; u != "" && !seen[u] {
+			seen[u] = true
+			cites = append(cites, u)
+		}
+	}
+	return ch.Message.Content, cites, false, nil
 }
 
 // ModelInfo is the subset of OpenRouter's model catalog we care about.

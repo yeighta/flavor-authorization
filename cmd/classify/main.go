@@ -15,6 +15,7 @@ import (
 	"path/filepath"
 	"sort"
 	"strings"
+	"sync"
 	"time"
 
 	"github.com/joho/godotenv"
@@ -31,7 +32,7 @@ func main() {
 	aliasesPath := flag.String("aliases", "data/manufacturer-aliases.json", "manufacturer alias map (optional)")
 	outPath := flag.String("out", "data/manufacturers.json", "manufacturer classification output")
 	refresh := flag.Bool("refresh", false, "re-classify even manufacturers that already have an entry")
-	batch := flag.Int("batch", 30, "number of manufacturers per LLM request")
+	parallel := flag.Int("parallel", 4, "concurrent LLM requests (one manufacturer each)")
 	maxSamples := flag.Int("max-samples", 8, "max product names per manufacturer fed to the LLM")
 	flag.Parse()
 
@@ -68,34 +69,50 @@ func main() {
 		return
 	}
 
-	ctx, cancel := context.WithTimeout(context.Background(), 30*time.Minute)
+	ctx, cancel := context.WithTimeout(context.Background(), 60*time.Minute)
 	defer cancel()
 	c, err := classifier.NewClient()
 	if err != nil {
 		log.Fatalf("client: %v", err)
 	}
 
-	for i := 0; i < len(todo); i += *batch {
-		end := i + *batch
-		if end > len(todo) {
-			end = len(todo)
-		}
-		log.Printf("batch %d-%d / %d", i+1, end, len(todo))
-		batchResult, err := c.Classify(ctx, todo[i:end])
-		if err != nil {
-			log.Printf("  ERR: %v (skipping batch)", err)
-			continue
-		}
-		for _, cl := range batchResult {
-			existing.Entries[cl.Manufacturer] = cl
-		}
-		// Persist incrementally so a later failure doesn't lose progress.
-		if err := saveMap(*outPath, existing); err != nil {
-			log.Fatalf("save: %v", err)
-		}
-		// Polite pause between batches.
-		time.Sleep(4 * time.Second)
+	var (
+		mu     sync.Mutex
+		done   int
+		failed int
+		work   = make(chan classifier.Sample)
+		wg     sync.WaitGroup
+	)
+	for w := 0; w < *parallel; w++ {
+		wg.Add(1)
+		go func() {
+			defer wg.Done()
+			for s := range work {
+				cl, err := c.Classify(ctx, s)
+				mu.Lock()
+				done++
+				if err != nil {
+					// Left unclassified, so the next run retries it.
+					failed++
+					log.Printf("[%d/%d] ERR %v", done, len(todo), err)
+				} else {
+					existing.Entries[cl.Manufacturer] = cl
+					log.Printf("[%d/%d] %s → %s (%s, %d sources)", done, len(todo), cl.Manufacturer, cl.Type, cl.Confidence, len(cl.Sources))
+					// Persist incrementally so a later failure doesn't lose progress.
+					if err := saveMap(*outPath, existing); err != nil {
+						log.Fatalf("save: %v", err)
+					}
+				}
+				mu.Unlock()
+			}
+		}()
 	}
+	for _, s := range todo {
+		work <- s
+	}
+	close(work)
+	wg.Wait()
+	log.Printf("cost: $%.4f, failed: %d", c.Cost(), failed)
 	log.Printf("done. wrote %d entries to %s", len(existing.Entries), *outPath)
 }
 
