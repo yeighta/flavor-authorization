@@ -12,7 +12,7 @@
 GitHub Actions (cron 1h)
   └─ cmd/collect-urls   財務省ページ + Wayback Machine から PDF URL 一覧を生成
   └─ cmd/scraper        各 PDF を OpenRouter のマルチモーダル LLM（既定 GPT-6 Luna、PDF をそのまま入力）で構造化 JSON 化（キャッシュ）
-  └─ cmd/classify       メーカー名を OpenRouter web 検索付きで kiseru/shisha 分類
+  └─ cmd/classify       メーカーを1件ずつ OpenRouter web 検索付きで kiseru/shisha 分類
   └─ data/* を commit（PR 経由）
   └─ cmd/notify         新規商品・価格改定を Discord / X に通知
        ↓
@@ -84,6 +84,10 @@ Worker は GitHub App「flavor-authorization-watcher」（権限は Actions の�
 - Secrets: `WATCHER_APP_ID`（App ID）と `WATCHER_APP_PRIVATE_KEY`（秘密鍵。PKCS#8 形式 = `openssl pkcs8 -topk8 -nocrypt -in key.pem` で変換したもの）
 - 反映: Actions → "Deploy watcher"（`watcher/` を変更して main に push しても自動で走ります）
 - 鍵を作り直すとき: GitHub → Settings → Developer settings → GitHub Apps → flavor-authorization-watcher → Private keys
+
+### メーカー分類
+
+新しいメーカーが PDF に出ると、`cmd/classify` が1メーカーずつ Web 検索付きで問い合わせ、shisha / kiseru / unknown を判定します（1件 約 $0.007）。根拠にした検索結果の URL は `sources` に残ります。検索結果が1件もない判定は推測とみなして unknown に落とし、サイトには出しません。新しく unknown になったメーカーは Discord に「要確認メーカー」として通知されます。
 
 ### 手動オーバーライド
 

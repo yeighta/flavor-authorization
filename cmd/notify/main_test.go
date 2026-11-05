@@ -98,3 +98,16 @@ func TestComputeDiffManufacturersShishaOnly(t *testing.T) {
 		t.Errorf("manufacturers = %q, want DOGMA,Flip", got)
 	}
 }
+
+func TestComputeDiffUnconfirmedManufacturers(t *testing.T) {
+	unknown := classifier.Classification{Type: model.PipeTypeUnknown}
+	oldM := map[string]classifier.Classification{"Seen": unknown}
+	newM := map[string]classifier.Classification{"Seen": unknown, "Fresh": unknown}
+	d := computeDiff(nil, nil, oldM, newM)
+	if got := strings.Join(d.Unconfirmed, ","); got != "Fresh" {
+		t.Errorf("unconfirmed = %q, want Fresh", got)
+	}
+	if !strings.Contains(discordDescription(d), "Fresh") {
+		t.Errorf("discord description misses the unconfirmed maker")
+	}
+}

@@ -6,6 +6,10 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
+	"net/url"
+	"strings"
+
+	"golang.org/x/text/unicode/norm"
 
 	"github.com/yeighta/flavor-authorization/internal/llm"
 	"github.com/yeighta/flavor-authorization/internal/model"
@@ -17,6 +21,11 @@ type Classification struct {
 	Type         model.PipeType `json:"type"`       // kiseru | shisha | unknown
 	Confidence   string         `json:"confidence"` // high | medium | low
 	Reason       string         `json:"reason,omitempty"`
+	// BrandFound reports whether the search results describe this brand itself,
+	// as opposed to the verdict being inferred from neighbouring brands.
+	BrandFound bool `json:"brandFound"`
+	// Sources are the pages the web search actually returned for this verdict.
+	Sources []string `json:"sources,omitempty"`
 	// Locked entries are preserved across `classify --refresh`; set this
 	// to protect manual judgments that disagree with the LLM verdict.
 	Locked bool `json:"locked,omitempty"`
@@ -34,61 +43,38 @@ type Sample struct {
 	ProductNames []string `json:"productNames"`
 }
 
-const promptText = `あなたは日本のたばこ市場（特にパイプたばこ）に詳しい専門家です。
-入力は財務省で「パイプたばこ」として認可されているメーカーのリストです。
-必要に応じて Web 検索結果を参照し、各メーカーの公式サイト・販売店・SNS等から
-事実を確認した上で、以下の3種類に分類してください。
+const promptText = `あなたは日本のたばこ市場に詳しい専門家です。
+入力は財務省で「パイプたばこ」として小売定価が認可された1つのメーカー（ブランド）です。
+Web 検索結果に出てくる販売店・公式サイト・SNS の記述を根拠に、次のどちらかに分類してください。
 
-# 分類カテゴリ
-- "kiseru": キセル（刻みたばこ）または通常のパイプ用たばこ。
-  代表例: JT「小粋」「桃山」, Mac Baren, Peterson, Dunhill, Captain Black, Davidoff(パイプ),
-         Borkum Riff, Lane Limited, Stanwell, Kohlhase & Kopp 等。
-  製造国: ドイツ・デンマーク・アイルランド・米国・日本 等が多い。
-- "shisha": 水タバコ（フーカ／シーシャ）用たばこ。
-  代表例: Al Fakher, Starbuzz, MAZAYA, JiBiAR, REVOSHI, Bang Bang, Adalya, Nakhla,
-         Fumari, Tangiers, Social Smoke, Trifecta, Haze, Azure, Fantasia, DARKSIDE, MARY JANE 等。
-  製造国: UAE・ヨルダン・トルコ・エジプト・米国 等が多い。
-- "unknown": Web検索を使っても確信を持って分類できない場合のみ。
+- "shisha": 水タバコ（フーカ／シーシャ）用のたばこ。
+  例: Al Fakher, Starbuzz, MAZAYA, Adalya, Nakhla, Tangiers, DARKSIDE, DOGMA
+- "kiseru": シーシャ以外。キセル用の刻み、パイプ用たばこ、
+  オーラルたばこ（ニコチンパウチ・スヌース等、「15個缶」「20個缶」のような個数表記）など。
+  例: 小粋, Peterson, Mac Baren, Captain Black, VELO
+- "unknown": 検索結果からどちらとも判断できない場合。推測で決めないこと。
 
-# 判定の根拠
-1. 製品名・製造国・ブランド名から仮説を立てる
-2. Web検索で公式情報を確認（ブランド公式サイト・販売ページ等）
-3. 検索結果から得た事実をreasonに含める
-
-- 製品名にフレーバー名（フルーツ・スイーツ・カクテル・ミント等）が並ぶ → 大半がシーシャ
-- 製品名が "Mixture", "Cavendish", "Burley", "Aromatic" など伝統的キセル/パイプ用語 → kiseru
-- 50g/250g/1kgパッケージで甘いフレーバー多数 → shisha
-- 紙巻きや葉巻専門の名前は出てこない（前提: 全件パイプたばこ認可済）
-
-# 出力フォーマット
-**JSON のみを返してください。マークダウン・説明文・コードフェンスは含めない**。
-形式は以下の通り（Web検索で得た情報を reason に簡潔に含める）：
-
-{
-  "classifications": [
-    {"manufacturer": "...", "type": "shisha|kiseru|unknown", "confidence": "high|medium|low", "reason": "..."}
-  ]
-}
+# 注意
+- フレーバー名（フルーツ・ミント・スイーツ等）は判断材料になりません。
+  パイプたばこやオーラルたばこにも同じようなフレーバー名が付きます。
+- 容量・包装（100g〜1kg の缶や袋はシーシャに多い、30〜50g パウチはパイプにも多い、個数表記はオーラル）は参考にしてよいですが、
+  決め手は検索結果に「シーシャ」「水タバコ」「hookah」「パイプ」「スヌース」などの記述があるかです。
+- 財務省の PDF は分類の根拠になりません。
+- brandFound: 検索結果に、このブランド（またはその製品）そのものについての記述があれば true。
+  同じ PDF に載っている別ブランドや、シーシャ一般の説明しか見つからない場合は false にし、type は "unknown" にすること。
+- reason には、根拠にした検索結果の記述を簡潔に書いてください。検索結果にない情報は書かないこと。
 `
 
 func schema() map[string]any {
-	item := map[string]any{
-		"type": "object",
-		"properties": map[string]any{
-			"manufacturer": map[string]any{"type": "string"},
-			"type":         map[string]any{"type": "string", "enum": []string{"shisha", "kiseru", "unknown"}},
-			"confidence":   map[string]any{"type": "string", "enum": []string{"high", "medium", "low"}},
-			"reason":       map[string]any{"type": "string"},
-		},
-		"required":             []string{"manufacturer", "type", "confidence", "reason"},
-		"additionalProperties": false,
-	}
 	return map[string]any{
 		"type": "object",
 		"properties": map[string]any{
-			"classifications": map[string]any{"type": "array", "items": item},
+			"brandFound": map[string]any{"type": "boolean"},
+			"type":       map[string]any{"type": "string", "enum": []string{"shisha", "kiseru", "unknown"}},
+			"confidence": map[string]any{"type": "string", "enum": []string{"high", "medium", "low"}},
+			"reason":     map[string]any{"type": "string"},
 		},
-		"required":             []string{"classifications"},
+		"required":             []string{"brandFound", "type", "confidence", "reason"},
 		"additionalProperties": false,
 	}
 }
@@ -106,32 +92,86 @@ func NewClient() (*Client, error) {
 	return &Client{llm: c}, nil
 }
 
-// Classify sends a batch of manufacturer samples to the LLM and returns classifications.
-func (c *Client) Classify(ctx context.Context, samples []Sample) ([]Classification, error) {
-	body, err := json.MarshalIndent(samples, "", "  ")
+// Cost is the USD spent so far.
+func (c *Client) Cost() float64 { return c.llm.Cost }
+
+// Classify asks about one manufacturer. One request per manufacturer matters:
+// the web plugin searches once per request, so a batch gets one search that
+// matches none of its members and the model falls back to guessing.
+func (c *Client) Classify(ctx context.Context, s Sample) (Classification, error) {
+	body, err := json.MarshalIndent(s, "", "  ")
 	if err != nil {
-		return nil, err
+		return Classification{}, err
 	}
-	res, err := c.llm.Complete(ctx, llm.Request{
+	res, cites, err := c.llm.CompleteCited(ctx, llm.Request{
 		Messages: []llm.Message{
 			{Role: "system", Content: promptText},
-			{Role: "user", Content: "# 入力\n```json\n" + string(body) + "\n```"},
+			{Role: "user", Content: question(s) + "\n\n```json\n" + string(body) + "\n```"},
 		},
 		Schema:     schema(),
-		SchemaName: "classifications",
-		MaxTokens:  16384,
-		// OpenRouter's web plugin stands in for Gemini's Google Search grounding.
-		WebSearch: true,
+		SchemaName: "classification",
+		MaxTokens:  2048,
+		WebSearch:  true,
 	})
 	if err != nil {
-		return nil, fmt.Errorf("classify: %w", err)
+		return Classification{}, fmt.Errorf("classify %s: %w", s.Manufacturer, err)
 	}
-	raw := llm.ExtractJSON(res)
-	var parsed struct {
-		Classifications []Classification `json:"classifications"`
+	var cl Classification
+	if err := json.Unmarshal([]byte(llm.ExtractJSON(res)), &cl); err != nil {
+		return Classification{}, fmt.Errorf("parse classify json for %s: %w (raw head: %.200s)", s.Manufacturer, err, res)
 	}
-	if err := json.Unmarshal([]byte(raw), &parsed); err != nil {
-		return nil, fmt.Errorf("parse classify json: %w (raw head: %.200s)", err, raw)
+	cl.Manufacturer = s.Manufacturer
+	cl.Sources = evidence(cites)
+	return ground(cl), nil
+}
+
+// question leads the user message because the web plugin builds its search
+// query from it.
+func question(s Sample) string {
+	// NFKC turns half-width katakana from the PDFs (ｷｭｰﾋﾞｯｸ) into the
+	// full-width spelling shops actually use, which search matches far better.
+	var names []string
+	for _, n := range s.ProductNames {
+		if len(names) == 3 {
+			break
+		}
+		names = append(names, norm.NFKC.String(n))
 	}
-	return parsed.Classifications, nil
+	q := fmt.Sprintf("たばこブランド「%s」", norm.NFKC.String(s.Manufacturer))
+	if len(s.Countries) > 0 {
+		q += "（" + strings.Join(s.Countries, "・") + "製）"
+	}
+	if len(names) > 0 {
+		q += "の「" + strings.Join(names, "」「") + "」"
+	}
+	return q + "は、シーシャ（水タバコ）用ですか、それともパイプ・キセル・オーラルたばこなどですか。"
+}
+
+// evidence drops sources that cannot support a verdict: the 財務省 PDF the
+// manufacturer came from says nothing about how the product is used.
+func evidence(cites []string) []string {
+	var out []string
+	for _, c := range cites {
+		if u, err := url.Parse(c); err == nil && strings.HasSuffix(u.Hostname(), "mof.go.jp") {
+			continue
+		}
+		out = append(out, c)
+	}
+	return out
+}
+
+// ground demotes a verdict that no search result about the brand backs up to
+// unknown, so a guess never publishes (or hides) a brand on its own.
+func ground(cl Classification) Classification {
+	if (len(cl.Sources) > 0 && cl.BrandFound) || cl.Type == model.PipeTypeUnknown {
+		return cl
+	}
+	why := "検索結果なし"
+	if len(cl.Sources) > 0 {
+		why = "ブランドの記述なし"
+	}
+	cl.Reason = fmt.Sprintf("%s（モデルの推測は %s）: %s", why, cl.Type, cl.Reason)
+	cl.Type = model.PipeTypeUnknown
+	cl.Confidence = "low"
+	return cl
 }

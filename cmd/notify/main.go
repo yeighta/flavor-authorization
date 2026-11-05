@@ -35,10 +35,13 @@ type diff struct {
 	Added         []model.Product
 	PriceChanges  []priceChange
 	Manufacturers []string
+	// Unconfirmed are new manufacturers the classifier could not ground in a
+	// search result. They stay off the site until someone checks them.
+	Unconfirmed []string
 }
 
 func (d diff) empty() bool {
-	return len(d.Added) == 0 && len(d.PriceChanges) == 0 && len(d.Manufacturers) == 0
+	return len(d.Added) == 0 && len(d.PriceChanges) == 0 && len(d.Manufacturers) == 0 && len(d.Unconfirmed) == 0
 }
 
 func main() {
@@ -67,7 +70,7 @@ func main() {
 			loadManufacturers(*oldMfrs), loadManufacturers(*newMfrs),
 		)
 	}
-	log.Printf("diff: added=%d priceChanges=%d manufacturers=%d", len(d.Added), len(d.PriceChanges), len(d.Manufacturers))
+	log.Printf("diff: added=%d priceChanges=%d manufacturers=%d unconfirmed=%d", len(d.Added), len(d.PriceChanges), len(d.Manufacturers), len(d.Unconfirmed))
 	if d.empty() {
 		log.Printf("nothing to announce")
 		return
@@ -181,8 +184,12 @@ func computeDiff(oldP, newP []model.Product, oldM, newM map[string]classifier.Cl
 		if c.Type == model.PipeTypeShisha && oldM[name].Type != model.PipeTypeShisha {
 			d.Manufacturers = append(d.Manufacturers, name)
 		}
+		if _, ok := oldM[name]; !ok && c.Type == model.PipeTypeUnknown {
+			d.Unconfirmed = append(d.Unconfirmed, name)
+		}
 	}
 	sort.Strings(d.Manufacturers)
+	sort.Strings(d.Unconfirmed)
 	return d
 }
 
@@ -235,6 +242,7 @@ func discordDescription(d diff) string {
 	}
 	section("価格改定", len(d.PriceChanges), changed)
 	section("新規メーカー", len(d.Manufacturers), d.Manufacturers)
+	section("要確認メーカー（シーシャか判定できず非表示。data/manufacturers.json で type を直す）", len(d.Unconfirmed), d.Unconfirmed)
 	out := strings.TrimSpace(b.String())
 	if r := []rune(out); len(r) > 4000 {
 		out = string(r[:4000]) + "…"
