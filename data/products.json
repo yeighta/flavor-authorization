@@ -26514,6 +26514,26 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "Debaj",
+    "name": "Berry",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1650,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2026-11-10",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261110_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-10",
+        "priceYen": 1650,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261110_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Debaj",
     "name": "BlueBerry",
     "grams": "50.0g",
     "priceYen": 1600,
@@ -26952,6 +26972,26 @@
         "priceYen": 1600,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20200629_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Debaj",
+    "name": "Green Lemon",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1650,
+    "country": "アラブ首長国連邦",
+    "updatedDate": "2026-11-10",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261110_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-10",
+        "priceYen": 1650,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261110_kouriteika.pdf"
       }
     ]
   },
