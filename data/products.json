@@ -1181,6 +1181,26 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "AFZAL",
+    "name": "Hookah Molasses Banana",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1750,
+    "country": "インド",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 1750,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "AFZAL",
     "name": "Hookah Molasses Banaras Pan",
     "variant": "箱",
     "grams": "50.0g",
@@ -1299,6 +1319,26 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "AFZAL",
+    "name": "Hookah Molasses Chocolate Pan",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1750,
+    "country": "インド",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 1750,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "AFZAL",
     "name": "Hookah Molasses Chocolate",
     "variant": "箱",
     "grams": "50.0g",
@@ -1333,6 +1373,46 @@
         "priceYen": 1700,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210112_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "AFZAL",
+    "name": "Hookah Molasses Cola",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1750,
+    "country": "インド",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 1750,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "AFZAL",
+    "name": "Hookah Molasses Corn Potage",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1750,
+    "country": "インド",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 1750,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
       }
     ]
   },
@@ -1418,6 +1498,26 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "AFZAL",
+    "name": "Hookah Molasses Double Milk",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1750,
+    "country": "インド",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 1750,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "AFZAL",
     "name": "Hookah Molasses Earl Grey",
     "variant": "箱",
     "grams": "50.0g",
@@ -1432,6 +1532,26 @@
         "priceYen": 1700,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20191127_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "AFZAL",
+    "name": "Hookah Molasses Energy Drink",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1750,
+    "country": "インド",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 1750,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
       }
     ]
   },
@@ -1549,6 +1669,26 @@
         "priceYen": 1750,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20231220_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "AFZAL",
+    "name": "Hookah Molasses Icy Chocolate Pan",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1750,
+    "country": "インド",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 1750,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
       }
     ]
   },
@@ -1731,6 +1871,26 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "AFZAL",
+    "name": "Hookah Molasses Lime",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1750,
+    "country": "インド",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 1750,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "AFZAL",
     "name": "Hookah Molasses Love 77",
     "grams": "50.0g",
     "priceYen": 1750,
@@ -1764,6 +1924,26 @@
         "priceYen": 1700,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20210112_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "AFZAL",
+    "name": "Hookah Molasses Maghai Paan",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1750,
+    "country": "インド",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 1750,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
       }
     ]
   },
@@ -1864,6 +2044,26 @@
         "priceYen": 1750,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20221122_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "AFZAL",
+    "name": "Hookah Molasses Musk Melon",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1750,
+    "country": "インド",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 1750,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
       }
     ]
   },
@@ -2118,6 +2318,46 @@
         "priceYen": 1750,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20231220_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "AFZAL",
+    "name": "Hookah Molasses Sakura",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1750,
+    "country": "インド",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 1750,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "AFZAL",
+    "name": "Hookah Molasses Sheik Mint",
+    "variant": "箱",
+    "grams": "50.0g",
+    "priceYen": 1750,
+    "country": "インド",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 1750,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
       }
     ]
   },
@@ -63487,6 +63727,346 @@
         "priceYen": 4000,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240527_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Sapphire Crown",
+    "name": "Bitter Cherry",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4200,
+    "country": "ロシア",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 4200,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Sapphire Crown",
+    "name": "Cherry Energy",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4200,
+    "country": "ロシア",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 4200,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Sapphire Crown",
+    "name": "Code: Red",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4200,
+    "country": "ロシア",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 4200,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Sapphire Crown",
+    "name": "Crownberry",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4200,
+    "country": "ロシア",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 4200,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Sapphire Crown",
+    "name": "Eden Raspberry",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4200,
+    "country": "ロシア",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 4200,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Sapphire Crown",
+    "name": "Ekzo",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4200,
+    "country": "ロシア",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 4200,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Sapphire Crown",
+    "name": "Matcha Cocos",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4200,
+    "country": "ロシア",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 4200,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Sapphire Crown",
+    "name": "Mejumi",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4200,
+    "country": "ロシア",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 4200,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Sapphire Crown",
+    "name": "Mors",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4200,
+    "country": "ロシア",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 4200,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Sapphire Crown",
+    "name": "Pineapple Funta",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4200,
+    "country": "ロシア",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 4200,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Sapphire Crown",
+    "name": "Ripe Mango",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4200,
+    "country": "ロシア",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 4200,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Sapphire Crown",
+    "name": "Skittlez",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4200,
+    "country": "ロシア",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 4200,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Sapphire Crown",
+    "name": "Sunny Peach",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4200,
+    "country": "ロシア",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 4200,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Sapphire Crown",
+    "name": "Tropic Juice",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4200,
+    "country": "ロシア",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 4200,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Sapphire Crown",
+    "name": "Tropic Mamba",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4200,
+    "country": "ロシア",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 4200,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Sapphire Crown",
+    "name": "Waffles",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4200,
+    "country": "ロシア",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 4200,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "Sapphire Crown",
+    "name": "Yuzu-Honey",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4200,
+    "country": "ロシア",
+    "updatedDate": "2026-11-13",
+    "source": "shinki",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf",
+    "history": [
+      {
+        "date": "2026-11-13",
+        "priceYen": 4200,
+        "source": "shinki",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261113_kouriteika.pdf"
       }
     ]
   },
