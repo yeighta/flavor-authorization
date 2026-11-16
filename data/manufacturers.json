@@ -258,6 +258,20 @@
         "https://hookahhub.store/collection/black-burn?lang=ru"
       ]
     },
+    "BLACK ROCK": {
+      "manufacturer": "BLACK ROCK",
+      "type": "unknown",
+      "confidence": "low",
+      "reason": "検索結果に「BLACK ROCK」というブランドの記述は一切見つかりませんでした。検索結果で見つかった「Afzal」や「Frozen」は別ブランドです。製品名に「Hookah Molasses」とあるためシーシャ用である可能性は高いですが、ブランド自体が確認できないため判断できません。",
+      "brandFound": false,
+      "sources": [
+        "https://shishadex.com/flavors/afzal__hookah-molasses-earl-grey/",
+        "https://shishadex.com/flavors/afzal__hookah-molasses-lychee/",
+        "https://www.indiantobaccofactory.com/products/hooka-molasis-shisha-flavors",
+        "https://shishashop.com/products/frozen-lychee-shisha-flavour-hookah-molasses",
+        "https://thehookahlab.com/en-jp/blogs/hookah-blog/what-is-shisha-the-most-comprehensive-guide"
+      ]
+    },
     "BONCHE": {
       "manufacturer": "BONCHE",
       "type": "shisha",
@@ -1136,6 +1150,20 @@
         "https://amigollc.co.jp/procurement/starline-shisha-flavor-guide/",
         "https://shishadex.com/flavors/starline__free-cuba/",
         "https://shop.cloud-jp.net/products/starline-strawberry-50g"
+      ]
+    },
+    "Sapphire Crown": {
+      "manufacturer": "Sapphire Crown",
+      "type": "shisha",
+      "confidence": "high",
+      "reason": "複数のシーシャ専門サイト（blackshisha.com, smokedex.info, htreviews.org）で「Sapphire Crown」がシーシャタバコとして販売・レビューされており、メーカー公式サイト（crowntbc.com）でも「タバコ（ кальян 用）」と明記されている。製品名はすべてそのシーシャタバコのフレーバー一覧に含まれている。",
+      "brandFound": true,
+      "sources": [
+        "https://hub.hookahbattle.com/ru/crown-prezentovali-tabak-sapphire/",
+        "https://blackshisha.com/brands/sapphire-crown",
+        "https://smokedex.info/en/shisha/brand/sapphire-crown",
+        "https://htreviews.org/htr184249",
+        "https://crowntbc.com/"
       ]
     },
     "Shisha Kartel": {
