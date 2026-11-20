@@ -64076,17 +64076,23 @@
     "name": "Apricot",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-09-09",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-09-09",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -64114,18 +64120,25 @@
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
     "name": "Arctic Mix Caramel Glass",
+    "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "モルドバ",
-    "updatedDate": "2024-03-26",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240326_kouriteika_1.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2024-03-26",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240326_kouriteika_1.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -64154,17 +64167,23 @@
     "name": "Arctic Mix Cream Berry",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-08-23",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220823_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-08-23",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220823_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -64192,18 +64211,25 @@
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
     "name": "Arctic Mix Peanut Latte",
+    "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "モルドバ",
-    "updatedDate": "2024-03-26",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240326_kouriteika_1.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2024-03-26",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240326_kouriteika_1.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -64232,17 +64258,23 @@
     "name": "Arctic Mix Sour Citrus",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-08-23",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220823_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-08-23",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220823_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -64272,17 +64304,23 @@
     "name": "Arctic Mix Spice Fruit",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-08-23",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220823_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-08-23",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220823_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -64312,17 +64350,23 @@
     "name": "Arctic Mix Thai Land",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-08-23",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220823_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-08-23",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220823_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -64352,17 +64396,23 @@
     "name": "Arctic Mix Tropic Berry",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-08-23",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220823_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-08-23",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220823_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -64392,17 +64442,23 @@
     "name": "Arctic Mix Vanilla Fruit",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-08-23",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220823_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-08-23",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220823_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -64432,17 +64488,23 @@
     "name": "Arctic",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-08-23",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220823_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-08-23",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220823_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -64472,17 +64534,23 @@
     "name": "Banana Chocolate",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-09-09",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-09-09",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -64503,6 +64571,26 @@
         "priceYen": 1700,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230901_kouriteika2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SEBERO",
+    "name": "Banana Cream",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4450,
+    "country": "ロシア・モルドバ",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
+    "history": [
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -64532,17 +64620,23 @@
     "name": "Banana",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-09-09",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-09-09",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -64592,17 +64686,23 @@
     "name": "Basil Cucumber",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-09-09",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-09-09",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -64612,17 +64712,23 @@
     "name": "Berry Black",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2023-09-01",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230901_kouriteika2.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2023-09-01",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230901_kouriteika2.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -64643,6 +64749,26 @@
         "priceYen": 1700,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230901_kouriteika2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SEBERO",
+    "name": "Bilberry",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4450,
+    "country": "ロシア・モルドバ",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
+    "history": [
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -65439,17 +65565,43 @@
     "name": "Blueberry",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-09-09",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-09-09",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SEBERO",
+    "name": "Bubble Gum",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4450,
+    "country": "ロシア・モルドバ",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
+    "history": [
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -65470,6 +65622,26 @@
         "priceYen": 1700,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230901_kouriteika2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SEBERO",
+    "name": "Chocolate",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4450,
+    "country": "ロシア・モルドバ",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
+    "history": [
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -65499,17 +65671,23 @@
     "name": "Citrus Fizz",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2023-09-01",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230901_kouriteika2.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2023-09-01",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230901_kouriteika2.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -65537,18 +65715,25 @@
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
     "name": "Classic Bergamot",
+    "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア・モルドバ",
-    "updatedDate": "2024-09-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2024-09-24",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -65575,18 +65760,25 @@
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
     "name": "Classic Blackberry",
+    "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア・モルドバ",
-    "updatedDate": "2024-09-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2024-09-24",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -65613,18 +65805,25 @@
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
     "name": "Classic Cactus",
+    "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア・モルドバ",
-    "updatedDate": "2024-09-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2024-09-24",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -65651,18 +65850,25 @@
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
     "name": "Classic Cassis",
+    "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア・モルドバ",
-    "updatedDate": "2024-09-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2024-09-24",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -65689,18 +65895,25 @@
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
     "name": "Classic Coco Like",
+    "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア・モルドバ",
-    "updatedDate": "2025-08-28",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20250828_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2025-08-28",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20250828_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -65727,18 +65940,25 @@
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
     "name": "Classic Coffee",
+    "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア・モルドバ",
-    "updatedDate": "2025-08-28",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20250828_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2025-08-28",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20250828_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -65765,18 +65985,25 @@
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
     "name": "Classic Fruit Yogurt",
+    "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア・モルドバ",
-    "updatedDate": "2024-09-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2024-09-24",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -65803,18 +66030,25 @@
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
     "name": "Classic Halloween Pumpkin",
+    "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア・モルドバ",
-    "updatedDate": "2025-08-28",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20250828_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2025-08-28",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20250828_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -65841,18 +66075,25 @@
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
     "name": "Classic Honey Candy Chill",
+    "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "モルドバ",
-    "updatedDate": "2024-03-26",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240326_kouriteika_1.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2024-03-26",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240326_kouriteika_1.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -65879,18 +66120,25 @@
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
     "name": "Classic Milk",
+    "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア・モルドバ",
-    "updatedDate": "2024-09-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2024-09-24",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -65917,18 +66165,25 @@
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
     "name": "Classic Papaya",
+    "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア・モルドバ",
-    "updatedDate": "2024-09-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2024-09-24",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -65955,18 +66210,25 @@
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
     "name": "Classic Passion Fruit",
+    "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア・モルドバ",
-    "updatedDate": "2024-09-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2024-09-24",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -65993,18 +66255,25 @@
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
     "name": "Classic Tiramisu",
+    "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア・モルドバ",
-    "updatedDate": "2024-09-24",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2024-09-24",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240924_kouriteika_2.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -66031,18 +66300,25 @@
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
     "name": "Classic Tropic Rose",
+    "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "モルドバ",
-    "updatedDate": "2024-03-26",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240326_kouriteika_1.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2024-03-26",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20240326_kouriteika_1.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -66071,17 +66347,23 @@
     "name": "Cola",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-09-09",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-09-09",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -66091,17 +66373,23 @@
     "name": "Corn",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-09-09",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-09-09",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -66111,17 +66399,23 @@
     "name": "Feijoa",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2023-09-01",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230901_kouriteika2.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2023-09-01",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230901_kouriteika2.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -66151,17 +66445,23 @@
     "name": "Garnet Cherry",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-09-09",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-09-09",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -66182,6 +66482,26 @@
         "priceYen": 1700,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230901_kouriteika2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SEBERO",
+    "name": "Grapes",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4450,
+    "country": "ロシア・モルドバ",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
+    "history": [
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -66211,17 +66531,23 @@
     "name": "Green Apple",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-09-09",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-09-09",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -66231,17 +66557,23 @@
     "name": "Green Pear",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-09-09",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-09-09",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -66251,17 +66583,43 @@
     "name": "Guava Strawberry",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-09-09",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-09-09",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SEBERO",
+    "name": "Herbal Currant",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4450,
+    "country": "ロシア・モルドバ",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
+    "history": [
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -66308,20 +66666,106 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
+    "name": "Kiwi Fresh",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4450,
+    "country": "ロシア・モルドバ",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
+    "history": [
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SEBERO",
+    "name": "Limoncello",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4450,
+    "country": "ロシア・モルドバ",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
+    "history": [
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SEBERO",
+    "name": "Lychee",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4450,
+    "country": "ロシア・モルドバ",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
+    "history": [
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SEBERO",
+    "name": "Mango",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4450,
+    "country": "ロシア・モルドバ",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
+    "history": [
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SEBERO",
     "name": "Mint",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-09-09",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-09-09",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -66370,6 +66814,26 @@
     "manufacturer": "SEBERO",
     "name": "Orange",
     "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4450,
+    "country": "ロシア・モルドバ",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
+    "history": [
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SEBERO",
+    "name": "Orange",
+    "variant": "箱",
     "grams": "40.0g",
     "priceYen": 1700,
     "country": "ロシア",
@@ -66391,17 +66855,43 @@
     "name": "Pain Flower",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-09-09",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-09-09",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SEBERO",
+    "name": "Pineapple",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4450,
+    "country": "ロシア・モルドバ",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
+    "history": [
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -66431,17 +66921,23 @@
     "name": "Raspberries",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2023-09-01",
-    "source": "shinki",
-    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230901_kouriteika2.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2023-09-01",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230901_kouriteika2.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -66468,20 +66964,66 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
+    "name": "Red Apple",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4450,
+    "country": "ロシア・モルドバ",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
+    "history": [
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SEBERO",
     "name": "Spiced Tea",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-09-09",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-09-09",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SEBERO",
+    "name": "Strawberry",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4450,
+    "country": "ロシア・モルドバ",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
+    "history": [
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -66511,17 +67053,23 @@
     "name": "Thai",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-09-09",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-09-09",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -66548,20 +67096,66 @@
   {
     "category": "パイプたばこ",
     "manufacturer": "SEBERO",
+    "name": "Thyme",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4450,
+    "country": "ロシア・モルドバ",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
+    "history": [
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SEBERO",
     "name": "Tomato",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-09-09",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-09-09",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SEBERO",
+    "name": "Vanilla",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4450,
+    "country": "ロシア・モルドバ",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
+    "history": [
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -66582,6 +67176,26 @@
         "priceYen": 1700,
         "source": "shinki",
         "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20230901_kouriteika2.pdf"
+      }
+    ]
+  },
+  {
+    "category": "パイプたばこ",
+    "manufacturer": "SEBERO",
+    "name": "Waffle",
+    "variant": "箱",
+    "grams": "100.0g",
+    "priceYen": 4450,
+    "country": "ロシア・モルドバ",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
+    "history": [
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
@@ -66611,17 +67225,23 @@
     "name": "Wonder Melons",
     "variant": "箱",
     "grams": "100.0g",
-    "priceYen": 4200,
+    "priceYen": 4450,
     "country": "ロシア",
-    "updatedDate": "2022-09-09",
-    "source": "shinki",
-    "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf",
+    "updatedDate": "2026-11-19",
+    "source": "henkou",
+    "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf",
     "history": [
       {
         "date": "2022-09-09",
         "priceYen": 4200,
         "source": "shinki",
         "sourceUrl": "https://web.archive.org/web/20230101id_/https://www.mof.go.jp/policy/tab_salt/topics/20220909_kouriteika.pdf"
+      },
+      {
+        "date": "2026-11-19",
+        "priceYen": 4450,
+        "source": "henkou",
+        "sourceUrl": "https://www.mof.go.jp/policy/tab_salt/topics/20261119_kouriteikahenkou.pdf"
       }
     ]
   },
