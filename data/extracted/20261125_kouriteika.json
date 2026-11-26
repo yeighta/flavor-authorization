@@ -1,0 +1,89 @@
+{
+  "date": "2026-11-25",
+  "kind": "shinki",
+  "filename": "20261125_kouriteika.pdf",
+  "url": "https://www.mof.go.jp/policy/tab_salt/topics/20261125_kouriteika.pdf",
+  "products": [
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "",
+      "name": "ﾋﾟｰｽ･ﾌﾞﾗｯｸ･ﾊﾞｰｼﾞﾆｱ",
+      "variant": "FSK 20本 Tinﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 1000,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "",
+      "name": "ｷｬﾒﾙ･ｸﾗﾌﾄ･ﾌﾞﾗｯｸ･ﾒﾝｿｰﾙ･8･ﾎﾞｯｸｽ",
+      "variant": "FK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 470,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "",
+      "name": "ﾒﾋﾞｳｽ･ｲｰｽﾘﾑ･10･100's",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "",
+      "name": "ﾒﾋﾞｳｽ･ｲｰｽﾘﾑ･6･100's",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "",
+      "name": "ﾒﾋﾞｳｽ･ｲｰｽﾘﾑ･3･100's",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "",
+      "name": "ﾒﾋﾞｳｽ･ｲｰｽﾘﾑ･ﾜﾝ･100's",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "",
+      "name": "ﾒﾋﾞｳｽ･ｲｰｽﾘﾑ･ﾒﾝｿｰﾙ･ｵﾌﾟｼｮﾝ･ﾊﾟｰﾌﾟﾙ･5･100's",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "",
+      "name": "ﾒﾋﾞｳｽ･ｲｰｽﾘﾑ･ﾒﾝｿｰﾙ･ｵﾌﾟｼｮﾝ･ﾊﾟｰﾌﾟﾙ･ﾜﾝ･100's",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    },
+    {
+      "category": "紙巻たばこ",
+      "manufacturer": "",
+      "name": "ﾒﾋﾞｳｽ･ｲｰｽﾘﾑ･ｱｲｽﾄｰﾑ･ﾜﾝ･100's",
+      "variant": "FSK 20本 ﾊｰﾄﾞﾊﾟｯｸ",
+      "grams": "",
+      "priceYen": 500,
+      "country": "日本"
+    }
+  ]
+}
